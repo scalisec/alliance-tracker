@@ -193,10 +193,10 @@ async function full() {
   // 1) Standings + schedules for every division first, so they never run out of budget.
   const fresh = [];
   for (const div of scored) fresh.push([div, (await refreshDivision(div, { fullSeason: true })).games]);
-  // MD normally updates weekly; fill it in now if it has no data yet.
+  // MD normally updates weekly; fill it in now if it has under two months of games.
   for (const div of DIVISIONS.filter((d) => d.refresh === 'weekly')) {
-    const have = await readJson(path.join(DATA, 'games', `${div.id}.json`), null);
-    if (!have?.length) await refreshDivision(div, { withStandings: false, fullSeason: true });
+    const have = await readJson(path.join(DATA, 'games', `${div.id}.json`), []);
+    if (new Set(have.map((g) => g.start?.slice(0, 7))).size < 2) await refreshDivision(div, { withStandings: false, fullSeason: true });
   }
   // 2) Then a few GameSheet links per division for the last week's games.
   //    (Live runs pick these up on game days; the app falls back to Alliance's game page.)
