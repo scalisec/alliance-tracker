@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { ago } from '../data.js';
 import { useSaved, useTheme } from '../store.js';
 import { BrandMark, Icon, Sheet } from '../ui.jsx';
+import InstallCard from './InstallCard.jsx';
 
 export default function Settings({ ctx, onClose, onRefresh }) {
   const [theme, setTheme] = useTheme();
@@ -24,6 +25,9 @@ export default function Settings({ ctx, onClose, onRefresh }) {
         <h2>Settings</h2>
         <button className="icon-btn" aria-label="Close" onClick={onClose}><Icon.x /></button>
       </div>
+
+      <div className="section-label">Install</div>
+      <InstallCard />
 
       <div className="section-label">Appearance</div>
       <div className="card set">
