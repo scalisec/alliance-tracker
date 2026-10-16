@@ -54,8 +54,9 @@ async function refreshDivision(div, { withStandings = true, fullSeason = false }
   let groups = null;
   if (withStandings && div.scored) {
     const stHtml = await fetchText(alliance.urls.standings(div.id));
-    groups = stHtml ? alliance.parseStandings(stHtml) : [];
-    await writeJson(standingsFile, { divisionId: div.id, updatedAt: new Date().toISOString(), regular: groups, playoffs: null });
+    const st = stHtml ? alliance.parseStandings(stHtml) : { regular: [], playoffs: [] };
+    groups = [...st.regular, ...st.playoffs];
+    await writeJson(standingsFile, { divisionId: div.id, updatedAt: new Date().toISOString(), regular: st.regular, playoffs: st.playoffs.length ? st.playoffs : null });
   }
 
   // Other months from TheOneDB (nightly/weekly); current month from Alliance (every run).

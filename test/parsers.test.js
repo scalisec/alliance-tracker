@@ -11,8 +11,8 @@ const has = (f) => fs.existsSync(fx(f));
 const read = (f) => fs.readFileSync(fx(f), 'utf8');
 
 test('standings: U13 BB table parses with sensible numbers', { skip: !has('alliance-standings-2721.html') }, () => {
-  const groups = alliance.parseStandings(read('alliance-standings-2721.html'));
-  const rows = groups.flatMap((g) => g.rows);
+  const { regular } = alliance.parseStandings(read('alliance-standings-2721.html'));
+  const rows = regular.flatMap((g) => g.rows);
   assert.ok(rows.length >= 8, `expected 8+ teams, got ${rows.length}`);
   for (const r of rows) {
     assert.ok(r.team.length > 2);
@@ -63,4 +63,17 @@ test('theonedb: month table matches Alliance exactly', { skip: !has('theonedb-sc
 test('theonedb: another month parses', { skip: !has('theonedb-schedule-u13bb-nov.html') }, () => {
   const t = theonedb.parseScheduleTable(read('theonedb-schedule-u13bb-nov.html'), 2721);
   assert.ok(t.length > 0 && t.every((g) => g.start?.startsWith('2026-11')), 'November games expected');
+});
+
+test('standings: rounds and group names (U10 AAA)', { skip: !has('alliance-standings-2710-u10aaa.html') }, () => {
+  const st = alliance.parseStandings(read('alliance-standings-2710-u10aaa.html'));
+  assert.deepEqual(st.regular.map((g) => g.name), ['East Division', 'West Division']);
+  assert.deepEqual(st.playoffs.map((g) => g.name), ['Playdowns · East Division', 'Playdowns · West Division']);
+});
+
+test('standings: single group has no label (U13 BB)', { skip: !has('alliance-standings-2721.html') }, () => {
+  const st = alliance.parseStandings(read('alliance-standings-2721.html'));
+  assert.equal(st.regular.length, 1);
+  assert.equal(st.regular[0].name, '');
+  assert.equal(st.playoffs.length, 0);
 });

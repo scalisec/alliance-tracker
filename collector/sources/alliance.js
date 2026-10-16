@@ -31,45 +31,74 @@ const COLS = {
 
 export function parseStandings(html) {
   const $ = cheerio.load(html);
-  const groups = [];
-  $('table').each((_, table) => {
-    const headers = $(table).find('tr').first().find('th,td')
-      .map((__, c) => clean($(c).text()).toLowerCase()).get();
-    if (!headers.includes('gp') || !headers.includes('pts')) return;
-    const idx = {};
-    for (const [key, names] of Object.entries(COLS)) {
-      const i = headers.findIndex((h) => names.includes(h));
-      if (i >= 0) idx[key] = i;
+  // Page layout: .heading-1-wrapper = round ("Under 10 AAA Regular Season",
+  // "... Playdowns", "... Playoffs"); .heading-4-wrapper or .M.spaced = group
+  // ("East Division" + a date range); then table.standings.
+  const rounds = [];
+  let round = null, groupName = '';
+  $('.heading-1-wrapper, .heading-4-wrapper, .M.spaced, table').each((_, el) => {
+    const $el = $(el);
+    if ($el.is('table')) {
+      const rows = parseStandingsTable($, el);
+      if (!rows) return;
+      if (!round) { round = { name: 'Regular Season', groups: [] }; rounds.push(round); }
+      round.groups.push({ name: groupName, rows });
+      groupName = '';
+      return;
     }
-    if (idx.team == null) idx.team = headers.findIndex((h) => h === '' || h.includes('team'));
-
-    const rows = [];
-    $(table).find('tr').slice(1).each((__, tr) => {
-      // The team cell is a <th>; the stat cells are <td>.
-      const cells = $(tr).children('th,td');
-      if (cells.length < 5) return;
-      const teamCell = cells.eq(idx.team ?? 0);
-      const link = teamCell.find('a').attr('href') ?? '';
-      const oneDbId = link.match(/Teams\/(\d+)/i)?.[1] ?? null;
-      const bg = teamCell.find('[style*="background-image"]').attr('style') ?? '';
-      const logoUrl = bg.match(/url\(['"]?([^'")]+)['"]?\)/)?.[1] ?? null;
-      const get = (k) => (idx[k] != null ? clean(cells.eq(idx[k]).text()) : '');
-      rows.push({
-        team: clean(teamCell.text()),
-        teamId: oneDbId ? `odb-${oneDbId}` : null,
-        logo: logoUrl ? (logoUrl.startsWith('//') ? `https:${logoUrl}` : logoUrl) : null,
-        gp: num(get('gp')), w: num(get('w')), l: num(get('l')), t: num(get('t')),
-        pts: num(get('pts')), gf: num(get('gf')), ga: num(get('ga')),
-        diff: idx.diff != null ? num(get('diff')) : num(get('gf')) - num(get('ga')),
-        l10: get('l10') || null, strk: get('strk') || null,
-      });
-    });
-    if (!rows.length) return;
-    // A heading just before the table (e.g. "East", "West") names the group.
-    const heading = clean($(table).prevAll('h1,h2,h3,h4,h5,.title,caption').first().text());
-    groups.push({ name: heading && heading.length < 40 ? heading : '', rows });
+    const text = clean($el.text());
+    if ($el.hasClass('heading-1-wrapper')) {
+      // "Under 13 BB Regular Season" -> "Regular Season"
+      round = { name: text.replace(/^Under \d+\s+\S+\s*/i, '') || text, groups: [] };
+      rounds.push(round);
+    } else {
+      // "East DivisionOct 02, 2026-Feb 14, 2027" -> "East Division"
+      groupName = text.replace(/\s*(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\w* \d{1,2}, \d{4}.*$/, '').trim();
+    }
   });
-  return groups;
+  const withGroups = rounds.filter((r) => r.groups.length);
+  // A lone group's name (e.g. "BB-B") adds nothing; drop it.
+  for (const r of withGroups) if (r.groups.length === 1) r.groups[0].name = '';
+  const isRegular = (r) => /regular/i.test(r.name);
+  const regular = withGroups.filter(isRegular).flatMap((r) => r.groups);
+  const playoffs = withGroups.filter((r) => !isRegular(r)).flatMap((r) =>
+    r.groups.map((g) => ({ ...g, name: [r.name, g.name].filter(Boolean).join(' · ') })));
+  // Pages without round headings: everything counts as regular season.
+  return { regular: regular.length || playoffs.length ? regular : [], playoffs };
+}
+
+function parseStandingsTable($, table) {
+  const headers = $(table).find('tr').first().find('th,td')
+    .map((__, c) => clean($(c).text()).toLowerCase()).get();
+  if (!headers.includes('gp') || !headers.includes('pts')) return null;
+  const idx = {};
+  for (const [key, names] of Object.entries(COLS)) {
+    const i = headers.findIndex((h) => names.includes(h));
+    if (i >= 0) idx[key] = i;
+  }
+  if (idx.team == null) idx.team = 0;
+  const rows = [];
+  $(table).find('tr').slice(1).each((__, tr) => {
+    // The team cell is a <th>; the stat cells are <td>.
+    const cells = $(tr).children('th,td');
+    if (cells.length < 5) return;
+    const teamCell = cells.eq(idx.team);
+    const link = teamCell.find('a').attr('href') ?? '';
+    const oneDbId = link.match(/Teams\/(\d+)/i)?.[1] ?? null;
+    const bg = teamCell.find('[style*="background-image"]').attr('style') ?? '';
+    const logoUrl = bg.match(/url\(['"]?([^'")]+)['"]?\)/)?.[1] ?? null;
+    const get = (k) => (idx[k] != null ? clean(cells.eq(idx[k]).text()) : '');
+    rows.push({
+      team: clean(teamCell.text()),
+      teamId: oneDbId ? `odb-${oneDbId}` : null,
+      logo: logoUrl ? (logoUrl.startsWith('//') ? `https:${logoUrl}` : logoUrl) : null,
+      gp: num(get('gp')), w: num(get('w')), l: num(get('l')), t: num(get('t')),
+      pts: num(get('pts')), gf: num(get('gf')), ga: num(get('ga')),
+      diff: idx.diff != null ? num(get('diff')) : num(get('gf')) - num(get('ga')),
+      l10: get('l10') || null, strk: get('strk') || null,
+    });
+  });
+  return rows.length ? rows : null;
 }
 
 // ---------- Schedule ----------
