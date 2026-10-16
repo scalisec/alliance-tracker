@@ -4,6 +4,8 @@
 
 export const SEASON = '2026-27';
 export const LEAGUE_ID = 1356; // Representative League
+// Any TheOneDB team in the league; its page links every division. (Waterloo Wolves U13 BB)
+export const ONEDB_SEED_TEAM = 97224;
 
 // GameSheet season IDs by tier (found on Alliance game pages).
 // AAA and MD are filled in automatically by the collector when it first

@@ -43,8 +43,24 @@ test('theonedb: team page links to the division full schedule', { skip: !has('th
   assert.match(theonedb.findGroupSchedulePath(read('theonedb-team-97224.html')), /^\/Groups\/\d+\/.+\/Schedule$/);
 });
 
-test('theonedb: full season schedule parses', { skip: !has('theonedb-schedule-u13bb.html') }, () => {
-  const games = alliance.parseSchedule(read('theonedb-schedule-u13bb.html'), 2721, { anyGroup: true });
-  assert.ok(games.length > 51, `expected more than one month of games, got ${games.length}`);
-  assert.ok(games.filter((g) => g.start && g.home && g.away).length / games.length > 0.9);
+test('theonedb: menu links all 26 divisions', { skip: !has('theonedb-team-97224.html') }, () => {
+  const menu = theonedb.parseGroupMenu(read('theonedb-team-97224.html'));
+  assert.equal(Object.keys(menu).length, 26);
+  assert.ok(menu['U8 MD'] && menu['U18 AAA']);
+});
+
+test('theonedb: month table matches Alliance exactly', { skip: !has('theonedb-schedule-u13bb.html') }, () => {
+  const t = theonedb.parseScheduleTable(read('theonedb-schedule-u13bb.html'), 2721);
+  const a = new Map(alliance.parseSchedule(read('alliance-schedule-2721.html'), 2721).map((g) => [g.id, g]));
+  assert.ok(t.length > 0);
+  for (const g of t) {
+    const x = a.get(g.id);
+    assert.ok(x, `game ${g.id} missing on Alliance`);
+    assert.deepEqual([g.start, g.away, g.home, g.awayScore, g.homeScore], [x.start, x.away, x.home, x.awayScore, x.homeScore]);
+  }
+});
+
+test('theonedb: another month parses', { skip: !has('theonedb-schedule-u13bb-nov.html') }, () => {
+  const t = theonedb.parseScheduleTable(read('theonedb-schedule-u13bb-nov.html'), 2721);
+  assert.ok(t.length > 0 && t.every((g) => g.start?.startsWith('2026-11')), 'November games expected');
 });

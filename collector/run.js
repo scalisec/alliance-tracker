@@ -6,7 +6,7 @@
 //   node collector/run.js capture  save raw HTML samples to fixtures/ (parser checks)
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { DIVISIONS, SEASON, GAMESHEET_SEASONS, GAME_FINAL_AFTER_MIN, GAME_RECHECK_HOURS } from './config.js';
+import { DIVISIONS, SEASON, ONEDB_SEED_TEAM, GAMESHEET_SEASONS, GAME_FINAL_AFTER_MIN, GAME_RECHECK_HOURS } from './config.js';
 import { fetchText, fetchBinary, stats } from './fetcher.js';
 import * as alliance from './sources/alliance.js';
 import * as theonedb from './sources/theonedb.js';
@@ -58,16 +58,20 @@ async function refreshDivision(div, { withStandings = true, fullSeason = false }
     await writeJson(standingsFile, { divisionId: div.id, updatedAt: new Date().toISOString(), regular: groups, playoffs: null });
   }
 
-  // Whole season from TheOneDB (nightly), current month from Alliance (every run).
+  // Other months from TheOneDB (nightly/weekly); current month from Alliance (every run).
   let seasonCount = 0;
   if (fullSeason) {
-    const schedPath = await onedbSchedulePath(div, groups);
-    if (schedPath) {
-      const html = await fetchText(theonedb.BASE + schedPath);
-      const list = html ? alliance.parseSchedule(html, div.id, { anyGroup: true }) : [];
-      seasonCount = list.length;
-      merge(list);
-    }
+    const groupPath = (await onedbGroups(groups))[div.name];
+    if (groupPath) {
+      const haveMonth = new Set([...byId.values()].map((g) => g.start?.slice(0, 7)));
+      for (const [y, m] of seasonMonthsToFetch(haveMonth)) {
+        if (!budgetLeft()) break;
+        const html = await fetchText(theonedb.monthUrl(groupPath, y, m));
+        const list = html ? theonedb.parseScheduleTable(html, div.id) : [];
+        seasonCount += list.length;
+        merge(list);
+      }
+    } else log(`div ${div.name}: no TheOneDB link found`);
   }
   const schedHtml = await fetchText(alliance.urls.schedule(div.id));
   const parsed = schedHtml ? alliance.parseSchedule(schedHtml, div.id) : [];
@@ -83,17 +87,35 @@ async function refreshDivision(div, { withStandings = true, fullSeason = false }
   return { games, groups };
 }
 
-// Division -> TheOneDB Full Schedule path, found once via any team page and cached.
-async function onedbSchedulePath(div, groups) {
+// Division name -> TheOneDB group path. One team page links every division,
+// so this is fetched once and cached.
+async function onedbGroups(groups) {
   const file = path.join(DATA, 'onedb-groups.json');
   const map = await readJson(file, {});
-  if (map[div.id]) return map[div.id];
-  let teamId = groups?.flatMap((g) => g.rows).find((r) => r.teamId)?.teamId?.replace('odb-', '');
-  if (!teamId) return null;
+  if (DIVISIONS.every((d) => map[d.name])) return map;
+  const teamId = groups?.flatMap((g) => g.rows).find((r) => r.teamId)?.teamId?.replace('odb-', '') ?? ONEDB_SEED_TEAM;
   const html = await fetchText(theonedb.teamUrl(teamId));
-  const p = html ? theonedb.findGroupSchedulePath(html) : null;
-  if (p) { map[div.id] = p; await writeJson(file, map); }
-  return p;
+  Object.assign(map, html ? theonedb.parseGroupMenu(html) : {});
+  await writeJson(file, map);
+  return map;
+}
+
+// Season runs September to March. Past months are fetched once (until we have
+// games for them); the current and future months every time, since schedules change.
+// The current month also comes from Alliance on every run.
+function seasonMonthsToFetch(haveMonth) {
+  const start = Number(SEASON.slice(0, 4));
+  const now = new Date();
+  const cur = now.getUTCFullYear() * 12 + now.getUTCMonth();
+  const out = [];
+  for (let i = 0; i < 7; i++) {
+    const y = start + Math.floor((8 + i) / 12), m = ((8 + i) % 12) + 1;
+    const idx = y * 12 + (m - 1);
+    const key = `${y}-${String(m).padStart(2, '0')}`;
+    if (idx < cur && haveMonth.has(key)) continue;
+    out.push([y, m]);
+  }
+  return out;
 }
 
 // Look up the GameSheet box-score link for recently finished games (one Alliance
@@ -170,6 +192,11 @@ async function full() {
     const { games } = await refreshDivision(div, { fullSeason: true });
     await refreshGameLinks(div, games, now, { maxAgeDays: 7 });
   }
+  // MD normally updates weekly; fill it in now if it has no data yet.
+  for (const div of DIVISIONS.filter((d) => d.refresh === 'weekly')) {
+    const have = await readJson(path.join(DATA, 'games', `${div.id}.json`), null);
+    if (!have?.length) await refreshDivision(div, { withStandings: false, fullSeason: true });
+  }
 }
 
 async function live() {
@@ -232,6 +259,8 @@ async function capture() {
   const team = await save('theonedb-team-97224.html', theonedb.teamUrl(97224));
   const gp = team ? theonedb.findGroupSchedulePath(team) : null;
   if (gp) await save('theonedb-schedule-u13bb.html', theonedb.BASE + gp);
+  const menu = team ? theonedb.parseGroupMenu(team) : {};
+  if (menu['U13 BB']) await save('theonedb-schedule-u13bb-nov.html', theonedb.monthUrl(menu['U13 BB'], 2026, 11));
   if (sched) {
     const parsed = alliance.parseSchedule(sched, 2721);
     report.push(`schedule parser: ${parsed.length} games; first: ${JSON.stringify(parsed[0] ?? null)}`);

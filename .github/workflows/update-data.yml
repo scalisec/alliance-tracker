@@ -50,7 +50,7 @@ jobs:
       - name: Collect (${{ steps.mode.outputs.mode }})
         run: node collector/run.js ${{ steps.mode.outputs.mode }}
         env:
-          MAX_REQUESTS: ${{ steps.mode.outputs.mode == 'full' && '240' || '80' }}
+          MAX_REQUESTS: ${{ steps.mode.outputs.mode == 'full' && '420' || '80' }}
       - name: Rebuild icons from Alliance logo
         run: node scripts/make-icons.js
       - name: Commit data if changed
@@ -63,7 +63,8 @@ jobs:
             echo "changed=false" >> $GITHUB_OUTPUT
           else
             git commit -m "data: ${{ steps.mode.outputs.mode }} update"
-            git push
+            # Another job (e.g. a capture) may have pushed meanwhile: rebase and retry.
+            for i in 1 2 3; do git pull --rebase origin main && git push && break; sleep 5; done
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
 
