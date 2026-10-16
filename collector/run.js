@@ -191,22 +191,33 @@ async function weekly() {
 async function capture() {
   const dir = path.join(ROOT, 'fixtures');
   await fs.mkdir(dir, { recursive: true });
+  const report = [];
   const save = async (name, url) => {
-    const html = await fetchText(url);
-    if (html) await fs.writeFile(path.join(dir, name), html);
-    log('captured', name, html ? `${html.length} bytes` : 'missing');
-    return html;
+    try {
+      const html = await fetchText(url);
+      if (html) await fs.writeFile(path.join(dir, name), html);
+      const line = `OK   ${name}  ${html ? html.length + ' bytes' : '404'}  ${url}`;
+      report.push(line); log(line);
+      return html;
+    } catch (e) {
+      const line = `FAIL ${name}  ${url}\n     ${e.message}`;
+      report.push(line); log(line);
+      return null;
+    }
   };
+  await save('alliance-robots.txt', 'https://alliancehockey.com/robots.txt');
   await save('alliance-standings-2721.html', alliance.urls.standings(2721));
   const sched = await save('alliance-schedule-2721.html', alliance.urls.schedule(2721));
   await save('alliance-calendar-2721.html', alliance.urls.calendar(2721));
   await save('alliance-schedule-2735-md.html', alliance.urls.schedule(2735));
   await save('alliance-game-2379380.html', alliance.urls.game(2715, 2379380));
   await save('gamesheet-game-3074969.html', gamesheet.gameUrl(15449, 3074969));
+  await save('theonedb-team-97224.html', 'https://www.theonedb.com/Teams/97224/');
   if (sched) {
     const parsed = alliance.parseSchedule(sched, 2721);
-    log(`schedule parser found ${parsed.length} games; first:`, JSON.stringify(parsed[0] ?? null));
+    report.push(`schedule parser: ${parsed.length} games; first: ${JSON.stringify(parsed[0] ?? null)}`);
   }
+  await fs.writeFile(path.join(dir, 'capture-report.txt'), report.join('\n') + '\n');
 }
 
 const mode = process.argv[2] ?? 'live';
@@ -216,7 +227,11 @@ log(`mode=${mode}`);
 
 // First real run: clear the preview sample data so it never mixes with real data.
 const prevMeta = await readJson(path.join(DATA, 'meta.json'), {});
-if (prevMeta.sample && mode !== 'capture') {
+if (prevMeta.sample && (mode === 'live' || mode === 'weekly')) {
+  log('Sample data still in place; waiting for the first full sync. Nothing to do.');
+  process.exit(0);
+}
+if (prevMeta.sample && mode === 'full') {
   for (const d of ['games', 'standings', 'detail']) await fs.rm(path.join(DATA, d), { recursive: true, force: true });
   await fs.rm(path.join(DATA, 'teams.json'), { force: true });
   log('cleared sample data');

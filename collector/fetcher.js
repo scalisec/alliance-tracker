@@ -40,11 +40,18 @@ export async function fetchText(url, { delayMs } = {}) {
       });
       clearTimeout(t);
       if (res.status === 404) return null;
-      if (res.status === 429 || res.status >= 500) throw new Error(`HTTP ${res.status}`);
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      if (!res.ok) {
+        const body = (await res.text().catch(() => '')).replace(/\s+/g, ' ').slice(0, 300);
+        const err = new Error(`HTTP ${res.status} (server: ${res.headers.get('server') ?? '?'}; cf-mitigated: ${res.headers.get('cf-mitigated') ?? 'no'}) ${body}`);
+        err.status = res.status;
+        // A block page won't change on retry; stop early.
+        if (res.status === 403) throw Object.assign(err, { fatal: true });
+        throw err;
+      }
       return await res.text();
     } catch (err) {
       lastErr = err;
+      if (err.fatal) break;
       await sleep(delayMs * (attempt + 1));
     }
   }

@@ -18,6 +18,8 @@ jobs:
         with: { node-version: 22, cache: npm }
       - run: npm ci
       - run: node collector/run.js capture
+      - name: Show capture report
+        run: cat fixtures/capture-report.txt
       - name: Check parsers against captured pages
         run: npm test || echo "::warning::Some parser checks failed - see log"
       - name: Commit fixtures
