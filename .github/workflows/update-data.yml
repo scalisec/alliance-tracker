@@ -1,0 +1,87 @@
+name: Update data and publish
+
+# Times are UTC. Toronto is UTC-4 until Nov 1, then UTC-5; the windows below
+# cover both. Live runs exit early (no page reads) when no games are due.
+on:
+  schedule:
+    - cron: '15 8 * * *'          # nightly full sync (~3-4 AM Toronto)
+    - cron: '35 9 * * 1'          # weekly: MD schedules + MHR ratings (Mon)
+    - cron: '7-59/20 11-23 * * 0,6' # weekends, daytime: every 20 min
+    - cron: '7-59/20 0-4 * * 0,1'   # weekend evenings (Sat/Sun night Toronto)
+    - cron: '11-59/30 21-23 * * 1-5' # weekday evenings: every 30 min
+    - cron: '11-59/30 0-4 * * 2-6'   # weekday evenings, after midnight UTC
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Collector mode'
+        type: choice
+        options: [live, full, weekly]
+        default: full
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - name: Pick mode
+        id: mode
+        run: |
+          case "${{ github.event.schedule }}" in
+            "15 8 * * *") echo "mode=full" >> $GITHUB_OUTPUT ;;
+            "35 9 * * 1") echo "mode=weekly" >> $GITHUB_OUTPUT ;;
+            "") echo "mode=${{ inputs.mode || 'full' }}" >> $GITHUB_OUTPUT ;;
+            *) echo "mode=live" >> $GITHUB_OUTPUT ;;
+          esac
+      - name: Collect (${{ steps.mode.outputs.mode }})
+        run: node collector/run.js ${{ steps.mode.outputs.mode }}
+        env:
+          MAX_REQUESTS: ${{ steps.mode.outputs.mode == 'full' && '240' || '80' }}
+      - name: Rebuild icons from Alliance logo
+        run: node scripts/make-icons.js
+      - name: Commit data if changed
+        id: commit
+        run: |
+          git config user.name "alliance-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/data public/assets public/icons
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            git commit -m "data: ${{ steps.mode.outputs.mode }} update"
+            git push
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+  deploy:
+    needs: collect
+    if: needs.collect.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci && npm run build
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: dist }
+      - id: deploy
+        uses: actions/deploy-pages@v4

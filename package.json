@@ -1,0 +1,29 @@
+{
+  "name": "alliance-tracker",
+  "version": "1.0.0",
+  "description": "Unofficial standings, scores and schedules for ALLIANCE Hockey rep divisions",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "sample": "node scripts/make-sample-data.js",
+    "collect:full": "node collector/run.js full",
+    "collect:live": "node collector/run.js live",
+    "collect:weekly": "node collector/run.js weekly",
+    "capture": "node collector/run.js capture",
+    "test": "node --test test/parsers.test.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.7.0",
+    "cheerio": "^1.2.0",
+    "sharp": "^0.33.5",
+    "vite": "^5.4.21"
+  },
+  "type": "module",
+  "private": true
+}

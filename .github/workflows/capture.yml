@@ -1,0 +1,28 @@
+name: Capture sample pages (parser check)
+
+# Run once by hand. Saves a few raw pages from alliancehockey.com and
+# GameSheet into fixtures/ so the parsers can be checked against real HTML.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - run: node collector/run.js capture
+      - name: Check parsers against captured pages
+        run: npm test || echo "::warning::Some parser checks failed - see log"
+      - name: Commit fixtures
+        run: |
+          git config user.name "alliance-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add fixtures
+          git diff --cached --quiet || (git commit -m "fixtures: capture sample pages" && git push)

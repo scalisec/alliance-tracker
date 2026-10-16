@@ -1,0 +1,61 @@
+// Polite HTTP fetcher: one request at a time per host, a fixed delay between
+// requests, retries with backoff, and a guard against query-string URLs on
+// alliancehockey.com (its robots.txt disallows them).
+import { FETCH } from './config.js';
+
+const lastHit = new Map();
+let requestCount = 0;
+
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+export function assertAllowed(url) {
+  const u = new URL(url);
+  if (u.hostname.endsWith('alliancehockey.com') && u.search) {
+    throw new Error(`Refusing query-string URL on alliancehockey.com: ${url}`);
+  }
+  if (u.hostname.endsWith('gamesheetstats.com') && u.pathname.startsWith('/api/')) {
+    throw new Error(`Refusing GameSheet API path (disallowed by robots.txt): ${url}`);
+  }
+}
+
+export async function fetchText(url, { delayMs } = {}) {
+  assertAllowed(url);
+  const host = new URL(url).hostname;
+  // alliancehockey.com asks for 10s; other sites get a gentler 3s default.
+  delayMs ??= host.endsWith('alliancehockey.com') ? FETCH.delayMs : 3000;
+  const wait = (lastHit.get(host) ?? 0) + delayMs - Date.now();
+  if (wait > 0) await sleep(wait);
+
+  let lastErr;
+  for (let attempt = 0; attempt <= FETCH.retries; attempt++) {
+    lastHit.set(host, Date.now());
+    requestCount++;
+    try {
+      const ctrl = new AbortController();
+      const t = setTimeout(() => ctrl.abort(), FETCH.timeoutMs);
+      const res = await fetch(url, {
+        headers: { 'User-Agent': FETCH.userAgent, Accept: 'text/html,*/*' },
+        signal: ctrl.signal,
+        redirect: 'follow',
+      });
+      clearTimeout(t);
+      if (res.status === 404) return null;
+      if (res.status === 429 || res.status >= 500) throw new Error(`HTTP ${res.status}`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      return await res.text();
+    } catch (err) {
+      lastErr = err;
+      await sleep(delayMs * (attempt + 1));
+    }
+  }
+  throw new Error(`Failed ${url}: ${lastErr?.message}`);
+}
+
+export async function fetchBinary(url) {
+  assertAllowed(url);
+  const res = await fetch(url, { headers: { 'User-Agent': FETCH.userAgent } });
+  if (!res.ok) return null;
+  return Buffer.from(await res.arrayBuffer());
+}
+
+export const stats = () => ({ requests: requestCount });
