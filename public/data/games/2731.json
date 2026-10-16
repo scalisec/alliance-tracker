@@ -117,7 +117,10 @@
   "code": "U18P77",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-10-09/20:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3055773
+  }
  },
  {
   "id": 2373378,
@@ -132,7 +135,10 @@
   "code": "U18P23",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4434/2026-10-09/20:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3055774
+  }
  },
  {
   "id": 2373299,
@@ -147,7 +153,10 @@
   "code": "U18P67",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-10-10/18:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3057516
+  }
  },
  {
   "id": 2373351,
