@@ -50,7 +50,7 @@ jobs:
       - name: Collect (${{ steps.mode.outputs.mode }})
         run: node collector/run.js ${{ steps.mode.outputs.mode }}
         env:
-          MAX_REQUESTS: ${{ steps.mode.outputs.mode == 'full' && '420' || '80' }}
+          MAX_REQUESTS: ${{ steps.mode.outputs.mode == 'full' && '700' || '80' }}
       - name: Rebuild icons from Alliance logo
         run: node scripts/make-icons.js
       - name: Commit data if changed

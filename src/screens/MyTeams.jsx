@@ -2,6 +2,7 @@ import { useJson, ago } from '../data.js';
 import { useSaved } from '../store.js';
 import { BrandMark, Empty, GameCard, Icon, TeamLogo, Top } from '../ui.jsx';
 import { go } from '../App.jsx';
+import { activeGroups } from '../standings.js';
 
 export default function MyTeams({ ctx }) {
   const { saved } = useSaved();
@@ -36,8 +37,9 @@ function TeamCard({ team, ctx }) {
   const { data: games } = useJson(`games/${team.divisionId}.json`, [ctx.tick]);
 
   let row = null, rank = null, groupName = '';
-  standings?.regular?.forEach((g) => g.rows.forEach((r, i) => {
-    if (r.team === team.name) { row = r; rank = i + 1; groupName = g.name; }
+  // A team can appear in more than one round; use the one with the most games played.
+  activeGroups(standings?.regular).forEach((g) => g.rows.forEach((r, i) => {
+    if (r.team === team.name && (!row || r.gp > row.gp)) { row = r; rank = i + 1; groupName = g.name; }
   }));
 
   const mine = (g) => g.home === team.name || g.away === team.name;

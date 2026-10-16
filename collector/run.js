@@ -120,12 +120,13 @@ function seasonMonthsToFetch(haveMonth) {
 
 // Look up the GameSheet box-score link for recently finished games (one Alliance
 // page each). GameSheet itself blocks automated reads, so the app links out.
-async function refreshGameLinks(div, games, now, { maxAgeDays = 3 } = {}) {
-  let changed = false;
+async function refreshGameLinks(div, games, now, { maxAgeDays = 3, maxLookups = Infinity } = {}) {
+  let changed = false, lookups = 0;
   for (const g of [...games].reverse()) {
-    if (!budgetLeft()) break;
+    if (!budgetLeft() || lookups >= maxLookups) break;
     if (g.status !== 'final' || !g.start || g.gamesheet) continue;
     if ((now - Date.parse(g.start)) / 864e5 > maxAgeDays) continue;
+    lookups++;
     const html = await fetchText(alliance.urls.game(div.id, g.id));
     if (!html) continue;
     const info = alliance.parseGamePage(html);
@@ -188,15 +189,18 @@ const torontoDay = (d) => new Intl.DateTimeFormat('en-CA', { timeZone: 'America/
 async function full() {
   await ensureLogo();
   const now = Date.now();
-  for (const div of DIVISIONS.filter((d) => d.refresh === 'live')) {
-    const { games } = await refreshDivision(div, { fullSeason: true });
-    await refreshGameLinks(div, games, now, { maxAgeDays: 7 });
-  }
+  const scored = DIVISIONS.filter((d) => d.refresh === 'live');
+  // 1) Standings + schedules for every division first, so they never run out of budget.
+  const fresh = [];
+  for (const div of scored) fresh.push([div, (await refreshDivision(div, { fullSeason: true })).games]);
   // MD normally updates weekly; fill it in now if it has no data yet.
   for (const div of DIVISIONS.filter((d) => d.refresh === 'weekly')) {
     const have = await readJson(path.join(DATA, 'games', `${div.id}.json`), null);
     if (!have?.length) await refreshDivision(div, { withStandings: false, fullSeason: true });
   }
+  // 2) Then a few GameSheet links per division for the last week's games.
+  //    (Live runs pick these up on game days; the app falls back to Alliance's game page.)
+  for (const [div, games] of fresh) await refreshGameLinks(div, games, now, { maxAgeDays: 7, maxLookups: 3 });
 }
 
 async function live() {
@@ -253,6 +257,8 @@ async function capture() {
   };
   await save('alliance-robots.txt', 'https://alliancehockey.com/robots.txt');
   await save('alliance-standings-2721.html', alliance.urls.standings(2721));
+  await save('alliance-standings-2710-u10aaa.html', alliance.urls.standings(2710));
+  await save('alliance-standings-2712-u10bb.html', alliance.urls.standings(2712));
   const sched = await save('alliance-schedule-2721.html', alliance.urls.schedule(2721));
   await save('alliance-schedule-2735-md.html', alliance.urls.schedule(2735));
   await save('alliance-game-2379380.html', alliance.urls.game(2715, 2379380));

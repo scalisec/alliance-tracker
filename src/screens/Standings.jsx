@@ -4,6 +4,7 @@ import { useSaved } from '../store.js';
 import { Empty, Icon, Seg, TeamLogo, Top } from '../ui.jsx';
 import DivisionPicker from './DivisionPicker.jsx';
 import { go } from '../App.jsx';
+import { activeGroups } from '../standings.js';
 
 export default function Standings({ ctx }) {
   const [phase, setPhase] = useState('regular');
@@ -11,7 +12,9 @@ export default function Standings({ ctx }) {
   const { data, loading } = useJson(div?.scored ? `standings/${div.id}.json` : null, [ctx.tick]);
   const { saved } = useSaved();
   const mine = new Set(saved.map((id) => ctx.teams.find((t) => t.id === id)?.name).filter(Boolean));
-  const groups = phase === 'regular' ? data?.regular : data?.playoffs;
+  const allGroups = phase === 'regular' ? data?.regular : data?.playoffs;
+  const groups = activeGroups(allGroups);
+  const hidden = (allGroups?.length ?? 0) - groups.length;
 
   return (
     <>
@@ -54,6 +57,7 @@ export default function Standings({ ctx }) {
                 </table>
               </section>
             ))}
+            {hidden > 0 && <p className="legend">A later round with no games played yet is hidden until it starts.</p>}
             <p className="legend">Order and tiebreakers follow alliancehockey.com. Official rules prevail. Updated {ago(data?.updatedAt)}.</p>
           </>
         )}
