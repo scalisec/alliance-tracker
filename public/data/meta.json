@@ -1,1 +1,224 @@
-{"season":"2026-27","sample":true,"updatedAt":"2026-10-16T13:00:00.000Z","runs":{},"divisions":[{"id":2710,"age":"U10","level":"AAA","name":"U10 AAA","scored":true,"refresh":"live"},{"id":2711,"age":"U10","level":"AA-A","name":"U10 AA-A","scored":true,"refresh":"live"},{"id":2712,"age":"U10","level":"BB","name":"U10 BB","scored":true,"refresh":"live"},{"id":2713,"age":"U11","level":"AAA","name":"U11 AAA","scored":true,"refresh":"live"},{"id":2714,"age":"U11","level":"AA-A","name":"U11 AA-A","scored":true,"refresh":"live"},{"id":2715,"age":"U11","level":"BB","name":"U11 BB","scored":true,"refresh":"live"},{"id":2716,"age":"U12","level":"AAA","name":"U12 AAA","scored":true,"refresh":"live"},{"id":2717,"age":"U12","level":"AA-A","name":"U12 AA-A","scored":true,"refresh":"live"},{"id":2718,"age":"U12","level":"BB","name":"U12 BB","scored":true,"refresh":"live"},{"id":2719,"age":"U13","level":"AAA","name":"U13 AAA","scored":true,"refresh":"live"},{"id":2720,"age":"U13","level":"AA-A","name":"U13 AA-A","scored":true,"refresh":"live"},{"id":2721,"age":"U13","level":"BB","name":"U13 BB","scored":true,"refresh":"live"},{"id":2722,"age":"U14","level":"AAA","name":"U14 AAA","scored":true,"refresh":"live"},{"id":2723,"age":"U14","level":"AA-A","name":"U14 AA-A","scored":true,"refresh":"live"},{"id":2724,"age":"U14","level":"BB","name":"U14 BB","scored":true,"refresh":"live"},{"id":2725,"age":"U15","level":"AAA","name":"U15 AAA","scored":true,"refresh":"live"},{"id":2726,"age":"U15","level":"AA-A","name":"U15 AA-A","scored":true,"refresh":"live"},{"id":2727,"age":"U15","level":"BB","name":"U15 BB","scored":true,"refresh":"live"},{"id":2728,"age":"U16","level":"AAA","name":"U16 AAA","scored":true,"refresh":"live"},{"id":2729,"age":"U16","level":"AA-A","name":"U16 AA-A","scored":true,"refresh":"live"},{"id":2730,"age":"U16","level":"BB","name":"U16 BB","scored":true,"refresh":"live"},{"id":2731,"age":"U18","level":"AAA","name":"U18 AAA","scored":true,"refresh":"live"},{"id":2732,"age":"U18","level":"AA-A","name":"U18 AA-A","scored":true,"refresh":"live"},{"id":2733,"age":"U18","level":"BB","name":"U18 BB","scored":true,"refresh":"live"},{"id":2734,"age":"U9","level":"MD","name":"U9 MD","scored":false,"refresh":"weekly"},{"id":2735,"age":"U8","level":"MD","name":"U8 MD","scored":false,"refresh":"weekly"}]}
+{
+ "season": "2026-27",
+ "sample": false,
+ "updatedAt": "2026-10-16T17:50:51.969Z",
+ "runs": {
+  "full": "2026-10-16T17:50:51.969Z"
+ },
+ "divisions": [
+  {
+   "id": 2710,
+   "age": "U10",
+   "level": "AAA",
+   "name": "U10 AAA",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2711,
+   "age": "U10",
+   "level": "AA-A",
+   "name": "U10 AA-A",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2712,
+   "age": "U10",
+   "level": "BB",
+   "name": "U10 BB",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2713,
+   "age": "U11",
+   "level": "AAA",
+   "name": "U11 AAA",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2714,
+   "age": "U11",
+   "level": "AA-A",
+   "name": "U11 AA-A",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2715,
+   "age": "U11",
+   "level": "BB",
+   "name": "U11 BB",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2716,
+   "age": "U12",
+   "level": "AAA",
+   "name": "U12 AAA",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2717,
+   "age": "U12",
+   "level": "AA-A",
+   "name": "U12 AA-A",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2718,
+   "age": "U12",
+   "level": "BB",
+   "name": "U12 BB",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2719,
+   "age": "U13",
+   "level": "AAA",
+   "name": "U13 AAA",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2720,
+   "age": "U13",
+   "level": "AA-A",
+   "name": "U13 AA-A",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2721,
+   "age": "U13",
+   "level": "BB",
+   "name": "U13 BB",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2722,
+   "age": "U14",
+   "level": "AAA",
+   "name": "U14 AAA",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2723,
+   "age": "U14",
+   "level": "AA-A",
+   "name": "U14 AA-A",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2724,
+   "age": "U14",
+   "level": "BB",
+   "name": "U14 BB",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2725,
+   "age": "U15",
+   "level": "AAA",
+   "name": "U15 AAA",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2726,
+   "age": "U15",
+   "level": "AA-A",
+   "name": "U15 AA-A",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2727,
+   "age": "U15",
+   "level": "BB",
+   "name": "U15 BB",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2728,
+   "age": "U16",
+   "level": "AAA",
+   "name": "U16 AAA",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2729,
+   "age": "U16",
+   "level": "AA-A",
+   "name": "U16 AA-A",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2730,
+   "age": "U16",
+   "level": "BB",
+   "name": "U16 BB",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2731,
+   "age": "U18",
+   "level": "AAA",
+   "name": "U18 AAA",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2732,
+   "age": "U18",
+   "level": "AA-A",
+   "name": "U18 AA-A",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2733,
+   "age": "U18",
+   "level": "BB",
+   "name": "U18 BB",
+   "scored": true,
+   "refresh": "live"
+  },
+  {
+   "id": 2734,
+   "age": "U9",
+   "level": "MD",
+   "name": "U9 MD",
+   "scored": false,
+   "refresh": "weekly"
+  },
+  {
+   "id": 2735,
+   "age": "U8",
+   "level": "MD",
+   "name": "U8 MD",
+   "scored": false,
+   "refresh": "weekly"
+  }
+ ],
+ "gamesheetSeasons": {
+  "AA-A": 15448,
+  "BB": 15449,
+  "AAA": 15447,
+  "MD": null
+ }
+}

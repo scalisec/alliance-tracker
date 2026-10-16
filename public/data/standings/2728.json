@@ -1,1 +1,167 @@
-{"divisionId":2728,"updatedAt":"2026-10-16T13:00:00.000Z","regular":[{"name":"","rows":[{"team":"Cambridge Hawks","teamId":null,"gp":5,"w":3,"l":1,"t":1,"pts":7,"gf":15,"ga":11,"diff":4,"l10":"3-1-1","strk":"W3"},{"team":"Sun County Panthers","teamId":null,"gp":3,"w":2,"l":1,"t":0,"pts":4,"gf":5,"ga":1,"diff":4,"l10":"2-1","strk":"W1"},{"team":"Sarnia-Lambton Jr Sting","teamId":null,"gp":2,"w":1,"l":0,"t":1,"pts":3,"gf":2,"ga":1,"diff":1,"l10":"1-0-1","strk":"T1"},{"team":"Elgin-Middlesex Canucks","teamId":null,"gp":3,"w":1,"l":1,"t":1,"pts":3,"gf":4,"ga":4,"diff":0,"l10":"1-1-1","strk":"W1"},{"team":"Chatham-Kent Cyclones","teamId":null,"gp":4,"w":1,"l":2,"t":1,"pts":3,"gf":7,"ga":10,"diff":-3,"l10":"1-2-1","strk":"L2"},{"team":"London Jr Knights","teamId":null,"gp":1,"w":1,"l":0,"t":0,"pts":2,"gf":4,"ga":0,"diff":4,"l10":"1-0","strk":"W1"},{"team":"Kitchener Jr Rangers","teamId":null,"gp":2,"w":1,"l":1,"t":0,"pts":2,"gf":7,"ga":7,"diff":0,"l10":"1-1","strk":"L1"},{"team":"Huron-Perth Lakers","teamId":null,"gp":1,"w":0,"l":1,"t":0,"pts":0,"gf":0,"ga":2,"diff":-2,"l10":"0-1","strk":"L1"},{"team":"Windsor Jr Spitfires","teamId":null,"gp":1,"w":0,"l":1,"t":0,"pts":0,"gf":0,"ga":4,"diff":-4,"l10":"0-1","strk":"L1"},{"team":"Brantford 99ers","teamId":null,"gp":2,"w":0,"l":2,"t":0,"pts":0,"gf":4,"ga":8,"diff":-4,"l10":"0-2","strk":"L2"}]}],"playoffs":null}
+{
+ "divisionId": 2728,
+ "updatedAt": "2026-10-16T17:42:46.703Z",
+ "regular": [
+  {
+   "name": "",
+   "rows": [
+    {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97005",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 1,
+     "w": 1,
+     "l": 0,
+     "t": 0,
+     "pts": 2,
+     "gf": 7,
+     "ga": 2,
+     "diff": 5,
+     "l10": "1-0",
+     "strk": "W1"
+    },
+    {
+     "team": "Cambridge Jr RedHawks",
+     "teamId": "odb-97006",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "gp": 1,
+     "w": 0,
+     "l": 1,
+     "t": 0,
+     "pts": 0,
+     "gf": 2,
+     "ga": 7,
+     "diff": -5,
+     "l10": "0-1",
+     "strk": "L1"
+    },
+    {
+     "team": "Huron-Perth Lakers",
+     "teamId": "odb-97009",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
+     "gp": 0,
+     "w": 0,
+     "l": 0,
+     "t": 0,
+     "pts": 0,
+     "gf": 0,
+     "ga": 0,
+     "diff": 0,
+     "l10": "0-0",
+     "strk": "-"
+    },
+    {
+     "team": "Kitchener Jr Rangers",
+     "teamId": "odb-97010",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 0,
+     "w": 0,
+     "l": 0,
+     "t": 0,
+     "pts": 0,
+     "gf": 0,
+     "ga": 0,
+     "diff": 0,
+     "l10": "0-0",
+     "strk": "-"
+    },
+    {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-97014",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 0,
+     "w": 0,
+     "l": 0,
+     "t": 0,
+     "pts": 0,
+     "gf": 0,
+     "ga": 0,
+     "diff": 0,
+     "l10": "0-0",
+     "strk": "-"
+    }
+   ]
+  },
+  {
+   "name": "",
+   "rows": [
+    {
+     "team": "Chatham-Kent Cyclones",
+     "teamId": "odb-97007",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
+     "gp": 0,
+     "w": 0,
+     "l": 0,
+     "t": 0,
+     "pts": 0,
+     "gf": 0,
+     "ga": 0,
+     "diff": 0,
+     "l10": "0-0",
+     "strk": "-"
+    },
+    {
+     "team": "Elgin-Middlesex Canucks",
+     "teamId": "odb-97008",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+     "gp": 0,
+     "w": 0,
+     "l": 0,
+     "t": 0,
+     "pts": 0,
+     "gf": 0,
+     "ga": 0,
+     "diff": 0,
+     "l10": "0-0",
+     "strk": "-"
+    },
+    {
+     "team": "London Jr Knights",
+     "teamId": "odb-97012",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 0,
+     "w": 0,
+     "l": 0,
+     "t": 0,
+     "pts": 0,
+     "gf": 0,
+     "ga": 0,
+     "diff": 0,
+     "l10": "0-0",
+     "strk": "-"
+    },
+    {
+     "team": "Sarnia-Lambton Jr Sting",
+     "teamId": "odb-97011",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
+     "gp": 0,
+     "w": 0,
+     "l": 0,
+     "t": 0,
+     "pts": 0,
+     "gf": 0,
+     "ga": 0,
+     "diff": 0,
+     "l10": "0-0",
+     "strk": "-"
+    },
+    {
+     "team": "Windsor Jr Spitfires",
+     "teamId": "odb-97015",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
+     "gp": 0,
+     "w": 0,
+     "l": 0,
+     "t": 0,
+     "pts": 0,
+     "gf": 0,
+     "ga": 0,
+     "diff": 0,
+     "l10": "0-0",
+     "strk": "-"
+    }
+   ]
+  }
+ ],
+ "playoffs": null
+}
