@@ -1,9 +1,9 @@
 {
  "divisionId": 2728,
- "updatedAt": "2026-10-16T18:10:03.108Z",
+ "updatedAt": "2026-10-16T20:10:18.866Z",
  "regular": [
   {
-   "name": "",
+   "name": "East Division",
    "rows": [
     {
      "team": "Brantford 99ers",
@@ -83,7 +83,7 @@
    ]
   },
   {
-   "name": "",
+   "name": "West Division",
    "rows": [
     {
      "team": "Chatham-Kent Cyclones",

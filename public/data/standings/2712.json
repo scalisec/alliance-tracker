@@ -1,9 +1,9 @@
 {
  "divisionId": 2712,
- "updatedAt": "2026-10-16T18:02:13.163Z",
+ "updatedAt": "2026-10-16T20:02:24.761Z",
  "regular": [
   {
-   "name": "",
+   "name": "East Division",
    "rows": [
     {
      "team": "Burlington Bulldogs Blue",
@@ -128,7 +128,7 @@
    ]
   },
   {
-   "name": "",
+   "name": "West Division",
    "rows": [
     {
      "team": "North London Nationals",

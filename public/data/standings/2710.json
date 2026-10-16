@@ -1,9 +1,9 @@
 {
  "divisionId": 2710,
- "updatedAt": "2026-10-16T18:01:14.865Z",
+ "updatedAt": "2026-10-16T20:01:26.859Z",
  "regular": [
   {
-   "name": "",
+   "name": "East Division",
    "rows": [
     {
      "team": "Kitchener Jr Rangers",
@@ -83,7 +83,7 @@
    ]
   },
   {
-   "name": "",
+   "name": "West Division",
    "rows": [
     {
      "team": "Elgin-Middlesex Canucks",
@@ -176,9 +176,11 @@
      "strk": "-"
     }
    ]
-  },
+  }
+ ],
+ "playoffs": [
   {
-   "name": "",
+   "name": "Playdowns · East Division",
    "rows": [
     {
      "team": "Brantford 99ers",
@@ -258,7 +260,7 @@
    ]
   },
   {
-   "name": "",
+   "name": "Playdowns · West Division",
    "rows": [
     {
      "team": "Chatham-Kent Cyclones",
@@ -352,6 +354,5 @@
     }
    ]
   }
- ],
- "playoffs": null
+ ]
 }
