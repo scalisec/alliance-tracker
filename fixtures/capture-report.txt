@@ -1,0 +1,10 @@
+OK   alliance-robots.txt  3582 bytes  https://alliancehockey.com/robots.txt
+OK   alliance-standings-2721.html  67299 bytes  https://alliancehockey.com/Groups/2721/Standings/
+OK   alliance-schedule-2721.html  130668 bytes  https://alliancehockey.com/Groups/2721/Schedule/
+OK   alliance-calendar-2721.html  142263 bytes  https://alliancehockey.com/Groups/2721/Calendar/
+OK   alliance-schedule-2735-md.html  85751 bytes  https://alliancehockey.com/Groups/2735/Schedule/
+OK   alliance-game-2379380.html  52823 bytes  https://alliancehockey.com/Groups/2715/Games/2379380/
+FAIL gamesheet-game-3074969.html  https://gamesheetstats.com/seasons/15449/games/3074969
+     Failed https://gamesheetstats.com/seasons/15449/games/3074969: HTTP 403 (server: cloudflare; cf-mitigated: challenge) <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scal
+OK   theonedb-team-97224.html  20333 bytes  https://www.theonedb.com/Teams/97224/
+schedule parser: 51 games; first: {"id":2378019,"divisionId":2721,"start":null,"away":"Brantford 99ers","home":"Burlington Bulldogs Blue","awayScore":2,"homeScore":4,"status":"final","venue":"Appleby (3)","code":"U13BR50","liveBarn":"https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-10-02/18:30","type":"regular","gamesheet":null}
