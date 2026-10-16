@@ -2,12 +2,9 @@ import { useJson, fmtLongDay, fmtTime } from '../data.js';
 import { Empty, Icon, TeamLogo, Top } from '../ui.jsx';
 import { back } from '../App.jsx';
 
-const PERIOD = { 1: '1st Period', 2: '2nd Period', 3: '3rd Period', 4: 'Overtime', 5: 'Shootout' };
-
 export default function GameDetail({ ctx, divId, gameId }) {
   const { data: games } = useJson(`games/${divId}.json`, [ctx.tick]);
   const game = games?.find((g) => String(g.id) === String(gameId));
-  const { data: detail, loading } = useJson(game?.detail ? `detail/${gameId}.json` : null, [ctx.tick]);
   const div = ctx.divById(divId);
 
   return (
@@ -26,18 +23,18 @@ export default function GameDetail({ ctx, divId, gameId }) {
                 <Side name={game.home} logo={ctx.logoOf(game.home)} win={game.homeScore > game.awayScore} label="Home" />
               </div>
               <div className="venue" style={{ justifyContent: 'center', marginTop: 14 }}><Icon.pin /><span>{game.venue ?? 'Venue TBA'}</span></div>
+              {game.code && <div className="legend" style={{ textAlign: 'center' }}>Game {game.code}</div>}
               <div className="btn-row">
-                {game.liveBarn && <a className="lb" href={game.liveBarn} target="_blank" rel="noopener noreferrer">Watch on LiveBarn</a>}
-                {game.gamesheet && (
-                  <a className="ghost" target="_blank" rel="noopener noreferrer" href={`https://gamesheetstats.com/seasons/${game.gamesheet.season}/games/${game.gamesheet.game}`}>GameSheet ↗</a>
+                {game.status === 'final' && (
+                  <a className="primary" target="_blank" rel="noopener noreferrer" href={boxScoreUrl(game, divId)}>Full box score ↗</a>
                 )}
-                <a className="ghost" target="_blank" rel="noopener noreferrer" href={`https://alliancehockey.com/Groups/${divId}/Games/${gameId}/`}>Alliance ↗</a>
+                {game.liveBarn && <a className="lb" href={game.liveBarn} target="_blank" rel="noopener noreferrer">{game.status === 'final' ? 'Replay on LiveBarn' : 'Watch on LiveBarn'}</a>}
+                <a className="ghost" target="_blank" rel="noopener noreferrer" href={`https://alliancehockey.com/Groups/${divId}/Games/${gameId}/`}>Alliance game page ↗</a>
               </div>
             </section>
-
-            {loading ? <Empty>Loading box score…</Empty>
-              : !detail ? <Empty>{game.status === 'final' ? 'Box score not available yet. It usually appears shortly after the game sheet is submitted.' : 'Box score appears after the game.'}</Empty>
-                : <BoxScore d={detail} game={game} />}
+            <p className="legend" style={{ textAlign: 'center' }}>
+              {game.status === 'final' ? 'Scorers, assists and penalties open on GameSheet.' : 'Score and box score appear after the game.'}
+            </p>
           </>
         )}
       </main>
@@ -55,47 +52,10 @@ function Side({ name, logo, win, label }) {
   );
 }
 
-function BoxScore({ d, game }) {
-  const byPeriod = (items) => {
-    const m = new Map();
-    for (const it of items) { const k = it.period ?? 0; if (!m.has(k)) m.set(k, []); m.get(k).push(it); }
-    return [...m.entries()].sort((a, b) => a[0] - b[0]);
-  };
-  const short = (team) => (team === game.home ? 'HOME' : team === game.away ? 'AWAY' : '');
-  return (
-    <>
-      <div className="section-label">Scoring</div>
-      {d.goals.length === 0 ? <div className="card gd-sec"><p className="legend">No goals recorded.</p></div> : (
-        byPeriod(d.goals).map(([p, goals]) => (
-          <section className="card gd-sec" key={`g${p}`}>
-            <div className="section-label" style={{ margin: '12px 0 4px' }}>{PERIOD[p] ?? `Period ${p}`}</div>
-            {goals.map((g, i) => (
-              <div className="gd-row" key={i}>
-                <span className="t">{g.time ?? ''}</span>
-                <div>
-                  <div className="who">{g.scorerNumber ? `#${g.scorerNumber} ` : ''}{g.scorer ?? 'Goal'}{g.type && <span className="tag">{g.type}</span>}</div>
-                  <div className="sub">{g.team} {short(g.team) && `· ${short(g.team)}`}{g.assists?.length ? ` · Assists: ${g.assists.join(', ')}` : ' · Unassisted'}</div>
-                </div>
-              </div>
-            ))}
-          </section>
-        ))
-      )}
-      <div className="section-label">Penalties</div>
-      {d.penalties.length === 0 ? <div className="card gd-sec"><p className="legend">No penalties.</p></div> : (
-        <section className="card gd-sec">
-          {d.penalties.map((p, i) => (
-            <div className="gd-row" key={i}>
-              <span className="t">{p.period ? `P${p.period} ` : ''}{p.time ?? ''}</span>
-              <div>
-                <div className="who">{p.infraction ?? 'Penalty'}{p.minutes ? <span className="tag">{p.minutes} MIN</span> : null}</div>
-                <div className="sub">{p.playerNumber ? `#${p.playerNumber} ` : ''}{p.player ?? ''} · {p.team}</div>
-              </div>
-            </div>
-          ))}
-        </section>
-      )}
-      <p className="legend">Box score from GameSheet. Official game sheet prevails.</p>
-    </>
-  );
+// GameSheet box score when we know its link; otherwise Alliance's game page,
+// which carries the same box score in its own tab.
+function boxScoreUrl(game, divId) {
+  return game.gamesheet
+    ? `https://gamesheetstats.com/seasons/${game.gamesheet.season}/games/${game.gamesheet.game}`
+    : `https://alliancehockey.com/Groups/${divId}/Games/${game.id}/`;
 }

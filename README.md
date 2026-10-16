@@ -12,7 +12,7 @@ Unofficial standings, scores and schedules for **Minor Hockey Alliance of Ontari
 | **Find my team** | Search by city, association, team or division; add/remove |
 | **Standings** | Age + level pickers, regular season/playoffs, grouped tables with GD, your teams highlighted |
 | **Schedule** | Upcoming/results by day, scores, venues, LiveBarn |
-| **Game detail** | Score, scoring by period, assists, penalties (from GameSheet), links out |
+| **Game detail** | Score, rink, game code, "Full box score" (opens GameSheet), LiveBarn, Alliance game page |
 | **Settings** | Light/dark, last updated + refresh, divisions tracked, clear saved teams, share, about |
 
 **Divisions:** U10–U18 AAA, AA-A and BB (24 divisions, scores + standings), plus U8–U9 MD (schedule only, weekly). TCHL rec is excluded.
@@ -21,11 +21,11 @@ Unofficial standings, scores and schedules for **Minor Hockey Alliance of Ontari
 
 ```
 alliancehockey.com ──┐
-gamesheetstats.com ──┼─► GitHub Actions collector ─► public/data/*.json ─► GitHub Pages ─► phone
+theonedb.com ───────┼─► GitHub Actions collector ─► public/data/*.json ─► GitHub Pages ─► phone
 myhockeyrankings.com ┘        (Node + cheerio)          (committed)          (static PWA)
 ```
 
-- **Collector** (`collector/`) reads public pages only, one at a time: 10 s between requests to alliancehockey.com (its robots.txt crawl delay), no `?` query URLs there, and never GameSheet's `/api/`.
+- **Collector** (`collector/`) reads public pages only, one at a time, 10 s apart: alliancehockey.com (standings, this month's games, GameSheet links; no `?` query URLs, per its robots.txt) and theonedb.com (full-season schedules). GameSheet blocks automated reads, so box scores open on GameSheet.
 - **Data** is plain JSON in `public/data/`: `meta.json`, `teams.json`, `standings/{division}.json`, `games/{division}.json`, `detail/{game}.json`, `mhr.json`.
 - **App** (`src/`) is React + Vite, no server. Search runs on the phone.
 

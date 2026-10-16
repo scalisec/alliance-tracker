@@ -77,7 +77,7 @@ export default function Settings({ ctx, onClose, onRefresh }) {
           <div className="val">v1.0</div>
         </div>
         <p className="hint" style={{ lineHeight: 1.5 }}>
-          Standings, scores and schedules for Minor Hockey Alliance of Ontario rep divisions. Data sourced from alliancehockey.com, GameSheet and myhockeyrankings.com.
+          Standings, scores and schedules for Minor Hockey Alliance of Ontario rep divisions. Data sourced from alliancehockey.com, theonedb.com and myhockeyrankings.com. Box scores open on GameSheet.
         </p>
         <p className="fine">
           Alliance Tracker is an unofficial community app. It is not affiliated with or endorsed by the Minor Hockey Alliance of Ontario (ALLIANCE Hockey), GameSheet Inc. or MYHockey Rankings. All data and logos remain the property of their respective owners.

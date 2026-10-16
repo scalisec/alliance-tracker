@@ -4,7 +4,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import * as alliance from '../collector/sources/alliance.js';
-import * as gamesheet from '../collector/sources/gamesheet.js';
+import * as theonedb from '../collector/sources/theonedb.js';
 
 const fx = (f) => new URL(`../fixtures/${f}`, import.meta.url);
 const has = (f) => fs.existsSync(fx(f));
@@ -33,9 +33,18 @@ test('game page: GameSheet link found', { skip: !has('alliance-game-2379380.html
   assert.deepEqual(info.gamesheet, { season: 15449, game: 3074969 });
 });
 
-test('gamesheet: goals and penalties extracted', { skip: !has('gamesheet-game-3074969.html') }, () => {
-  const d = gamesheet.parseGamePage(read('gamesheet-game-3074969.html'));
-  assert.equal(d.source, 'flight', 'fell back to text — update the GameSheet parser');
-  assert.equal(d.goals.length, 3); // known result: 2-1
-  assert.equal(d.penalties.length, 4);
+test('schedule: MD division parses with no scores', { skip: !has('alliance-schedule-2735-md.html') }, () => {
+  const games = alliance.parseSchedule(read('alliance-schedule-2735-md.html'), 2735);
+  assert.ok(games.length > 0);
+  assert.ok(games.every((g) => g.start && g.home && g.away));
+});
+
+test('theonedb: team page links to the division full schedule', { skip: !has('theonedb-team-97224.html') }, () => {
+  assert.match(theonedb.findGroupSchedulePath(read('theonedb-team-97224.html')), /^\/Groups\/\d+\/.+\/Schedule$/);
+});
+
+test('theonedb: full season schedule parses', { skip: !has('theonedb-schedule-u13bb.html') }, () => {
+  const games = alliance.parseSchedule(read('theonedb-schedule-u13bb.html'), 2721, { anyGroup: true });
+  assert.ok(games.length > 51, `expected more than one month of games, got ${games.length}`);
+  assert.ok(games.filter((g) => g.start && g.home && g.away).length / games.length > 0.9);
 });

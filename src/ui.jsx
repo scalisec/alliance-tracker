@@ -97,7 +97,8 @@ export function GameCard({ game: g, logoOf, mine = [], onOpen }) {
     <Tag className={`game ${final ? 'final' : ''}`} onClick={onOpen && final ? () => onOpen(g) : undefined}>
       <div className="game-top">
         <span className="game-when">{fmtWhen(g.start)}</span>
-        {final ? <span className="badge final">FINAL</span>
+        {g.status === 'cancelled' ? <span className="badge pending">CANCELLED</span>
+          : final ? <span className="badge final">FINAL</span>
           : past ? <span className="badge pending">AWAITING SCORE</span>
             : <span className="badge upcoming">UPCOMING</span>}
       </div>

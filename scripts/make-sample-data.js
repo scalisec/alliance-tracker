@@ -74,7 +74,6 @@ for (const div of DIVISIONS) {
         venue: pick(VENUES), code: `${div.age}${div.level === 'BB' ? 'BR' : div.level === 'AAA' ? 'P' : 'S'}${id % 300}`,
         liveBarn: rnd() < 0.7 ? 'https://livebarn.com/' : null, type: 'regular',
         gamesheet: hs != null ? { season: 15449, game: 3070000 + (id % 9999) } : null,
-        detail: hs != null,
       });
     }
   }
@@ -93,20 +92,6 @@ for (const div of DIVISIONS) {
     await write(`standings/${div.id}.json`, { divisionId: div.id, updatedAt: now.toISOString(), regular, playoffs: null });
   }
 
-  // One sample box score for the most recent final.
-  const lastFinal = games.filter((g) => g.status === 'final').at(-1);
-  if (lastFinal) await write(`detail/${lastFinal.id}.json`, sampleDetail(lastFinal));
-  for (const g of games.filter((x) => x.status === 'final')) if (g !== lastFinal) await write(`detail/${g.id}.json`, sampleDetail(g));
-}
-
-function sampleDetail(g) {
-  const first = ['J. Smith', 'L. Martin', 'A. Patel', 'N. Brown', 'E. Wilson', 'M. Rossi', 'O. Chen', 'C. Taylor'];
-  const goals = [];
-  const add = (team, n) => { for (let i = 0; i < n; i++) goals.push({ period: 1 + Math.floor(rnd() * 3), time: `${p2(Math.floor(rnd() * 15))}:${p2(Math.floor(rnd() * 60))}`, team, scorer: pick(first), scorerNumber: 2 + Math.floor(rnd() * 25), assists: rnd() < 0.7 ? [pick(first)] : [], type: rnd() < 0.15 ? 'PP' : null }); };
-  add(g.home, g.homeScore); add(g.away, g.awayScore);
-  goals.sort((a, b) => a.period - b.period || b.time.localeCompare(a.time));
-  const penalties = Array.from({ length: Math.floor(rnd() * 5) }, () => ({ period: 1 + Math.floor(rnd() * 3), time: `${p2(Math.floor(rnd() * 15))}:${p2(Math.floor(rnd() * 60))}`, team: rnd() < 0.5 ? g.home : g.away, player: pick(first), playerNumber: 2 + Math.floor(rnd() * 25), infraction: pick(['Tripping', 'Slashing', 'Hooking', 'Interference', 'Roughing']), minutes: 2 }));
-  return { id: g.id, source: 'sample', periods: null, goals, penalties, fetchedAt: now.toISOString() };
 }
 
 async function write(rel, v) {

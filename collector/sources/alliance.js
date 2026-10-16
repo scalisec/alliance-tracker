@@ -45,15 +45,19 @@ export function parseStandings(html) {
 
     const rows = [];
     $(table).find('tr').slice(1).each((__, tr) => {
-      const cells = $(tr).find('td');
+      // The team cell is a <th>; the stat cells are <td>.
+      const cells = $(tr).children('th,td');
       if (cells.length < 5) return;
       const teamCell = cells.eq(idx.team ?? 0);
       const link = teamCell.find('a').attr('href') ?? '';
       const oneDbId = link.match(/Teams\/(\d+)/i)?.[1] ?? null;
+      const bg = teamCell.find('[style*="background-image"]').attr('style') ?? '';
+      const logoUrl = bg.match(/url\(['"]?([^'")]+)['"]?\)/)?.[1] ?? null;
       const get = (k) => (idx[k] != null ? clean(cells.eq(idx[k]).text()) : '');
       rows.push({
         team: clean(teamCell.text()),
         teamId: oneDbId ? `odb-${oneDbId}` : null,
+        logo: logoUrl ? (logoUrl.startsWith('//') ? `https:${logoUrl}` : logoUrl) : null,
         gp: num(get('gp')), w: num(get('w')), l: num(get('l')), t: num(get('t')),
         pts: num(get('pts')), gf: num(get('gf')), ga: num(get('ga')),
         diff: idx.diff != null ? num(get('diff')) : num(get('gf')) - num(get('ga')),
@@ -65,68 +69,74 @@ export function parseStandings(html) {
     const heading = clean($(table).prevAll('h1,h2,h3,h4,h5,.title,caption').first().text());
     groups.push({ name: heading && heading.length < 40 ? heading : '', rows });
   });
-  return groups.map((g, i) => ({ ...g, rank: undefined, order: i }));
+  return groups;
 }
 
 // ---------- Schedule ----------
-// Each game on a schedule page carries a "Game Details" link
-// (/Groups/{g}/Games/{id}/). We walk up from that link to the smallest
-// container holding one game, then read its text tokens.
+// MBLeagueWeb pages (alliancehockey.com and theonedb.com share the platform)
+// list each game as `.event-list-item`:
+//   .day_of_month "Fri 02" (first game of a day) + .time-primary "6:30 PM"
+//   .subject-owner = away team, .subject-text = "@ Home" + .game_no code
+//   .location = rink, .game_score "2-4", .tag "Regular Season", a.livebarn-watch
+// The month comes from the nearest preceding month heading ("October 2026").
 const TIME_RE = /\b(\d{1,2}:\d{2}\s?[AP]M)\b/i;
 const SCORE_RE = /^(\d{1,2})\s*-\s*(\d{1,2})$/;
+const MONTH_RE = /\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s+(\d{4})\b/i;
 const DATE_RE = /\b(Mon|Tue|Wed|Thu|Fri|Sat|Sun)\w*,?\s+(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\w*\.?\s+(\d{1,2})(?:,?\s+(\d{4}))?/i;
 
-export function parseSchedule(html, groupId, { seasonStartYear = 2026 } = {}) {
+export function parseSchedule(html, groupId, { seasonStartYear = 2026, anyGroup = false } = {}) {
   const $ = cheerio.load(html);
   const games = new Map();
-  $(`a[href*="/Games/"]`).each((_, a) => {
-    const href = $(a).attr('href') ?? '';
-    const m = href.match(/\/Groups\/(\d+)\/Games\/(\d+)/);
-    if (!m || Number(m[1]) !== Number(groupId)) return;
-    const id = Number(m[2]);
-    if (games.has(id)) return;
+  let month = null, year = null, day = null;
 
-    // Climb until the container holds a time and an "@", but never so far that
-    // it swallows another game's link.
-    const textOf = (el) => el.find('*').addBack().contents().filter((__, n) => n.type === 'text')
-      .map((__, n) => clean(n.data)).get().filter(Boolean);
-    const otherGames = (el) => el.find(`a[href*="/Games/"]`).map((__, x) => $(x).attr('href')).get()
-      .some((h) => /\/Games\/\d+/.test(h) && !h.includes(`/Games/${id}`));
-    let box = $(a).parent();
-    for (let i = 0; i < 8; i++) {
-      const joined = textOf(box).join(' ');
-      if (TIME_RE.test(joined) && /(^|\s)@|\bvs\b/i.test(joined)) break;
-      const up = box.parent();
-      if (!up.length || otherGames(up)) break;
-      box = up;
+  // Walk the document in order so month headings and day labels carry forward.
+  $('.heading-1-wrapper, .event-list-item, .day-heading, h2, h3').each((_, el) => {
+    const $el = $(el);
+    if (!$el.hasClass('event-list-item')) {
+      const t = clean($el.text());
+      const full = t.match(DATE_RE);
+      if (full) { month = full[2]; day = Number(full[3]); if (full[4]) year = Number(full[4]); return; }
+      const m = t.match(MONTH_RE);
+      if (m) { month = m[1]; year = Number(m[2]); }
+      return;
     }
-    const tokens = textOf(box);
+    const link = $el.find('a[href*="/Games/"]').attr('href') ?? '';
+    const m = link.match(/\/Groups\/(\d+)\/Games\/(\d+)/) ?? link.match(/\/Games\/(\d+)/);
+    if (!m) return;
+    const id = Number(m[2] ?? m[1]);
+    if (m[2] && !anyGroup && Number(m[1]) !== Number(groupId)) return;
 
-    const time = tokens.find((t) => TIME_RE.test(t))?.match(TIME_RE)?.[1] ?? null;
-    const atIdx = tokens.findIndex((t) => t.startsWith('@'));
-    const away = atIdx > 0 ? tokens[atIdx - 1] : null;
-    const home = atIdx >= 0 ? clean(tokens[atIdx].replace(/^@\s*/, '')) || tokens[atIdx + 1] : null;
-    const scoreTok = tokens.find((t) => SCORE_RE.test(t));
-    const [, as, hs] = scoreTok?.match(SCORE_RE) ?? [];
-    const venue = clean(tokens.find((t) => /\(.+\)$/.test(t)) ?? '') || null;
-    const code = tokens.find((t) => /^U\d{1,2}[A-Z]{1,4}-?\d+$/.test(t)) ?? null;
-    const liveBarn = box.find('a[href*="livebarn.com"]').attr('href') ?? null;
-    const type = tokens.some((t) => /playoff/i.test(t)) ? 'playoff' : 'regular';
+    const dom = clean($el.find('.day_of_month').first().text()); // "Fri 02"
+    const dm = dom.match(/(\d{1,2})\s*$/);
+    if (dm) day = Number(dm[1]);
+    const full = clean($el.find('.date, .full-date').first().text()).match(DATE_RE);
+    if (full) { month = full[2]; day = Number(full[3]); if (full[4]) year = Number(full[4]); }
 
-    // Date: nearest preceding date heading.
-    let dateText = box.text().match(DATE_RE)?.[0];
-    if (!dateText) {
-      const prev = box.prevAll().filter((__, el) => DATE_RE.test($(el).text())).first();
-      dateText = prev.text().match(DATE_RE)?.[0] ?? null;
-    }
+    const timeText = clean($el.find('.time-primary').first().clone().children('.day_of_month').remove().end().text());
+    const time = timeText.match(TIME_RE)?.[1] ?? null;
+    const away = clean($el.find('.subject-owner').first().text()) || null;
+    const homeEl = $el.find('.subject-text').first().clone();
+    homeEl.find('.game_no').remove();
+    const home = clean(homeEl.text()).replace(/^@\s*/, '').replace(/^vs\.?\s*/i, '') || null;
+    const code = clean($el.find('.game_no').first().text()) || null;
+    const venue = clean($el.find('.location').first().text()) || null;
+    const scoreText = clean($el.find('.game_score').first().text());
+    const [, as, hs] = scoreText.match(SCORE_RE) ?? [];
+    const tags = $el.find('.tag').map((__, t) => clean($(t).text())).get();
+    const type = tags.some((t) => /playoff/i.test(t)) ? 'playoff' : tags.some((t) => /exhibition/i.test(t)) ? 'exhibition' : 'regular';
+    const cancelled = tags.some((t) => /cancel|postpon/i.test(t)) || /cancel|postpon/i.test(clean($el.find('.game_result').text()));
+
+    const dateText = month && day ? `Sat, ${month} ${day}${year ? `, ${year}` : ''}` : null;
     games.set(id, {
       id, divisionId: Number(groupId),
       start: toIso(dateText, time, seasonStartYear),
       away, home,
       awayScore: as != null ? Number(as) : null,
       homeScore: hs != null ? Number(hs) : null,
-      status: as != null ? 'final' : 'scheduled',
-      venue, code, liveBarn, type,
+      status: cancelled ? 'cancelled' : as != null ? 'final' : 'scheduled',
+      venue, code,
+      liveBarn: $el.find('a.livebarn-watch, a[href*="livebarn.com"]').first().attr('href') ?? null,
+      type,
       gamesheet: null,
     });
   });
