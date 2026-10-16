@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useMemo, useState } from 'react';
 import { loadMeta, getJson } from './data.js';
+import { hideSplash } from './splash.js';
 import { usePersisted } from './store.js';
 import { Icon } from './ui.jsx';
 import MyTeams from './screens/MyTeams.jsx';
@@ -46,8 +47,10 @@ export default function App() {
       setTeams((await getJson('teams.json')) ?? []);
       setTick((t) => t + 1);
       setError(null);
+      hideSplash();
     } catch (e) {
       setError('Could not load data. Check your connection and try again.');
+      hideSplash();
     }
   }, []);
 
