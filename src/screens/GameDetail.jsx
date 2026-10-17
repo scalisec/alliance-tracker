@@ -29,6 +29,7 @@ export default function GameDetail({ ctx, divId, gameId }) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [waiting]);
 
+  const [showGs, setShowGs] = useState(false);
   const gsSeason = game?.gamesheet?.season ?? ctx.meta?.gamesheetSeasons?.[div?.level] ?? null;
   const gsUrl = game?.gamesheet
     ? `https://gamesheetstats.com/seasons/${game.gamesheet.season}/games/${game.gamesheet.game}`
@@ -79,6 +80,28 @@ export default function GameDetail({ ctx, divId, gameId }) {
                 <a className="ghost" target="_blank" rel="noopener noreferrer" href={`https://alliancehockey.com/Groups/${divId}/Games/${gameId}/`}>Alliance game page ↗</a>
               </div>
             </section>
+            {gsUrl && (state === 'live' || state === 'awaiting' || state === 'final') && (
+              <section className="card gs-embed">
+                <button className="gs-toggle" onClick={() => setShowGs((v) => !v)} aria-expanded={showGs}>
+                  <span>{state === 'final' ? 'Box score from GameSheet' : `Live on GameSheet${game.gamesheet ? '' : ` · ${div?.name} games`}`}</span>
+                  <span className="chev" style={{ transform: showGs ? 'rotate(90deg)' : 'none' }}><Icon.chev size={18} /></span>
+                </button>
+                {showGs && (
+                  <>
+                    <iframe
+                      title="GameSheet"
+                      src={embedUrl(gsUrl)}
+                      loading="lazy"
+                      referrerPolicy="strict-origin-when-cross-origin"
+                    />
+                    <div className="gs-foot">
+                      <span>Blank or error above? GameSheet may not allow showing it here.</span>
+                      <a href={gsUrl} target="_blank" rel="noopener noreferrer">Open in GameSheet ↗</a>
+                    </div>
+                  </>
+                )}
+              </section>
+            )}
             <p className="legend" style={{ textAlign: 'center' }}>
               {state === 'final' ? 'Scorers, assists and penalties open on GameSheet.'
                 : state === 'live' ? 'GameSheet shows live scoring when the scorekeeper uses the GameSheet app.'
@@ -107,4 +130,12 @@ function boxScoreUrl(game, divId) {
   return game.gamesheet
     ? `https://gamesheetstats.com/seasons/${game.gamesheet.season}/games/${game.gamesheet.game}`
     : `https://alliancehockey.com/Groups/${divId}/Games/${game.id}/`;
+}
+
+// GameSheet's embed mode (what alliancehockey.com uses): no site navigation,
+// no outbound links, Alliance navy as the accent colour.
+function embedUrl(url) {
+  const q = 'configuration%5Bnavigation%5D=false&configuration%5Blinks%5D=false'
+    + '&configuration%5Bprimary-colour%5D=043B83&configuration%5Bsecondary-colour%5D=777777';
+  return url + (url.includes('?') ? '&' : '?') + q;
 }
