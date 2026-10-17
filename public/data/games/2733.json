@@ -374,14 +374,17 @@
   "start": "2026-10-17T17:30:00-04:00",
   "away": "Waterloo Wolves Gold",
   "home": "West London Hawks Gold",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Bostwick (B)",
   "code": "U18BR105",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5026/2026-10-17/17:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3078731
+  }
  },
  {
   "id": 2379050,

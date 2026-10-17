@@ -2358,21 +2358,21 @@
   "mhr": null
  },
  {
-  "id": "2729:kitchener-jr-rangers-blue",
-  "name": "Kitchener Jr Rangers Blue",
-  "divisionId": 2729,
-  "division": "U16 AA-A",
-  "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
- },
- {
   "id": "2729:london-jr-knights-white",
   "name": "London Jr Knights White",
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": "London Jr Knights",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+  "mhr": null
+ },
+ {
+  "id": "2729:kitchener-jr-rangers-blue",
+  "name": "Kitchener Jr Rangers Blue",
+  "divisionId": 2729,
+  "division": "U16 AA-A",
+  "association": "Kitchener Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
   "mhr": null
  },
  {
@@ -2718,6 +2718,15 @@
   "mhr": null
  },
  {
+  "id": "2733:west-london-hawks-gold",
+  "name": "West London Hawks Gold",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
+  "mhr": null
+ },
+ {
   "id": "2733:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2733,
@@ -2765,15 +2774,6 @@
  {
   "id": "2733:west-london-hawks-black",
   "name": "West London Hawks Black",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-  "mhr": null
- },
- {
-  "id": "2733:west-london-hawks-gold",
-  "name": "West London Hawks Gold",
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Greater London Hockey Association",
