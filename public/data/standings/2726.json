@@ -1,6 +1,6 @@
 {
  "divisionId": 2726,
- "updatedAt": "2026-10-17T22:26:32.831Z",
+ "updatedAt": "2026-10-17T22:46:38.757Z",
  "regular": [
   {
    "name": "",
@@ -34,6 +34,21 @@
      "diff": 8,
      "l10": "3-1",
      "strk": "L1"
+    },
+    {
+     "team": "Mt. Brydges Cougars",
+     "teamId": "odb-97290",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
+     "gp": 4,
+     "w": 2,
+     "l": 1,
+     "t": 1,
+     "pts": 5,
+     "gf": 16,
+     "ga": 8,
+     "diff": 8,
+     "l10": "2-1-1",
+     "strk": "W1"
     },
     {
      "team": "London Jr Knights Green",
@@ -93,21 +108,6 @@
      "ga": 23,
      "diff": -6,
      "l10": "2-4",
-     "strk": "L1"
-    },
-    {
-     "team": "Mt. Brydges Cougars",
-     "teamId": "odb-97290",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-     "gp": 3,
-     "w": 1,
-     "l": 1,
-     "t": 1,
-     "pts": 3,
-     "gf": 10,
-     "ga": 7,
-     "diff": 3,
-     "l10": "1-1-1",
      "strk": "L1"
     },
     {
@@ -189,16 +189,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-97098",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 3,
+     "gp": 4,
      "w": 0,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 0,
-     "gf": 5,
-     "ga": 14,
-     "diff": -9,
-     "l10": "0-3",
-     "strk": "L3"
+     "gf": 6,
+     "ga": 20,
+     "diff": -14,
+     "l10": "0-4",
+     "strk": "L4"
     }
    ]
   }

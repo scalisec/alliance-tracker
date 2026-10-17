@@ -1,6 +1,6 @@
 {
  "divisionId": 2729,
- "updatedAt": "2026-10-17T22:27:32.812Z",
+ "updatedAt": "2026-10-17T22:47:58.792Z",
  "regular": [
   {
    "name": "",
@@ -21,6 +21,21 @@
      "strk": "T1"
     },
     {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97102",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 6,
+     "w": 4,
+     "l": 1,
+     "t": 1,
+     "pts": 9,
+     "gf": 20,
+     "ga": 13,
+     "diff": 7,
+     "l10": "4-1-1",
+     "strk": "W1"
+    },
+    {
      "team": "Waterloo Wolves",
      "teamId": "odb-97109",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
@@ -39,31 +54,16 @@
      "team": "London Jr Knights Green",
      "teamId": "odb-97105",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 4,
+     "gp": 5,
      "w": 4,
-     "l": 0,
+     "l": 1,
      "t": 0,
      "pts": 8,
-     "gf": 26,
-     "ga": 6,
-     "diff": 20,
-     "l10": "4-0",
-     "strk": "W4"
-    },
-    {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97102",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 5,
-     "w": 3,
-     "l": 1,
-     "t": 1,
-     "pts": 7,
-     "gf": 18,
-     "ga": 12,
-     "diff": 6,
-     "l10": "3-1-1",
-     "strk": "T1"
+     "gf": 27,
+     "ga": 8,
+     "diff": 19,
+     "l10": "4-1",
+     "strk": "L1"
     },
     {
      "team": "Stratford Warriors",

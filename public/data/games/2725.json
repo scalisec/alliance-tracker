@@ -473,14 +473,17 @@
   "start": "2026-10-17T16:30:00-04:00",
   "away": "Chatham-Kent Cyclones",
   "home": "Sarnia-Lambton Jr Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Sarnia PASA (Rink 1)",
   "code": "U15P147",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-10-17/16:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3078380
+  }
  },
  {
   "id": 2374877,

@@ -395,14 +395,17 @@
   "start": "2026-10-17T16:30:00-04:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 12,
+  "status": "final",
   "venue": "Gretzky Center (#4)",
   "code": "U15BR67",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4548/2026-10-17/16:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3078090
+  }
  },
  {
   "id": 2378914,

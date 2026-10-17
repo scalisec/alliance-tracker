@@ -1359,6 +1359,15 @@
   "mhr": null
  },
  {
+  "id": "2721:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2721,
+  "division": "U13 BB",
+  "association": "Brantford Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+  "mhr": null
+ },
+ {
   "id": "2721:burlington-bulldogs-blue",
   "name": "Burlington Bulldogs Blue",
   "divisionId": 2721,
@@ -1374,15 +1383,6 @@
   "division": "U13 BB",
   "association": "Sarnia Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
- },
- {
-  "id": "2721:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2721,
-  "division": "U13 BB",
-  "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
   "mhr": null
  },
  {
@@ -1710,6 +1710,15 @@
   "mhr": null
  },
  {
+  "id": "2724:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2724,
+  "division": "U14 BB",
+  "association": "Waterloo Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+  "mhr": null
+ },
+ {
   "id": "2724:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2724,
@@ -1752,15 +1761,6 @@
   "division": "U14 BB",
   "association": null,
   "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-  "mhr": null
- },
- {
-  "id": "2724:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2724,
-  "division": "U14 BB",
-  "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
   "mhr": null
  },
  {
@@ -1836,6 +1836,15 @@
   "mhr": null
  },
  {
+  "id": "2725:chatham-kent-cyclones",
+  "name": "Chatham-Kent Cyclones",
+  "divisionId": 2725,
+  "division": "U15 AAA",
+  "association": "Chatham-Kent Cyclones",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
+  "mhr": null
+ },
+ {
   "id": "2725:sault-major-jr-greyhounds",
   "name": "Sault Major Jr Greyhounds",
   "divisionId": 2725,
@@ -1860,15 +1869,6 @@
   "division": "U15 AAA",
   "association": "Lambton Jr Sting",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-  "mhr": null
- },
- {
-  "id": "2725:chatham-kent-cyclones",
-  "name": "Chatham-Kent Cyclones",
-  "divisionId": 2725,
-  "division": "U15 AAA",
-  "association": "Chatham-Kent Cyclones",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
   "mhr": null
  },
  {
@@ -1944,6 +1944,15 @@
   "mhr": null
  },
  {
+  "id": "2726:mt-brydges-cougars",
+  "name": "Mt. Brydges Cougars",
+  "divisionId": 2726,
+  "division": "U15 AA-A",
+  "association": null,
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
+  "mhr": null
+ },
+ {
   "id": "2726:london-jr-knights-green",
   "name": "London Jr Knights Green",
   "divisionId": 2726,
@@ -1977,15 +1986,6 @@
   "division": "U15 AA-A",
   "association": "Woodstock Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
- },
- {
-  "id": "2726:mt-brydges-cougars",
-  "name": "Mt. Brydges Cougars",
-  "divisionId": 2726,
-  "division": "U15 AA-A",
-  "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
   "mhr": null
  },
  {
@@ -2043,6 +2043,15 @@
   "mhr": null
  },
  {
+  "id": "2727:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Brantford Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+  "mhr": null
+ },
+ {
   "id": "2727:oakridge-aeros",
   "name": "Oakridge Aeros",
   "divisionId": 2727,
@@ -2067,15 +2076,6 @@
   "division": "U15 BB",
   "association": null,
   "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-  "mhr": null
- },
- {
-  "id": "2727:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
   "mhr": null
  },
  {
@@ -2286,6 +2286,15 @@
   "mhr": null
  },
  {
+  "id": "2729:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2729,
+  "division": "U16 AA-A",
+  "association": "Brantford Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+  "mhr": null
+ },
+ {
   "id": "2729:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2729,
@@ -2301,15 +2310,6 @@
   "division": "U16 AA-A",
   "association": "London Jr Knights",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
- },
- {
-  "id": "2729:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2729,
-  "division": "U16 AA-A",
-  "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
   "mhr": null
  },
  {
