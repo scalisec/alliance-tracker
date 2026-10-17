@@ -252,6 +252,15 @@
   "mhr": null
  },
  {
+  "id": "2712:cambridge-hawks",
+  "name": "Cambridge Hawks",
+  "divisionId": 2712,
+  "division": "U10 BB",
+  "association": "Cambridge Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+  "mhr": null
+ },
+ {
   "id": "2712:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2712,
@@ -267,15 +276,6 @@
   "division": "U10 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
- },
- {
-  "id": "2712:cambridge-hawks",
-  "name": "Cambridge Hawks",
-  "divisionId": 2712,
-  "division": "U10 BB",
-  "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
   "mhr": null
  },
  {
@@ -477,6 +477,15 @@
   "mhr": null
  },
  {
+  "id": "2713:london-jr-knights",
+  "name": "London Jr Knights",
+  "divisionId": 2713,
+  "division": "U11 AAA",
+  "association": "London Jr Knights",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+  "mhr": null
+ },
+ {
   "id": "2713:chatham-kent-cyclones",
   "name": "Chatham-Kent Cyclones",
   "divisionId": 2713,
@@ -492,15 +501,6 @@
   "division": "U11 AAA",
   "association": "Lambton Jr Sting",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-  "mhr": null
- },
- {
-  "id": "2713:london-jr-knights",
-  "name": "London Jr Knights",
-  "divisionId": 2713,
-  "division": "U11 AAA",
-  "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
   "mhr": null
  },
  {
@@ -621,6 +621,15 @@
   "mhr": null
  },
  {
+  "id": "2715:burlington-bulldogs-gold",
+  "name": "Burlington Bulldogs Gold",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+  "mhr": null
+ },
+ {
   "id": "2715:burlington-bulldogs-blue",
   "name": "Burlington Bulldogs Blue",
   "divisionId": 2715,
@@ -666,21 +675,21 @@
   "mhr": null
  },
  {
-  "id": "2715:burlington-bulldogs-gold",
-  "name": "Burlington Bulldogs Gold",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
- },
- {
   "id": "2715:woodstock-jr-navy-vets",
   "name": "Woodstock Jr Navy Vets",
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Woodstock Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+  "mhr": null
+ },
+ {
+  "id": "2715:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Brantford Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
   "mhr": null
  },
  {
@@ -699,15 +708,6 @@
   "division": "U11 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
- },
- {
-  "id": "2715:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
   "mhr": null
  },
  {
@@ -864,6 +864,24 @@
   "mhr": null
  },
  {
+  "id": "2717:stratford-warriors",
+  "name": "Stratford Warriors",
+  "divisionId": 2717,
+  "division": "U12 AA-A",
+  "association": "Stratford Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
+  "mhr": null
+ },
+ {
+  "id": "2717:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2717,
+  "division": "U12 AA-A",
+  "association": "Sarnia Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+  "mhr": null
+ },
+ {
   "id": "2717:london-jr-knights-white",
   "name": "London Jr Knights White",
   "divisionId": 2717,
@@ -900,30 +918,12 @@
   "mhr": null
  },
  {
-  "id": "2717:stratford-warriors",
-  "name": "Stratford Warriors",
-  "divisionId": 2717,
-  "division": "U12 AA-A",
-  "association": "Stratford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-  "mhr": null
- },
- {
   "id": "2717:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2717,
   "division": "U12 AA-A",
   "association": null,
   "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-  "mhr": null
- },
- {
-  "id": "2717:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2717,
-  "division": "U12 AA-A",
-  "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
   "mhr": null
  },
  {
@@ -1008,6 +1008,15 @@
   "mhr": null
  },
  {
+  "id": "2718:london-bandits",
+  "name": "London Bandits",
+  "divisionId": 2718,
+  "division": "U12 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
+  "mhr": null
+ },
+ {
   "id": "2718:oakridge-aeros",
   "name": "Oakridge Aeros",
   "divisionId": 2718,
@@ -1041,15 +1050,6 @@
   "division": "U12 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
- },
- {
-  "id": "2718:london-bandits",
-  "name": "London Bandits",
-  "divisionId": 2718,
-  "division": "U12 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
   "mhr": null
  },
  {

@@ -488,14 +488,17 @@
   "start": "2026-10-16T18:30:00-04:00",
   "away": "Stratford Warriors",
   "home": "Burlington Bulldogs White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Appleby (3)",
   "code": "U14BR43",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-10-16/18:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3076810
+  }
  },
  {
   "id": 2378166,

@@ -383,14 +383,17 @@
   "start": "2026-10-17T13:15:00-04:00",
   "away": "Oakridge Aeros",
   "home": "Burlington Bulldogs Gold",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 11,
+  "status": "final",
   "venue": "Appleby (3)",
   "code": "U11BR55",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-10-17/13:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3078130
+  }
  },
  {
   "id": 2379398,

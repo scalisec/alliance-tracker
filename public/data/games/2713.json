@@ -218,14 +218,17 @@
   "start": "2026-10-17T13:20:00-04:00",
   "away": "Chatham-Kent Cyclones",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Nichols (C)",
   "code": "U11P128",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3078237
+  }
  },
  {
   "id": 2373744,
