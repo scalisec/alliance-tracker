@@ -1,6 +1,6 @@
 {
  "divisionId": 2724,
- "updatedAt": "2026-10-17T23:26:23.198Z",
+ "updatedAt": "2026-10-17T23:51:46.638Z",
  "regular": [
   {
    "name": "",
@@ -159,16 +159,16 @@
      "team": "Oakridge Aeros",
      "teamId": "odb-97248",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 3,
-     "w": 1,
+     "gp": 4,
+     "w": 2,
      "l": 2,
      "t": 0,
-     "pts": 2,
-     "gf": 3,
-     "ga": 16,
-     "diff": -13,
-     "l10": "1-2",
-     "strk": "W1"
+     "pts": 4,
+     "gf": 8,
+     "ga": 17,
+     "diff": -9,
+     "l10": "2-2",
+     "strk": "W2"
     },
     {
      "team": "West London Hawks",
@@ -234,16 +234,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97247",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 3,
+     "gp": 4,
      "w": 0,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 0,
-     "gf": 1,
-     "ga": 20,
-     "diff": -19,
-     "l10": "0-3",
-     "strk": "L3"
+     "gf": 2,
+     "ga": 25,
+     "diff": -23,
+     "l10": "0-4",
+     "strk": "L4"
     }
    ]
   }

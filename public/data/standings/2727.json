@@ -1,6 +1,6 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-10-17T23:27:03.166Z",
+ "updatedAt": "2026-10-17T23:52:56.475Z",
  "regular": [
   {
    "name": "",
@@ -34,6 +34,21 @@
      "diff": 13,
      "l10": "3-1",
      "strk": "W3"
+    },
+    {
+     "team": "West London Hawks",
+     "teamId": "odb-97257",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
+     "gp": 4,
+     "w": 3,
+     "l": 1,
+     "t": 0,
+     "pts": 6,
+     "gf": 18,
+     "ga": 9,
+     "diff": 9,
+     "l10": "3-1",
+     "strk": "W1"
     },
     {
      "team": "Burlington Raiders",
@@ -96,36 +111,6 @@
      "strk": "W2"
     },
     {
-     "team": "London Bandits",
-     "teamId": "odb-97255",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 3,
-     "w": 2,
-     "l": 1,
-     "t": 0,
-     "pts": 4,
-     "gf": 8,
-     "ga": 7,
-     "diff": 1,
-     "l10": "2-1",
-     "strk": "L1"
-    },
-    {
-     "team": "West London Hawks",
-     "teamId": "odb-97257",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 3,
-     "w": 2,
-     "l": 1,
-     "t": 0,
-     "pts": 4,
-     "gf": 10,
-     "ga": 9,
-     "diff": 1,
-     "l10": "2-1",
-     "strk": "L1"
-    },
-    {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97252",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -139,6 +124,21 @@
      "diff": 1,
      "l10": "2-2",
      "strk": "W2"
+    },
+    {
+     "team": "London Bandits",
+     "teamId": "odb-97255",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
+     "gp": 4,
+     "w": 2,
+     "l": 2,
+     "t": 0,
+     "pts": 4,
+     "gf": 8,
+     "ga": 15,
+     "diff": -7,
+     "l10": "2-2",
+     "strk": "L2"
     },
     {
      "team": "Waterloo Wolves",

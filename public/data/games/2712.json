@@ -527,14 +527,17 @@
   "start": "2026-10-17T18:00:00-04:00",
   "away": "London Bandits",
   "home": "Elgin-Thames 73s",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 0,
+  "status": "final",
   "venue": "FlightExec Centre (APC)",
   "code": "U10BRS-109",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15516,
+   "game": 3078737
+  }
  },
  {
   "id": 2411518,

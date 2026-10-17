@@ -1845,15 +1845,6 @@
   "mhr": null
  },
  {
-  "id": "2725:sault-major-jr-greyhounds",
-  "name": "Sault Major Jr Greyhounds",
-  "divisionId": 2725,
-  "division": "U15 AAA",
-  "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png",
-  "mhr": null
- },
- {
   "id": "2725:huron-perth-lakers",
   "name": "Huron-Perth Lakers",
   "divisionId": 2725,
@@ -1872,12 +1863,12 @@
   "mhr": null
  },
  {
-  "id": "2725:elgin-middlesex-canucks",
-  "name": "Elgin-Middlesex Canucks",
+  "id": "2725:sault-major-jr-greyhounds",
+  "name": "Sault Major Jr Greyhounds",
   "divisionId": 2725,
   "division": "U15 AAA",
-  "association": "Elgin-Middlesex Canucks",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+  "association": null,
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png",
   "mhr": null
  },
  {
@@ -1887,6 +1878,24 @@
   "division": "U15 AAA",
   "association": "Sun County Panthers",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
+  "mhr": null
+ },
+ {
+  "id": "2725:elgin-middlesex-canucks",
+  "name": "Elgin-Middlesex Canucks",
+  "divisionId": 2725,
+  "division": "U15 AAA",
+  "association": "Elgin-Middlesex Canucks",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+  "mhr": null
+ },
+ {
+  "id": "2725:cambridge-hawks",
+  "name": "Cambridge Hawks",
+  "divisionId": 2725,
+  "division": "U15 AAA",
+  "association": "Cambridge Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
   "mhr": null
  },
  {
@@ -1905,15 +1914,6 @@
   "division": "U15 AAA",
   "association": "London Jr Knights",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
- },
- {
-  "id": "2725:cambridge-hawks",
-  "name": "Cambridge Hawks",
-  "divisionId": 2725,
-  "division": "U15 AAA",
-  "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
   "mhr": null
  },
  {
@@ -2061,6 +2061,15 @@
   "mhr": null
  },
  {
+  "id": "2727:west-london-hawks",
+  "name": "West London Hawks",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
+  "mhr": null
+ },
+ {
   "id": "2727:burlington-raiders",
   "name": "Burlington Raiders",
   "divisionId": 2727,
@@ -2097,30 +2106,21 @@
   "mhr": null
  },
  {
-  "id": "2727:london-bandits",
-  "name": "London Bandits",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-  "mhr": null
- },
- {
-  "id": "2727:west-london-hawks",
-  "name": "West London Hawks",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-  "mhr": null
- },
- {
   "id": "2727:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Kitchener Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+  "mhr": null
+ },
+ {
+  "id": "2727:london-bandits",
+  "name": "London Bandits",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
   "mhr": null
  },
  {

@@ -578,14 +578,17 @@
   "start": "2026-10-17T17:45:00-04:00",
   "away": "Oakridge Aeros",
   "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Mr Lube + Tires (Red)",
   "code": "U14BR8",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/241/2026-10-17/17:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3078794
+  }
  },
  {
   "id": 2378207,

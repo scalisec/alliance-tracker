@@ -413,14 +413,17 @@
   "start": "2026-10-17T18:00:00-04:00",
   "away": "London Bandits",
   "home": "West London Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 8,
+  "status": "final",
   "venue": "Bostwick (A)",
   "code": "U15BR58",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5025/2026-10-17/18:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3078736
+  }
  },
  {
   "id": 2378877,
