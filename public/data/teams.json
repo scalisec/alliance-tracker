@@ -1962,6 +1962,15 @@
   "mhr": null
  },
  {
+  "id": "2726:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2726,
+  "division": "U15 AA-A",
+  "association": "Sarnia Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+  "mhr": null
+ },
+ {
   "id": "2726:woodstock-jr-navy-vets",
   "name": "Woodstock Jr Navy Vets",
   "divisionId": 2726,
@@ -1989,15 +1998,6 @@
   "mhr": null
  },
  {
-  "id": "2726:burlington-raiders",
-  "name": "Burlington Raiders",
-  "divisionId": 2726,
-  "division": "U15 AA-A",
-  "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-  "mhr": null
- },
- {
   "id": "2726:cambridge-hawks",
   "name": "Cambridge Hawks",
   "divisionId": 2726,
@@ -2007,12 +2007,12 @@
   "mhr": null
  },
  {
-  "id": "2726:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
+  "id": "2726:burlington-raiders",
+  "name": "Burlington Raiders",
   "divisionId": 2726,
   "division": "U15 AA-A",
-  "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+  "association": "Burlington Raiders Hockey Club",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
   "mhr": null
  },
  {

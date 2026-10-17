@@ -329,14 +329,17 @@
   "start": "2026-10-17T14:45:00-04:00",
   "away": "Burlington Raiders",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Clearwater (Red)",
   "code": "U15S57",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3078111
+  }
  },
  {
   "id": 2375748,
