@@ -1,6 +1,6 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-10-17T20:33:15.616Z",
+ "updatedAt": "2026-10-17T20:54:26.632Z",
  "regular": [
   {
    "name": "",
@@ -49,6 +49,21 @@
      "diff": 2,
      "l10": "2-1-1",
      "strk": "W1"
+    },
+    {
+     "team": "Sarnia Jr. Sting",
+     "teamId": "odb-97258",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+     "gp": 2,
+     "w": 2,
+     "l": 0,
+     "t": 0,
+     "pts": 4,
+     "gf": 10,
+     "ga": 3,
+     "diff": 7,
+     "l10": "2-0",
+     "strk": "W2"
     },
     {
      "team": "North London Nationals",
@@ -141,21 +156,6 @@
      "strk": "W1"
     },
     {
-     "team": "Sarnia Jr. Sting",
-     "teamId": "odb-97258",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 1,
-     "w": 1,
-     "l": 0,
-     "t": 0,
-     "pts": 2,
-     "gf": 4,
-     "ga": 2,
-     "diff": 2,
-     "l10": "1-0",
-     "strk": "W1"
-    },
-    {
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-97263",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
@@ -204,16 +204,16 @@
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97259",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 4,
+     "gp": 5,
      "w": 0,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 0,
-     "gf": 4,
-     "ga": 18,
-     "diff": -14,
-     "l10": "0-4",
-     "strk": "L4"
+     "gf": 5,
+     "ga": 24,
+     "diff": -19,
+     "l10": "0-5",
+     "strk": "L5"
     }
    ]
   }

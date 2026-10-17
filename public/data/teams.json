@@ -1026,6 +1026,15 @@
   "mhr": null
  },
  {
+  "id": "2718:west-london-hawks",
+  "name": "West London Hawks",
+  "divisionId": 2718,
+  "division": "U12 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
+  "mhr": null
+ },
+ {
   "id": "2718:burlington-raiders",
   "name": "Burlington Raiders",
   "divisionId": 2718,
@@ -1068,15 +1077,6 @@
   "division": "U12 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
- },
- {
-  "id": "2718:west-london-hawks",
-  "name": "West London Hawks",
-  "divisionId": 2718,
-  "division": "U12 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
   "mhr": null
  },
  {
@@ -2070,6 +2070,15 @@
   "mhr": null
  },
  {
+  "id": "2727:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Sarnia Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+  "mhr": null
+ },
+ {
   "id": "2727:north-london-nationals",
   "name": "North London Nationals",
   "divisionId": 2727,
@@ -2121,15 +2130,6 @@
   "division": "U15 BB",
   "association": "Waterloo Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
- },
- {
-  "id": "2727:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
   "mhr": null
  },
  {

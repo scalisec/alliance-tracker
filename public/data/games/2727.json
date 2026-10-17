@@ -359,14 +359,17 @@
   "start": "2026-10-17T15:00:00-04:00",
   "away": "Burlington Bulldogs Blue",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Pat Stapleton Arena (Pat Stapleton Arena)",
   "code": "U15BR29",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4699/2026-10-17/15:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3078088
+  }
  },
  {
   "id": 2378849,
