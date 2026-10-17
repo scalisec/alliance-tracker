@@ -1359,6 +1359,15 @@
   "mhr": null
  },
  {
+  "id": "2721:burlington-bulldogs-blue",
+  "name": "Burlington Bulldogs Blue",
+  "divisionId": 2721,
+  "division": "U13 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+  "mhr": null
+ },
+ {
   "id": "2721:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2721,
@@ -1374,15 +1383,6 @@
   "division": "U13 BB",
   "association": "Brantford Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
- },
- {
-  "id": "2721:burlington-bulldogs-blue",
-  "name": "Burlington Bulldogs Blue",
-  "divisionId": 2721,
-  "division": "U13 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
   "mhr": null
  },
  {
@@ -1458,6 +1458,15 @@
   "mhr": null
  },
  {
+  "id": "2722:huron-perth-lakers",
+  "name": "Huron-Perth Lakers",
+  "divisionId": 2722,
+  "division": "U14 AAA",
+  "association": "Huron-Perth Lakers",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
+  "mhr": null
+ },
+ {
   "id": "2722:windsor-jr-spitfires",
   "name": "Windsor Jr Spitfires",
   "divisionId": 2722,
@@ -1473,15 +1482,6 @@
   "division": "U14 AAA",
   "association": "London Jr Knights",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
- },
- {
-  "id": "2722:huron-perth-lakers",
-  "name": "Huron-Perth Lakers",
-  "divisionId": 2722,
-  "division": "U14 AAA",
-  "association": "Huron-Perth Lakers",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
   "mhr": null
  },
  {
@@ -1710,6 +1710,15 @@
   "mhr": null
  },
  {
+  "id": "2724:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2724,
+  "division": "U14 BB",
+  "association": "Sarnia Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+  "mhr": null
+ },
+ {
   "id": "2724:woodstock-jr-navy-vets",
   "name": "Woodstock Jr Navy Vets",
   "divisionId": 2724,
@@ -1752,15 +1761,6 @@
   "division": "U14 BB",
   "association": "Brantford Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
- },
- {
-  "id": "2724:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2724,
-  "division": "U14 BB",
-  "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
   "mhr": null
  },
  {

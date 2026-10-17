@@ -1,6 +1,6 @@
 {
  "divisionId": 2724,
- "updatedAt": "2026-10-17T19:27:37.350Z",
+ "updatedAt": "2026-10-17T19:48:09.216Z",
  "regular": [
   {
    "name": "",
@@ -64,6 +64,21 @@
      "diff": 9,
      "l10": "3-1",
      "strk": "L1"
+    },
+    {
+     "team": "Sarnia Jr. Sting",
+     "teamId": "odb-97243",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+     "gp": 3,
+     "w": 2,
+     "l": 0,
+     "t": 1,
+     "pts": 5,
+     "gf": 20,
+     "ga": 3,
+     "diff": 17,
+     "l10": "2-0-1",
+     "strk": "W2"
     },
     {
      "team": "Woodstock Jr Navy Vets",
@@ -141,21 +156,6 @@
      "strk": "L2"
     },
     {
-     "team": "Sarnia Jr. Sting",
-     "teamId": "odb-97243",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 2,
-     "w": 1,
-     "l": 0,
-     "t": 1,
-     "pts": 3,
-     "gf": 12,
-     "ga": 3,
-     "diff": 9,
-     "l10": "1-0-1",
-     "strk": "W1"
-    },
-    {
      "team": "Oakridge Aeros",
      "teamId": "odb-97248",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
@@ -219,16 +219,16 @@
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97245",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 6,
+     "gp": 7,
      "w": 0,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 0,
      "gf": 7,
-     "ga": 45,
-     "diff": -38,
-     "l10": "0-6",
-     "strk": "L6"
+     "ga": 53,
+     "diff": -46,
+     "l10": "0-7",
+     "strk": "L7"
     },
     {
      "team": "Burlington Raiders",

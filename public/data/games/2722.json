@@ -455,14 +455,17 @@
   "start": "2026-10-17T14:00:00-04:00",
   "away": "Chatham-Kent Cyclones",
   "home": "Huron-Perth Lakers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 11,
+  "status": "final",
   "venue": "PERC (PERC)",
   "code": "U14P117",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4939/2026-10-17/14:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3078347
+  }
  },
  {
   "id": 2374829,
