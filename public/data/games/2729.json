@@ -440,14 +440,17 @@
   "start": "2026-10-17T16:20:00-04:00",
   "away": "Brantford 99ers",
   "home": "London Jr Knights Green",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Nichols (C)",
   "code": "U16S190",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3078118
+  }
  },
  {
   "id": 2375879,
