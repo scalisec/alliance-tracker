@@ -963,6 +963,15 @@
   "mhr": null
  },
  {
+  "id": "2718:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2718,
+  "division": "U12 BB",
+  "association": "Woodstock Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+  "mhr": null
+ },
+ {
   "id": "2718:burlington-bulldogs-gold",
   "name": "Burlington Bulldogs Gold",
   "divisionId": 2718,
@@ -978,15 +987,6 @@
   "division": "U12 BB",
   "association": "Kitchener Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
- },
- {
-  "id": "2718:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2718,
-  "division": "U12 BB",
-  "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
   "mhr": null
  },
  {
@@ -1332,15 +1332,6 @@
   "mhr": null
  },
  {
-  "id": "2721:stratford-warriors",
-  "name": "Stratford Warriors",
-  "divisionId": 2721,
-  "division": "U13 BB",
-  "association": "Stratford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-  "mhr": null
- },
- {
   "id": "2721:burlington-raiders",
   "name": "Burlington Raiders",
   "divisionId": 2721,
@@ -1350,12 +1341,12 @@
   "mhr": null
  },
  {
-  "id": "2721:oakridge-aeros",
-  "name": "Oakridge Aeros",
+  "id": "2721:stratford-warriors",
+  "name": "Stratford Warriors",
   "divisionId": 2721,
   "division": "U13 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
+  "association": "Stratford Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
   "mhr": null
  },
  {
@@ -1374,6 +1365,15 @@
   "division": "U13 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+  "mhr": null
+ },
+ {
+  "id": "2721:oakridge-aeros",
+  "name": "Oakridge Aeros",
+  "divisionId": 2721,
+  "division": "U13 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
   "mhr": null
  },
  {
@@ -1575,6 +1575,15 @@
   "mhr": null
  },
  {
+  "id": "2723:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2723,
+  "division": "U14 AA-A",
+  "association": null,
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+  "mhr": null
+ },
+ {
   "id": "2723:kitchener-jr-rangers-red",
   "name": "Kitchener Jr Rangers Red",
   "divisionId": 2723,
@@ -1599,15 +1608,6 @@
   "division": "U14 AA-A",
   "association": "Stratford Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-  "mhr": null
- },
- {
-  "id": "2723:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2723,
-  "division": "U14 AA-A",
-  "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
   "mhr": null
  },
  {

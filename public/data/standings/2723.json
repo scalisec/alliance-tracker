@@ -1,6 +1,6 @@
 {
  "divisionId": 2723,
- "updatedAt": "2026-10-17T23:05:58.134Z",
+ "updatedAt": "2026-10-17T23:25:53.264Z",
  "regular": [
   {
    "name": "",
@@ -34,6 +34,21 @@
      "diff": 9,
      "l10": "3-1-1",
      "strk": "T1"
+    },
+    {
+     "team": "St. Thomas Jr Stars",
+     "teamId": "odb-97088",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "gp": 5,
+     "w": 2,
+     "l": 0,
+     "t": 3,
+     "pts": 7,
+     "gf": 21,
+     "ga": 9,
+     "diff": 12,
+     "l10": "2-0-3",
+     "strk": "W2"
     },
     {
      "team": "Kitchener Jr Rangers Red",
@@ -78,21 +93,6 @@
      "ga": 9,
      "diff": 3,
      "l10": "2-2-1",
-     "strk": "W1"
-    },
-    {
-     "team": "St. Thomas Jr Stars",
-     "teamId": "odb-97088",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 4,
-     "w": 1,
-     "l": 0,
-     "t": 3,
-     "pts": 5,
-     "gf": 10,
-     "ga": 8,
-     "diff": 2,
-     "l10": "1-0-3",
      "strk": "W1"
     },
     {
@@ -189,16 +189,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97089",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 3,
+     "gp": 4,
      "w": 0,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 0,
-     "gf": 3,
-     "ga": 25,
-     "diff": -22,
-     "l10": "0-3",
-     "strk": "L3"
+     "gf": 4,
+     "ga": 36,
+     "diff": -32,
+     "l10": "0-4",
+     "strk": "L4"
     }
    ]
   }

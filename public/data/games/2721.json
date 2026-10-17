@@ -470,14 +470,17 @@
   "start": "2026-10-17T18:00:00-04:00",
   "away": "Burlington Raiders",
   "home": "Oakridge Aeros",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Oakridge (Oakridge)",
   "code": "U13BR63",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5029/2026-10-17/18:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3078809
+  }
  },
  {
   "id": 2378077,
