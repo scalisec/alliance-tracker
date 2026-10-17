@@ -747,6 +747,15 @@
   "mhr": null
  },
  {
+  "id": "2716:kitchener-jr-rangers",
+  "name": "Kitchener Jr Rangers",
+  "divisionId": 2716,
+  "division": "U12 AAA",
+  "association": "Kitchener Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+  "mhr": null
+ },
+ {
   "id": "2716:sarnia-lambton-jr-sting",
   "name": "Sarnia-Lambton Jr Sting",
   "divisionId": 2716,
@@ -780,15 +789,6 @@
   "division": "U12 AAA",
   "association": "Windsor AAA Zone",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-  "mhr": null
- },
- {
-  "id": "2716:kitchener-jr-rangers",
-  "name": "Kitchener Jr Rangers",
-  "divisionId": 2716,
-  "division": "U12 AAA",
-  "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
   "mhr": null
  },
  {
@@ -1557,8 +1557,8 @@
   "mhr": null
  },
  {
-  "id": "2723:london-jr-knights-white",
-  "name": "London Jr Knights White",
+  "id": "2723:london-jr-knights-green",
+  "name": "London Jr Knights Green",
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": "London Jr Knights",
@@ -1566,8 +1566,8 @@
   "mhr": null
  },
  {
-  "id": "2723:london-jr-knights-green",
-  "name": "London Jr Knights Green",
+  "id": "2723:london-jr-knights-white",
+  "name": "London Jr Knights White",
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": "London Jr Knights",
@@ -1845,6 +1845,15 @@
   "mhr": null
  },
  {
+  "id": "2725:huron-perth-lakers",
+  "name": "Huron-Perth Lakers",
+  "divisionId": 2725,
+  "division": "U15 AAA",
+  "association": "Huron-Perth Lakers",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
+  "mhr": null
+ },
+ {
   "id": "2725:sarnia-lambton-jr-sting",
   "name": "Sarnia-Lambton Jr Sting",
   "divisionId": 2725,
@@ -1878,15 +1887,6 @@
   "division": "U15 AAA",
   "association": "Sun County Panthers",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-  "mhr": null
- },
- {
-  "id": "2725:huron-perth-lakers",
-  "name": "Huron-Perth Lakers",
-  "divisionId": 2725,
-  "division": "U15 AAA",
-  "association": "Huron-Perth Lakers",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
   "mhr": null
  },
  {
@@ -2115,6 +2115,15 @@
   "mhr": null
  },
  {
+  "id": "2727:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Waterloo Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+  "mhr": null
+ },
+ {
   "id": "2727:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2727,
@@ -2130,15 +2139,6 @@
   "division": "U15 BB",
   "association": "Woodstock Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
- },
- {
-  "id": "2727:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
   "mhr": null
  },
  {
@@ -2331,21 +2331,21 @@
   "mhr": null
  },
  {
-  "id": "2729:kitchener-jr-rangers-red",
-  "name": "Kitchener Jr Rangers Red",
-  "divisionId": 2729,
-  "division": "U16 AA-A",
-  "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
- },
- {
   "id": "2729:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": null,
   "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+  "mhr": null
+ },
+ {
+  "id": "2729:kitchener-jr-rangers-red",
+  "name": "Kitchener Jr Rangers Red",
+  "divisionId": 2729,
+  "division": "U16 AA-A",
+  "association": "Kitchener Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
   "mhr": null
  },
  {
@@ -2538,21 +2538,21 @@
   "mhr": null
  },
  {
-  "id": "2731:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2731,
-  "division": "U18 AAA",
-  "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
- },
- {
   "id": "2731:london-jr-knights",
   "name": "London Jr Knights",
   "divisionId": 2731,
   "division": "U18 AAA",
   "association": "London Jr Knights",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+  "mhr": null
+ },
+ {
+  "id": "2731:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2731,
+  "division": "U18 AAA",
+  "association": "Waterloo Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
   "mhr": null
  },
  {
@@ -2607,6 +2607,15 @@
   "division": "U18 AA-A",
   "association": "Brantford Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+  "mhr": null
+ },
+ {
+  "id": "2732:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "Sarnia Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
   "mhr": null
  },
  {
@@ -2673,15 +2682,6 @@
   "mhr": null
  },
  {
-  "id": "2732:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
- },
- {
   "id": "2732:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2732,
@@ -2700,6 +2700,15 @@
   "mhr": null
  },
  {
+  "id": "2733:kitchener-jr-rangers",
+  "name": "Kitchener Jr Rangers",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Kitchener Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+  "mhr": null
+ },
+ {
   "id": "2733:waterloo-wolves-gold",
   "name": "Waterloo Wolves Gold",
   "divisionId": 2733,
@@ -2715,15 +2724,6 @@
   "division": "U18 BB",
   "association": "Brantford Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
- },
- {
-  "id": "2733:kitchener-jr-rangers",
-  "name": "Kitchener Jr Rangers",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
   "mhr": null
  },
  {

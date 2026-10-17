@@ -1,6 +1,6 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-10-17T01:33:02.204Z",
+ "updatedAt": "2026-10-17T12:18:34.407Z",
  "regular": [
   {
    "name": "",
@@ -126,6 +126,21 @@
      "strk": "W2"
     },
     {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-97254",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 3,
+     "w": 1,
+     "l": 1,
+     "t": 1,
+     "pts": 3,
+     "gf": 8,
+     "ga": 6,
+     "diff": 2,
+     "l10": "1-1-1",
+     "strk": "W1"
+    },
+    {
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97258",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
@@ -156,34 +171,19 @@
      "strk": "T1"
     },
     {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-97254",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 2,
-     "w": 0,
-     "l": 1,
-     "t": 1,
-     "pts": 1,
-     "gf": 3,
-     "ga": 5,
-     "diff": -2,
-     "l10": "0-1-1",
-     "strk": "L1"
-    },
-    {
      "team": "Lambeth Lancers",
      "teamId": "odb-97267",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-     "gp": 3,
+     "gp": 4,
      "w": 0,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 0,
-     "gf": 6,
-     "ga": 13,
-     "diff": -7,
-     "l10": "0-3",
-     "strk": "L3"
+     "gf": 7,
+     "ga": 18,
+     "diff": -11,
+     "l10": "0-4",
+     "strk": "L4"
     },
     {
      "team": "Cambridge Hawks",

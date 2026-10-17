@@ -272,14 +272,17 @@
   "start": "2026-10-16T20:15:00-04:00",
   "away": "Kitchener Jr Rangers",
   "home": "Huron-Perth Lakers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Rotary Complex (Rink B)",
   "code": "U12P13",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3076771
+  }
  },
  {
   "id": 2374294,
@@ -1424,7 +1427,7 @@
  {
   "id": 2374274,
   "divisionId": 2716,
-  "start": "2027-01-03T14:00:00-05:00",
+  "start": "2027-01-03T13:00:00-05:00",
   "away": "Sarnia-Lambton Jr Sting",
   "home": "Kitchener Jr Rangers",
   "awayScore": null,

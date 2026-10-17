@@ -422,14 +422,17 @@
   "start": "2026-10-16T20:00:00-04:00",
   "away": "St. Thomas Jr Stars",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Sports Park (1)",
   "code": "U16S22",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3076773
+  }
  },
  {
   "id": 2375797,
@@ -1137,21 +1140,6 @@
   "gamesheet": null
  },
  {
-  "id": 2375900,
-  "divisionId": 2729,
-  "start": "2026-11-27T20:00:00-05:00",
-  "away": "Woodstock Jr Navy Vets",
-  "home": "Kitchener Jr Rangers Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "The Aud (Kinsmen)",
-  "code": "U16S23",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
   "id": 2375755,
   "divisionId": 2729,
   "start": "2026-11-28T16:30:00-05:00",
@@ -1222,21 +1210,6 @@
   "status": "scheduled",
   "venue": "RIM Park (Lions)",
   "code": "U16S33",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
-  "id": 2375906,
-  "divisionId": 2729,
-  "start": "2026-11-29T14:30:00-05:00",
-  "away": "Woodstock Jr Navy Vets",
-  "home": "Kitchener Jr Rangers Red",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Activa (PJD)",
-  "code": "U16S134",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null
@@ -1947,6 +1920,21 @@
   "gamesheet": null
  },
  {
+  "id": 2375906,
+  "divisionId": 2729,
+  "start": "2027-01-03T14:30:00-05:00",
+  "away": "Woodstock Jr Navy Vets",
+  "home": "Kitchener Jr Rangers Red",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Sportsworld (Spectator)",
+  "code": "U16S134",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
   "id": 2375897,
   "divisionId": 2729,
   "start": "2027-01-03T16:00:00-05:00",
@@ -2257,6 +2245,21 @@
   "status": "scheduled",
   "venue": "Reeves CC (Red)",
   "code": "U16S93",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
+  "id": 2375900,
+  "divisionId": 2729,
+  "start": "2027-01-19T19:30:00-05:00",
+  "away": "Woodstock Jr Navy Vets",
+  "home": "Kitchener Jr Rangers Blue",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "The Aud (Kinsmen)",
+  "code": "U16S23",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null

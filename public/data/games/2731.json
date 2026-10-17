@@ -236,14 +236,17 @@
   "start": "2026-10-16T20:15:00-04:00",
   "away": "London Jr Knights",
   "home": "Elgin-Middlesex Canucks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U18P6",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-10-16/20:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3076785
+  }
  },
  {
   "id": 2373357,

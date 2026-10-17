@@ -1,6 +1,6 @@
 {
  "divisionId": 2725,
- "updatedAt": "2026-10-17T01:32:12.233Z",
+ "updatedAt": "2026-10-17T12:17:37.203Z",
  "regular": [
   {
    "name": "",
@@ -51,19 +51,34 @@
      "strk": "W3"
     },
     {
+     "team": "Huron-Perth Lakers",
+     "teamId": "odb-96997",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
+     "gp": 5,
+     "w": 3,
+     "l": 2,
+     "t": 0,
+     "pts": 6,
+     "gf": 17,
+     "ga": 11,
+     "diff": 6,
+     "l10": "3-2",
+     "strk": "W2"
+    },
+    {
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-96999",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 4,
+     "gp": 5,
      "w": 3,
-     "l": 1,
+     "l": 2,
      "t": 0,
      "pts": 6,
-     "gf": 14,
-     "ga": 8,
-     "diff": 6,
-     "l10": "3-1",
-     "strk": "L1"
+     "gf": 16,
+     "ga": 11,
+     "diff": 5,
+     "l10": "3-2",
+     "strk": "L2"
     },
     {
      "team": "Chatham-Kent Cyclones",
@@ -109,21 +124,6 @@
      "diff": 0,
      "l10": "2-1-1",
      "strk": "L1"
-    },
-    {
-     "team": "Huron-Perth Lakers",
-     "teamId": "odb-96997",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 4,
-     "w": 2,
-     "l": 2,
-     "t": 0,
-     "pts": 4,
-     "gf": 14,
-     "ga": 9,
-     "diff": 5,
-     "l10": "2-2",
-     "strk": "W1"
     },
     {
      "team": "Waterloo Wolves",

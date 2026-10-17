@@ -1,10 +1,25 @@
 {
  "divisionId": 2716,
- "updatedAt": "2026-10-17T01:30:42.424Z",
+ "updatedAt": "2026-10-17T12:13:18.606Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Kitchener Jr Rangers",
+     "teamId": "odb-96962",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 4,
+     "w": 3,
+     "l": 0,
+     "t": 1,
+     "pts": 7,
+     "gf": 15,
+     "ga": 7,
+     "diff": 8,
+     "l10": "3-0-1",
+     "strk": "W1"
+    },
     {
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-96963",
@@ -66,21 +81,6 @@
      "strk": "W1"
     },
     {
-     "team": "Kitchener Jr Rangers",
-     "teamId": "odb-96962",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 3,
-     "w": 2,
-     "l": 0,
-     "t": 1,
-     "pts": 5,
-     "gf": 10,
-     "ga": 6,
-     "diff": 4,
-     "l10": "2-0-1",
-     "strk": "T1"
-    },
-    {
      "team": "Waterloo Wolves",
      "teamId": "odb-96966",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
@@ -114,16 +114,16 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96961",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 4,
+     "gp": 5,
      "w": 0,
-     "l": 3,
+     "l": 4,
      "t": 1,
      "pts": 1,
-     "gf": 6,
-     "ga": 15,
-     "diff": -9,
-     "l10": "0-3-1",
-     "strk": "L1"
+     "gf": 7,
+     "ga": 20,
+     "diff": -13,
+     "l10": "0-4-1",
+     "strk": "L2"
     },
     {
      "team": "Sun County Panthers",

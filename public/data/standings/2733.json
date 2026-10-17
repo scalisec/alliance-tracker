@@ -1,10 +1,25 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-10-17T01:34:52.233Z",
+ "updatedAt": "2026-10-17T12:21:26.632Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Kitchener Jr Rangers",
+     "teamId": "odb-97124",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 3,
+     "w": 3,
+     "l": 0,
+     "t": 0,
+     "pts": 6,
+     "gf": 21,
+     "ga": 2,
+     "diff": 19,
+     "l10": "3-0",
+     "strk": "W3"
+    },
     {
      "team": "Waterloo Wolves Gold",
      "teamId": "odb-97130",
@@ -32,21 +47,6 @@
      "gf": 12,
      "ga": 1,
      "diff": 11,
-     "l10": "2-0",
-     "strk": "W2"
-    },
-    {
-     "team": "Kitchener Jr Rangers",
-     "teamId": "odb-97124",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 2,
-     "w": 2,
-     "l": 0,
-     "t": 0,
-     "pts": 4,
-     "gf": 16,
-     "ga": 2,
-     "diff": 14,
      "l10": "2-0",
      "strk": "W2"
     },
@@ -144,16 +144,16 @@
      "team": "Burlington Bulldogs White",
      "teamId": "odb-97127",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 3,
+     "gp": 4,
      "w": 1,
-     "l": 1,
+     "l": 2,
      "t": 1,
      "pts": 3,
      "gf": 8,
-     "ga": 9,
-     "diff": -1,
-     "l10": "1-1-1",
-     "strk": "T1"
+     "ga": 14,
+     "diff": -6,
+     "l10": "1-2-1",
+     "strk": "L1"
     },
     {
      "team": "Burlington Bulldogs Blue",

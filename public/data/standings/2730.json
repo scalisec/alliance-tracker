@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-10-16T20:11:16.651Z",
+ "updatedAt": "2026-10-17T12:20:00.429Z",
  "regular": [
   {
    "name": "",
@@ -129,31 +129,31 @@
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97280",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 3,
-     "w": 1,
+     "gp": 4,
+     "w": 2,
      "l": 2,
      "t": 0,
-     "pts": 2,
-     "gf": 7,
-     "ga": 8,
-     "diff": -1,
-     "l10": "1-2",
-     "strk": "L2"
+     "pts": 4,
+     "gf": 11,
+     "ga": 9,
+     "diff": 2,
+     "l10": "2-2",
+     "strk": "W1"
     },
     {
      "team": "Lambeth Lancers",
      "teamId": "odb-97283",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-     "gp": 2,
+     "gp": 3,
      "w": 1,
-     "l": 1,
+     "l": 2,
      "t": 0,
      "pts": 2,
-     "gf": 4,
-     "ga": 6,
-     "diff": -2,
-     "l10": "1-1",
-     "strk": "L1"
+     "gf": 5,
+     "ga": 10,
+     "diff": -5,
+     "l10": "1-2",
+     "strk": "L2"
     },
     {
      "team": "Burlington Bulldogs Gold",

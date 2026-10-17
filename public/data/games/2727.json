@@ -341,14 +341,17 @@
   "start": "2026-10-16T20:15:00-04:00",
   "away": "Waterloo Wolves",
   "home": "Lambeth Lancers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Lambeth (Lambeth)",
   "code": "U15BR20",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3076803
+  }
  },
  {
   "id": 2378895,
