@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-10-17T20:54:56.619Z",
+ "updatedAt": "2026-10-17T21:14:48.405Z",
  "regular": [
   {
    "name": "",
@@ -141,6 +141,21 @@
      "strk": "W1"
     },
     {
+     "team": "Burlington Bulldogs White",
+     "teamId": "odb-97269",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 4,
+     "w": 1,
+     "l": 2,
+     "t": 1,
+     "pts": 3,
+     "gf": 10,
+     "ga": 10,
+     "diff": 0,
+     "l10": "1-2-1",
+     "strk": "W1"
+    },
+    {
      "team": "Lambeth Lancers",
      "teamId": "odb-97283",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
@@ -186,21 +201,6 @@
      "strk": "T1"
     },
     {
-     "team": "Burlington Bulldogs White",
-     "teamId": "odb-97269",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 3,
-     "w": 0,
-     "l": 2,
-     "t": 1,
-     "pts": 1,
-     "gf": 3,
-     "ga": 8,
-     "diff": -5,
-     "l10": "0-2-1",
-     "strk": "L1"
-    },
-    {
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97278",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
@@ -219,16 +219,16 @@
      "team": "West London Hawks",
      "teamId": "odb-97282",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 3,
+     "gp": 4,
      "w": 0,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 0,
-     "gf": 5,
-     "ga": 19,
-     "diff": -14,
-     "l10": "0-3",
-     "strk": "L3"
+     "gf": 7,
+     "ga": 26,
+     "diff": -19,
+     "l10": "0-4",
+     "strk": "L4"
     },
     {
      "team": "Burlington Raiders",

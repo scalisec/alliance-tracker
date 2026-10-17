@@ -482,14 +482,17 @@
   "start": "2026-10-17T15:30:00-04:00",
   "away": "Burlington Bulldogs White",
   "home": "West London Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Bostwick (B)",
   "code": "U16BR80",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5026/2026-10-17/15:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3078317
+  }
  },
  {
   "id": 2378964,

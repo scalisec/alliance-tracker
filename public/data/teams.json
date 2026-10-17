@@ -2052,6 +2052,15 @@
   "mhr": null
  },
  {
+  "id": "2727:burlington-raiders",
+  "name": "Burlington Raiders",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Burlington Raiders Hockey Club",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
+  "mhr": null
+ },
+ {
   "id": "2727:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2727,
@@ -2085,15 +2094,6 @@
   "division": "U15 BB",
   "association": "Greater London Hockey Association",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-  "mhr": null
- },
- {
-  "id": "2727:burlington-raiders",
-  "name": "Burlington Raiders",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
   "mhr": null
  },
  {
@@ -2466,6 +2466,15 @@
   "mhr": null
  },
  {
+  "id": "2730:burlington-bulldogs-white",
+  "name": "Burlington Bulldogs White",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+  "mhr": null
+ },
+ {
   "id": "2730:lambeth-lancers",
   "name": "Lambeth Lancers",
   "divisionId": 2730,
@@ -2490,15 +2499,6 @@
   "division": "U16 BB",
   "association": "Woodstock Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
- },
- {
-  "id": "2730:burlington-bulldogs-white",
-  "name": "Burlington Bulldogs White",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
   "mhr": null
  },
  {
