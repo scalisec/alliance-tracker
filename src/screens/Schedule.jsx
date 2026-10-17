@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { useJson, dayKey, fmtLongDay, isPast } from '../data.js';
+import { useJson, dayKey, fmtLongDay, isPast, gameState } from '../data.js';
 import { useSaved } from '../store.js';
 import { Empty, GameCard, Icon, Seg, Top } from '../ui.jsx';
 import DivisionPicker from './DivisionPicker.jsx';
@@ -17,6 +17,10 @@ export default function Schedule({ ctx }) {
     .sort((a, b) => (a.start ?? '').localeCompare(b.start ?? ''));
   const shown = when === 'upcoming' ? list.filter((g) => !isPast(g)) : list.filter(isPast).reverse();
 
+  const liveCount = shown.filter((g) => ['live', 'awaiting'].includes(gameState(g, { scored: div?.scored !== false }))).length;
+  const [busy, setBusy] = useState(false);
+  const refresh = async () => { setBusy(true); try { await ctx.refresh(true); } finally { setBusy(false); } };
+
   // Group by day.
   const days = [];
   for (const g of shown) {
@@ -27,7 +31,13 @@ export default function Schedule({ ctx }) {
 
   return (
     <>
-      <Top title="Schedule" right={<button className="icon-btn" aria-label="Settings" onClick={() => go('settings')}><Icon.gear /></button>} />
+      <Top
+        left={liveCount > 0 && (
+          <button className="top-btn" onClick={refresh} disabled={busy} aria-label="Refresh scores">
+            <span className={busy ? 'spin' : ''}><Icon.refresh /></span> {busy ? '…' : 'Refresh'}
+          </button>
+        )}
+        title="Schedule" right={<button className="icon-btn" aria-label="Settings" onClick={() => go('settings')}><Icon.gear /></button>} />
       <main className="page">
         <DivisionPicker ctx={ctx} />
         <Seg value={phase} onChange={setPhase} options={[{ value: 'regular', label: 'Regular Season' }, { value: 'playoff', label: 'Playoffs' }]} />
@@ -39,7 +49,7 @@ export default function Schedule({ ctx }) {
               <div key={d.key}>
                 <div className="date-head">{d.label}</div>
                 {d.games.map((g) => (
-                  <GameCard key={g.id} game={g} logoOf={ctx.logoOf} mine={mine} onOpen={(x) => go(`game/${x.divisionId}/${x.id}`)} />
+                  <GameCard key={g.id} game={g} logoOf={ctx.logoOf} mine={mine} scored={div?.scored !== false} onOpen={(x) => go(`game/${x.divisionId}/${x.id}`)} />
                 ))}
               </div>
             ))}

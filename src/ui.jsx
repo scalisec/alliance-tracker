@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { fmtWhen, isPast } from './data.js';
+import { fmtWhen, gameState } from './data.js';
 
 // ---------- icons ----------
 const I = ({ d, size = 22, sw = 1.8, fill = 'none' }) => (
@@ -87,20 +87,26 @@ export function Sheet({ onClose, children }) {
 }
 
 // ---------- game card ----------
-export function GameCard({ game: g, logoOf, mine = [], onOpen }) {
-  const final = g.status === 'final' && g.homeScore != null;
-  const past = isPast(g);
+const BADGE = {
+  cancelled: <span className="badge pending">CANCELLED</span>,
+  final: <span className="badge final">FINAL</span>,
+  live: <span className="badge live">LIVE</span>,
+  awaiting: <span className="badge pending">AWAITING SCORE</span>,
+  played: <span className="badge final">PLAYED</span>,
+  upcoming: <span className="badge upcoming">UPCOMING</span>,
+};
+
+export function GameCard({ game: g, logoOf, mine = [], onOpen, scored = true }) {
+  const state = gameState(g, { scored });
+  const final = state === 'final';
   const homeWin = final && g.homeScore > g.awayScore;
   const awayWin = final && g.awayScore > g.homeScore;
-  const Tag = onOpen && final ? 'button' : 'div';
+  const Tag = onOpen ? 'button' : 'div';
   return (
-    <Tag className={`game ${final ? 'final' : ''}`} onClick={onOpen && final ? () => onOpen(g) : undefined}>
+    <Tag className={`game ${final ? 'final' : ''} ${state === 'live' ? 'is-live' : ''}`} onClick={onOpen ? () => onOpen(g) : undefined}>
       <div className="game-top">
         <span className="game-when">{fmtWhen(g.start)}</span>
-        {g.status === 'cancelled' ? <span className="badge pending">CANCELLED</span>
-          : final ? <span className="badge final">FINAL</span>
-          : past ? <span className="badge pending">AWAITING SCORE</span>
-            : <span className="badge upcoming">UPCOMING</span>}
+        {BADGE[state]}
       </div>
       <div className="game-body">
         <Side name={g.away} logo={logoOf(g.away)} win={awayWin} mine={mine.includes(g.away)} />
@@ -116,7 +122,7 @@ export function GameCard({ game: g, logoOf, mine = [], onOpen }) {
       <div className="game-foot">
         <span className="venue"><Icon.pin /><span>{g.venue ?? 'Venue TBA'}</span></span>
         {g.liveBarn && (
-          <a className="lb" href={g.liveBarn} target="_blank" rel="noopener noreferrer" onClick={(e) => e.stopPropagation()}>LiveBarn</a>
+          <a className="lb" href={g.liveBarn} target="_blank" rel="noopener noreferrer" onClick={(e) => e.stopPropagation()}>{state === 'live' ? 'Watch live' : 'LiveBarn'}</a>
         )}
       </div>
     </Tag>

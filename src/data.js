@@ -67,4 +67,18 @@ export function ago(iso) {
   return `${Math.round(h / 24)}d ago`;
 }
 
-export const isPast = (g) => g.status === 'final' || (g.start && Date.parse(g.start) < Date.now() - 90 * 60000);
+// A game counts as "live" from puck drop until this many minutes later
+// (rep slots run ~60–80 min). After that, unscored games await their score.
+export const LIVE_MINUTES = 90;
+
+export function gameState(g, { scored = true, now = Date.now() } = {}) {
+  if (g.status === 'cancelled') return 'cancelled';
+  if (g.status === 'final' && g.homeScore != null) return 'final';
+  if (!g.start) return 'upcoming';
+  const mins = (now - Date.parse(g.start)) / 60000;
+  if (mins < 0) return 'upcoming';
+  if (mins < LIVE_MINUTES) return 'live';
+  return scored ? 'awaiting' : 'played';
+}
+
+export const isPast = (g) => g.status === 'final' || (g.start && Date.parse(g.start) < Date.now() - LIVE_MINUTES * 60000);

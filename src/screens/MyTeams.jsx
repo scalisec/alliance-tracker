@@ -78,12 +78,12 @@ function TeamCard({ team, ctx }) {
       {last.length > 0 && (
         <>
           <div className="section-label">Last result</div>
-          {last.map((g) => <GameCard key={g.id} game={g} logoOf={ctx.logoOf} mine={[team.name]} onOpen={openGame} />)}
+          {last.map((g) => <GameCard key={g.id} game={g} logoOf={ctx.logoOf} mine={[team.name]} scored={div?.scored !== false} onOpen={openGame} />)}
         </>
       )}
 
       <div className="section-label">Next games</div>
-      {upcoming.length ? upcoming.map((g) => <GameCard key={g.id} game={g} logoOf={ctx.logoOf} mine={[team.name]} onOpen={openGame} />)
+      {upcoming.length ? upcoming.map((g) => <GameCard key={g.id} game={g} logoOf={ctx.logoOf} mine={[team.name]} scored={div?.scored !== false} onOpen={openGame} />)
         : <p className="legend">No upcoming games posted yet.</p>}
 
       <button className="full-link" onClick={openDivision}>Full division <Icon.chev size={18} /></button>

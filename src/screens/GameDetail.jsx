@@ -1,11 +1,38 @@
-import { useJson, fmtLongDay, fmtTime } from '../data.js';
+import { useEffect, useState } from 'react';
+import { useJson, fmtLongDay, fmtTime, gameState, ago } from '../data.js';
 import { Empty, Icon, TeamLogo, Top } from '../ui.jsx';
 import { back } from '../App.jsx';
+
+const AUTO_CHECK_MS = 2 * 60 * 1000;
 
 export default function GameDetail({ ctx, divId, gameId }) {
   const { data: games } = useJson(`games/${divId}.json`, [ctx.tick]);
   const game = games?.find((g) => String(g.id) === String(gameId));
   const div = ctx.divById(divId);
+  const state = game ? gameState(game, { scored: div?.scored !== false }) : null;
+  const waiting = state === 'live' || state === 'awaiting';
+  const [busy, setBusy] = useState(false);
+  const [checkedAt, setCheckedAt] = useState(null);
+  const [, setNow] = useState(0);
+
+  const check = async () => {
+    setBusy(true);
+    try { await ctx.refresh(true); } finally { setCheckedAt(Date.now()); setBusy(false); }
+  };
+  // While a live/awaiting game is open, look for new data every 2 minutes,
+  // and re-render each 30 s so "checked … ago" stays accurate.
+  useEffect(() => {
+    if (!waiting) return;
+    const a = setInterval(check, AUTO_CHECK_MS);
+    const b = setInterval(() => setNow((n) => n + 1), 30000);
+    return () => { clearInterval(a); clearInterval(b); };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [waiting]);
+
+  const gsSeason = game?.gamesheet?.season ?? ctx.meta?.gamesheetSeasons?.[div?.level] ?? null;
+  const gsUrl = game?.gamesheet
+    ? `https://gamesheetstats.com/seasons/${game.gamesheet.season}/games/${game.gamesheet.game}`
+    : gsSeason ? `https://gamesheetstats.com/seasons/${gsSeason}/games` : null;
 
   return (
     <>
@@ -14,7 +41,11 @@ export default function GameDetail({ ctx, divId, gameId }) {
         {!game ? <Empty>Loading…</Empty> : (
           <>
             <section className="card gd-hero">
-              <div className="when">{fmtLongDay(game.start)} · {fmtTime(game.start)}</div>
+              <div className="when">
+                {state === 'live' && <span className="badge live" style={{ marginRight: 8 }}>LIVE</span>}
+                {state === 'awaiting' && <span className="badge pending" style={{ marginRight: 8 }}>AWAITING SCORE</span>}
+                {fmtLongDay(game.start)} · {fmtTime(game.start)}
+              </div>
               <div className="game-body" style={{ padding: 0 }}>
                 <Side name={game.away} logo={ctx.logoOf(game.away)} win={game.awayScore > game.homeScore} label="Away" />
                 {game.homeScore != null
@@ -24,16 +55,34 @@ export default function GameDetail({ ctx, divId, gameId }) {
               </div>
               <div className="venue" style={{ justifyContent: 'center', marginTop: 14 }}><Icon.pin /><span>{game.venue ?? 'Venue TBA'}</span></div>
               {game.code && <div className="legend" style={{ textAlign: 'center' }}>Game {game.code}</div>}
+              {waiting && (
+                <div className="live-panel">
+                  <button className="refresh-btn" onClick={check} disabled={busy}>
+                    <span className={busy ? 'spin' : ''}><Icon.refresh /></span> {busy ? 'Checking…' : 'Refresh score'}
+                  </button>
+                  <div className="hint">
+                    {checkedAt ? `Checked ${ago(new Date(checkedAt).toISOString())}` : 'Checks automatically every 2 min'}
+                    {' · '}Alliance data from {ago(ctx.meta?.updatedAt)}
+                  </div>
+                  <div className="hint">Alliance posts the score once the game sheet is submitted, usually shortly after the game.</div>
+                </div>
+              )}
               <div className="btn-row">
+                {waiting && game.liveBarn && <a className="lb" href={game.liveBarn} target="_blank" rel="noopener noreferrer">{state === 'live' ? 'Watch live on LiveBarn' : 'Replay on LiveBarn'}</a>}
+                {waiting && gsUrl && (
+                  <a className="ghost" target="_blank" rel="noopener noreferrer" href={gsUrl}>{game.gamesheet ? 'Live score on GameSheet ↗' : `Live scores on GameSheet (${div?.name}) ↗`}</a>
+                )}
                 {game.status === 'final' && (
                   <a className="primary" target="_blank" rel="noopener noreferrer" href={boxScoreUrl(game, divId)}>Full box score ↗</a>
                 )}
-                {game.liveBarn && <a className="lb" href={game.liveBarn} target="_blank" rel="noopener noreferrer">{game.status === 'final' ? 'Replay on LiveBarn' : 'Watch on LiveBarn'}</a>}
+                {!waiting && game.liveBarn && <a className="lb" href={game.liveBarn} target="_blank" rel="noopener noreferrer">{game.status === 'final' ? 'Replay on LiveBarn' : 'Watch on LiveBarn'}</a>}
                 <a className="ghost" target="_blank" rel="noopener noreferrer" href={`https://alliancehockey.com/Groups/${divId}/Games/${gameId}/`}>Alliance game page ↗</a>
               </div>
             </section>
             <p className="legend" style={{ textAlign: 'center' }}>
-              {game.status === 'final' ? 'Scorers, assists and penalties open on GameSheet.' : 'Score and box score appear after the game.'}
+              {state === 'final' ? 'Scorers, assists and penalties open on GameSheet.'
+                : state === 'live' ? 'GameSheet shows live scoring when the scorekeeper uses the GameSheet app.'
+                : waiting ? '' : 'Score and box score appear after the game.'}
             </p>
           </>
         )}

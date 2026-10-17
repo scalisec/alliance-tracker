@@ -66,11 +66,11 @@ export default function App() {
   const ctx = useMemo(() => {
     const logoByName = new Map(teams.map((t) => [t.name, t.logo]));
     return {
-      meta, teams, divisions, tick, div, setDiv,
+      meta, teams, divisions, tick, div, setDiv, refresh,
       divById: (id) => divisions.find((d) => d.id === Number(id)),
       logoOf: (name) => logoByName.get(name) ?? null,
     };
-  }, [meta, teams, divisions, tick, div, setDiv]);
+  }, [meta, teams, divisions, tick, div, setDiv, refresh]);
 
   const tab = TABS.some((t) => t.key === route.name) ? route.name : lastTab;
   const overlay = route.name;
