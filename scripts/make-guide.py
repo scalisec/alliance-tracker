@@ -207,10 +207,10 @@ def page2(c):
     section_title(c, M, y, 3, "Key features")
 
     shots = [
-        ("myteams", "My Teams", "Your teams' record (GP, W, L, T, GF, GA, PTS), place in the division, last result and next games."),
+        ("myteams", "My Teams", "Record (GP, W, L, T, GF, GA, PTS), division place, last result and next games. A red LIVE badge shows during games."),
         ("standings", "Standings", "Pick age and level. Full tables by division, with your teams highlighted. Playoffs tab when they start."),
-        ("schedule", "Schedule", "Upcoming games and results by day, with rink and LiveBarn link. Saved teams are in bold."),
-        ("game", "Game details", "Tap any final score: rink, game number, Full box score (GameSheet) and LiveBarn replay."),
+        ("schedule", "Schedule", "Upcoming games and results by day, with rink and LiveBarn link. Games in progress are marked LIVE."),
+        ("game", "Game details", "Tap any game. Live games have Refresh score and GameSheet's live scoring; finished games show the box score."),
     ]
     gap = 12
     sw = (W - 2 * M - 3 * gap) / 4
@@ -233,10 +233,13 @@ def page2(c):
     section_title(c, M, fy, 4, "Frequently asked questions")
     faq = [
         ("How up to date are scores and standings?",
-         "On weekends it refreshes about every 20 minutes from 7 AM to midnight; on weekday evenings about every 30 minutes; plus a full refresh every night. "
-         "A score appears once the game sheet is submitted to Alliance, usually shortly after the game."),
+         "On weekends it updates about every 20 minutes from 7 AM to midnight, on weekday evenings from 5 PM, plus every night. "
+         "Final scores appear once the game sheet is submitted to Alliance, usually shortly after the game."),
+        ("Can I follow a game while it's being played?",
+         "Yes. Tap a game marked <b>LIVE</b> and open <b>Live on GameSheet</b> for live scoring (when the scorekeeper uses the GameSheet app). "
+         "<b>Refresh score</b> picks up the final as soon as it's posted."),
         ("Where are the goal scorers and penalties?",
-         "Tap a finished game, then <b>Full box score</b>. It opens the official GameSheet page with scorers, assists and penalties."),
+         "Tap a finished game and open <b>Box score from GameSheet</b>: scorers, assists and penalties, right in the app."),
         ("Can I watch games?",
          "Games at LiveBarn rinks show a red <b>LiveBarn</b> button for live or replay. LiveBarn needs its own subscription."),
         ("Which divisions are included?",
@@ -246,10 +249,10 @@ def page2(c):
         ("Does it cost anything or need a sign-in?",
          "No. It's free, there's no account, and it doesn't collect any personal information."),
         ("Something looks out of date or wrong.",
-         "Open <b>Settings</b> (gear icon) and tap <b>Refresh now</b>, or close and reopen the app. "
+         "Tap <b>Refresh score</b> on the game, or <b>Settings</b> (gear icon) → <b>Refresh now</b>, or close and reopen the app. "
          "Standings follow alliancehockey.com, which is always the official source."),
         ("How do I remove a team or change dark/light mode?",
-         "Tap <b>+ Team</b>, find the team and tap <b>Saved</b> to remove it. Theme, sharing and install options are in <b>Settings</b>."),
+         "Tap <b>+ Team</b>, find the team and tap <b>Saved</b> to remove it. Theme, install and the app version are in <b>Settings</b>."),
     ]
     # Lay Q&A pairs into two columns, never splitting a pair.
     col_w = (W - 2 * M - 22) / 2

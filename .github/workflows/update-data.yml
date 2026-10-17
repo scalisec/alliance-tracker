@@ -2,6 +2,10 @@ name: Update data and publish
 
 # Times are UTC. Toronto is UTC-4 until Nov 1, then UTC-5; the windows below
 # cover both. Live runs exit early (no page reads) when no games are due.
+#
+# GitHub's scheduler often skips frequent schedules, so during game windows each
+# live run starts the next one ~20 minutes later itself (job "next"). The cron
+# lines below then act as a backup that restarts the chain if it ever stops.
 on:
   schedule:
     - cron: '15 8 * * *'          # nightly full sync (~3-4 AM Toronto)
@@ -22,6 +26,7 @@ permissions:
   contents: write
   pages: write
   id-token: write
+  actions: write   # lets a live run start the next one
 
 concurrency:
   group: update-data
@@ -33,6 +38,7 @@ jobs:
     timeout-minutes: 60
     outputs:
       changed: ${{ steps.commit.outputs.changed }}
+      mode: ${{ steps.mode.outputs.mode }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -70,7 +76,7 @@ jobs:
 
   deploy:
     needs: collect
-    if: needs.collect.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+    if: needs.collect.outputs.changed == 'true' || (github.event_name == 'workflow_dispatch' && needs.collect.outputs.mode != 'live')
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -86,3 +92,32 @@ jobs:
         with: { path: dist }
       - id: deploy
         uses: actions/deploy-pages@v4
+
+  next:
+    # Keep live updates coming every ~20 min during game windows.
+    needs: [collect, deploy]
+    if: always() && needs.collect.outputs.mode == 'live'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - name: Schedule the next live update
+        run: |
+          # Game windows (Toronto): weekends 7:00-23:40, weekdays 17:00-23:40.
+          H=$(TZ=America/Toronto date +%-H); M=$(TZ=America/Toronto date +%-M); D=$(TZ=America/Toronto date +%u)
+          if [ "$D" -ge 6 ]; then FIRST=7; else FIRST=17; fi
+          if [ "$H" -lt "$FIRST" ] || { [ "$H" -eq 23 ] && [ "$M" -gt 40 ]; }; then
+            echo "Outside the game window; the chain stops until the next scheduled run."; exit 0
+          fi
+          # Start the next run 20 minutes after this one started.
+          STARTED=$(gh api "repos/$GH_REPO/actions/runs/${{ github.run_id }}" --jq .run_started_at)
+          WAIT=$(( 1200 - ( $(date +%s) - $(date -d "$STARTED" +%s) ) ))
+          if [ "$WAIT" -gt 0 ]; then echo "Waiting ${WAIT}s"; sleep "$WAIT"; fi
+          # Don't start a second chain if another update is already queued or running.
+          OTHERS=$(gh run list -w update-data.yml -L 20 --json databaseId,status \
+            --jq '[.[] | select(.databaseId != ${{ github.run_id }}) | select(.status != "completed")] | length')
+          if [ "$OTHERS" -gt 0 ]; then echo "Another update is already queued or running."; exit 0; fi
+          gh workflow run update-data.yml -f mode=live
+          echo "Next live update started."

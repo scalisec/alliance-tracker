@@ -70,9 +70,6 @@ export default function GameDetail({ ctx, divId, gameId }) {
               )}
               <div className="btn-row">
                 {waiting && game.liveBarn && <a className="lb" href={game.liveBarn} target="_blank" rel="noopener noreferrer">{state === 'live' ? 'Watch live on LiveBarn' : 'Replay on LiveBarn'}</a>}
-                {waiting && gsUrl && (
-                  <a className="ghost" target="_blank" rel="noopener noreferrer" href={gsUrl}>{game.gamesheet ? 'Live score on GameSheet ↗' : `Live scores on GameSheet (${div?.name}) ↗`}</a>
-                )}
                 {game.status === 'final' && (
                   <a className="primary" target="_blank" rel="noopener noreferrer" href={boxScoreUrl(game, divId)}>Full box score ↗</a>
                 )}
@@ -95,7 +92,7 @@ export default function GameDetail({ ctx, divId, gameId }) {
                       referrerPolicy="strict-origin-when-cross-origin"
                     />
                     <div className="gs-foot">
-                      <span>Blank or error above? GameSheet may not allow showing it here.</span>
+                      <span>{state === 'final' ? 'Official box score from GameSheet' : 'Live scoring from GameSheet'}</span>
                       <a href={gsUrl} target="_blank" rel="noopener noreferrer">Open in GameSheet ↗</a>
                     </div>
                   </>
@@ -104,7 +101,7 @@ export default function GameDetail({ ctx, divId, gameId }) {
             )}
             <p className="legend" style={{ textAlign: 'center' }}>
               {state === 'final' ? 'Scorers, assists and penalties open on GameSheet.'
-                : state === 'live' ? 'GameSheet shows live scoring when the scorekeeper uses the GameSheet app.'
+                : state === 'live' ? 'Open the GameSheet panel below for live scoring (when the scorekeeper uses the GameSheet app).'
                 : waiting ? '' : 'Score and box score appear after the game.'}
             </p>
           </>
