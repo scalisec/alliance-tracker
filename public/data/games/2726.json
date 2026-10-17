@@ -311,14 +311,17 @@
   "start": "2026-10-16T19:45:00-04:00",
   "away": "St. Thomas Jr Stars",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Gretzky Center (#3)",
   "code": "U15S45",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4551/2026-10-16/19:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3076782
+  }
  },
  {
   "id": 2375723,

@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-10-16T20:12:43.261Z",
+ "updatedAt": "2026-10-17T01:34:52.233Z",
  "regular": [
   {
    "name": "",
@@ -186,6 +186,21 @@
      "strk": "W1"
     },
     {
+     "team": "Lambeth Lancers",
+     "teamId": "odb-98279",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
+     "gp": 3,
+     "w": 1,
+     "l": 2,
+     "t": 0,
+     "pts": 2,
+     "gf": 6,
+     "ga": 18,
+     "diff": -12,
+     "l10": "1-2",
+     "strk": "W1"
+    },
+    {
      "team": "Oakridge Aeros",
      "teamId": "odb-97125",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
@@ -216,34 +231,19 @@
      "strk": "L1"
     },
     {
-     "team": "Lambeth Lancers",
-     "teamId": "odb-98279",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-     "gp": 2,
-     "w": 0,
-     "l": 2,
-     "t": 0,
-     "pts": 0,
-     "gf": 4,
-     "ga": 17,
-     "diff": -13,
-     "l10": "0-2",
-     "strk": "L2"
-    },
-    {
      "team": "North London Nationals",
      "teamId": "odb-98277",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 3,
+     "gp": 4,
      "w": 0,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 0,
-     "gf": 1,
-     "ga": 15,
-     "diff": -14,
-     "l10": "0-3",
-     "strk": "L3"
+     "gf": 2,
+     "ga": 17,
+     "diff": -15,
+     "l10": "0-4",
+     "strk": "L4"
     }
    ]
   }

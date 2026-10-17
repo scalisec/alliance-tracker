@@ -338,14 +338,17 @@
   "start": "2026-10-16T19:00:00-04:00",
   "away": "Lambeth Lancers",
   "home": "North London Nationals",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Stronach (A)",
   "code": "U18BR129",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3076798
+  }
  },
  {
   "id": 2379083,
