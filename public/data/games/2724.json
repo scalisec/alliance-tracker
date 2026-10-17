@@ -542,14 +542,17 @@
   "start": "2026-10-17T16:30:00-04:00",
   "away": "Brantford 99ers",
   "home": "West London Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Bostwick (A)",
   "code": "U14BR90",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5025/2026-10-17/16:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3078288
+  }
  },
  {
   "id": 2378220,

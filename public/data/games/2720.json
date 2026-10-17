@@ -398,14 +398,17 @@
   "start": "2026-10-17T16:00:00-04:00",
   "away": "Stratford Warriors",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Preston Aud (1)",
   "code": "U13S31",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2624/2026-10-17/16:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3078301
+  }
  },
  {
   "id": 2375516,
@@ -413,14 +416,17 @@
   "start": "2026-10-17T16:00:00-04:00",
   "away": "Waterloo Wolves",
   "home": "London Jr Knights Green",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U13S6",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3078300
+  }
  },
  {
   "id": 2375494,

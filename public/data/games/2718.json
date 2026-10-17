@@ -578,14 +578,17 @@
   "start": "2026-10-17T16:30:00-04:00",
   "away": "Burlington Bulldogs Gold",
   "home": "Oakridge Aeros",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Oakridge (Oakridge)",
   "code": "U12BR44",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5029/2026-10-17/16:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3078420
+  }
  },
  {
   "id": 2377966,
@@ -593,14 +596,17 @@
   "start": "2026-10-17T16:30:00-04:00",
   "away": "Burlington Bulldogs Blue",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Clearwater (Red)",
   "code": "U12BR114",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3078421
+  }
  },
  {
   "id": 2378006,

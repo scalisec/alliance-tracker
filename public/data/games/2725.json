@@ -455,14 +455,17 @@
   "start": "2026-10-17T16:00:00-04:00",
   "away": "London Jr Knights",
   "home": "Windsor Jr Spitfires",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Central Park (North)",
   "code": "U15P119",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4434/2026-10-17/16:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3078379
+  }
  },
  {
   "id": 2374932,

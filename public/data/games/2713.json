@@ -236,14 +236,17 @@
   "start": "2026-10-17T16:00:00-04:00",
   "away": "Sarnia-Lambton Jr Sting",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Civic Centre (Civic Centre)",
   "code": "U11P29",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3078238
+  }
  },
  {
   "id": 2373693,

@@ -1,6 +1,6 @@
 {
  "divisionId": 2721,
- "updatedAt": "2026-10-17T21:33:03.194Z",
+ "updatedAt": "2026-10-17T22:06:51.132Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97224",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 4,
-     "w": 4,
+     "gp": 5,
+     "w": 5,
      "l": 0,
      "t": 0,
-     "pts": 8,
-     "gf": 17,
-     "ga": 7,
-     "diff": 10,
-     "l10": "4-0",
-     "strk": "W4"
+     "pts": 10,
+     "gf": 22,
+     "ga": 9,
+     "diff": 13,
+     "l10": "5-0",
+     "strk": "W5"
     },
     {
      "team": "Stratford Warriors",
@@ -174,16 +174,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-97235",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 4,
+     "gp": 5,
      "w": 0,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 0,
-     "gf": 6,
-     "ga": 17,
-     "diff": -11,
-     "l10": "0-4",
-     "strk": "L4"
+     "gf": 8,
+     "ga": 22,
+     "diff": -14,
+     "l10": "0-5",
+     "strk": "L5"
     },
     {
      "team": "North London Nationals",
