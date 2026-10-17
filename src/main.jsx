@@ -10,4 +10,10 @@ createRoot(document.getElementById('root')).render(<App />);
 
 if ('serviceWorker' in navigator && import.meta.env.PROD) {
   addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => {}));
+  // A new version took over: reload once so it shows immediately.
+  const hadController = !!navigator.serviceWorker.controller;
+  let reloaded = false;
+  navigator.serviceWorker.addEventListener('controllerchange', () => {
+    if (hadController && !reloaded) { reloaded = true; location.reload(); }
+  });
 }

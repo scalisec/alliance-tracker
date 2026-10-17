@@ -4,6 +4,15 @@ import { useSaved, useTheme } from '../store.js';
 import { BrandMark, Icon, Sheet } from '../ui.jsx';
 import InstallCard from './InstallCard.jsx';
 
+/* global __BUILD__ */
+// e.g. "Oct 17, 1:52 PM · 811b1a5"
+function buildLabel() {
+  try {
+    const t = new Date(__BUILD__.time).toLocaleString('en-US', { timeZone: 'America/Toronto', month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' });
+    return `${t} · ${__BUILD__.sha}`;
+  } catch { return 'dev'; }
+}
+
 export default function Settings({ ctx, onClose, onRefresh }) {
   const [theme, setTheme] = useTheme();
   const { saved, clear } = useSaved();
@@ -75,10 +84,16 @@ export default function Settings({ ctx, onClose, onRefresh }) {
       </div>
 
       <div className="section-label">About</div>
+      <div className="card set" style={{ marginBottom: 14 }}>
+        <div className="set-row">
+          <div><div className="lbl">App version</div><div className="hint">Changes with every update</div></div>
+          <div className="val">{buildLabel()}</div>
+        </div>
+      </div>
       <div className="card set">
         <div className="set-row">
           <div className="lbl" style={{ display: 'flex', alignItems: 'center', gap: 8 }}><BrandMark size={22} /> Alliance Tracker</div>
-          <div className="val">v1.0</div>
+          <div className="val">v1.1</div>
         </div>
         <p className="hint" style={{ lineHeight: 1.5 }}>
           Standings, scores and schedules for Minor Hockey Alliance of Ontario rep divisions. Data sourced from alliancehockey.com, theonedb.com and myhockeyrankings.com. Box scores open on GameSheet.

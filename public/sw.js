@@ -1,16 +1,28 @@
-// Network-first for data so scores stay fresh; cache-first for the app shell.
-const CACHE = 'at-v1';
-self.addEventListener('install', (e) => { self.skipWaiting(); });
+// Offline support without stale app versions:
+// - Pages (index.html) and data files: network first, saved copy only when offline.
+// - Hashed build files (assets/*-abc123.js/css), icons, logo: cache first; their
+//   names change with every build, so a cached copy is never out of date.
+const CACHE = 'at-v2';
+self.addEventListener('install', () => self.skipWaiting());
 self.addEventListener('activate', (e) => {
-  e.waitUntil(caches.keys().then((ks) => Promise.all(ks.filter((k) => k !== CACHE).map((k) => caches.delete(k)))).then(() => self.clients.claim()));
+  e.waitUntil(
+    caches.keys()
+      .then((ks) => Promise.all(ks.filter((k) => k !== CACHE).map((k) => caches.delete(k))))
+      .then(() => self.clients.claim()),
+  );
 });
+
+const save = (req, res) => { if (res.ok) { const c = res.clone(); caches.open(CACHE).then((x) => x.put(req, c)); } return res; };
+
 self.addEventListener('fetch', (e) => {
-  const url = new URL(e.request.url);
-  if (e.request.method !== 'GET' || url.origin !== location.origin) return;
-  const isData = url.pathname.includes('/data/');
-  if (isData) {
-    e.respondWith(fetch(e.request).then((r) => { const c = r.clone(); caches.open(CACHE).then((x) => x.put(e.request, c)); return r; }).catch(() => caches.match(e.request, { ignoreSearch: true })));
+  const req = e.request;
+  const url = new URL(req.url);
+  if (req.method !== 'GET' || url.origin !== location.origin) return;
+  const networkFirst = req.mode === 'navigate' || url.pathname.endsWith('/') || url.pathname.endsWith('.html')
+    || url.pathname.includes('/data/') || url.pathname.endsWith('.webmanifest');
+  if (networkFirst) {
+    e.respondWith(fetch(req).then((r) => save(req, r)).catch(() => caches.match(req, { ignoreSearch: true })));
   } else {
-    e.respondWith(caches.match(e.request).then((hit) => hit || fetch(e.request).then((r) => { if (r.ok) { const c = r.clone(); caches.open(CACHE).then((x) => x.put(e.request, c)); } return r; })));
+    e.respondWith(caches.match(req).then((hit) => hit || fetch(req).then((r) => save(req, r))));
   }
 });
