@@ -846,6 +846,15 @@
   "mhr": null
  },
  {
+  "id": "2717:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2717,
+  "division": "U12 AA-A",
+  "association": "Waterloo Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+  "mhr": null
+ },
+ {
   "id": "2717:london-jr-knights-green",
   "name": "London Jr Knights Green",
   "divisionId": 2717,
@@ -864,21 +873,12 @@
   "mhr": null
  },
  {
-  "id": "2717:waterloo-wolves",
-  "name": "Waterloo Wolves",
+  "id": "2717:brantford-99ers",
+  "name": "Brantford 99ers",
   "divisionId": 2717,
   "division": "U12 AA-A",
-  "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
- },
- {
-  "id": "2717:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2717,
-  "division": "U12 AA-A",
-  "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+  "association": "Brantford Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
   "mhr": null
  },
  {
@@ -888,6 +888,15 @@
   "division": "U12 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+  "mhr": null
+ },
+ {
+  "id": "2717:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2717,
+  "division": "U12 AA-A",
+  "association": "Woodstock Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
   "mhr": null
  },
  {
@@ -906,15 +915,6 @@
   "division": "U12 AA-A",
   "association": null,
   "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-  "mhr": null
- },
- {
-  "id": "2717:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2717,
-  "division": "U12 AA-A",
-  "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
   "mhr": null
  },
  {

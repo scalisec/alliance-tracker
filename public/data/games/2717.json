@@ -317,14 +317,17 @@
   "start": "2026-10-17T11:00:00-04:00",
   "away": "Kitchener Jr Rangers Blue",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Gretzky Center (#1)",
   "code": "U12S10",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-10-17/11:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3077629
+  }
  },
  {
   "id": 2375481,
@@ -332,14 +335,17 @@
   "start": "2026-10-17T11:45:00-04:00",
   "away": "Waterloo Wolves",
   "home": "Woodstock Jr Navy Vets",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Reeves CC (Red)",
   "code": "U12S67",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4269/2026-10-17/11:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3077630
+  }
  },
  {
   "id": 2375444,

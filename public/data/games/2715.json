@@ -365,14 +365,17 @@
   "start": "2026-10-17T12:15:00-04:00",
   "away": "Burlington Raiders",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Gretzky Center (#1)",
   "code": "U11BR37",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-10-17/12:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3077510
+  }
  },
  {
   "id": 2379334,
