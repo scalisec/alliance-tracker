@@ -2025,21 +2025,21 @@
   "mhr": null
  },
  {
-  "id": "2726:stratford-warriors",
-  "name": "Stratford Warriors",
-  "divisionId": 2726,
-  "division": "U15 AA-A",
-  "association": "Stratford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-  "mhr": null
- },
- {
   "id": "2726:kitchener-jr-rangers-blue",
   "name": "Kitchener Jr Rangers Blue",
   "divisionId": 2726,
   "division": "U15 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+  "mhr": null
+ },
+ {
+  "id": "2726:stratford-warriors",
+  "name": "Stratford Warriors",
+  "divisionId": 2726,
+  "division": "U15 AA-A",
+  "association": "Stratford Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
   "mhr": null
  },
  {
