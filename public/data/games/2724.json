@@ -524,14 +524,17 @@
   "start": "2026-10-17T14:30:00-04:00",
   "away": "Kitchener Jr Rangers",
   "home": "North London Nationals",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Carling (B)",
   "code": "U14BR72",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5028/2026-10-17/14:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3078287
+  }
  },
  {
   "id": 2378194,

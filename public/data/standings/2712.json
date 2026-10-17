@@ -1,6 +1,6 @@
 {
  "divisionId": 2712,
- "updatedAt": "2026-10-17T19:51:32.461Z",
+ "updatedAt": "2026-10-17T20:11:31.146Z",
  "regular": [
   {
    "name": "East Division",
@@ -194,16 +194,16 @@
      "team": "Oakridge Aeros",
      "teamId": "odb-97178",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 2,
+     "gp": 3,
      "w": 0,
      "l": 1,
-     "t": 1,
-     "pts": 1,
-     "gf": 6,
-     "ga": 18,
+     "t": 2,
+     "pts": 2,
+     "gf": 9,
+     "ga": 21,
      "diff": -12,
-     "l10": "0-1-1",
-     "strk": "T1"
+     "l10": "0-1-2",
+     "strk": "T2"
     }
    ]
   }

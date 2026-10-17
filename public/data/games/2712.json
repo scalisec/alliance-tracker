@@ -491,14 +491,17 @@
   "start": "2026-10-17T15:00:00-04:00",
   "away": "South Kent Lightning",
   "home": "Oakridge Aeros",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Oakridge (Oakridge)",
   "code": "U10BRS-154",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5029/2026-10-17/15:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3078063
+  }
  },
  {
   "id": 2379453,
