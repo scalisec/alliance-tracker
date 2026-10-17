@@ -404,14 +404,17 @@
   "start": "2026-10-17T14:15:00-04:00",
   "away": "London Jr Knights Green",
   "home": "Woodstock Jr Navy Vets",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Reeves CC (Red)",
   "code": "U14S52",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4269/2026-10-17/14:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3078408
+  }
  },
  {
   "id": 2375656,

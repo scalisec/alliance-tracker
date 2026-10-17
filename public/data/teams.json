@@ -1602,21 +1602,21 @@
   "mhr": null
  },
  {
-  "id": "2723:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2723,
-  "division": "U14 AA-A",
-  "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
- },
- {
   "id": "2723:mt-brydges-cougars",
   "name": "Mt. Brydges Cougars",
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": null,
   "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
+  "mhr": null
+ },
+ {
+  "id": "2723:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2723,
+  "division": "U14 AA-A",
+  "association": "Woodstock Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
   "mhr": null
  },
  {
