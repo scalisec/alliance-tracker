@@ -1575,6 +1575,15 @@
   "mhr": null
  },
  {
+  "id": "2723:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2723,
+  "division": "U14 AA-A",
+  "association": "Brantford Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+  "mhr": null
+ },
+ {
   "id": "2723:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2723,
@@ -1590,15 +1599,6 @@
   "division": "U14 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
- },
- {
-  "id": "2723:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2723,
-  "division": "U14 AA-A",
-  "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
   "mhr": null
  },
  {
