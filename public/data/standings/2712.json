@@ -1,6 +1,6 @@
 {
  "divisionId": 2712,
- "updatedAt": "2026-10-18T22:53:19.460Z",
+ "updatedAt": "2026-10-18T23:13:18.002Z",
  "regular": [
   {
    "name": "East Division",
@@ -51,6 +51,21 @@
      "strk": "L1"
     },
     {
+     "team": "Cambridge Hawks",
+     "teamId": "odb-97188",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "gp": 5,
+     "w": 2,
+     "l": 2,
+     "t": 1,
+     "pts": 5,
+     "gf": 18,
+     "ga": 20,
+     "diff": -2,
+     "l10": "2-2-1",
+     "strk": "W2"
+    },
+    {
      "team": "Waterloo Wolves",
      "teamId": "odb-97183",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
@@ -64,21 +79,6 @@
      "diff": 6,
      "l10": "2-2",
      "strk": "L2"
-    },
-    {
-     "team": "Cambridge Hawks",
-     "teamId": "odb-97188",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 4,
-     "w": 1,
-     "l": 2,
-     "t": 1,
-     "pts": 3,
-     "gf": 15,
-     "ga": 18,
-     "diff": -3,
-     "l10": "1-2-1",
-     "strk": "W1"
     },
     {
      "team": "Brantford 99ers",
@@ -114,16 +114,16 @@
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-98280",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 3,
+     "gp": 4,
      "w": 0,
-     "l": 2,
+     "l": 3,
      "t": 1,
      "pts": 1,
-     "gf": 5,
-     "ga": 13,
-     "diff": -8,
-     "l10": "0-2-1",
-     "strk": "T1"
+     "gf": 7,
+     "ga": 16,
+     "diff": -9,
+     "l10": "0-3-1",
+     "strk": "L1"
     }
    ]
   },
