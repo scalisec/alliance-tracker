@@ -2727,6 +2727,15 @@
   "mhr": null
  },
  {
+  "id": "2733:burlington-raiders",
+  "name": "Burlington Raiders",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Burlington Raiders Hockey Club",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
+  "mhr": null
+ },
+ {
   "id": "2733:west-london-hawks-gold",
   "name": "West London Hawks Gold",
   "divisionId": 2733,
@@ -2760,15 +2769,6 @@
   "division": "U18 BB",
   "association": "Sarnia Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
- },
- {
-  "id": "2733:burlington-raiders",
-  "name": "Burlington Raiders",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
   "mhr": null
  },
  {
