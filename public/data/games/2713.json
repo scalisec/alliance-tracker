@@ -254,14 +254,17 @@
   "start": "2026-10-18T12:15:00-04:00",
   "away": "Chatham-Kent Cyclones",
   "home": "Elgin-Middlesex Canucks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 8,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U11P68",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-10-18/12:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3080705
+  }
  },
  {
   "id": 2373705,
