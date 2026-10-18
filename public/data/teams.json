@@ -2529,21 +2529,21 @@
   "mhr": null
  },
  {
-  "id": "2731:elgin-middlesex-canucks",
-  "name": "Elgin-Middlesex Canucks",
-  "divisionId": 2731,
-  "division": "U18 AAA",
-  "association": "Elgin-Middlesex Canucks",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-  "mhr": null
- },
- {
   "id": "2731:london-jr-knights",
   "name": "London Jr Knights",
   "divisionId": 2731,
   "division": "U18 AAA",
   "association": "London Jr Knights",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+  "mhr": null
+ },
+ {
+  "id": "2731:elgin-middlesex-canucks",
+  "name": "Elgin-Middlesex Canucks",
+  "divisionId": 2731,
+  "division": "U18 AAA",
+  "association": "Elgin-Middlesex Canucks",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
   "mhr": null
  },
  {
@@ -2565,21 +2565,21 @@
   "mhr": null
  },
  {
-  "id": "2731:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2731,
-  "division": "U18 AAA",
-  "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
- },
- {
   "id": "2731:sarnia-lambton-jr-sting",
   "name": "Sarnia-Lambton Jr Sting",
   "divisionId": 2731,
   "division": "U18 AAA",
   "association": "Lambton Jr Sting",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
+  "mhr": null
+ },
+ {
+  "id": "2731:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2731,
+  "division": "U18 AAA",
+  "association": "Brantford Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
   "mhr": null
  },
  {
@@ -2709,6 +2709,15 @@
   "mhr": null
  },
  {
+  "id": "2733:waterloo-wolves-white",
+  "name": "Waterloo Wolves White",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Waterloo Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+  "mhr": null
+ },
+ {
   "id": "2733:cambridge-hawks",
   "name": "Cambridge Hawks",
   "divisionId": 2733,
@@ -2751,15 +2760,6 @@
   "division": "U18 BB",
   "association": "Brantford Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
- },
- {
-  "id": "2733:waterloo-wolves-white",
-  "name": "Waterloo Wolves White",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
   "mhr": null
  },
  {

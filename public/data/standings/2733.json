@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-10-18T02:21:09.738Z",
+ "updatedAt": "2026-10-18T02:40:54.057Z",
  "regular": [
   {
    "name": "",
@@ -18,6 +18,21 @@
      "ga": 2,
      "diff": 19,
      "l10": "3-0",
+     "strk": "W3"
+    },
+    {
+     "team": "Waterloo Wolves White",
+     "teamId": "odb-97133",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 4,
+     "w": 3,
+     "l": 1,
+     "t": 0,
+     "pts": 6,
+     "gf": 13,
+     "ga": 8,
+     "diff": 5,
+     "l10": "3-1",
      "strk": "W3"
     },
     {
@@ -96,34 +111,19 @@
      "strk": "L1"
     },
     {
-     "team": "Waterloo Wolves White",
-     "teamId": "odb-97133",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 3,
-     "w": 2,
-     "l": 1,
-     "t": 0,
-     "pts": 4,
-     "gf": 9,
-     "ga": 7,
-     "diff": 2,
-     "l10": "2-1",
-     "strk": "W2"
-    },
-    {
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97131",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 4,
+     "gp": 5,
      "w": 1,
-     "l": 1,
+     "l": 2,
      "t": 2,
      "pts": 4,
-     "gf": 11,
-     "ga": 14,
-     "diff": -3,
-     "l10": "1-1-2",
-     "strk": "T1"
+     "gf": 12,
+     "ga": 18,
+     "diff": -6,
+     "l10": "1-2-2",
+     "strk": "L1"
     },
     {
      "team": "West London Hawks Black",

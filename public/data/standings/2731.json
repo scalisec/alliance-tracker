@@ -1,10 +1,25 @@
 {
  "divisionId": 2731,
- "updatedAt": "2026-10-18T02:20:19.638Z",
+ "updatedAt": "2026-10-18T02:40:24.057Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "London Jr Knights",
+     "teamId": "odb-97023",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 6,
+     "w": 4,
+     "l": 1,
+     "t": 0,
+     "pts": 9,
+     "gf": 21,
+     "ga": 18,
+     "diff": 3,
+     "l10": "4-1-1",
+     "strk": "OT1"
+    },
     {
      "team": "Elgin-Middlesex Canucks",
      "teamId": "odb-97019",
@@ -19,21 +34,6 @@
      "diff": 7,
      "l10": "4-1-1",
      "strk": "L1"
-    },
-    {
-     "team": "London Jr Knights",
-     "teamId": "odb-97023",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 5,
-     "w": 4,
-     "l": 1,
-     "t": 0,
-     "pts": 8,
-     "gf": 17,
-     "ga": 13,
-     "diff": 4,
-     "l10": "4-1-0",
-     "strk": "W4"
     },
     {
      "team": "Waterloo Wolves",
@@ -66,6 +66,21 @@
      "strk": "W1"
     },
     {
+     "team": "Sarnia-Lambton Jr Sting",
+     "teamId": "odb-97022",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
+     "gp": 7,
+     "w": 2,
+     "l": 5,
+     "t": 0,
+     "pts": 4,
+     "gf": 23,
+     "ga": 32,
+     "diff": -9,
+     "l10": "2-5-0",
+     "strk": "W1"
+    },
+    {
      "team": "Brantford 99ers",
      "teamId": "odb-97018",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
@@ -79,21 +94,6 @@
      "diff": -3,
      "l10": "1-2-0",
      "strk": "L2"
-    },
-    {
-     "team": "Sarnia-Lambton Jr Sting",
-     "teamId": "odb-97022",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 6,
-     "w": 1,
-     "l": 5,
-     "t": 0,
-     "pts": 2,
-     "gf": 18,
-     "ga": 28,
-     "diff": -10,
-     "l10": "1-5-0",
-     "strk": "L1"
     },
     {
      "team": "Windsor Jr Spitfires",
