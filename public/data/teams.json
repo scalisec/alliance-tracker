@@ -2214,6 +2214,24 @@
   "mhr": null
  },
  {
+  "id": "2728:london-jr-knights",
+  "name": "London Jr Knights",
+  "divisionId": 2728,
+  "division": "U16 AAA",
+  "association": "London Jr Knights",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+  "mhr": null
+ },
+ {
+  "id": "2728:windsor-jr-spitfires",
+  "name": "Windsor Jr Spitfires",
+  "divisionId": 2728,
+  "division": "U16 AAA",
+  "association": "Windsor AAA Zone",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
+  "mhr": null
+ },
+ {
   "id": "2728:chatham-kent-cyclones",
   "name": "Chatham-Kent Cyclones",
   "divisionId": 2728,
@@ -2232,30 +2250,12 @@
   "mhr": null
  },
  {
-  "id": "2728:london-jr-knights",
-  "name": "London Jr Knights",
-  "divisionId": 2728,
-  "division": "U16 AAA",
-  "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
- },
- {
   "id": "2728:sarnia-lambton-jr-sting",
   "name": "Sarnia-Lambton Jr Sting",
   "divisionId": 2728,
   "division": "U16 AAA",
   "association": "Lambton Jr Sting",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-  "mhr": null
- },
- {
-  "id": "2728:windsor-jr-spitfires",
-  "name": "Windsor Jr Spitfires",
-  "divisionId": 2728,
-  "division": "U16 AAA",
-  "association": "Windsor AAA Zone",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
   "mhr": null
  },
  {
@@ -2331,6 +2331,15 @@
   "mhr": null
  },
  {
+  "id": "2729:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2729,
+  "division": "U16 AA-A",
+  "association": "Sarnia Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+  "mhr": null
+ },
+ {
   "id": "2729:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2729,
@@ -2349,12 +2358,12 @@
   "mhr": null
  },
  {
-  "id": "2729:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
+  "id": "2729:kitchener-jr-rangers-blue",
+  "name": "Kitchener Jr Rangers Blue",
   "divisionId": 2729,
   "division": "U16 AA-A",
-  "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+  "association": "Kitchener Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
   "mhr": null
  },
  {
@@ -2364,15 +2373,6 @@
   "division": "U16 AA-A",
   "association": "London Jr Knights",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
- },
- {
-  "id": "2729:kitchener-jr-rangers-blue",
-  "name": "Kitchener Jr Rangers Blue",
-  "divisionId": 2729,
-  "division": "U16 AA-A",
-  "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
   "mhr": null
  },
  {
@@ -2664,6 +2664,15 @@
   "mhr": null
  },
  {
+  "id": "2732:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": null,
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+  "mhr": null
+ },
+ {
   "id": "2732:mt-brydges-cougars",
   "name": "Mt. Brydges Cougars",
   "divisionId": 2732,
@@ -2679,15 +2688,6 @@
   "division": "U18 AA-A",
   "association": "Woodstock Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
- },
- {
-  "id": "2732:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
   "mhr": null
  },
  {

@@ -1,6 +1,6 @@
 {
  "divisionId": 2729,
- "updatedAt": "2026-10-17T23:53:46.469Z",
+ "updatedAt": "2026-10-18T00:11:35.941Z",
  "regular": [
   {
    "name": "",
@@ -69,16 +69,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-97108",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 5,
+     "gp": 6,
      "w": 2,
-     "l": 2,
+     "l": 3,
      "t": 1,
      "pts": 5,
-     "gf": 16,
-     "ga": 16,
-     "diff": 0,
-     "l10": "2-2-1",
-     "strk": "T1"
+     "gf": 18,
+     "ga": 20,
+     "diff": -2,
+     "l10": "2-3-1",
+     "strk": "L1"
     },
     {
      "team": "Cambridge Hawks",
@@ -94,6 +94,21 @@
      "diff": -1,
      "l10": "2-3-1",
      "strk": "T1"
+    },
+    {
+     "team": "Sarnia Jr. Sting",
+     "teamId": "odb-97107",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+     "gp": 4,
+     "w": 2,
+     "l": 2,
+     "t": 0,
+     "pts": 4,
+     "gf": 16,
+     "ga": 17,
+     "diff": -1,
+     "l10": "2-2",
+     "strk": "W2"
     },
     {
      "team": "St. Thomas Jr Stars",
@@ -126,19 +141,19 @@
      "strk": "T1"
     },
     {
-     "team": "Sarnia Jr. Sting",
-     "teamId": "odb-97107",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 3,
+     "team": "Kitchener Jr Rangers Blue",
+     "teamId": "odb-97302",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 5,
      "w": 1,
-     "l": 2,
+     "l": 4,
      "t": 0,
      "pts": 2,
-     "gf": 12,
-     "ga": 15,
-     "diff": -3,
-     "l10": "1-2",
-     "strk": "W1"
+     "gf": 13,
+     "ga": 26,
+     "diff": -13,
+     "l10": "1-4",
+     "strk": "L4"
     },
     {
      "team": "London Jr Knights White",
@@ -154,21 +169,6 @@
      "diff": -11,
      "l10": "1-4",
      "strk": "W1"
-    },
-    {
-     "team": "Kitchener Jr Rangers Blue",
-     "teamId": "odb-97302",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 5,
-     "w": 1,
-     "l": 4,
-     "t": 0,
-     "pts": 2,
-     "gf": 13,
-     "ga": 26,
-     "diff": -13,
-     "l10": "1-4",
-     "strk": "L4"
     },
     {
      "team": "Woodstock Jr Navy Vets",

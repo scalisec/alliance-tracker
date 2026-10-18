@@ -197,14 +197,17 @@
   "start": "2026-10-17T18:00:00-04:00",
   "away": "St. Thomas Jr Stars",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 1,
+  "status": "final",
   "venue": "RIM Park (Lions)",
   "code": "U18S79",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3078741
+  }
  },
  {
   "id": 2375961,

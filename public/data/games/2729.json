@@ -476,14 +476,17 @@
   "start": "2026-10-17T17:45:00-04:00",
   "away": "Sarnia Jr. Sting",
   "home": "Stratford Warriors",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Rotary Complex (Rink B)",
   "code": "U16S129",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3078764
+  }
  },
  {
   "id": 2375860,

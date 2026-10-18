@@ -1,6 +1,6 @@
 {
  "divisionId": 2732,
- "updatedAt": "2026-10-17T23:54:26.701Z",
+ "updatedAt": "2026-10-18T00:12:26.044Z",
  "regular": [
   {
    "name": "",
@@ -54,16 +54,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97117",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 2,
+     "gp": 3,
      "w": 1,
-     "l": 0,
+     "l": 1,
      "t": 1,
      "pts": 3,
-     "gf": 8,
-     "ga": 5,
-     "diff": 3,
-     "l10": "1-0-1",
-     "strk": "W1"
+     "gf": 9,
+     "ga": 7,
+     "diff": 2,
+     "l10": "1-1-1",
+     "strk": "L1"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -111,6 +111,21 @@
      "strk": "W1"
     },
     {
+     "team": "St. Thomas Jr Stars",
+     "teamId": "odb-97121",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "gp": 2,
+     "w": 1,
+     "l": 1,
+     "t": 0,
+     "pts": 2,
+     "gf": 4,
+     "ga": 6,
+     "diff": -2,
+     "l10": "1-1",
+     "strk": "W1"
+    },
+    {
      "team": "Mt. Brydges Cougars",
      "teamId": "odb-97292",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
@@ -138,21 +153,6 @@
      "ga": 9,
      "diff": -4,
      "l10": "1-1",
-     "strk": "L1"
-    },
-    {
-     "team": "St. Thomas Jr Stars",
-     "teamId": "odb-97121",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 1,
-     "w": 0,
-     "l": 1,
-     "t": 0,
-     "pts": 0,
-     "gf": 2,
-     "ga": 5,
-     "diff": -3,
-     "l10": "0-1",
      "strk": "L1"
     },
     {
