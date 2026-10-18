@@ -135,6 +135,15 @@
   "mhr": null
  },
  {
+  "id": "2711:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2711,
+  "division": "U10 AA-A",
+  "association": "Woodstock Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+  "mhr": null
+ },
+ {
   "id": "2711:mt-brydges-cougars",
   "name": "Mt. Brydges Cougars",
   "divisionId": 2711,
@@ -150,15 +159,6 @@
   "division": "U10 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
- },
- {
-  "id": "2711:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2711,
-  "division": "U10 AA-A",
-  "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
   "mhr": null
  },
  {
@@ -459,21 +459,21 @@
   "mhr": null
  },
  {
-  "id": "2713:windsor-jr-spitfires",
-  "name": "Windsor Jr Spitfires",
-  "divisionId": 2713,
-  "division": "U11 AAA",
-  "association": "Windsor AAA Zone",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-  "mhr": null
- },
- {
   "id": "2713:elgin-middlesex-canucks",
   "name": "Elgin-Middlesex Canucks",
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "Elgin-Middlesex Canucks",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+  "mhr": null
+ },
+ {
+  "id": "2713:windsor-jr-spitfires",
+  "name": "Windsor Jr Spitfires",
+  "divisionId": 2713,
+  "division": "U11 AAA",
+  "association": "Windsor AAA Zone",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
   "mhr": null
  },
  {
@@ -1242,21 +1242,21 @@
   "mhr": null
  },
  {
-  "id": "2720:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2720,
-  "division": "U13 AA-A",
-  "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
- },
- {
   "id": "2720:kitchener-jr-rangers-red",
   "name": "Kitchener Jr Rangers Red",
   "divisionId": 2720,
   "division": "U13 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+  "mhr": null
+ },
+ {
+  "id": "2720:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2720,
+  "division": "U13 AA-A",
+  "association": "Woodstock Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
   "mhr": null
  },
  {
@@ -1692,21 +1692,21 @@
   "mhr": null
  },
  {
-  "id": "2724:kitchener-jr-rangers",
-  "name": "Kitchener Jr Rangers",
-  "divisionId": 2724,
-  "division": "U14 BB",
-  "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
- },
- {
   "id": "2724:cambridge-hawks",
   "name": "Cambridge Hawks",
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Cambridge Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+  "mhr": null
+ },
+ {
+  "id": "2724:kitchener-jr-rangers",
+  "name": "Kitchener Jr Rangers",
+  "divisionId": 2724,
+  "division": "U14 BB",
+  "association": "Kitchener Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
   "mhr": null
  },
  {
@@ -1998,6 +1998,15 @@
   "mhr": null
  },
  {
+  "id": "2726:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2726,
+  "division": "U15 AA-A",
+  "association": "Waterloo Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+  "mhr": null
+ },
+ {
   "id": "2726:burlington-raiders",
   "name": "Burlington Raiders",
   "divisionId": 2726,
@@ -2022,15 +2031,6 @@
   "division": "U15 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
- },
- {
-  "id": "2726:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2726,
-  "division": "U15 AA-A",
-  "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
   "mhr": null
  },
  {
@@ -2700,6 +2700,15 @@
   "mhr": null
  },
  {
+  "id": "2733:cambridge-hawks",
+  "name": "Cambridge Hawks",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Cambridge Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+  "mhr": null
+ },
+ {
   "id": "2733:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2733,
@@ -2715,15 +2724,6 @@
   "division": "U18 BB",
   "association": "Waterloo Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
- },
- {
-  "id": "2733:cambridge-hawks",
-  "name": "Cambridge Hawks",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
   "mhr": null
  },
  {

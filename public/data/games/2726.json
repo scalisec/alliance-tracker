@@ -452,14 +452,17 @@
   "start": "2026-10-18T16:00:00-04:00",
   "away": "Burlington Raiders",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 2,
+  "status": "final",
   "venue": "RIM Park (Optimists)",
   "code": "U15S75",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3080507
+  }
  },
  {
   "id": 2375717,

@@ -1,6 +1,6 @@
 {
  "divisionId": 2711,
- "updatedAt": "2026-10-18T21:21:33.128Z",
+ "updatedAt": "2026-10-18T21:41:34.909Z",
  "regular": [
   {
    "name": "",
@@ -66,6 +66,21 @@
      "strk": "W2"
     },
     {
+     "team": "Woodstock Jr Navy Vets",
+     "teamId": "odb-97035",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+     "gp": 2,
+     "w": 2,
+     "l": 0,
+     "t": 0,
+     "pts": 4,
+     "gf": 16,
+     "ga": 7,
+     "diff": 9,
+     "l10": "2-0",
+     "strk": "W2"
+    },
+    {
      "team": "Mt. Brydges Cougars",
      "teamId": "odb-97293",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
@@ -94,21 +109,6 @@
      "diff": 3,
      "l10": "2-1",
      "strk": "W2"
-    },
-    {
-     "team": "Woodstock Jr Navy Vets",
-     "teamId": "odb-97035",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 1,
-     "w": 1,
-     "l": 0,
-     "t": 0,
-     "pts": 2,
-     "gf": 9,
-     "ga": 3,
-     "diff": 6,
-     "l10": "1-0",
-     "strk": "W1"
     },
     {
      "team": "Stratford Warriors",
@@ -159,16 +159,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97294",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 4,
+     "gp": 5,
      "w": 0,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 0,
-     "gf": 4,
-     "ga": 19,
-     "diff": -15,
-     "l10": "0-4",
-     "strk": "L4"
+     "gf": 8,
+     "ga": 26,
+     "diff": -18,
+     "l10": "0-5",
+     "strk": "L5"
     },
     {
      "team": "Brantford 99ers",
