@@ -1,6 +1,6 @@
 {
  "divisionId": 2726,
- "updatedAt": "2026-10-18T22:03:58.990Z",
+ "updatedAt": "2026-10-18T22:15:42.192Z",
  "regular": [
   {
    "name": "",
@@ -84,31 +84,31 @@
      "team": "Brantford 99ers",
      "teamId": "odb-97090",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 2,
+     "gp": 3,
      "w": 2,
      "l": 0,
-     "t": 0,
-     "pts": 4,
-     "gf": 7,
-     "ga": 5,
+     "t": 1,
+     "pts": 5,
+     "gf": 11,
+     "ga": 9,
      "diff": 2,
-     "l10": "2-0",
-     "strk": "W2"
+     "l10": "2-0-1",
+     "strk": "T1"
     },
     {
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97097",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 4,
+     "gp": 5,
      "w": 2,
      "l": 2,
-     "t": 0,
-     "pts": 4,
-     "gf": 8,
-     "ga": 8,
+     "t": 1,
+     "pts": 5,
+     "gf": 12,
+     "ga": 12,
      "diff": 0,
-     "l10": "2-2",
-     "strk": "W2"
+     "l10": "2-2-1",
+     "strk": "T1"
     },
     {
      "team": "Woodstock Jr Navy Vets",

@@ -1,6 +1,6 @@
 {
  "divisionId": 2716,
- "updatedAt": "2026-10-18T22:02:18.955Z",
+ "updatedAt": "2026-10-18T22:13:52.127Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "London Jr Knights",
      "teamId": "odb-96964",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 4,
-     "w": 3,
+     "gp": 5,
+     "w": 4,
      "l": 0,
      "t": 1,
-     "pts": 7,
-     "gf": 23,
-     "ga": 7,
-     "diff": 16,
-     "l10": "3-0-1",
-     "strk": "W2"
+     "pts": 9,
+     "gf": 27,
+     "ga": 10,
+     "diff": 17,
+     "l10": "4-0-1",
+     "strk": "W3"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",
@@ -114,16 +114,16 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96961",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 5,
+     "gp": 6,
      "w": 0,
-     "l": 4,
+     "l": 5,
      "t": 1,
      "pts": 1,
-     "gf": 7,
-     "ga": 20,
-     "diff": -13,
-     "l10": "0-4-1",
-     "strk": "L2"
+     "gf": 10,
+     "ga": 24,
+     "diff": -14,
+     "l10": "0-5-1",
+     "strk": "L3"
     },
     {
      "team": "Sun County Panthers",

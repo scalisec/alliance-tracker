@@ -269,14 +269,17 @@
   "start": "2026-10-18T16:00:00-04:00",
   "away": "Waterloo Wolves",
   "home": "London Jr Knights Green",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U18S5",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3080427
+  }
  },
  {
   "id": 2376069,

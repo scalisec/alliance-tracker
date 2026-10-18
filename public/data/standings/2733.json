@@ -1,10 +1,25 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-10-18T22:05:29.124Z",
+ "updatedAt": "2026-10-18T22:17:02.274Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Kitchener Jr Rangers",
+     "teamId": "odb-97124",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 4,
+     "w": 4,
+     "l": 0,
+     "t": 0,
+     "pts": 8,
+     "gf": 24,
+     "ga": 3,
+     "diff": 21,
+     "l10": "4-0",
+     "strk": "W4"
+    },
     {
      "team": "Cambridge Hawks",
      "teamId": "odb-97123",
@@ -19,21 +34,6 @@
      "diff": 11,
      "l10": "4-0",
      "strk": "W4"
-    },
-    {
-     "team": "Kitchener Jr Rangers",
-     "teamId": "odb-97124",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 3,
-     "w": 3,
-     "l": 0,
-     "t": 0,
-     "pts": 6,
-     "gf": 21,
-     "ga": 2,
-     "diff": 19,
-     "l10": "3-0",
-     "strk": "W3"
     },
     {
      "team": "Waterloo Wolves White",
@@ -234,16 +234,16 @@
      "team": "North London Nationals",
      "teamId": "odb-98277",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 4,
+     "gp": 5,
      "w": 0,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 0,
-     "gf": 2,
-     "ga": 17,
-     "diff": -15,
-     "l10": "0-4",
-     "strk": "L4"
+     "gf": 3,
+     "ga": 20,
+     "diff": -17,
+     "l10": "0-5",
+     "strk": "L5"
     }
    ]
   }

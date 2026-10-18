@@ -2700,21 +2700,21 @@
   "mhr": null
  },
  {
-  "id": "2733:cambridge-hawks",
-  "name": "Cambridge Hawks",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
- },
- {
   "id": "2733:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Kitchener Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+  "mhr": null
+ },
+ {
+  "id": "2733:cambridge-hawks",
+  "name": "Cambridge Hawks",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Cambridge Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
   "mhr": null
  },
  {
