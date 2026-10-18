@@ -77,14 +77,17 @@
   "start": "2026-10-18T12:30:00-04:00",
   "away": "Huron-Perth Lakers",
   "home": "Windsor Jr Spitfires",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Central Park (North)",
   "code": "U16P105",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4434/2026-10-18/12:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3079990
+  }
  },
  {
   "id": 2375162,
