@@ -1,6 +1,6 @@
 {
  "divisionId": 2725,
- "updatedAt": "2026-10-18T20:43:15.525Z",
+ "updatedAt": "2026-10-18T21:03:37.011Z",
  "regular": [
   {
    "name": "",
@@ -33,6 +33,21 @@
      "ga": 13,
      "diff": 11,
      "l10": "4-2-1",
+     "strk": "W1"
+    },
+    {
+     "team": "Sarnia-Lambton Jr Sting",
+     "teamId": "odb-96999",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
+     "gp": 7,
+     "w": 4,
+     "l": 3,
+     "t": 0,
+     "pts": 8,
+     "gf": 23,
+     "ga": 17,
+     "diff": 6,
+     "l10": "4-3",
      "strk": "W1"
     },
     {
@@ -81,21 +96,6 @@
      "strk": "L1"
     },
     {
-     "team": "Sarnia-Lambton Jr Sting",
-     "teamId": "odb-96999",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 6,
-     "w": 3,
-     "l": 3,
-     "t": 0,
-     "pts": 6,
-     "gf": 16,
-     "ga": 14,
-     "diff": 2,
-     "l10": "3-3",
-     "strk": "L3"
-    },
-    {
      "team": "Sault Major Jr Greyhounds",
      "teamId": "odb-97004",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png",
@@ -129,16 +129,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-96994",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 6,
+     "gp": 7,
      "w": 1,
-     "l": 4,
+     "l": 5,
      "t": 1,
      "pts": 3,
-     "gf": 12,
-     "ga": 25,
-     "diff": -13,
-     "l10": "1-4-1",
-     "strk": "T1"
+     "gf": 15,
+     "ga": 32,
+     "diff": -17,
+     "l10": "1-5-1",
+     "strk": "L1"
     },
     {
      "team": "Waterloo Wolves",

@@ -72,6 +72,15 @@
   "mhr": null
  },
  {
+  "id": "2710:london-jr-knights",
+  "name": "London Jr Knights",
+  "divisionId": 2710,
+  "division": "U10 AAA",
+  "association": "London Jr Knights",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+  "mhr": null
+ },
+ {
   "id": "2710:sarnia-lambton-jr-sting",
   "name": "Sarnia-Lambton Jr Sting",
   "divisionId": 2710,
@@ -87,15 +96,6 @@
   "division": "U10 AAA",
   "association": "Chatham-Kent Cyclones",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
-  "mhr": null
- },
- {
-  "id": "2710:london-jr-knights",
-  "name": "London Jr Knights",
-  "divisionId": 2710,
-  "division": "U10 AAA",
-  "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
   "mhr": null
  },
  {
@@ -1836,6 +1836,15 @@
   "mhr": null
  },
  {
+  "id": "2725:sarnia-lambton-jr-sting",
+  "name": "Sarnia-Lambton Jr Sting",
+  "divisionId": 2725,
+  "division": "U15 AAA",
+  "association": "Lambton Jr Sting",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
+  "mhr": null
+ },
+ {
   "id": "2725:elgin-middlesex-canucks",
   "name": "Elgin-Middlesex Canucks",
   "divisionId": 2725,
@@ -1860,15 +1869,6 @@
   "division": "U15 AAA",
   "association": "Huron-Perth Lakers",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-  "mhr": null
- },
- {
-  "id": "2725:sarnia-lambton-jr-sting",
-  "name": "Sarnia-Lambton Jr Sting",
-  "divisionId": 2725,
-  "division": "U15 AAA",
-  "association": "Lambton Jr Sting",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
   "mhr": null
  },
  {

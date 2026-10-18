@@ -230,14 +230,17 @@
   "start": "2026-10-18T15:15:00-04:00",
   "away": "Chatham-Kent Cyclones",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Western Fair (Chik-fil-a)",
   "code": "U10P103",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4445/2026-10-18/15:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3080446
+  }
  },
  {
   "id": 2373909,
