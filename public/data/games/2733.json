@@ -446,14 +446,17 @@
   "start": "2026-10-17T21:00:00-04:00",
   "away": "Stratford Warriors",
   "home": "Lambeth Lancers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Lambeth (Lambeth)",
   "code": "U18BR209",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3078735
+  }
  },
  {
   "id": 2379120,
