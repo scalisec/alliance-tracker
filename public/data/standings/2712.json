@@ -1,6 +1,6 @@
 {
  "divisionId": 2712,
- "updatedAt": "2026-10-18T16:08:36.676Z",
+ "updatedAt": "2026-10-18T20:01:41.775Z",
  "regular": [
   {
    "name": "East Division",
@@ -146,19 +146,34 @@
      "strk": "W2"
     },
     {
+     "team": "Oakridge Aeros",
+     "teamId": "odb-97178",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
+     "gp": 4,
+     "w": 1,
+     "l": 1,
+     "t": 2,
+     "pts": 4,
+     "gf": 15,
+     "ga": 24,
+     "diff": -9,
+     "l10": "1-1-2",
+     "strk": "W1"
+    },
+    {
      "team": "London Bandits",
      "teamId": "odb-97182",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 1,
+     "gp": 2,
      "w": 1,
-     "l": 0,
+     "l": 1,
      "t": 0,
      "pts": 2,
-     "gf": 13,
-     "ga": 1,
-     "diff": 12,
-     "l10": "1-0",
-     "strk": "W1"
+     "gf": 16,
+     "ga": 7,
+     "diff": 9,
+     "l10": "1-1",
+     "strk": "L1"
     },
     {
      "team": "West London Hawks",
@@ -189,21 +204,6 @@
      "diff": -3,
      "l10": "1-1",
      "strk": "L1"
-    },
-    {
-     "team": "Oakridge Aeros",
-     "teamId": "odb-97178",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 3,
-     "w": 0,
-     "l": 1,
-     "t": 2,
-     "pts": 2,
-     "gf": 9,
-     "ga": 21,
-     "diff": -12,
-     "l10": "0-1-2",
-     "strk": "T2"
     }
    ]
   }
