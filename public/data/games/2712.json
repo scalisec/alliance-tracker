@@ -545,14 +545,17 @@
   "start": "2026-10-18T11:00:00-04:00",
   "away": "Oakridge Aeros",
   "home": "London Bandits",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U10BW28",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3079491
+  }
  },
  {
   "id": 2379426,
