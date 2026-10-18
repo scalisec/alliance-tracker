@@ -2529,21 +2529,21 @@
   "mhr": null
  },
  {
-  "id": "2731:london-jr-knights",
-  "name": "London Jr Knights",
-  "divisionId": 2731,
-  "division": "U18 AAA",
-  "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
- },
- {
   "id": "2731:elgin-middlesex-canucks",
   "name": "Elgin-Middlesex Canucks",
   "divisionId": 2731,
   "division": "U18 AAA",
   "association": "Elgin-Middlesex Canucks",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+  "mhr": null
+ },
+ {
+  "id": "2731:london-jr-knights",
+  "name": "London Jr Knights",
+  "divisionId": 2731,
+  "division": "U18 AAA",
+  "association": "London Jr Knights",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
   "mhr": null
  },
  {
