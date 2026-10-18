@@ -1,39 +1,39 @@
 {
  "divisionId": 2721,
- "updatedAt": "2026-10-18T16:29:02.141Z",
+ "updatedAt": "2026-10-18T16:50:14.601Z",
  "regular": [
   {
    "name": "",
    "rows": [
     {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-97224",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "team": "Stratford Warriors",
+     "teamId": "odb-97234",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
      "gp": 5,
      "w": 5,
      "l": 0,
      "t": 0,
      "pts": 10,
-     "gf": 22,
-     "ga": 9,
-     "diff": 13,
+     "gf": 35,
+     "ga": 4,
+     "diff": 31,
      "l10": "5-0",
      "strk": "W5"
     },
     {
-     "team": "Stratford Warriors",
-     "teamId": "odb-97234",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 4,
-     "w": 4,
-     "l": 0,
+     "team": "Waterloo Wolves",
+     "teamId": "odb-97224",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 6,
+     "w": 5,
+     "l": 1,
      "t": 0,
-     "pts": 8,
-     "gf": 28,
-     "ga": 3,
-     "diff": 25,
-     "l10": "4-0",
-     "strk": "W4"
+     "pts": 10,
+     "gf": 23,
+     "ga": 16,
+     "diff": 7,
+     "l10": "5-1",
+     "strk": "L1"
     },
     {
      "team": "Burlington Raiders",

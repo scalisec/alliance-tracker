@@ -506,14 +506,17 @@
   "start": "2026-10-18T11:30:00-04:00",
   "away": "Waterloo Wolves",
   "home": "Stratford Warriors",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Allman (Allman)",
   "code": "U13BR14",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4857/2026-10-18/11:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3079745
+  }
  },
  {
   "id": 2378041,

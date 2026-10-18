@@ -747,21 +747,21 @@
   "mhr": null
  },
  {
-  "id": "2716:london-jr-knights",
-  "name": "London Jr Knights",
-  "divisionId": 2716,
-  "division": "U12 AAA",
-  "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
- },
- {
   "id": "2716:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2716,
   "division": "U12 AAA",
   "association": "Kitchener Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+  "mhr": null
+ },
+ {
+  "id": "2716:london-jr-knights",
+  "name": "London Jr Knights",
+  "divisionId": 2716,
+  "division": "U12 AAA",
+  "association": "London Jr Knights",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
   "mhr": null
  },
  {
@@ -1323,21 +1323,21 @@
   "mhr": null
  },
  {
-  "id": "2721:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2721,
-  "division": "U13 BB",
-  "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
- },
- {
   "id": "2721:stratford-warriors",
   "name": "Stratford Warriors",
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Stratford Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
+  "mhr": null
+ },
+ {
+  "id": "2721:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2721,
+  "division": "U13 BB",
+  "association": "Waterloo Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
   "mhr": null
  },
  {
