@@ -1,6 +1,6 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-10-18T17:29:27.618Z",
+ "updatedAt": "2026-10-18T17:49:36.791Z",
  "regular": [
   {
    "name": "",
@@ -96,19 +96,49 @@
      "strk": "W3"
     },
     {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97206",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 7,
+     "w": 2,
+     "l": 4,
+     "t": 1,
+     "pts": 5,
+     "gf": 23,
+     "ga": 40,
+     "diff": -17,
+     "l10": "2-4-1",
+     "strk": "W1"
+    },
+    {
      "team": "London Bandits",
      "teamId": "odb-97211",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 5,
+     "gp": 6,
      "w": 2,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 4,
-     "gf": 16,
+     "gf": 22,
+     "ga": 28,
+     "diff": -6,
+     "l10": "2-4",
+     "strk": "L1"
+    },
+    {
+     "team": "Burlington Raiders",
+     "teamId": "odb-97216",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
+     "gp": 5,
+     "w": 1,
+     "l": 2,
+     "t": 2,
+     "pts": 4,
+     "gf": 11,
      "ga": 19,
-     "diff": -3,
-     "l10": "2-3",
-     "strk": "W1"
+     "diff": -8,
+     "l10": "1-2-2",
+     "strk": "T1"
     },
     {
      "team": "Oakridge Aeros",
@@ -139,36 +169,6 @@
      "diff": -15,
      "l10": "2-3",
      "strk": "W1"
-    },
-    {
-     "team": "Burlington Raiders",
-     "teamId": "odb-97216",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 4,
-     "w": 1,
-     "l": 2,
-     "t": 1,
-     "pts": 3,
-     "gf": 8,
-     "ga": 16,
-     "diff": -8,
-     "l10": "1-2-1",
-     "strk": "L1"
-    },
-    {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97206",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 6,
-     "w": 1,
-     "l": 4,
-     "t": 1,
-     "pts": 3,
-     "gf": 14,
-     "ga": 34,
-     "diff": -20,
-     "l10": "1-4-1",
-     "strk": "L3"
     },
     {
      "team": "Burlington Bulldogs Blue",
@@ -216,6 +216,21 @@
      "strk": "L2"
     },
     {
+     "team": "Stratford Warriors",
+     "teamId": "odb-97217",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
+     "gp": 5,
+     "w": 0,
+     "l": 4,
+     "t": 1,
+     "pts": 1,
+     "gf": 8,
+     "ga": 26,
+     "diff": -18,
+     "l10": "0-4-1",
+     "strk": "T1"
+    },
+    {
      "team": "Cambridge Hawks",
      "teamId": "odb-97219",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
@@ -227,21 +242,6 @@
      "gf": 5,
      "ga": 22,
      "diff": -17,
-     "l10": "0-4",
-     "strk": "L4"
-    },
-    {
-     "team": "Stratford Warriors",
-     "teamId": "odb-97217",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 4,
-     "w": 0,
-     "l": 4,
-     "t": 0,
-     "pts": 0,
-     "gf": 5,
-     "ga": 23,
-     "diff": -18,
      "l10": "0-4",
      "strk": "L4"
     }

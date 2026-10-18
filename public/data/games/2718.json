@@ -632,14 +632,17 @@
   "start": "2026-10-18T12:00:00-04:00",
   "away": "Brantford 99ers",
   "home": "London Bandits",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 9,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U12BR34",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3079513
+  }
  },
  {
   "id": 2377983,
@@ -647,14 +650,17 @@
   "start": "2026-10-18T12:15:00-04:00",
   "away": "Burlington Raiders",
   "home": "Stratford Warriors",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Rotary Complex (Rink B)",
   "code": "U12BR61",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3079514
+  }
  },
  {
   "id": 2377934,
