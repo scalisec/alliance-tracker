@@ -1,6 +1,6 @@
 {
  "divisionId": 2726,
- "updatedAt": "2026-10-17T23:06:58.059Z",
+ "updatedAt": "2026-10-18T12:43:54.329Z",
  "regular": [
   {
    "name": "",
@@ -19,6 +19,21 @@
      "diff": 8,
      "l10": "4-0",
      "strk": "W4"
+    },
+    {
+     "team": "London Jr Knights Green",
+     "teamId": "odb-97095",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 4,
+     "w": 3,
+     "l": 1,
+     "t": 0,
+     "pts": 6,
+     "gf": 13,
+     "ga": 4,
+     "diff": 9,
+     "l10": "3-1",
+     "strk": "W1"
     },
     {
      "team": "St. Thomas Jr Stars",
@@ -49,21 +64,6 @@
      "diff": 8,
      "l10": "2-1-1",
      "strk": "W1"
-    },
-    {
-     "team": "London Jr Knights Green",
-     "teamId": "odb-97095",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 3,
-     "w": 2,
-     "l": 1,
-     "t": 0,
-     "pts": 4,
-     "gf": 10,
-     "ga": 4,
-     "diff": 6,
-     "l10": "2-1",
-     "strk": "L1"
     },
     {
      "team": "Brantford 99ers",
@@ -156,21 +156,6 @@
      "strk": "L1"
     },
     {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-97099",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 2,
-     "w": 1,
-     "l": 1,
-     "t": 0,
-     "pts": 2,
-     "gf": 3,
-     "ga": 6,
-     "diff": -3,
-     "l10": "1-1",
-     "strk": "L1"
-    },
-    {
      "team": "Kitchener Jr Rangers Blue",
      "teamId": "odb-97301",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -184,6 +169,21 @@
      "diff": -7,
      "l10": "1-2",
      "strk": "W1"
+    },
+    {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-97099",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 3,
+     "w": 1,
+     "l": 2,
+     "t": 0,
+     "pts": 2,
+     "gf": 3,
+     "ga": 9,
+     "diff": -6,
+     "l10": "1-2",
+     "strk": "L2"
     },
     {
      "team": "Stratford Warriors",
