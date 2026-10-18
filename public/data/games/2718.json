@@ -704,14 +704,17 @@
   "start": "2026-10-18T17:00:00-04:00",
   "away": "Burlington Bulldogs Blue",
   "home": "Burlington Bulldogs White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Appleby (2)",
   "code": "U12BR113",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4333/2026-10-18/17:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3080513
+  }
  },
  {
   "id": 2377992,
