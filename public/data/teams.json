@@ -468,21 +468,21 @@
   "mhr": null
  },
  {
-  "id": "2713:windsor-jr-spitfires",
-  "name": "Windsor Jr Spitfires",
-  "divisionId": 2713,
-  "division": "U11 AAA",
-  "association": "Windsor AAA Zone",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-  "mhr": null
- },
- {
   "id": "2713:london-jr-knights",
   "name": "London Jr Knights",
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "London Jr Knights",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+  "mhr": null
+ },
+ {
+  "id": "2713:windsor-jr-spitfires",
+  "name": "Windsor Jr Spitfires",
+  "divisionId": 2713,
+  "division": "U11 AAA",
+  "association": "Windsor AAA Zone",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
   "mhr": null
  },
  {
@@ -2466,6 +2466,15 @@
   "mhr": null
  },
  {
+  "id": "2730:lambeth-lancers",
+  "name": "Lambeth Lancers",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
+  "mhr": null
+ },
+ {
   "id": "2730:burlington-bulldogs-white",
   "name": "Burlington Bulldogs White",
   "divisionId": 2730,
@@ -2490,15 +2499,6 @@
   "division": "U16 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
- },
- {
-  "id": "2730:lambeth-lancers",
-  "name": "Lambeth Lancers",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
   "mhr": null
  },
  {
@@ -2736,6 +2736,15 @@
   "mhr": null
  },
  {
+  "id": "2733:west-london-hawks-black",
+  "name": "West London Hawks Black",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
+  "mhr": null
+ },
+ {
   "id": "2733:burlington-raiders",
   "name": "Burlington Raiders",
   "divisionId": 2733,
@@ -2772,12 +2781,12 @@
   "mhr": null
  },
  {
-  "id": "2733:west-london-hawks-black",
-  "name": "West London Hawks Black",
+  "id": "2733:burlington-bulldogs-white",
+  "name": "Burlington Bulldogs White",
   "divisionId": 2733,
   "division": "U18 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
   "mhr": null
  },
  {
@@ -2787,15 +2796,6 @@
   "division": "U18 BB",
   "association": "Stratford Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-  "mhr": null
- },
- {
-  "id": "2733:burlington-bulldogs-white",
-  "name": "Burlington Bulldogs White",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
   "mhr": null
  },
  {

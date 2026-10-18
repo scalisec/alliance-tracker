@@ -272,14 +272,17 @@
   "start": "2026-10-18T16:45:00-04:00",
   "away": "Sarnia-Lambton Jr Sting",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Western Fair (Chik-fil-a)",
   "code": "U11P93",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4445/2026-10-18/16:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3080706
+  }
  },
  {
   "id": 2373668,
