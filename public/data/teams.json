@@ -2610,6 +2610,15 @@
   "mhr": null
  },
  {
+  "id": "2732:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "Woodstock Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+  "mhr": null
+ },
+ {
   "id": "2732:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2732,
@@ -2682,15 +2691,6 @@
   "mhr": null
  },
  {
-  "id": "2732:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
- },
- {
   "id": "2732:cambridge-hawks",
   "name": "Cambridge Hawks",
   "divisionId": 2732,
@@ -2706,6 +2706,15 @@
   "division": "U18 BB",
   "association": "Kitchener Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+  "mhr": null
+ },
+ {
+  "id": "2733:cambridge-hawks",
+  "name": "Cambridge Hawks",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Cambridge Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
   "mhr": null
  },
  {
@@ -2742,15 +2751,6 @@
   "division": "U18 BB",
   "association": "Waterloo Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
- },
- {
-  "id": "2733:cambridge-hawks",
-  "name": "Cambridge Hawks",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
   "mhr": null
  },
  {

@@ -215,14 +215,17 @@
   "start": "2026-10-17T18:45:00-04:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Civic Centre (Civic Centre)",
   "code": "U18S53",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3078742
+  }
  },
  {
   "id": 2376079,
