@@ -1,6 +1,6 @@
 {
  "divisionId": 2725,
- "updatedAt": "2026-10-18T19:15:11.595Z",
+ "updatedAt": "2026-10-18T19:35:14.505Z",
  "regular": [
   {
    "name": "",
@@ -33,6 +33,21 @@
      "ga": 13,
      "diff": 11,
      "l10": "4-2-1",
+     "strk": "W1"
+    },
+    {
+     "team": "Elgin-Middlesex Canucks",
+     "teamId": "odb-96996",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+     "gp": 6,
+     "w": 3,
+     "l": 2,
+     "t": 1,
+     "pts": 7,
+     "gf": 28,
+     "ga": 13,
+     "diff": 15,
+     "l10": "3-2-1",
      "strk": "W1"
     },
     {
@@ -111,21 +126,6 @@
      "strk": "T1"
     },
     {
-     "team": "Elgin-Middlesex Canucks",
-     "teamId": "odb-96996",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 5,
-     "w": 2,
-     "l": 2,
-     "t": 1,
-     "pts": 5,
-     "gf": 16,
-     "ga": 13,
-     "diff": 3,
-     "l10": "2-2-1",
-     "strk": "L2"
-    },
-    {
      "team": "Cambridge Hawks",
      "teamId": "odb-96994",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
@@ -174,16 +174,16 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-97003",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 5,
+     "gp": 6,
      "w": 0,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 0,
      "gf": 8,
-     "ga": 25,
-     "diff": -17,
-     "l10": "0-5",
-     "strk": "L5"
+     "ga": 37,
+     "diff": -29,
+     "l10": "0-6",
+     "strk": "L6"
     }
    ]
   }

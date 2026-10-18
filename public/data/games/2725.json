@@ -527,14 +527,17 @@
   "start": "2026-10-18T13:45:00-04:00",
   "away": "Windsor Jr Spitfires",
   "home": "Elgin-Middlesex Canucks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 12,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U15P105",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-10-18/13:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3080394
+  }
  },
  {
   "id": 2374867,

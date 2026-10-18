@@ -1,6 +1,6 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-10-18T19:16:01.754Z",
+ "updatedAt": "2026-10-18T19:36:14.341Z",
  "regular": [
   {
    "name": "",
@@ -66,6 +66,21 @@
      "strk": "W2"
     },
     {
+     "team": "North London Nationals",
+     "teamId": "odb-97256",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
+     "gp": 3,
+     "w": 2,
+     "l": 0,
+     "t": 1,
+     "pts": 5,
+     "gf": 21,
+     "ga": 12,
+     "diff": 9,
+     "l10": "2-0-1",
+     "strk": "T1"
+    },
+    {
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97262",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
@@ -79,6 +94,21 @@
      "diff": 3,
      "l10": "2-0-1",
      "strk": "W1"
+    },
+    {
+     "team": "London Bandits",
+     "teamId": "odb-97255",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
+     "gp": 5,
+     "w": 2,
+     "l": 2,
+     "t": 1,
+     "pts": 5,
+     "gf": 13,
+     "ga": 20,
+     "diff": -7,
+     "l10": "2-2-1",
+     "strk": "T1"
     },
     {
      "team": "Sarnia Jr. Sting",
@@ -96,21 +126,6 @@
      "strk": "W2"
     },
     {
-     "team": "North London Nationals",
-     "teamId": "odb-97256",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 2,
-     "w": 2,
-     "l": 0,
-     "t": 0,
-     "pts": 4,
-     "gf": 16,
-     "ga": 7,
-     "diff": 9,
-     "l10": "2-0",
-     "strk": "W2"
-    },
-    {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97252",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -124,21 +139,6 @@
      "diff": 1,
      "l10": "2-2",
      "strk": "W2"
-    },
-    {
-     "team": "London Bandits",
-     "teamId": "odb-97255",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 4,
-     "w": 2,
-     "l": 2,
-     "t": 0,
-     "pts": 4,
-     "gf": 8,
-     "ga": 15,
-     "diff": -7,
-     "l10": "2-2",
-     "strk": "L2"
     },
     {
      "team": "Waterloo Wolves",
