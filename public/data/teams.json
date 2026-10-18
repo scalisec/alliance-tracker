@@ -1332,21 +1332,21 @@
   "mhr": null
  },
  {
-  "id": "2721:burlington-raiders",
-  "name": "Burlington Raiders",
-  "divisionId": 2721,
-  "division": "U13 BB",
-  "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-  "mhr": null
- },
- {
   "id": "2721:stratford-warriors",
   "name": "Stratford Warriors",
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Stratford Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
+  "mhr": null
+ },
+ {
+  "id": "2721:burlington-raiders",
+  "name": "Burlington Raiders",
+  "divisionId": 2721,
+  "division": "U13 BB",
+  "association": "Burlington Raiders Hockey Club",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
   "mhr": null
  },
  {
@@ -2403,6 +2403,15 @@
   "mhr": null
  },
  {
+  "id": "2730:oakridge-aeros",
+  "name": "Oakridge Aeros",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
+  "mhr": null
+ },
+ {
   "id": "2730:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2730,
@@ -2439,15 +2448,6 @@
   "mhr": null
  },
  {
-  "id": "2730:oakridge-aeros",
-  "name": "Oakridge Aeros",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-  "mhr": null
- },
- {
   "id": "2730:cambridge-hawks",
   "name": "Cambridge Hawks",
   "divisionId": 2730,
@@ -2475,12 +2475,12 @@
   "mhr": null
  },
  {
-  "id": "2730:lambeth-lancers",
-  "name": "Lambeth Lancers",
+  "id": "2730:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
   "divisionId": 2730,
   "division": "U16 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
+  "association": "Woodstock Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
   "mhr": null
  },
  {
@@ -2493,12 +2493,12 @@
   "mhr": null
  },
  {
-  "id": "2730:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
+  "id": "2730:lambeth-lancers",
+  "name": "Lambeth Lancers",
   "divisionId": 2730,
   "division": "U16 BB",
-  "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+  "association": "Greater London Hockey Association",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
   "mhr": null
  },
  {
@@ -2511,21 +2511,21 @@
   "mhr": null
  },
  {
-  "id": "2730:west-london-hawks",
-  "name": "West London Hawks",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-  "mhr": null
- },
- {
   "id": "2730:burlington-raiders",
   "name": "Burlington Raiders",
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Burlington Raiders Hockey Club",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
+  "mhr": null
+ },
+ {
+  "id": "2730:west-london-hawks",
+  "name": "West London Hawks",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
   "mhr": null
  },
  {
@@ -2601,6 +2601,15 @@
   "mhr": null
  },
  {
+  "id": "2732:london-jr-knights-green",
+  "name": "London Jr Knights Green",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "London Jr Knights",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+  "mhr": null
+ },
+ {
   "id": "2732:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2732,
@@ -2625,15 +2634,6 @@
   "division": "U18 AA-A",
   "association": "Sarnia Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
- },
- {
-  "id": "2732:london-jr-knights-green",
-  "name": "London Jr Knights Green",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
   "mhr": null
  },
  {
@@ -2664,21 +2664,21 @@
   "mhr": null
  },
  {
-  "id": "2732:london-jr-knights-white",
-  "name": "London Jr Knights White",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
- },
- {
   "id": "2732:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2732,
   "division": "U18 AA-A",
   "association": null,
   "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+  "mhr": null
+ },
+ {
+  "id": "2732:london-jr-knights-white",
+  "name": "London Jr Knights White",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "London Jr Knights",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
   "mhr": null
  },
  {

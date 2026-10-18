@@ -500,14 +500,17 @@
   "start": "2026-10-17T19:00:00-04:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Mr Lube + Tires (Red)",
   "code": "U16BR15",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/241/2026-10-17/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3078778
+  }
  },
  {
   "id": 2379002,
@@ -515,14 +518,17 @@
   "start": "2026-10-17T19:30:00-04:00",
   "away": "Brantford 99ers",
   "home": "Oakridge Aeros",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Oakridge (Oakridge)",
   "code": "U16BR36",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5029/2026-10-17/19:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3078779
+  }
  },
  {
   "id": 2379035,

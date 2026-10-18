@@ -1,10 +1,25 @@
 {
  "divisionId": 2732,
- "updatedAt": "2026-10-18T00:51:46.473Z",
+ "updatedAt": "2026-10-18T01:12:30.453Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "London Jr Knights Green",
+     "teamId": "odb-97115",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 3,
+     "w": 2,
+     "l": 0,
+     "t": 1,
+     "pts": 5,
+     "gf": 17,
+     "ga": 4,
+     "diff": 13,
+     "l10": "2-0-1",
+     "strk": "W2"
+    },
     {
      "team": "Brantford 99ers",
      "teamId": "odb-97112",
@@ -48,21 +63,6 @@
      "ga": 13,
      "diff": -6,
      "l10": "2-1",
-     "strk": "W1"
-    },
-    {
-     "team": "London Jr Knights Green",
-     "teamId": "odb-97115",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 2,
-     "w": 1,
-     "l": 0,
-     "t": 1,
-     "pts": 3,
-     "gf": 10,
-     "ga": 3,
-     "diff": 7,
-     "l10": "1-0-1",
      "strk": "W1"
     },
     {
@@ -111,21 +111,6 @@
      "strk": "W1"
     },
     {
-     "team": "London Jr Knights White",
-     "teamId": "odb-97120",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 2,
-     "w": 1,
-     "l": 1,
-     "t": 0,
-     "pts": 2,
-     "gf": 8,
-     "ga": 7,
-     "diff": 1,
-     "l10": "1-1",
-     "strk": "W1"
-    },
-    {
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97121",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
@@ -139,6 +124,21 @@
      "diff": -2,
      "l10": "1-1",
      "strk": "W1"
+    },
+    {
+     "team": "London Jr Knights White",
+     "teamId": "odb-97120",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 3,
+     "w": 1,
+     "l": 2,
+     "t": 0,
+     "pts": 2,
+     "gf": 9,
+     "ga": 14,
+     "diff": -5,
+     "l10": "1-2",
+     "strk": "L1"
     },
     {
      "team": "Mt. Brydges Cougars",

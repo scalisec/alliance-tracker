@@ -488,14 +488,17 @@
   "start": "2026-10-17T19:30:00-04:00",
   "away": "Burlington Bulldogs White",
   "home": "Stratford Warriors",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 13,
+  "status": "final",
   "venue": "Rotary Complex (Rink A)",
   "code": "U13BR6",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3078810
+  }
  },
  {
   "id": 2378080,
