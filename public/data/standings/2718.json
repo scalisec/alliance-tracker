@@ -1,6 +1,6 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-10-18T18:33:44.519Z",
+ "updatedAt": "2026-10-18T18:53:57.987Z",
  "regular": [
   {
    "name": "",
@@ -159,30 +159,15 @@
      "team": "West London Hawks",
      "teamId": "odb-97215",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 5,
+     "gp": 6,
      "w": 2,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 4,
-     "gf": 10,
-     "ga": 25,
-     "diff": -15,
-     "l10": "2-3",
-     "strk": "W1"
-    },
-    {
-     "team": "Burlington Bulldogs Blue",
-     "teamId": "odb-97218",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 4,
-     "w": 1,
-     "l": 3,
-     "t": 0,
-     "pts": 2,
-     "gf": 18,
-     "ga": 20,
-     "diff": -2,
-     "l10": "1-3",
+     "gf": 11,
+     "ga": 28,
+     "diff": -17,
+     "l10": "2-4",
      "strk": "L1"
     },
     {
@@ -216,6 +201,36 @@
      "strk": "L2"
     },
     {
+     "team": "Burlington Bulldogs Blue",
+     "teamId": "odb-97218",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 4,
+     "w": 1,
+     "l": 3,
+     "t": 0,
+     "pts": 2,
+     "gf": 18,
+     "ga": 20,
+     "diff": -2,
+     "l10": "1-3",
+     "strk": "L1"
+    },
+    {
+     "team": "Cambridge Hawks",
+     "teamId": "odb-97219",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "gp": 5,
+     "w": 1,
+     "l": 4,
+     "t": 0,
+     "pts": 2,
+     "gf": 8,
+     "ga": 23,
+     "diff": -15,
+     "l10": "1-4",
+     "strk": "W1"
+    },
+    {
      "team": "Stratford Warriors",
      "teamId": "odb-97217",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
@@ -229,21 +244,6 @@
      "diff": -18,
      "l10": "0-4-1",
      "strk": "T1"
-    },
-    {
-     "team": "Cambridge Hawks",
-     "teamId": "odb-97219",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 4,
-     "w": 0,
-     "l": 4,
-     "t": 0,
-     "pts": 0,
-     "gf": 5,
-     "ga": 22,
-     "diff": -17,
-     "l10": "0-4",
-     "strk": "L4"
     }
    ]
   }

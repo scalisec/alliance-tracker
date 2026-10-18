@@ -1,6 +1,6 @@
 {
  "divisionId": 2724,
- "updatedAt": "2026-10-18T18:34:24.408Z",
+ "updatedAt": "2026-10-18T18:55:07.661Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "London Bandits",
      "teamId": "odb-97241",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 4,
+     "gp": 5,
      "w": 4,
      "l": 0,
-     "t": 0,
-     "pts": 8,
-     "gf": 29,
-     "ga": 3,
+     "t": 1,
+     "pts": 9,
+     "gf": 31,
+     "ga": 5,
      "diff": 26,
-     "l10": "4-0",
-     "strk": "W4"
+     "l10": "4-0-1",
+     "strk": "T1"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -201,6 +201,21 @@
      "strk": "L3"
     },
     {
+     "team": "Burlington Raiders",
+     "teamId": "odb-97247",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
+     "gp": 5,
+     "w": 0,
+     "l": 4,
+     "t": 1,
+     "pts": 1,
+     "gf": 4,
+     "ga": 27,
+     "diff": -23,
+     "l10": "0-4-1",
+     "strk": "T1"
+    },
+    {
      "team": "Burlington Bulldogs White",
      "teamId": "odb-97433",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
@@ -229,21 +244,6 @@
      "diff": -46,
      "l10": "0-7",
      "strk": "L7"
-    },
-    {
-     "team": "Burlington Raiders",
-     "teamId": "odb-97247",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 4,
-     "w": 0,
-     "l": 4,
-     "t": 0,
-     "pts": 0,
-     "gf": 2,
-     "ga": 25,
-     "diff": -23,
-     "l10": "0-4",
-     "strk": "L4"
     }
    ]
   }

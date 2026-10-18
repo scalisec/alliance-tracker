@@ -668,14 +668,17 @@
   "start": "2026-10-18T13:00:00-04:00",
   "away": "West London Hawks",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Preston Aud (1)",
   "code": "U12BR101",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2624/2026-10-18/13:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3080511
+  }
  },
  {
   "id": 2378008,

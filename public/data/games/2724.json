@@ -611,14 +611,17 @@
   "start": "2026-10-18T13:00:00-04:00",
   "away": "London Bandits",
   "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Mr Lube + Tires (Black)",
   "code": "U14BR16",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/242/2026-10-18/13:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3080409
+  }
  },
  {
   "id": 2378161,

@@ -407,14 +407,17 @@
   "start": "2026-10-18T13:00:00-04:00",
   "away": "London Jr Knights White",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 6,
+  "status": "final",
   "venue": "RIM Park (Optimists)",
   "code": "U12S19",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3080622
+  }
  },
  {
   "id": 2375414,
