@@ -407,14 +407,17 @@
   "start": "2026-10-18T14:00:00-04:00",
   "away": "Brantford 99ers",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 4,
+  "status": "final",
   "venue": "RIM Park (Lions)",
   "code": "U13P24",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3080364
+  }
  },
  {
   "id": 2374632,

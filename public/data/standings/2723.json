@@ -1,6 +1,6 @@
 {
  "divisionId": 2723,
- "updatedAt": "2026-10-18T19:34:34.162Z",
+ "updatedAt": "2026-10-18T19:55:01.625Z",
  "regular": [
   {
    "name": "",
@@ -21,6 +21,21 @@
      "strk": "W5"
     },
     {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97077",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 6,
+     "w": 4,
+     "l": 0,
+     "t": 2,
+     "pts": 10,
+     "gf": 18,
+     "ga": 9,
+     "diff": 9,
+     "l10": "4-0-2",
+     "strk": "W2"
+    },
+    {
      "team": "London Jr Knights White",
      "teamId": "odb-97083",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
@@ -33,21 +48,6 @@
      "ga": 12,
      "diff": 10,
      "l10": "4-1-1",
-     "strk": "W1"
-    },
-    {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97077",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 5,
-     "w": 3,
-     "l": 0,
-     "t": 2,
-     "pts": 8,
-     "gf": 15,
-     "ga": 8,
-     "diff": 7,
-     "l10": "3-0-2",
      "strk": "W1"
     },
     {
@@ -159,16 +159,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97086",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 5,
+     "gp": 6,
      "w": 0,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 0,
-     "gf": 8,
-     "ga": 20,
-     "diff": -12,
-     "l10": "0-5",
-     "strk": "L5"
+     "gf": 9,
+     "ga": 23,
+     "diff": -14,
+     "l10": "0-6",
+     "strk": "L6"
     },
     {
      "team": "Cambridge Hawks",

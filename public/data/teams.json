@@ -1161,6 +1161,15 @@
   "mhr": null
  },
  {
+  "id": "2719:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2719,
+  "division": "U13 AAA",
+  "association": "Waterloo Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+  "mhr": null
+ },
+ {
   "id": "2719:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2719,
@@ -1185,15 +1194,6 @@
   "division": "U13 AAA",
   "association": "Elgin-Middlesex Canucks",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-  "mhr": null
- },
- {
-  "id": "2719:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2719,
-  "division": "U13 AAA",
-  "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
   "mhr": null
  },
  {
@@ -1566,21 +1566,21 @@
   "mhr": null
  },
  {
-  "id": "2723:london-jr-knights-white",
-  "name": "London Jr Knights White",
-  "divisionId": 2723,
-  "division": "U14 AA-A",
-  "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
- },
- {
   "id": "2723:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": "Brantford Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+  "mhr": null
+ },
+ {
+  "id": "2723:london-jr-knights-white",
+  "name": "London Jr Knights White",
+  "divisionId": 2723,
+  "division": "U14 AA-A",
+  "association": "London Jr Knights",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
   "mhr": null
  },
  {

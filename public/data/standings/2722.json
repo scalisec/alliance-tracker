@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-10-18T17:50:47.076Z",
+ "updatedAt": "2026-10-18T19:54:41.758Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-96990",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 6,
-     "w": 6,
+     "gp": 7,
+     "w": 7,
      "l": 0,
      "t": 0,
-     "pts": 12,
-     "gf": 37,
+     "pts": 14,
+     "gf": 42,
      "ga": 3,
-     "diff": 34,
-     "l10": "6-0",
-     "strk": "W6"
+     "diff": 39,
+     "l10": "7-0",
+     "strk": "W7"
     },
     {
      "team": "Huron-Perth Lakers",
@@ -99,16 +99,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-96981",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 7,
+     "gp": 8,
      "w": 2,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 4,
      "gf": 14,
-     "ga": 31,
-     "diff": -17,
-     "l10": "2-5",
-     "strk": "L3"
+     "ga": 36,
+     "diff": -22,
+     "l10": "2-6",
+     "strk": "L4"
     },
     {
      "team": "Cambridge Hawks",

@@ -1,6 +1,6 @@
 {
  "divisionId": 2725,
- "updatedAt": "2026-10-18T19:35:14.505Z",
+ "updatedAt": "2026-10-18T19:55:51.554Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-96993",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 7,
-     "w": 7,
+     "gp": 8,
+     "w": 8,
      "l": 0,
      "t": 0,
-     "pts": 14,
-     "gf": 24,
-     "ga": 7,
-     "diff": 17,
-     "l10": "7-0",
-     "strk": "W7"
+     "pts": 16,
+     "gf": 33,
+     "ga": 10,
+     "diff": 23,
+     "l10": "8-0",
+     "strk": "W8"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -114,16 +114,16 @@
      "team": "Sun County Panthers",
      "teamId": "odb-97001",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 5,
+     "gp": 6,
      "w": 2,
-     "l": 1,
+     "l": 2,
      "t": 2,
      "pts": 6,
-     "gf": 15,
-     "ga": 15,
-     "diff": 0,
-     "l10": "2-1-2",
-     "strk": "T1"
+     "gf": 18,
+     "ga": 24,
+     "diff": -6,
+     "l10": "2-2-2",
+     "strk": "L1"
     },
     {
      "team": "Cambridge Hawks",

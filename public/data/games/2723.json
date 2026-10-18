@@ -527,14 +527,17 @@
   "start": "2026-10-18T14:30:00-04:00",
   "away": "Brantford 99ers",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 1,
+  "status": "final",
   "venue": "RIM Park (Optimists)",
   "code": "U14S45",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3080463
+  }
  },
  {
   "id": 2375667,
