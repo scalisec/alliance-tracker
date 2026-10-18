@@ -251,14 +251,17 @@
   "start": "2026-10-17T19:45:00-04:00",
   "away": "Cambridge Hawks",
   "home": "Stratford Warriors",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Rotary Complex (Rink B)",
   "code": "U18S116",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3078744
+  }
  },
  {
   "id": 2375990,

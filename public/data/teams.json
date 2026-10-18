@@ -2610,6 +2610,15 @@
   "mhr": null
  },
  {
+  "id": "2732:stratford-warriors",
+  "name": "Stratford Warriors",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "Stratford Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
+  "mhr": null
+ },
+ {
   "id": "2732:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2732,
@@ -2652,15 +2661,6 @@
   "division": "U18 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
- },
- {
-  "id": "2732:stratford-warriors",
-  "name": "Stratford Warriors",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": "Stratford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
   "mhr": null
  },
  {
