@@ -563,14 +563,17 @@
   "start": "2026-10-18T15:15:00-04:00",
   "away": "Burlington Raiders",
   "home": "Burlington Bulldogs Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Mountainside (Mountainside)",
   "code": "U10BE84",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4336/2026-10-18/15:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3080422
+  }
  },
  {
   "id": 2379519,

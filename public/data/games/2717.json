@@ -425,14 +425,17 @@
   "start": "2026-10-18T14:30:00-04:00",
   "away": "Stratford Warriors",
   "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Mr Lube + Tires (Black)",
   "code": "U12S24",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/242/2026-10-18/14:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3080623
+  }
  },
  {
   "id": 2375404,

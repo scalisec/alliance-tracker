@@ -855,6 +855,15 @@
   "mhr": null
  },
  {
+  "id": "2717:stratford-warriors",
+  "name": "Stratford Warriors",
+  "divisionId": 2717,
+  "division": "U12 AA-A",
+  "association": "Stratford Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
+  "mhr": null
+ },
+ {
   "id": "2717:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2717,
@@ -870,15 +879,6 @@
   "division": "U12 AA-A",
   "association": "London Jr Knights",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
- },
- {
-  "id": "2717:stratford-warriors",
-  "name": "Stratford Warriors",
-  "divisionId": 2717,
-  "division": "U12 AA-A",
-  "association": "Stratford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
   "mhr": null
  },
  {
@@ -1647,21 +1647,21 @@
   "mhr": null
  },
  {
-  "id": "2723:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2723,
-  "division": "U14 AA-A",
-  "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
- },
- {
   "id": "2723:cambridge-hawks",
   "name": "Cambridge Hawks",
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": "Cambridge Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+  "mhr": null
+ },
+ {
+  "id": "2723:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2723,
+  "division": "U14 AA-A",
+  "association": "Waterloo Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
   "mhr": null
  },
  {

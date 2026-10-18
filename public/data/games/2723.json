@@ -512,14 +512,17 @@
   "start": "2026-10-18T14:30:00-04:00",
   "away": "St. Thomas Jr Stars",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Preston Aud (1)",
   "code": "U14S38",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2624/2026-10-18/14:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3080464
+  }
  },
  {
   "id": 2375657,
