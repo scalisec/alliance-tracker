@@ -1,6 +1,6 @@
 {
  "divisionId": 2726,
- "updatedAt": "2026-10-18T18:55:58.021Z",
+ "updatedAt": "2026-10-18T19:15:31.800Z",
  "regular": [
   {
    "name": "",
@@ -21,6 +21,21 @@
      "strk": "W4"
     },
     {
+     "team": "St. Thomas Jr Stars",
+     "teamId": "odb-97101",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "gp": 5,
+     "w": 4,
+     "l": 1,
+     "t": 0,
+     "pts": 8,
+     "gf": 20,
+     "ga": 9,
+     "diff": 11,
+     "l10": "4-1",
+     "strk": "W1"
+    },
+    {
      "team": "London Jr Knights Green",
      "teamId": "odb-97095",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
@@ -34,21 +49,6 @@
      "diff": 9,
      "l10": "3-1",
      "strk": "W1"
-    },
-    {
-     "team": "St. Thomas Jr Stars",
-     "teamId": "odb-97101",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 4,
-     "w": 3,
-     "l": 1,
-     "t": 0,
-     "pts": 6,
-     "gf": 16,
-     "ga": 8,
-     "diff": 8,
-     "l10": "3-1",
-     "strk": "L1"
     },
     {
      "team": "Mt. Brydges Cougars",
@@ -189,16 +189,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-97098",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 4,
+     "gp": 5,
      "w": 0,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 0,
-     "gf": 6,
-     "ga": 20,
-     "diff": -14,
-     "l10": "0-4",
-     "strk": "L4"
+     "gf": 7,
+     "ga": 24,
+     "diff": -17,
+     "l10": "0-5",
+     "strk": "L5"
     }
    ]
   }

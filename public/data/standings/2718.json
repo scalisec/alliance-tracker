@@ -1,39 +1,39 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-10-18T18:53:57.987Z",
+ "updatedAt": "2026-10-18T19:13:31.897Z",
  "regular": [
   {
    "name": "",
    "rows": [
     {
-     "team": "St. Thomas Jr Stars",
-     "teamId": "odb-97220",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "team": "Woodstock Jr Navy Vets",
+     "teamId": "odb-98138",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
      "gp": 6,
      "w": 5,
      "l": 0,
      "t": 1,
      "pts": 11,
-     "gf": 34,
-     "ga": 17,
-     "diff": 17,
+     "gf": 29,
+     "ga": 10,
+     "diff": 19,
      "l10": "5-0-1",
-     "strk": "W2"
+     "strk": "W5"
     },
     {
-     "team": "Woodstock Jr Navy Vets",
-     "teamId": "odb-98138",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 5,
-     "w": 4,
-     "l": 0,
+     "team": "St. Thomas Jr Stars",
+     "teamId": "odb-97220",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "gp": 7,
+     "w": 5,
+     "l": 1,
      "t": 1,
-     "pts": 9,
-     "gf": 22,
-     "ga": 6,
-     "diff": 16,
-     "l10": "4-0-1",
-     "strk": "W4"
+     "pts": 11,
+     "gf": 38,
+     "ga": 24,
+     "diff": 14,
+     "l10": "5-1-1",
+     "strk": "L1"
     },
     {
      "team": "Burlington Bulldogs Gold",

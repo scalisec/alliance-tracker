@@ -686,14 +686,17 @@
   "start": "2026-10-18T13:45:00-04:00",
   "away": "St. Thomas Jr Stars",
   "home": "Woodstock Jr Navy Vets",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Reeves CC (Red)",
   "code": "U12BR25",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4269/2026-10-18/13:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3080512
+  }
  },
  {
   "id": 2377914,
