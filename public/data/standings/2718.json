@@ -1,6 +1,6 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-10-18T23:14:07.887Z",
+ "updatedAt": "2026-10-18T23:33:43.842Z",
  "regular": [
   {
    "name": "",
@@ -69,16 +69,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97210",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 3,
-     "w": 3,
+     "gp": 4,
+     "w": 4,
      "l": 0,
      "t": 0,
-     "pts": 6,
-     "gf": 21,
-     "ga": 2,
-     "diff": 19,
-     "l10": "3-0",
-     "strk": "W3"
+     "pts": 8,
+     "gf": 26,
+     "ga": 6,
+     "diff": 20,
+     "l10": "4-0",
+     "strk": "W4"
     },
     {
      "team": "Sarnia Jr. Sting",
@@ -141,6 +141,21 @@
      "strk": "W1"
     },
     {
+     "team": "Oakridge Aeros",
+     "teamId": "odb-97213",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
+     "gp": 7,
+     "w": 2,
+     "l": 5,
+     "t": 0,
+     "pts": 4,
+     "gf": 18,
+     "ga": 31,
+     "diff": -13,
+     "l10": "2-5",
+     "strk": "L3"
+    },
+    {
      "team": "Burlington Raiders",
      "teamId": "odb-97216",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
@@ -154,21 +169,6 @@
      "diff": -8,
      "l10": "1-2-2",
      "strk": "T1"
-    },
-    {
-     "team": "Oakridge Aeros",
-     "teamId": "odb-97213",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 6,
-     "w": 2,
-     "l": 4,
-     "t": 0,
-     "pts": 4,
-     "gf": 14,
-     "ga": 26,
-     "diff": -12,
-     "l10": "2-4",
-     "strk": "L2"
     },
     {
      "team": "West London Hawks",

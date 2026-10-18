@@ -722,14 +722,17 @@
   "start": "2026-10-18T18:15:00-04:00",
   "away": "Oakridge Aeros",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 5,
+  "status": "final",
   "venue": "AMC (West)",
   "code": "U12BR55",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4627/2026-10-18/18:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3081903
+  }
  },
  {
   "id": 2377904,

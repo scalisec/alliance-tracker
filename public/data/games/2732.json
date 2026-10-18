@@ -287,14 +287,17 @@
   "start": "2026-10-18T17:30:00-04:00",
   "away": "St. Thomas Jr Stars",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Galt Arena (Galt Arena)",
   "code": "U18S46",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2608/2026-10-18/17:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3081944
+  }
  },
  {
   "id": 2376082,
@@ -302,14 +305,17 @@
   "start": "2026-10-18T18:00:00-04:00",
   "away": "Brantford 99ers",
   "home": "London Jr Knights White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U18S55",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3081945
+  }
  },
  {
   "id": 2376060,

@@ -518,14 +518,17 @@
   "start": "2026-10-18T17:45:00-04:00",
   "away": "St. Thomas Jr Stars",
   "home": "Waterloo Wolves Gold",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 1,
+  "status": "final",
   "venue": "RIM Park (Optimists)",
   "code": "U18BR189",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3080672
+  }
  },
  {
   "id": 2379204,

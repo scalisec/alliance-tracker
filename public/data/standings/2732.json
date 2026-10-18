@@ -1,6 +1,6 @@
 {
  "divisionId": 2732,
- "updatedAt": "2026-10-18T23:17:57.800Z",
+ "updatedAt": "2026-10-18T23:37:34.150Z",
  "regular": [
   {
    "name": "",
@@ -39,16 +39,31 @@
      "team": "Brantford 99ers",
      "teamId": "odb-97112",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 3,
+     "gp": 4,
      "w": 2,
-     "l": 1,
+     "l": 2,
      "t": 0,
      "pts": 4,
      "gf": 7,
-     "ga": 6,
-     "diff": 1,
-     "l10": "2-1",
-     "strk": "L1"
+     "ga": 8,
+     "diff": -1,
+     "l10": "2-2",
+     "strk": "L2"
+    },
+    {
+     "team": "London Jr Knights White",
+     "teamId": "odb-97120",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 4,
+     "w": 2,
+     "l": 2,
+     "t": 0,
+     "pts": 4,
+     "gf": 11,
+     "ga": 14,
+     "diff": -3,
+     "l10": "2-2",
+     "strk": "W1"
     },
     {
      "team": "Woodstock Jr Navy Vets",
@@ -111,34 +126,19 @@
      "strk": "W1"
     },
     {
-     "team": "St. Thomas Jr Stars",
-     "teamId": "odb-97121",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 2,
+     "team": "Cambridge Hawks",
+     "teamId": "odb-97113",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "gp": 4,
      "w": 1,
-     "l": 1,
+     "l": 3,
      "t": 0,
      "pts": 2,
-     "gf": 4,
-     "ga": 6,
-     "diff": -2,
-     "l10": "1-1",
-     "strk": "W1"
-    },
-    {
-     "team": "London Jr Knights White",
-     "teamId": "odb-97120",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 3,
-     "w": 1,
-     "l": 2,
-     "t": 0,
-     "pts": 2,
-     "gf": 9,
+     "gf": 10,
      "ga": 14,
-     "diff": -5,
-     "l10": "1-2",
-     "strk": "L1"
+     "diff": -4,
+     "l10": "1-3",
+     "strk": "W1"
     },
     {
      "team": "Mt. Brydges Cougars",
@@ -156,19 +156,19 @@
      "strk": "L3"
     },
     {
-     "team": "Cambridge Hawks",
-     "teamId": "odb-97113",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "team": "St. Thomas Jr Stars",
+     "teamId": "odb-97121",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
      "gp": 3,
-     "w": 0,
-     "l": 3,
+     "w": 1,
+     "l": 2,
      "t": 0,
-     "pts": 0,
+     "pts": 2,
      "gf": 4,
-     "ga": 14,
-     "diff": -10,
-     "l10": "0-3",
-     "strk": "L3"
+     "ga": 12,
+     "diff": -8,
+     "l10": "1-2",
+     "strk": "L1"
     }
    ]
   }
