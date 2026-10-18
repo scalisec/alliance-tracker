@@ -449,14 +449,17 @@
   "start": "2026-10-18T15:00:00-04:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Clearwater (Blue)",
   "code": "U15BR16",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3080547
+  }
  },
  {
   "id": 2378859,

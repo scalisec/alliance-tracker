@@ -452,14 +452,17 @@
   "start": "2026-10-18T15:30:00-04:00",
   "away": "Stratford Warriors",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 8,
+  "status": "final",
   "venue": "RIM Park (Lions)",
   "code": "U13S70",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3080662
+  }
  },
  {
   "id": 2375557,

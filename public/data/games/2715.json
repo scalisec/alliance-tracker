@@ -437,14 +437,17 @@
   "start": "2026-10-18T16:00:00-04:00",
   "away": "Burlington Bulldogs Blue",
   "home": "Oakridge Aeros",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Carling (A)",
   "code": "U11BR86",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5027/2026-10-18/16:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3080691
+  }
  },
  {
   "id": 2379347,

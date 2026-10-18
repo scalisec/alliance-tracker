@@ -1,6 +1,6 @@
 {
  "divisionId": 2715,
- "updatedAt": "2026-10-18T21:01:57.029Z",
+ "updatedAt": "2026-10-18T21:21:52.781Z",
  "regular": [
   {
    "name": "",
@@ -21,6 +21,21 @@
      "strk": "W4"
     },
     {
+     "team": "Burlington Bulldogs Blue",
+     "teamId": "odb-97191",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 4,
+     "w": 3,
+     "l": 0,
+     "t": 1,
+     "pts": 7,
+     "gf": 15,
+     "ga": 6,
+     "diff": 9,
+     "l10": "3-0-1",
+     "strk": "T1"
+    },
+    {
      "team": "Cambridge Hawks",
      "teamId": "odb-97203",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
@@ -34,21 +49,6 @@
      "diff": 4,
      "l10": "3-1-1",
      "strk": "W2"
-    },
-    {
-     "team": "Burlington Bulldogs Blue",
-     "teamId": "odb-97191",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 3,
-     "w": 3,
-     "l": 0,
-     "t": 0,
-     "pts": 6,
-     "gf": 14,
-     "ga": 5,
-     "diff": 9,
-     "l10": "3-0",
-     "strk": "W3"
     },
     {
      "team": "Sarnia Jr. Sting",
@@ -171,6 +171,21 @@
      "strk": "L1"
     },
     {
+     "team": "Oakridge Aeros",
+     "teamId": "odb-97195",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
+     "gp": 5,
+     "w": 0,
+     "l": 4,
+     "t": 1,
+     "pts": 1,
+     "gf": 5,
+     "ga": 23,
+     "diff": -18,
+     "l10": "0-4-1",
+     "strk": "T1"
+    },
+    {
      "team": "London Bandits",
      "teamId": "odb-97200",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
@@ -184,21 +199,6 @@
      "diff": -10,
      "l10": "0-3",
      "strk": "L3"
-    },
-    {
-     "team": "Oakridge Aeros",
-     "teamId": "odb-97195",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 4,
-     "w": 0,
-     "l": 4,
-     "t": 0,
-     "pts": 0,
-     "gf": 4,
-     "ga": 22,
-     "diff": -18,
-     "l10": "0-4",
-     "strk": "L4"
     },
     {
      "team": "West London Hawks",

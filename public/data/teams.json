@@ -630,21 +630,21 @@
   "mhr": null
  },
  {
-  "id": "2715:cambridge-hawks",
-  "name": "Cambridge Hawks",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
- },
- {
   "id": "2715:burlington-bulldogs-blue",
   "name": "Burlington Bulldogs Blue",
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+  "mhr": null
+ },
+ {
+  "id": "2715:cambridge-hawks",
+  "name": "Cambridge Hawks",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Cambridge Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
   "mhr": null
  },
  {
@@ -720,21 +720,21 @@
   "mhr": null
  },
  {
-  "id": "2715:london-bandits",
-  "name": "London Bandits",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-  "mhr": null
- },
- {
   "id": "2715:oakridge-aeros",
   "name": "Oakridge Aeros",
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Greater London Hockey Association",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
+  "mhr": null
+ },
+ {
+  "id": "2715:london-bandits",
+  "name": "London Bandits",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
   "mhr": null
  },
  {
@@ -1215,6 +1215,15 @@
   "mhr": null
  },
  {
+  "id": "2720:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2720,
+  "division": "U13 AA-A",
+  "association": "Waterloo Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+  "mhr": null
+ },
+ {
   "id": "2720:london-jr-knights-green",
   "name": "London Jr Knights Green",
   "divisionId": 2720,
@@ -1239,15 +1248,6 @@
   "division": "U13 AA-A",
   "association": "Woodstock Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
- },
- {
-  "id": "2720:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2720,
-  "division": "U13 AA-A",
-  "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
   "mhr": null
  },
  {
@@ -2052,6 +2052,15 @@
   "mhr": null
  },
  {
+  "id": "2727:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Sarnia Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+  "mhr": null
+ },
+ {
   "id": "2727:oakridge-aeros",
   "name": "Oakridge Aeros",
   "divisionId": 2727,
@@ -2103,15 +2112,6 @@
   "division": "U15 BB",
   "association": "Greater London Hockey Association",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-  "mhr": null
- },
- {
-  "id": "2727:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
   "mhr": null
  },
  {

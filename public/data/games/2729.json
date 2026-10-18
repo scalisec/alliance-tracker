@@ -494,14 +494,17 @@
   "start": "2026-10-18T15:00:00-04:00",
   "away": "St. Thomas Jr Stars",
   "home": "Stratford Warriors",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Allman (Allman)",
   "code": "U16S189",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4857/2026-10-18/15:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3080581
+  }
  },
  {
   "id": 2375924,
