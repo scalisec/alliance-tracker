@@ -1,6 +1,6 @@
 {
  "divisionId": 2729,
- "updatedAt": "2026-10-19T00:15:04.501Z",
+ "updatedAt": "2026-10-19T00:27:33.379Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Mt. Brydges Cougars",
      "teamId": "odb-97291",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-     "gp": 5,
-     "w": 4,
+     "gp": 6,
+     "w": 5,
      "l": 0,
      "t": 1,
-     "pts": 9,
-     "gf": 16,
+     "pts": 11,
+     "gf": 21,
      "ga": 7,
-     "diff": 9,
-     "l10": "4-0-1",
-     "strk": "T1"
+     "diff": 14,
+     "l10": "5-0-1",
+     "strk": "W1"
     },
     {
      "team": "Brantford 99ers",
@@ -144,16 +144,16 @@
      "team": "Kitchener Jr Rangers Blue",
      "teamId": "odb-97302",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 5,
+     "gp": 6,
      "w": 1,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 2,
      "gf": 13,
-     "ga": 26,
-     "diff": -13,
-     "l10": "1-4",
-     "strk": "L4"
+     "ga": 31,
+     "diff": -18,
+     "l10": "1-5",
+     "strk": "L5"
     },
     {
      "team": "London Jr Knights White",

@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-10-19T00:15:24.608Z",
+ "updatedAt": "2026-10-19T00:28:03.379Z",
  "regular": [
   {
    "name": "",
@@ -81,6 +81,21 @@
      "strk": "W1"
     },
     {
+     "team": "St. Thomas Jr Stars",
+     "teamId": "odb-97280",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "gp": 5,
+     "w": 3,
+     "l": 2,
+     "t": 0,
+     "pts": 6,
+     "gf": 17,
+     "ga": 10,
+     "diff": 7,
+     "l10": "3-2",
+     "strk": "W2"
+    },
+    {
      "team": "Kitchener Jr Rangers Blue",
      "teamId": "odb-97271",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -123,21 +138,6 @@
      "ga": 13,
      "diff": 1,
      "l10": "2-2-1",
-     "strk": "W1"
-    },
-    {
-     "team": "St. Thomas Jr Stars",
-     "teamId": "odb-97280",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 4,
-     "w": 2,
-     "l": 2,
-     "t": 0,
-     "pts": 4,
-     "gf": 11,
-     "ga": 9,
-     "diff": 2,
-     "l10": "2-2",
      "strk": "W1"
     },
     {
@@ -219,16 +219,16 @@
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97278",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 4,
+     "gp": 5,
      "w": 0,
-     "l": 3,
+     "l": 4,
      "t": 1,
      "pts": 1,
-     "gf": 7,
-     "ga": 23,
-     "diff": -16,
-     "l10": "0-3-1",
-     "strk": "L1"
+     "gf": 8,
+     "ga": 29,
+     "diff": -21,
+     "l10": "0-4-1",
+     "strk": "L2"
     },
     {
      "team": "West London Hawks",

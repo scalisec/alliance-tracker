@@ -2430,6 +2430,15 @@
   "mhr": null
  },
  {
+  "id": "2730:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": null,
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+  "mhr": null
+ },
+ {
   "id": "2730:kitchener-jr-rangers-blue",
   "name": "Kitchener Jr Rangers Blue",
   "divisionId": 2730,
@@ -2454,15 +2463,6 @@
   "division": "U16 BB",
   "association": "Cambridge Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
- },
- {
-  "id": "2730:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
   "mhr": null
  },
  {

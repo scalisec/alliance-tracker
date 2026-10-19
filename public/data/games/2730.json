@@ -572,14 +572,17 @@
   "start": "2026-10-18T18:00:00-04:00",
   "away": "St. Thomas Jr Stars",
   "home": "Burlington Bulldogs Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Appleby (3)",
   "code": "U16BR17",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-10-18/18:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3081937
+  }
  },
  {
   "id": 2378928,
