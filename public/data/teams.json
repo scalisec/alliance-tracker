@@ -657,6 +657,15 @@
   "mhr": null
  },
  {
+  "id": "2715:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Woodstock Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+  "mhr": null
+ },
+ {
   "id": "2715:north-london-nationals",
   "name": "North London Nationals",
   "divisionId": 2715,
@@ -672,15 +681,6 @@
   "division": "U11 BB",
   "association": "Kitchener Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
- },
- {
-  "id": "2715:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
   "mhr": null
  },
  {
