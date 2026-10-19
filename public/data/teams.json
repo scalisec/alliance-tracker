@@ -2394,6 +2394,15 @@
   "mhr": null
  },
  {
+  "id": "2730:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Brantford Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+  "mhr": null
+ },
+ {
   "id": "2730:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2730,
@@ -2409,15 +2418,6 @@
   "division": "U16 BB",
   "association": "Greater London Hockey Association",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-  "mhr": null
- },
- {
-  "id": "2730:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
   "mhr": null
  },
  {
@@ -2610,6 +2610,15 @@
   "mhr": null
  },
  {
+  "id": "2732:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "Woodstock Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+  "mhr": null
+ },
+ {
   "id": "2732:stratford-warriors",
   "name": "Stratford Warriors",
   "divisionId": 2732,
@@ -2634,15 +2643,6 @@
   "division": "U18 AA-A",
   "association": "London Jr Knights",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
- },
- {
-  "id": "2732:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
   "mhr": null
  },
  {
