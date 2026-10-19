@@ -6,6 +6,8 @@ import DivisionPicker from './DivisionPicker.jsx';
 import { go } from '../App.jsx';
 import { activeGroups } from '../standings.js';
 
+const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+
 export default function Standings({ ctx }) {
   const [phase, setPhase] = useState('regular');
   const div = ctx.divById(ctx.div);
@@ -44,7 +46,7 @@ export default function Standings({ ctx }) {
                   </thead>
                   <tbody>
                     {g.rows.map((r, i) => (
-                      <tr key={r.team} className={mine.has(r.team) ? 'mine' : ''}>
+                      <tr key={r.team} className={`tap ${mine.has(r.team) ? 'mine' : ''}`} onClick={() => go(`team/${div.id}/${slug(r.team)}`)}>
                         <td>{i + 1}</td>
                         <td className="tm"><div><TeamLogo name={r.team} logo={ctx.logoOf(r.team)} size={22} /><span>{r.team}</span></div></td>
                         <td className="dim">{r.gp}</td><td>{r.w}</td><td className="dim">{r.l}</td><td className="dim">{r.t}</td>
@@ -58,7 +60,7 @@ export default function Standings({ ctx }) {
               </section>
             ))}
             {hidden > 0 && <p className="legend">A later round with no games played yet is hidden until it starts.</p>}
-            <p className="legend">Order and tiebreakers follow alliancehockey.com. Official rules prevail. Updated {ago(data?.updatedAt)}.</p>
+            <p className="legend">Tap a team to see its games. Order and tiebreakers follow alliancehockey.com. Official rules prevail. Updated {ago(data?.updatedAt)}.</p>
           </>
         )}
       </main>

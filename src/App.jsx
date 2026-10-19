@@ -9,8 +9,9 @@ import Standings from './screens/Standings.jsx';
 import Schedule from './screens/Schedule.jsx';
 import GameDetail from './screens/GameDetail.jsx';
 import Settings from './screens/Settings.jsx';
+import Team from './screens/Team.jsx';
 
-// Hash routes: #/  #/standings  #/schedule  #/find  #/game/{div}/{id}  #/settings
+// Hash routes: #/  #/standings  #/schedule  #/find  #/game/{div}/{id}  #/team/{div}/{slug}  #/settings
 const parse = () => {
   const parts = (location.hash.replace(/^#\/?/, '') || 'teams').split('/');
   return { name: parts[0], args: parts.slice(1) };
@@ -77,12 +78,13 @@ export default function App() {
 
   let screen;
   if (overlay === 'find') screen = <FindTeam ctx={ctx} />;
+  else if (overlay === 'team') screen = <Team ctx={ctx} divId={route.args[0]} teamSlug={route.args[1]} />;
   else if (overlay === 'game') screen = <GameDetail ctx={ctx} divId={route.args[0]} gameId={route.args[1]} />;
   else if (tab === 'standings') screen = <Standings ctx={ctx} />;
   else if (tab === 'schedule') screen = <Schedule ctx={ctx} />;
   else screen = <MyTeams ctx={ctx} />;
 
-  const showNav = overlay !== 'find' && overlay !== 'game';
+  const showNav = !['find', 'game', 'team'].includes(overlay);
 
   return (
     <div className="app">

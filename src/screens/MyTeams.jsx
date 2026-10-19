@@ -54,7 +54,7 @@ function TeamCard({ team, ctx }) {
 
   return (
     <section className="card team-card">
-      <div className="team-head">
+      <div className="team-head tap" role="button" onClick={() => go(`team/${team.divisionId}/${team.id.split(':')[1]}`)}>
         <TeamLogo name={team.name} logo={team.logo} size={46} />
         <div className="grow">
           <div className="name">{team.name}</div>
