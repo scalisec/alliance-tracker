@@ -1,6 +1,6 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-10-18T23:36:14.037Z",
+ "updatedAt": "2026-10-19T15:42:46.135Z",
  "regular": [
   {
    "name": "",
@@ -111,6 +111,21 @@
      "strk": "T1"
     },
     {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-97254",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 4,
+     "w": 2,
+     "l": 1,
+     "t": 1,
+     "pts": 5,
+     "gf": 12,
+     "ga": 9,
+     "diff": 3,
+     "l10": "2-1-1",
+     "strk": "W2"
+    },
+    {
      "team": "London Bandits",
      "teamId": "odb-97255",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
@@ -139,21 +154,6 @@
      "diff": 1,
      "l10": "2-2",
      "strk": "W2"
-    },
-    {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-97254",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 3,
-     "w": 1,
-     "l": 1,
-     "t": 1,
-     "pts": 3,
-     "gf": 8,
-     "ga": 6,
-     "diff": 2,
-     "l10": "1-1-1",
-     "strk": "W1"
     },
     {
      "team": "Woodstock Jr Navy Vets",
@@ -186,6 +186,21 @@
      "strk": "L4"
     },
     {
+     "team": "Burlington Bulldogs Blue",
+     "teamId": "odb-97259",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 6,
+     "w": 0,
+     "l": 6,
+     "t": 0,
+     "pts": 0,
+     "gf": 8,
+     "ga": 28,
+     "diff": -20,
+     "l10": "0-6",
+     "strk": "L6"
+    },
+    {
      "team": "Cambridge Hawks",
      "teamId": "odb-97261",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
@@ -197,21 +212,6 @@
      "gf": 8,
      "ga": 28,
      "diff": -20,
-     "l10": "0-5",
-     "strk": "L5"
-    },
-    {
-     "team": "Burlington Bulldogs Blue",
-     "teamId": "odb-97259",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 5,
-     "w": 0,
-     "l": 5,
-     "t": 0,
-     "pts": 0,
-     "gf": 5,
-     "ga": 24,
-     "diff": -19,
      "l10": "0-5",
      "strk": "L5"
     }

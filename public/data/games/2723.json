@@ -1011,6 +1011,21 @@
   "gamesheet": null
  },
  {
+  "id": 2375634,
+  "divisionId": 2723,
+  "start": "2026-11-21T15:30:00-05:00",
+  "away": "Kitchener Jr Rangers Red",
+  "home": "Mt. Brydges Cougars",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Tri-Township",
+  "code": "U14S35",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
   "id": 2375664,
   "divisionId": 2723,
   "start": "2026-11-21T15:45:00-05:00",
@@ -1021,21 +1036,6 @@
   "status": "scheduled",
   "venue": "Reeves CC (Red)",
   "code": "U14S15",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
-  "id": 2375634,
-  "divisionId": 2723,
-  "start": "2026-11-21T17:00:00-05:00",
-  "away": "Kitchener Jr Rangers Red",
-  "home": "Mt. Brydges Cougars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Tri-Township",
-  "code": "U14S35",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null

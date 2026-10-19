@@ -819,21 +819,6 @@
   "gamesheet": null
  },
  {
-  "id": 2379106,
-  "divisionId": 2733,
-  "start": "2026-10-31T19:00:00-04:00",
-  "away": "Stratford Warriors",
-  "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Mr Lube + Tires (Red)",
-  "code": "U18BR126",
-  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/241/2026-10-31/19:00",
-  "type": "regular",
-  "gamesheet": null
- },
- {
   "id": 2379186,
   "divisionId": 2733,
   "start": "2026-11-01T14:00:00-05:00",
@@ -2870,6 +2855,21 @@
   "venue": "Gretzky Center (#4)",
   "code": "U18BR267",
   "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
+  "id": 2379106,
+  "divisionId": 2733,
+  "start": "2027-02-07T15:15:00-05:00",
+  "away": "Stratford Warriors",
+  "home": "Burlington Raiders",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Mr Lube + Tires (Red)",
+  "code": "U18BR126",
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/241/2026-10-31/19:00",
   "type": "regular",
   "gamesheet": null
  },

@@ -591,21 +591,6 @@
   }
  },
  {
-  "id": 2378207,
-  "divisionId": 2724,
-  "start": "2026-10-18T11:15:00-04:00",
-  "away": "West London Hawks",
-  "home": "Woodstock Jr Navy Vets",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Reeves CC (Red)",
-  "code": "U14BR94",
-  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4269/2026-10-18/11:15",
-  "type": "regular",
-  "gamesheet": null
- },
- {
   "id": 2378127,
   "divisionId": 2724,
   "start": "2026-10-18T13:00:00-04:00",
@@ -1736,6 +1721,21 @@
   "venue": "Galt Arena",
   "code": "U14BR9",
   "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
+  "id": 2378207,
+  "divisionId": 2724,
+  "start": "2026-12-02T18:15:00-05:00",
+  "away": "West London Hawks",
+  "home": "Woodstock Jr Navy Vets",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Reeves CC (Red)",
+  "code": "U14BR94",
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4269/2026-10-18/11:15",
   "type": "regular",
   "gamesheet": null
  },
