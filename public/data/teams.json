@@ -2322,6 +2322,15 @@
   "mhr": null
  },
  {
+  "id": "2729:kitchener-jr-rangers-red",
+  "name": "Kitchener Jr Rangers Red",
+  "divisionId": 2729,
+  "division": "U16 AA-A",
+  "association": "Kitchener Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+  "mhr": null
+ },
+ {
   "id": "2729:cambridge-hawks",
   "name": "Cambridge Hawks",
   "divisionId": 2729,
@@ -2346,15 +2355,6 @@
   "division": "U16 AA-A",
   "association": null,
   "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-  "mhr": null
- },
- {
-  "id": "2729:kitchener-jr-rangers-red",
-  "name": "Kitchener Jr Rangers Red",
-  "divisionId": 2729,
-  "division": "U16 AA-A",
-  "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
   "mhr": null
  },
  {
@@ -2547,21 +2547,21 @@
   "mhr": null
  },
  {
-  "id": "2731:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2731,
-  "division": "U18 AAA",
-  "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
- },
- {
   "id": "2731:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2731,
   "division": "U18 AAA",
   "association": "Kitchener Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+  "mhr": null
+ },
+ {
+  "id": "2731:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2731,
+  "division": "U18 AAA",
+  "association": "Waterloo Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
   "mhr": null
  },
  {

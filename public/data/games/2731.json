@@ -290,14 +290,17 @@
   "start": "2026-10-18T19:30:00-04:00",
   "away": "Kitchener Jr Rangers",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Western Fair (Major Appliances)",
   "code": "U18P120",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4442/2026-10-18/19:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3081992
+  }
  },
  {
   "id": 2373320,
