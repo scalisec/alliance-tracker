@@ -1,6 +1,6 @@
 {
  "divisionId": 2732,
- "updatedAt": "2026-10-19T02:08:46.968Z",
+ "updatedAt": "2026-10-19T02:28:14.942Z",
  "regular": [
   {
    "name": "",
@@ -32,6 +32,21 @@
      "gf": 11,
      "ga": 13,
      "diff": -2,
+     "l10": "3-1",
+     "strk": "W2"
+    },
+    {
+     "team": "Sarnia Jr. Sting",
+     "teamId": "odb-97119",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+     "gp": 4,
+     "w": 3,
+     "l": 1,
+     "t": 0,
+     "pts": 6,
+     "gf": 9,
+     "ga": 14,
+     "diff": -5,
      "l10": "3-1",
      "strk": "W2"
     },
@@ -81,21 +96,6 @@
      "strk": "W1"
     },
     {
-     "team": "Sarnia Jr. Sting",
-     "teamId": "odb-97119",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 3,
-     "w": 2,
-     "l": 1,
-     "t": 0,
-     "pts": 4,
-     "gf": 7,
-     "ga": 13,
-     "diff": -6,
-     "l10": "2-1",
-     "strk": "W1"
-    },
-    {
      "team": "Waterloo Wolves",
      "teamId": "odb-97117",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
@@ -114,16 +114,16 @@
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97114",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 1,
+     "gp": 2,
      "w": 1,
-     "l": 0,
+     "l": 1,
      "t": 0,
      "pts": 2,
-     "gf": 6,
-     "ga": 0,
-     "diff": 6,
-     "l10": "1-0",
-     "strk": "W1"
+     "gf": 7,
+     "ga": 2,
+     "diff": 5,
+     "l10": "1-1",
+     "strk": "L1"
     },
     {
      "team": "Cambridge Hawks",

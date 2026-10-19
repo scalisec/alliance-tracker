@@ -2322,21 +2322,21 @@
   "mhr": null
  },
  {
-  "id": "2729:kitchener-jr-rangers-red",
-  "name": "Kitchener Jr Rangers Red",
-  "divisionId": 2729,
-  "division": "U16 AA-A",
-  "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
- },
- {
   "id": "2729:cambridge-hawks",
   "name": "Cambridge Hawks",
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": "Cambridge Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+  "mhr": null
+ },
+ {
+  "id": "2729:kitchener-jr-rangers-red",
+  "name": "Kitchener Jr Rangers Red",
+  "divisionId": 2729,
+  "division": "U16 AA-A",
+  "association": "Kitchener Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
   "mhr": null
  },
  {
@@ -2358,21 +2358,21 @@
   "mhr": null
  },
  {
-  "id": "2729:kitchener-jr-rangers-blue",
-  "name": "Kitchener Jr Rangers Blue",
-  "divisionId": 2729,
-  "division": "U16 AA-A",
-  "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
- },
- {
   "id": "2729:london-jr-knights-white",
   "name": "London Jr Knights White",
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": "London Jr Knights",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+  "mhr": null
+ },
+ {
+  "id": "2729:kitchener-jr-rangers-blue",
+  "name": "Kitchener Jr Rangers Blue",
+  "divisionId": 2729,
+  "division": "U16 AA-A",
+  "association": "Kitchener Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
   "mhr": null
  },
  {
@@ -2619,6 +2619,15 @@
   "mhr": null
  },
  {
+  "id": "2732:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "Sarnia Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+  "mhr": null
+ },
+ {
   "id": "2732:stratford-warriors",
   "name": "Stratford Warriors",
   "divisionId": 2732,
@@ -2643,15 +2652,6 @@
   "division": "U18 AA-A",
   "association": "London Jr Knights",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
- },
- {
-  "id": "2732:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
   "mhr": null
  },
  {

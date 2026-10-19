@@ -1,6 +1,6 @@
 {
  "divisionId": 2729,
- "updatedAt": "2026-10-19T02:07:46.937Z",
+ "updatedAt": "2026-10-19T02:27:44.925Z",
  "regular": [
   {
    "name": "",
@@ -81,6 +81,21 @@
      "strk": "W1"
     },
     {
+     "team": "Cambridge Hawks",
+     "teamId": "odb-97103",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "gp": 7,
+     "w": 2,
+     "l": 3,
+     "t": 2,
+     "pts": 6,
+     "gf": 22,
+     "ga": 23,
+     "diff": -1,
+     "l10": "2-3-2",
+     "strk": "T2"
+    },
+    {
      "team": "Kitchener Jr Rangers Red",
      "teamId": "odb-97104",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -94,21 +109,6 @@
      "diff": 0,
      "l10": "2-2-1",
      "strk": "W1"
-    },
-    {
-     "team": "Cambridge Hawks",
-     "teamId": "odb-97103",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 6,
-     "w": 2,
-     "l": 3,
-     "t": 1,
-     "pts": 5,
-     "gf": 18,
-     "ga": 19,
-     "diff": -1,
-     "l10": "2-3-1",
-     "strk": "T1"
     },
     {
      "team": "Sarnia Jr. Sting",
@@ -141,6 +141,21 @@
      "strk": "L1"
     },
     {
+     "team": "London Jr Knights White",
+     "teamId": "odb-97106",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 6,
+     "w": 1,
+     "l": 4,
+     "t": 1,
+     "pts": 3,
+     "gf": 19,
+     "ga": 30,
+     "diff": -11,
+     "l10": "1-4-1",
+     "strk": "T1"
+    },
+    {
      "team": "Kitchener Jr Rangers Blue",
      "teamId": "odb-97302",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -154,21 +169,6 @@
      "diff": -18,
      "l10": "1-5",
      "strk": "L5"
-    },
-    {
-     "team": "London Jr Knights White",
-     "teamId": "odb-97106",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 5,
-     "w": 1,
-     "l": 4,
-     "t": 0,
-     "pts": 2,
-     "gf": 15,
-     "ga": 26,
-     "diff": -11,
-     "l10": "1-4",
-     "strk": "W1"
     },
     {
      "team": "Woodstock Jr Navy Vets",
