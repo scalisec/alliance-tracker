@@ -3,6 +3,7 @@ import { useSaved } from '../store.js';
 import { BrandMark, Empty, GameCard, Icon, TeamLogo, Top } from '../ui.jsx';
 import { go } from '../App.jsx';
 import { activeGroups } from '../standings.js';
+import { FormRow, lastResults } from '../form.jsx';
 
 export default function MyTeams({ ctx }) {
   const { saved } = useSaved();
@@ -66,11 +67,14 @@ function TeamCard({ team, ctx }) {
       </div>
 
       {div?.scored ? (
-        <div className="stats">
-          {['gp', 'w', 'l', 't', 'gf', 'ga', 'pts'].map((k) => (
-            <div key={k} className={k}><div className="v">{stats[k]}</div><div className="k">{k.toUpperCase()}</div></div>
-          ))}
-        </div>
+        <>
+          <div className="stats">
+            {['gp', 'w', 'l', 't', 'gf', 'ga', 'pts'].map((k) => (
+              <div key={k} className={k}><div className="v">{stats[k]}</div><div className="k">{k.toUpperCase()}</div></div>
+            ))}
+          </div>
+          <FormRow form={lastResults(list, team.name)} streak={row?.strk} />
+        </>
       ) : (
         <p className="legend">MD divisions don't keep scores or standings. Schedule updates weekly.</p>
       )}

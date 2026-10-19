@@ -4,6 +4,7 @@ import { useSaved } from '../store.js';
 import { Empty, GameCard, Icon, Seg, TeamLogo, Top } from '../ui.jsx';
 import { back, go } from '../App.jsx';
 import { activeGroups } from '../standings.js';
+import { FormRow, lastResults, resultFor } from '../form.jsx';
 
 const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
@@ -34,12 +35,8 @@ export default function Team({ ctx, divId, teamSlug }) {
   const finals = played.filter((g) => gameState(g, { scored }) === 'final');
 
   // Record and form from the games themselves (works for every round).
-  const resultOf = (g) => {
-    const us = g.home === name ? g.homeScore : g.awayScore;
-    const them = g.home === name ? g.awayScore : g.homeScore;
-    return us > them ? 'W' : us < them ? 'L' : 'T';
-  };
-  const form = finals.slice(0, 5).map(resultOf);
+  const resultOf = (g) => resultFor(g, name);
+  const form = lastResults(finals, name);
   const gf = finals.reduce((n, g) => n + (g.home === name ? g.homeScore : g.awayScore), 0);
   const ga = finals.reduce((n, g) => n + (g.home === name ? g.awayScore : g.homeScore), 0);
   const stats = row ?? {
@@ -74,13 +71,7 @@ export default function Team({ ctx, divId, teamSlug }) {
                   <div key={k} className={k}><div className="v">{stats[k] ?? '–'}</div><div className="k">{k.toUpperCase()}</div></div>
                 ))}
               </div>
-              {form.length > 0 && (
-                <div className="form-row">
-                  <span className="form-label">Last {form.length}</span>
-                  {form.map((r, i) => <span key={i} className={`form-pill ${r}`}>{r}</span>)}
-                  {row?.strk && <span className="form-label" style={{ marginLeft: 'auto' }}>Streak {row.strk}</span>}
-                </div>
-              )}
+              <FormRow form={form} streak={row?.strk} />
             </>
           ) : <p className="legend">MD divisions don't keep scores or standings.</p>}
         </section>
