@@ -207,10 +207,10 @@ def page2(c):
     section_title(c, M, y, 3, "Key features")
 
     shots = [
-        ("myteams", "My Teams", "Record (GP, W, L, T, GF, GA, PTS), division place, last result and next games. A red LIVE badge shows during games."),
-        ("standings", "Standings", "Pick age and level. Full tables by division, with your teams highlighted. Playoffs tab when they start."),
-        ("schedule", "Schedule", "Upcoming games and results by day, with rink and LiveBarn link. Games in progress are marked LIVE."),
-        ("game", "Game details", "Tap any game. Live games have Refresh score and GameSheet's live scoring; finished games show the box score."),
+        ("myteams", "My Teams", "Record, division place, last 5 results with streak, and your next games."),
+        ("standings", "Standings", "Pick age and level; your teams are highlighted. Tap any team to see its games."),
+        ("schedule", "Schedule", "Games by day with rink and LiveBarn link. Games in progress are marked LIVE."),
+        ("game", "Game details", "Refresh score and GameSheet's live scoring; the full box score after the game."),
     ]
     gap = 12
     sw = (W - 2 * M - 3 * gap) / 4
@@ -228,8 +228,15 @@ def page2(c):
         c.drawString(x, top - sh - 18, title)
         paras(c, [Paragraph(text, cap)], x, top - sh - 23, sw, 48)
 
+    # ---- team page tip
+    ty = top - sh - 92
+    card(c, M, ty, W - 2 * M, 34, fill=BLUE_SOFT, stroke=BLUE_SOFT, r=8)
+    paras(c, [Paragraph("<b>Team pages:</b> tap any team in Standings, or your team's name on My Teams, to open its page: "
+                        "record, last 5 games and streak, every result (tap one for the game details) and the upcoming schedule.", small)],
+          M + 12, ty + 28, W - 2 * M - 24, 30)
+
     # ---- FAQ
-    fy = top - sh - 104
+    fy = ty - 26
     section_title(c, M, fy, 4, "Frequently asked questions")
     faq = [
         ("How up to date are scores and standings?",
