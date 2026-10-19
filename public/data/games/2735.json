@@ -660,6 +660,21 @@
   "gamesheet": null
  },
  {
+  "id": 2411471,
+  "divisionId": 2735,
+  "start": "2026-11-28T12:00:00-05:00",
+  "away": "London Bandits",
+  "home": "North London Nationals",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Carling (A)",
+  "code": "U8MDW144",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
   "id": 2411363,
   "divisionId": 2735,
   "start": "2026-11-28T14:15:00-05:00",
@@ -685,21 +700,6 @@
   "status": "scheduled",
   "venue": "Rotary Complex (Rink B)",
   "code": "U8MDW113",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
-  "id": 2411471,
-  "divisionId": 2735,
-  "start": "2026-11-28T17:00:00-05:00",
-  "away": "London Bandits",
-  "home": "North London Nationals",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Carling (A)",
-  "code": "U8MDW144",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null
