@@ -503,14 +503,17 @@
   "start": "2026-10-19T20:30:00-04:00",
   "away": "North London Nationals",
   "home": "Woodstock Jr Navy Vets",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Reeves CC (Green)",
   "code": "U15BR38",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4268/2026-10-19/20:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3084275
+  }
  },
  {
   "id": 2378890,

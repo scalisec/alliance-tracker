@@ -2169,6 +2169,15 @@
   "mhr": null
  },
  {
+  "id": "2728:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2728,
+  "division": "U16 AAA",
+  "association": "Waterloo Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+  "mhr": null
+ },
+ {
   "id": "2728:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2728,
@@ -2184,15 +2193,6 @@
   "division": "U16 AAA",
   "association": "Huron-Perth Lakers",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-  "mhr": null
- },
- {
-  "id": "2728:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2728,
-  "division": "U16 AAA",
-  "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
   "mhr": null
  },
  {

@@ -1,6 +1,6 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-10-20T01:17:01.483Z",
+ "updatedAt": "2026-10-20T01:37:01.373Z",
  "regular": [
   {
    "name": "",
@@ -99,16 +99,16 @@
      "team": "North London Nationals",
      "teamId": "odb-97256",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 3,
+     "gp": 4,
      "w": 2,
      "l": 0,
-     "t": 1,
-     "pts": 5,
-     "gf": 21,
-     "ga": 12,
+     "t": 2,
+     "pts": 6,
+     "gf": 23,
+     "ga": 14,
      "diff": 9,
-     "l10": "2-0-1",
-     "strk": "T1"
+     "l10": "2-0-2",
+     "strk": "T2"
     },
     {
      "team": "Waterloo Wolves",
@@ -159,16 +159,16 @@
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-97263",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 3,
+     "gp": 4,
      "w": 0,
      "l": 2,
-     "t": 1,
-     "pts": 1,
-     "gf": 8,
-     "ga": 21,
+     "t": 2,
+     "pts": 2,
+     "gf": 10,
+     "ga": 23,
      "diff": -13,
-     "l10": "0-2-1",
-     "strk": "L2"
+     "l10": "0-2-2",
+     "strk": "T1"
     },
     {
      "team": "Lambeth Lancers",
