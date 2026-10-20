@@ -1,6 +1,6 @@
 {
  "divisionId": 2728,
- "updatedAt": "2026-10-20T01:57:04.190Z",
+ "updatedAt": "2026-10-20T02:17:08.470Z",
  "regular": [
   {
    "name": "East Division",
@@ -51,21 +51,6 @@
      "strk": "W1"
     },
     {
-     "team": "Cambridge Jr RedHawks",
-     "teamId": "odb-97006",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 1,
-     "w": 0,
-     "l": 1,
-     "t": 0,
-     "pts": 0,
-     "gf": 2,
-     "ga": 7,
-     "diff": -5,
-     "l10": "0-1",
-     "strk": "L1"
-    },
-    {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97010",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -79,6 +64,21 @@
      "diff": -3,
      "l10": "0-1",
      "strk": "L1"
+    },
+    {
+     "team": "Cambridge Jr RedHawks",
+     "teamId": "odb-97006",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "gp": 2,
+     "w": 0,
+     "l": 2,
+     "t": 0,
+     "pts": 0,
+     "gf": 3,
+     "ga": 12,
+     "diff": -9,
+     "l10": "0-2",
+     "strk": "L2"
     }
    ]
   },
@@ -89,16 +89,16 @@
      "team": "London Jr Knights",
      "teamId": "odb-97012",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 1,
-     "w": 1,
+     "gp": 2,
+     "w": 2,
      "l": 0,
      "t": 0,
-     "pts": 2,
-     "gf": 4,
-     "ga": 2,
-     "diff": 2,
-     "l10": "1-0",
-     "strk": "W1"
+     "pts": 4,
+     "gf": 9,
+     "ga": 3,
+     "diff": 6,
+     "l10": "2-0",
+     "strk": "W2"
     },
     {
      "team": "Windsor Jr Spitfires",

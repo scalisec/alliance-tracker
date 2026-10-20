@@ -113,14 +113,17 @@
   "start": "2026-10-19T20:00:00-04:00",
   "away": "Cambridge Jr RedHawks",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Western Fair (Major Appliances)",
   "code": "U16P120",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4442/2026-10-19/20:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3084289
+  }
  },
  {
   "id": 2375195,

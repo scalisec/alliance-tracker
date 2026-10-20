@@ -2196,21 +2196,21 @@
   "mhr": null
  },
  {
-  "id": "2728:cambridge-jr-redhawks",
-  "name": "Cambridge Jr RedHawks",
-  "divisionId": 2728,
-  "division": "U16 AAA",
-  "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
- },
- {
   "id": "2728:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2728,
   "division": "U16 AAA",
   "association": "Kitchener Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+  "mhr": null
+ },
+ {
+  "id": "2728:cambridge-jr-redhawks",
+  "name": "Cambridge Jr RedHawks",
+  "divisionId": 2728,
+  "division": "U16 AAA",
+  "association": "Cambridge Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
   "mhr": null
  },
  {
