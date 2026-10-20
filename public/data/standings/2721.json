@@ -1,6 +1,6 @@
 {
  "divisionId": 2721,
- "updatedAt": "2026-10-19T15:39:52.552Z",
+ "updatedAt": "2026-10-20T13:38:16.938Z",
  "regular": [
   {
    "name": "",
@@ -66,21 +66,6 @@
      "strk": "W1"
     },
     {
-     "team": "Burlington Bulldogs Blue",
-     "teamId": "odb-97230",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 5,
-     "w": 3,
-     "l": 2,
-     "t": 0,
-     "pts": 6,
-     "gf": 20,
-     "ga": 14,
-     "diff": 6,
-     "l10": "3-2",
-     "strk": "L1"
-    },
-    {
      "team": "Brantford 99ers",
      "teamId": "odb-97231",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
@@ -96,6 +81,36 @@
      "strk": "W2"
     },
     {
+     "team": "Kitchener Jr Rangers",
+     "teamId": "odb-97222",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 5,
+     "w": 3,
+     "l": 2,
+     "t": 0,
+     "pts": 6,
+     "gf": 13,
+     "ga": 8,
+     "diff": 5,
+     "l10": "3-2",
+     "strk": "W1"
+    },
+    {
+     "team": "Burlington Bulldogs Blue",
+     "teamId": "odb-97230",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 5,
+     "w": 3,
+     "l": 2,
+     "t": 0,
+     "pts": 6,
+     "gf": 20,
+     "ga": 14,
+     "diff": 6,
+     "l10": "3-2",
+     "strk": "L1"
+    },
+    {
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97228",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
@@ -108,21 +123,6 @@
      "ga": 11,
      "diff": 5,
      "l10": "2-1",
-     "strk": "L1"
-    },
-    {
-     "team": "Kitchener Jr Rangers",
-     "teamId": "odb-97222",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 4,
-     "w": 2,
-     "l": 2,
-     "t": 0,
-     "pts": 4,
-     "gf": 8,
-     "ga": 8,
-     "diff": 0,
-     "l10": "2-2",
      "strk": "L1"
     },
     {
@@ -144,16 +144,16 @@
      "team": "Burlington Bulldogs White",
      "teamId": "odb-97221",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 5,
+     "gp": 6,
      "w": 1,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 2,
      "gf": 9,
-     "ga": 26,
-     "diff": -17,
-     "l10": "1-4",
-     "strk": "L1"
+     "ga": 31,
+     "diff": -22,
+     "l10": "1-5",
+     "strk": "L2"
     },
     {
      "team": "London Bandits",

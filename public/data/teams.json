@@ -1359,15 +1359,6 @@
   "mhr": null
  },
  {
-  "id": "2721:burlington-bulldogs-blue",
-  "name": "Burlington Bulldogs Blue",
-  "divisionId": 2721,
-  "division": "U13 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
- },
- {
   "id": "2721:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2721,
@@ -1377,21 +1368,30 @@
   "mhr": null
  },
  {
-  "id": "2721:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2721,
-  "division": "U13 BB",
-  "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
- },
- {
   "id": "2721:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Kitchener Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+  "mhr": null
+ },
+ {
+  "id": "2721:burlington-bulldogs-blue",
+  "name": "Burlington Bulldogs Blue",
+  "divisionId": 2721,
+  "division": "U13 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+  "mhr": null
+ },
+ {
+  "id": "2721:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2721,
+  "division": "U13 BB",
+  "association": "Sarnia Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
   "mhr": null
  },
  {
