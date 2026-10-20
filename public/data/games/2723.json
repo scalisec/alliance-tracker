@@ -566,14 +566,17 @@
   "start": "2026-10-19T20:15:00-04:00",
   "away": "London Jr Knights Green",
   "home": "London Jr Knights White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Western Fair (Chik-fil-a)",
   "code": "U14S6",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4445/2026-10-19/20:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3084290
+  }
  },
  {
   "id": 2375663,

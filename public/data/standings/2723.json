@@ -1,6 +1,6 @@
 {
  "divisionId": 2723,
- "updatedAt": "2026-10-20T02:16:48.524Z",
+ "updatedAt": "2026-10-20T02:36:52.648Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "London Jr Knights Green",
      "teamId": "odb-97082",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 5,
-     "w": 5,
+     "gp": 6,
+     "w": 6,
      "l": 0,
      "t": 0,
-     "pts": 10,
-     "gf": 30,
-     "ga": 6,
-     "diff": 24,
-     "l10": "5-0",
-     "strk": "W5"
+     "pts": 12,
+     "gf": 36,
+     "ga": 8,
+     "diff": 28,
+     "l10": "6-0",
+     "strk": "W6"
     },
     {
      "team": "Brantford 99ers",
@@ -39,16 +39,16 @@
      "team": "London Jr Knights White",
      "teamId": "odb-97083",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 6,
+     "gp": 7,
      "w": 4,
-     "l": 1,
+     "l": 2,
      "t": 1,
      "pts": 9,
-     "gf": 22,
-     "ga": 12,
-     "diff": 10,
-     "l10": "4-1-1",
-     "strk": "W1"
+     "gf": 24,
+     "ga": 18,
+     "diff": 6,
+     "l10": "4-2-1",
+     "strk": "L1"
     },
     {
      "team": "St. Thomas Jr Stars",
