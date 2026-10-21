@@ -5,6 +5,7 @@ import { Empty, GameCard, Icon, Seg, TeamLogo, Top } from '../ui.jsx';
 import { back, go } from '../App.jsx';
 import { activeGroups } from '../standings.js';
 import { FormRow, lastResults, resultFor } from '../form.jsx';
+import { mhrLink } from '../mhr.js';
 
 const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
@@ -17,7 +18,6 @@ export default function Team({ ctx, divId, teamSlug }) {
   const { data: standings } = useJson(scored ? `standings/${divId}.json` : null, [ctx.tick]);
   const { isSaved, toggle } = useSaved();
   const [view, setView] = useState('results');
-  const [showMhr, setShowMhr] = useState(false);
   const { data: mhrLinks } = useJson('mhr-links.json', [ctx.tick]);
 
   const team = ctx.teams.find((t) => t.divisionId === Number(divId) && slug(t.name) === teamSlug)
@@ -47,12 +47,7 @@ export default function Team({ ctx, divId, teamSlug }) {
     gf, ga, pts: null,
   };
   const on = isSaved(team.id);
-  // MYHockey Rankings: the team's own page if we know its MHR id, else its association's page.
-  const mhrTeam = mhrLinks?.teams?.[team.id];
-  const mhrAssoc = team.association ? mhrLinks?.associations?.[team.association] : null;
-  const mhrYear = mhrLinks?.season ? `y=${mhrLinks.season}&` : '';
-  const mhrUrl = mhrTeam ? `https://myhockeyrankings.com/team-info?${mhrYear}t=${mhrTeam}`
-    : mhrAssoc ? `https://myhockeyrankings.com/association-info?a=${mhrAssoc}` : null;
+  const mhr = mhrLink(team, mhrLinks);
   const openGame = (g) => go(`game/${g.divisionId}/${g.id}`);
   const shown = view === 'results' ? played : upcoming;
 
@@ -84,22 +79,14 @@ export default function Team({ ctx, divId, teamSlug }) {
           ) : <p className="legend">MD divisions don't keep scores or standings.</p>}
         </section>
 
-        {mhrUrl && (
-          <section className="card gs-embed">
-            <button className="gs-toggle" onClick={() => setShowMhr((v) => !v)} aria-expanded={showMhr}>
-              <span>MYHockey Rankings{mhrTeam ? '' : ` · ${team.association}`}</span>
-              <span className="chev" style={{ transform: showMhr ? 'rotate(90deg)' : 'none' }}><Icon.chev size={18} /></span>
-            </button>
-            {showMhr && (
-              <>
-                <iframe title="MYHockey Rankings" src={mhrUrl} loading="lazy" referrerPolicy="strict-origin-when-cross-origin" />
-                <div className="gs-foot">
-                  <span>{mhrTeam ? 'Rating and rank from MYHockey Rankings' : 'Find the team on its association page'}</span>
-                  <a href={mhrUrl} target="_blank" rel="noopener noreferrer">Open MYHockey ↗</a>
-                </div>
-              </>
-            )}
-          </section>
+        {mhr && (
+          <a className="card mhr-link" href={mhr.url} target="_blank" rel="noopener noreferrer">
+            <span className="grow">
+              <span className="mhr-title">MYHockey Rankings</span>
+              <span className="mhr-sub">{mhr.exact ? 'Rating, rank and stats' : `Find the team on the ${team.association} page`}</span>
+            </span>
+            <span className="mhr-open">Open ↗</span>
+          </a>
         )}
 
         <div style={{ marginTop: 14 }}>
