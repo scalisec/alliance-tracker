@@ -2223,15 +2223,6 @@
   "mhr": null
  },
  {
-  "id": "2728:windsor-jr-spitfires",
-  "name": "Windsor Jr Spitfires",
-  "divisionId": 2728,
-  "division": "U16 AAA",
-  "association": "Windsor AAA Zone",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-  "mhr": null
- },
- {
   "id": "2728:chatham-kent-cyclones",
   "name": "Chatham-Kent Cyclones",
   "divisionId": 2728,
@@ -2241,12 +2232,12 @@
   "mhr": null
  },
  {
-  "id": "2728:elgin-middlesex-canucks",
-  "name": "Elgin-Middlesex Canucks",
+  "id": "2728:windsor-jr-spitfires",
+  "name": "Windsor Jr Spitfires",
   "divisionId": 2728,
   "division": "U16 AAA",
-  "association": "Elgin-Middlesex Canucks",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+  "association": "Windsor AAA Zone",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
   "mhr": null
  },
  {
@@ -2256,6 +2247,15 @@
   "division": "U16 AAA",
   "association": "Lambton Jr Sting",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
+  "mhr": null
+ },
+ {
+  "id": "2728:elgin-middlesex-canucks",
+  "name": "Elgin-Middlesex Canucks",
+  "divisionId": 2728,
+  "division": "U16 AAA",
+  "association": "Elgin-Middlesex Canucks",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
   "mhr": null
  },
  {
