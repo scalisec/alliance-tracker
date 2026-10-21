@@ -1,6 +1,6 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-10-21T00:29:23.712Z",
+ "updatedAt": "2026-10-21T00:49:30.098Z",
  "regular": [
   {
    "name": "",
@@ -36,6 +36,21 @@
      "strk": "L1"
     },
     {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-97210",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 5,
+     "w": 5,
+     "l": 0,
+     "t": 0,
+     "pts": 10,
+     "gf": 30,
+     "ga": 8,
+     "diff": 22,
+     "l10": "5-0",
+     "strk": "W5"
+    },
+    {
      "team": "Burlington Bulldogs Gold",
      "teamId": "odb-97432",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
@@ -63,21 +78,6 @@
      "ga": 8,
      "diff": 19,
      "l10": "4-0-1",
-     "strk": "W4"
-    },
-    {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-97210",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 4,
-     "w": 4,
-     "l": 0,
-     "t": 0,
-     "pts": 8,
-     "gf": 26,
-     "ga": 6,
-     "diff": 20,
-     "l10": "4-0",
      "strk": "W4"
     },
     {
@@ -189,16 +189,16 @@
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97218",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 5,
+     "gp": 6,
      "w": 1,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 2,
-     "gf": 20,
-     "ga": 26,
-     "diff": -6,
-     "l10": "1-4",
-     "strk": "L2"
+     "gf": 22,
+     "ga": 30,
+     "diff": -8,
+     "l10": "1-5",
+     "strk": "L3"
     },
     {
      "team": "North London Nationals",

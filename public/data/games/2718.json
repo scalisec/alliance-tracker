@@ -740,14 +740,17 @@
   "start": "2026-10-20T18:30:00-04:00",
   "away": "Waterloo Wolves",
   "home": "Burlington Bulldogs Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Appleby (2)",
   "code": "U12BR56",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4333/2026-10-20/18:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3087144
+  }
  },
  {
   "id": 2377962,

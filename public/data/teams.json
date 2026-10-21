@@ -972,6 +972,15 @@
   "mhr": null
  },
  {
+  "id": "2718:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2718,
+  "division": "U12 BB",
+  "association": "Waterloo Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+  "mhr": null
+ },
+ {
   "id": "2718:burlington-bulldogs-gold",
   "name": "Burlington Bulldogs Gold",
   "divisionId": 2718,
@@ -987,15 +996,6 @@
   "division": "U12 BB",
   "association": "Kitchener Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
- },
- {
-  "id": "2718:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2718,
-  "division": "U12 BB",
-  "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
   "mhr": null
  },
  {
