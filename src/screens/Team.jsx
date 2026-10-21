@@ -5,7 +5,7 @@ import { Empty, GameCard, Icon, Seg, TeamLogo, Top } from '../ui.jsx';
 import { back, go } from '../App.jsx';
 import { activeGroups } from '../standings.js';
 import { FormRow, lastResults, resultFor } from '../form.jsx';
-import { mhrLink } from '../mhr.js';
+import { MhrCard } from '../mhr.jsx';
 
 const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
@@ -47,7 +47,6 @@ export default function Team({ ctx, divId, teamSlug }) {
     gf, ga, pts: null,
   };
   const on = isSaved(team.id);
-  const mhr = mhrLink(team, mhrLinks);
   const openGame = (g) => go(`game/${g.divisionId}/${g.id}`);
   const shown = view === 'results' ? played : upcoming;
 
@@ -79,15 +78,7 @@ export default function Team({ ctx, divId, teamSlug }) {
           ) : <p className="legend">MD divisions don't keep scores or standings.</p>}
         </section>
 
-        {mhr && (
-          <a className="card mhr-link" href={mhr.url} target="_blank" rel="noopener noreferrer">
-            <span className="grow">
-              <span className="mhr-title">MYHockey Rankings</span>
-              <span className="mhr-sub">{mhr.exact ? 'Rating, rank and stats' : `Find the team on the ${team.association} page`}</span>
-            </span>
-            <span className="mhr-open">Open ↗</span>
-          </a>
-        )}
+        {scored && <MhrCard team={team} links={mhrLinks} />}
 
         <div style={{ marginTop: 14 }}>
           <Seg value={view} onChange={setView} options={[

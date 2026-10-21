@@ -4,7 +4,7 @@ import { BrandMark, Empty, GameCard, Icon, TeamLogo, Top } from '../ui.jsx';
 import { go } from '../App.jsx';
 import { activeGroups } from '../standings.js';
 import { FormRow, lastResults } from '../form.jsx';
-import { mhrLink } from '../mhr.js';
+import { MhrChip, mhrLink, useMhrLocal } from '../mhr.jsx';
 
 export default function MyTeams({ ctx }) {
   const { saved } = useSaved();
@@ -38,7 +38,8 @@ function TeamCard({ team, ctx }) {
   const { data: standings } = useJson(div?.scored ? `standings/${team.divisionId}.json` : null, [ctx.tick]);
   const { data: games } = useJson(`games/${team.divisionId}.json`, [ctx.tick]);
   const { data: mhrLinks } = useJson('mhr-links.json', [ctx.tick]);
-  const mhr = mhrLink(team, mhrLinks);
+  const [mhrLocal] = useMhrLocal(team.id);
+  const mhr = mhrLink(team, mhrLinks, mhrLocal);
 
   let row = null, rank = null, groupName = '';
   // A team can appear in more than one round; use the one with the most games played.
@@ -66,7 +67,7 @@ function TeamCard({ team, ctx }) {
             {team.division}{groupName ? ` · ${groupName}` : ''}{rank ? ` · ${ordinal(rank)}` : ''}
           </div>
         </div>
-        <MhrChip mhr={team.mhr} />
+        <MhrChip entry={mhrLocal} />
       </div>
 
       {div?.scored ? (
@@ -94,19 +95,14 @@ function TeamCard({ team, ctx }) {
         : <p className="legend">No upcoming games posted yet.</p>}
 
       <button className="full-link" onClick={openDivision}>Full division <Icon.chev size={18} /></button>
-      {mhr && (
+      {div?.scored && (
         <a className="full-link" href={mhr.url} target="_blank" rel="noopener noreferrer">
           {mhr.exact ? 'MYHockey Rankings' : 'Find on MYHockey Rankings'} <span>↗</span>
         </a>
       )}
-      <div className="updated">Updated {ago(ctx.meta?.updatedAt)}{team.mhr?.rating ? ' · MHR via myhockeyrankings.com' : ''}</div>
+      <div className="updated">Updated {ago(ctx.meta?.updatedAt)}{mhrLocal?.rating ? ' · MHR via myhockeyrankings.com' : ''}</div>
     </section>
   );
-}
-
-function MhrChip({ mhr }) {
-  if (!mhr?.rating) return null;
-  return <span className="mhr-chip">MHR <b>{mhr.rating.toFixed(2)}</b>{mhr.rank ? ` · #${mhr.rank}` : ''}</span>;
 }
 
 const ordinal = (n) => { const s = ['th', 'st', 'nd', 'rd'], v = n % 100; return n + (s[(v - 20) % 10] || s[v] || s[0]); };
