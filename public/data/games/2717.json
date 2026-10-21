@@ -443,14 +443,17 @@
   "start": "2026-10-20T18:15:00-04:00",
   "away": "Burlington Raiders",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 10,
+  "status": "final",
   "venue": "Civic Centre (Civic Centre)",
   "code": "U12S23",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3087237
+  }
  },
  {
   "id": 2375462,

@@ -882,21 +882,21 @@
   "mhr": null
  },
  {
-  "id": "2717:london-jr-knights-white",
-  "name": "London Jr Knights White",
-  "divisionId": 2717,
-  "division": "U12 AA-A",
-  "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
- },
- {
   "id": "2717:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2717,
   "division": "U12 AA-A",
   "association": "Brantford Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+  "mhr": null
+ },
+ {
+  "id": "2717:london-jr-knights-white",
+  "name": "London Jr Knights White",
+  "divisionId": 2717,
+  "division": "U12 AA-A",
+  "association": "London Jr Knights",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
   "mhr": null
  },
  {
