@@ -1215,6 +1215,15 @@
   "mhr": null
  },
  {
+  "id": "2720:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2720,
+  "division": "U13 AA-A",
+  "association": "Brantford Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+  "mhr": null
+ },
+ {
   "id": "2720:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2720,
@@ -1230,15 +1239,6 @@
   "division": "U13 AA-A",
   "association": "London Jr Knights",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
- },
- {
-  "id": "2720:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2720,
-  "division": "U13 AA-A",
-  "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
   "mhr": null
  },
  {
