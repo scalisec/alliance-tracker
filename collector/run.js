@@ -27,7 +27,7 @@ const writeJson = async (f, v) => {
   if (prev !== next) await fs.writeFile(f, next);
 };
 const budgetLeft = () => stats().requests < MAX_REQUESTS;
-const totals = { games: 0, rows: 0 };
+const totals = { games: 0, rows: 0, warnings: [], failed: 0 };
 const log = (...a) => console.log(new Date().toISOString().slice(11, 19), ...a);
 
 // ---------- association logos (by team-name prefix) ----------
@@ -62,17 +62,23 @@ async function refreshDivision(div, { withStandings = true, fullSeason = false }
   // Other months from TheOneDB (nightly/weekly); current month from Alliance (every run).
   let seasonCount = 0;
   if (fullSeason) {
-    const groupPath = (await onedbGroups(groups))[div.name];
-    if (groupPath) {
-      const haveMonth = new Set([...byId.values()].map((g) => g.start?.slice(0, 7)));
-      for (const [y, m] of seasonMonthsToFetch(haveMonth)) {
-        if (!budgetLeft()) break;
-        const html = await fetchText(theonedb.monthUrl(groupPath, y, m));
-        const list = html ? theonedb.parseScheduleTable(html, div.id) : [];
-        seasonCount += list.length;
-        merge(list);
-      }
-    } else log(`div ${div.name}: no TheOneDB link found`);
+    // TheOneDB outages must not sink the run: keep the games we already have.
+    try {
+      const groupPath = (await onedbGroups(groups))[div.name];
+      if (groupPath) {
+        const haveMonth = new Set([...byId.values()].map((g) => g.start?.slice(0, 7)));
+        for (const [y, m] of seasonMonthsToFetch(haveMonth)) {
+          if (!budgetLeft()) break;
+          const html = await fetchText(theonedb.monthUrl(groupPath, y, m));
+          const list = html ? theonedb.parseScheduleTable(html, div.id) : [];
+          seasonCount += list.length;
+          merge(list);
+        }
+      } else log(`div ${div.name}: no TheOneDB link found`);
+    } catch (e) {
+      totals.warnings.push(`${div.name}: TheOneDB unavailable (${e.message.slice(0, 80)})`);
+      log(`div ${div.name}: TheOneDB unavailable, keeping existing season games`);
+    }
   }
   const schedHtml = await fetchText(alliance.urls.schedule(div.id));
   const parsed = schedHtml ? alliance.parseSchedule(schedHtml, div.id) : [];
@@ -193,7 +199,10 @@ async function full() {
   const scored = DIVISIONS.filter((d) => d.refresh === 'live');
   // 1) Standings + schedules for every division first, so they never run out of budget.
   const fresh = [];
-  for (const div of scored) fresh.push([div, (await refreshDivision(div, { fullSeason: true })).games]);
+  for (const div of scored) {
+    try { fresh.push([div, (await refreshDivision(div, { fullSeason: true })).games]); }
+    catch (e) { totals.failed++; totals.warnings.push(`${div.name}: ${e.message.slice(0, 100)}`); log(`div ${div.name} FAILED: ${e.message.slice(0, 100)}`); }
+  }
   // MD normally updates weekly; fill it in now if it has under two months of games.
   for (const div of DIVISIONS.filter((d) => d.refresh === 'weekly')) {
     const have = await readJson(path.join(DATA, 'games', `${div.id}.json`), []);
@@ -218,14 +227,17 @@ async function live() {
       return needsResult || recentFinal;
     });
     if (!active) continue;
-    const { games: fresh } = await refreshDivision(div);
-    await refreshGameLinks(div, fresh, now);
+    try {
+      const { games: fresh } = await refreshDivision(div);
+      await refreshGameLinks(div, fresh, now);
+    } catch (e) { totals.failed++; totals.warnings.push(`${div.name}: ${e.message.slice(0, 100)}`); log(`div ${div.name} FAILED: ${e.message.slice(0, 100)}`); }
   }
 }
 
 async function weekly() {
   for (const div of DIVISIONS.filter((d) => d.refresh === 'weekly')) {
-    await refreshDivision(div, { withStandings: false, fullSeason: true });
+    try { await refreshDivision(div, { withStandings: false, fullSeason: true }); }
+    catch (e) { totals.failed++; totals.warnings.push(`${div.name}: ${e.message.slice(0, 100)}`); }
   }
   // MHR ratings for mapped teams.
   const mhrMap = await readJson(path.join(OVERRIDES, 'mhr-teams.json'), {});
@@ -233,8 +245,11 @@ async function weekly() {
   const year = Number(SEASON.slice(0, 4));
   for (const mhrId of new Set(Object.values(mhrMap))) {
     if (!budgetLeft()) break;
-    const html = await fetchText(mhr.teamUrl(mhrId, year), { delayMs: 5000 });
-    if (html) out[mhrId] = { ...mhr.parseTeamPage(html), checkedAt: new Date().toISOString() };
+    // MHR blocks automated requests (Cloudflare challenge); don't let that fail the run.
+    try {
+      const html = await fetchText(mhr.teamUrl(mhrId, year), { delayMs: 5000 });
+      if (html) out[mhrId] = { ...mhr.parseTeamPage(html), checkedAt: new Date().toISOString() };
+    } catch (e) { totals.warnings.push(`MHR ${mhrId}: ${e.message.slice(0, 60)}`); }
   }
   await writeJson(path.join(DATA, 'mhr.json'), out);
 }
@@ -310,5 +325,8 @@ if (mode !== 'capture') {
   const n = await rebuildTeams();
   await writeMeta(mode);
   log(`teams indexed: ${n}`);
+}
+if (totals.warnings.length) {
+  console.log(`::warning::${totals.warnings.length} problem(s): ` + totals.warnings.slice(0, 5).join(' | '));
 }
 log(`done; ${stats().requests} requests`);
