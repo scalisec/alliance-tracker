@@ -1701,6 +1701,15 @@
   "mhr": null
  },
  {
+  "id": "2724:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2724,
+  "division": "U14 BB",
+  "association": "Brantford Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+  "mhr": null
+ },
+ {
   "id": "2724:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2724,
@@ -1725,15 +1734,6 @@
   "division": "U14 BB",
   "association": "Waterloo Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
- },
- {
-  "id": "2724:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2724,
-  "division": "U14 BB",
-  "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
   "mhr": null
  },
  {
