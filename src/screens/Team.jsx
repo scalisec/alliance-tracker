@@ -50,7 +50,8 @@ export default function Team({ ctx, divId, teamSlug }) {
   // MYHockey Rankings: the team's own page if we know its MHR id, else its association's page.
   const mhrTeam = mhrLinks?.teams?.[team.id];
   const mhrAssoc = team.association ? mhrLinks?.associations?.[team.association] : null;
-  const mhrUrl = mhrTeam ? `https://myhockeyrankings.com/team-info?t=${mhrTeam}`
+  const mhrYear = mhrLinks?.season ? `y=${mhrLinks.season}&` : '';
+  const mhrUrl = mhrTeam ? `https://myhockeyrankings.com/team-info?${mhrYear}t=${mhrTeam}`
     : mhrAssoc ? `https://myhockeyrankings.com/association-info?a=${mhrAssoc}` : null;
   const openGame = (g) => go(`game/${g.divisionId}/${g.id}`);
   const shown = view === 'results' ? played : upcoming;

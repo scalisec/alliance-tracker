@@ -1,11 +1,13 @@
 {
   "_note": "MYHockey Rankings IDs, added by hand (MHR blocks automated lookups). teams: app team id -> MHR team id. associations: association name -> MHR association id.",
   "teams": {
-    "2712:burlington-bulldogs-white": 16142
+    "2712:burlington-bulldogs-white": 16142,
+    "2712:burlington-bulldogs-blue": 34792
   },
   "associations": {
     "Burlington Lions Optimist Minor Hockey": 1798,
     "Burlington Raiders Hockey Club": 3359,
     "Waterloo Minor Hockey": 1345
-  }
+  },
+  "season": 2026
 }
