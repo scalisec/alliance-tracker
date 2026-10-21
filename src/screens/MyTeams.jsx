@@ -97,7 +97,7 @@ function TeamCard({ team, ctx }) {
 }
 
 function MhrChip({ mhr }) {
-  if (!mhr?.rating) return <span className="mhr-chip" title="MYHockey Rankings rating appears once enough games are played">MHR —</span>;
+  if (!mhr?.rating) return null;
   return <span className="mhr-chip">MHR <b>{mhr.rating.toFixed(2)}</b>{mhr.rank ? ` · #${mhr.rank}` : ''}</span>;
 }
 

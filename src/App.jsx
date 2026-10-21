@@ -78,7 +78,7 @@ export default function App() {
 
   let screen;
   if (overlay === 'find') screen = <FindTeam ctx={ctx} />;
-  else if (overlay === 'team') screen = <Team ctx={ctx} divId={route.args[0]} teamSlug={route.args[1]} />;
+  else if (overlay === 'team') screen = <Team key={route.args.join('/')} ctx={ctx} divId={route.args[0]} teamSlug={route.args[1]} />;
   else if (overlay === 'game') screen = <GameDetail ctx={ctx} divId={route.args[0]} gameId={route.args[1]} />;
   else if (tab === 'standings') screen = <Standings ctx={ctx} />;
   else if (tab === 'schedule') screen = <Schedule ctx={ctx} />;

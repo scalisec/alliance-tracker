@@ -17,6 +17,8 @@ export default function Team({ ctx, divId, teamSlug }) {
   const { data: standings } = useJson(scored ? `standings/${divId}.json` : null, [ctx.tick]);
   const { isSaved, toggle } = useSaved();
   const [view, setView] = useState('results');
+  const [showMhr, setShowMhr] = useState(false);
+  const { data: mhrLinks } = useJson('mhr-links.json', [ctx.tick]);
 
   const team = ctx.teams.find((t) => t.divisionId === Number(divId) && slug(t.name) === teamSlug)
     ?? { id: `${divId}:${teamSlug}`, name: teamSlug.replace(/-/g, ' '), division: div?.name, logo: null };
@@ -45,6 +47,11 @@ export default function Team({ ctx, divId, teamSlug }) {
     gf, ga, pts: null,
   };
   const on = isSaved(team.id);
+  // MYHockey Rankings: the team's own page if we know its MHR id, else its association's page.
+  const mhrTeam = mhrLinks?.teams?.[team.id];
+  const mhrAssoc = team.association ? mhrLinks?.associations?.[team.association] : null;
+  const mhrUrl = mhrTeam ? `https://myhockeyrankings.com/team-info?t=${mhrTeam}`
+    : mhrAssoc ? `https://myhockeyrankings.com/association-info?a=${mhrAssoc}` : null;
   const openGame = (g) => go(`game/${g.divisionId}/${g.id}`);
   const shown = view === 'results' ? played : upcoming;
 
@@ -75,6 +82,24 @@ export default function Team({ ctx, divId, teamSlug }) {
             </>
           ) : <p className="legend">MD divisions don't keep scores or standings.</p>}
         </section>
+
+        {mhrUrl && (
+          <section className="card gs-embed">
+            <button className="gs-toggle" onClick={() => setShowMhr((v) => !v)} aria-expanded={showMhr}>
+              <span>MYHockey Rankings{mhrTeam ? '' : ` · ${team.association}`}</span>
+              <span className="chev" style={{ transform: showMhr ? 'rotate(90deg)' : 'none' }}><Icon.chev size={18} /></span>
+            </button>
+            {showMhr && (
+              <>
+                <iframe title="MYHockey Rankings" src={mhrUrl} loading="lazy" referrerPolicy="strict-origin-when-cross-origin" />
+                <div className="gs-foot">
+                  <span>{mhrTeam ? 'Rating and rank from MYHockey Rankings' : 'Find the team on its association page'}</span>
+                  <a href={mhrUrl} target="_blank" rel="noopener noreferrer">Open MYHockey ↗</a>
+                </div>
+              </>
+            )}
+          </section>
+        )}
 
         <div style={{ marginTop: 14 }}>
           <Seg value={view} onChange={setView} options={[
