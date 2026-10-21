@@ -268,6 +268,12 @@ async function capture() {
   if (gp) await save('theonedb-schedule-u13bb.html', theonedb.BASE + gp);
   const menu = team ? theonedb.parseGroupMenu(team) : {};
   if (menu['U13 BB']) await save('theonedb-schedule-u13bb-nov.html', theonedb.monthUrl(menu['U13 BB'], 2026, 11));
+  // MYHockey Rankings: Burlington Lions Optimist (Bulldogs) association + U10 BB (White) team.
+  const MHR = 'https://myhockeyrankings.com';
+  await save('mhr-assoc-1798-default.html', `${MHR}/association-info?a=1798`);
+  await save('mhr-assoc-1798-2026.html', `${MHR}/association-info?a=1798&y=2026`);
+  await save('mhr-team-16142-2026.html', `${MHR}/team-info?y=2026&t=16142`);
+  await save('mhr-team-16142-2025.html', `${MHR}/team-info?y=2025&t=16142`);
   if (sched) {
     const parsed = alliance.parseSchedule(sched, 2721);
     report.push(`schedule parser: ${parsed.length} games; first: ${JSON.stringify(parsed[0] ?? null)}`);
