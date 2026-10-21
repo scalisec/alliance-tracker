@@ -2502,21 +2502,21 @@
   "mhr": null
  },
  {
-  "id": "2730:burlington-raiders",
-  "name": "Burlington Raiders",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-  "mhr": null
- },
- {
   "id": "2730:burlington-bulldogs-blue",
   "name": "Burlington Bulldogs Blue",
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+  "mhr": null
+ },
+ {
+  "id": "2730:burlington-raiders",
+  "name": "Burlington Raiders",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Burlington Raiders Hockey Club",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
   "mhr": null
  },
  {

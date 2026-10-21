@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-10-21T01:29:54.026Z",
+ "updatedAt": "2026-10-21T01:49:55.056Z",
  "regular": [
   {
    "name": "",
@@ -159,16 +159,16 @@
      "team": "Burlington Bulldogs White",
      "teamId": "odb-97269",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 4,
+     "gp": 5,
      "w": 1,
      "l": 2,
-     "t": 1,
-     "pts": 3,
-     "gf": 10,
-     "ga": 10,
+     "t": 2,
+     "pts": 4,
+     "gf": 15,
+     "ga": 15,
      "diff": 0,
-     "l10": "1-2-1",
-     "strk": "W1"
+     "l10": "1-2-2",
+     "strk": "T1"
     },
     {
      "team": "Woodstock Jr Navy Vets",
@@ -201,6 +201,21 @@
      "strk": "L1"
     },
     {
+     "team": "Burlington Bulldogs Blue",
+     "teamId": "odb-97278",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 6,
+     "w": 0,
+     "l": 4,
+     "t": 2,
+     "pts": 2,
+     "gf": 13,
+     "ga": 34,
+     "diff": -21,
+     "l10": "0-4-2",
+     "strk": "T1"
+    },
+    {
      "team": "Burlington Raiders",
      "teamId": "odb-97279",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
@@ -214,21 +229,6 @@
      "diff": -20,
      "l10": "0-4-1",
      "strk": "L1"
-    },
-    {
-     "team": "Burlington Bulldogs Blue",
-     "teamId": "odb-97278",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 5,
-     "w": 0,
-     "l": 4,
-     "t": 1,
-     "pts": 1,
-     "gf": 8,
-     "ga": 29,
-     "diff": -21,
-     "l10": "0-4-1",
-     "strk": "L2"
     },
     {
      "team": "West London Hawks",
