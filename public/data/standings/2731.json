@@ -1,6 +1,6 @@
 {
  "divisionId": 2731,
- "updatedAt": "2026-10-21T02:29:59.794Z",
+ "updatedAt": "2026-10-21T02:50:07.033Z",
  "regular": [
   {
    "name": "",
@@ -39,16 +39,16 @@
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97021",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 4,
-     "w": 3,
+     "gp": 5,
+     "w": 4,
      "l": 1,
      "t": 0,
-     "pts": 6,
-     "gf": 23,
+     "pts": 8,
+     "gf": 27,
      "ga": 12,
-     "diff": 11,
-     "l10": "3-1-0",
-     "strk": "W2"
+     "diff": 15,
+     "l10": "4-1-0",
+     "strk": "W3"
     },
     {
      "team": "Waterloo Wolves",
@@ -114,16 +114,16 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-97020",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 1,
+     "gp": 2,
      "w": 0,
-     "l": 1,
+     "l": 2,
      "t": 0,
      "pts": 0,
      "gf": 2,
-     "ga": 5,
-     "diff": -3,
-     "l10": "0-1-0",
-     "strk": "L1"
+     "ga": 9,
+     "diff": -7,
+     "l10": "0-2-0",
+     "strk": "L2"
     }
    ]
   }
