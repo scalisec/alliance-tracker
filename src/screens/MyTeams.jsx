@@ -4,7 +4,7 @@ import { BrandMark, Empty, GameCard, Icon, TeamLogo, Top } from '../ui.jsx';
 import { go } from '../App.jsx';
 import { activeGroups } from '../standings.js';
 import { FormRow, lastResults } from '../form.jsx';
-import { MhrChip, mhrLink, useMhrLocal } from '../mhr.jsx';
+import { mhrLink } from '../mhr.jsx';
 
 export default function MyTeams({ ctx }) {
   const { saved } = useSaved();
@@ -38,8 +38,7 @@ function TeamCard({ team, ctx }) {
   const { data: standings } = useJson(div?.scored ? `standings/${team.divisionId}.json` : null, [ctx.tick]);
   const { data: games } = useJson(`games/${team.divisionId}.json`, [ctx.tick]);
   const { data: mhrLinks } = useJson('mhr-links.json', [ctx.tick]);
-  const [mhrLocal] = useMhrLocal(team.id);
-  const mhr = mhrLink(team, mhrLinks, mhrLocal);
+  const mhr = mhrLink(team, mhrLinks);
 
   let row = null, rank = null, groupName = '';
   // A team can appear in more than one round; use the one with the most games played.
@@ -67,7 +66,6 @@ function TeamCard({ team, ctx }) {
             {team.division}{groupName ? ` · ${groupName}` : ''}{rank ? ` · ${ordinal(rank)}` : ''}
           </div>
         </div>
-        <MhrChip entry={mhrLocal} />
       </div>
 
       {div?.scored ? (
@@ -100,7 +98,7 @@ function TeamCard({ team, ctx }) {
           {mhr.exact ? 'MYHockey Rankings' : 'Find on MYHockey Rankings'} <span>↗</span>
         </a>
       )}
-      <div className="updated">Updated {ago(ctx.meta?.updatedAt)}{mhrLocal?.rating ? ' · MHR via myhockeyrankings.com' : ''}</div>
+      <div className="updated">Updated {ago(ctx.meta?.updatedAt)}</div>
     </section>
   );
 }
