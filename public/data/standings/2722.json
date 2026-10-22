@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-10-20T13:38:45.805Z",
+ "updatedAt": "2026-10-22T13:51:04.084Z",
  "regular": [
   {
    "name": "",
@@ -81,6 +81,21 @@
      "strk": "L1"
     },
     {
+     "team": "Elgin-Middlesex Canucks",
+     "teamId": "odb-96984",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+     "gp": 5,
+     "w": 2,
+     "l": 2,
+     "t": 1,
+     "pts": 5,
+     "gf": 13,
+     "ga": 7,
+     "diff": 6,
+     "l10": "2-2-1",
+     "strk": "W1"
+    },
+    {
      "team": "Sun County Panthers",
      "teamId": "odb-96989",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
@@ -126,21 +141,6 @@
      "strk": "W1"
     },
     {
-     "team": "Elgin-Middlesex Canucks",
-     "teamId": "odb-96984",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 4,
-     "w": 1,
-     "l": 2,
-     "t": 1,
-     "pts": 3,
-     "gf": 9,
-     "ga": 7,
-     "diff": 2,
-     "l10": "1-2-1",
-     "strk": "L1"
-    },
-    {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-96986",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -174,16 +174,16 @@
      "team": "Chatham-Kent Cyclones",
      "teamId": "odb-96983",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
-     "gp": 5,
+     "gp": 6,
      "w": 0,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 0,
      "gf": 2,
-     "ga": 27,
-     "diff": -25,
-     "l10": "0-5",
-     "strk": "L5"
+     "ga": 31,
+     "diff": -29,
+     "l10": "0-6",
+     "strk": "L6"
     }
    ]
   }

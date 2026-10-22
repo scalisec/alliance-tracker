@@ -1,10 +1,25 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-10-22T01:39:31.686Z",
+ "updatedAt": "2026-10-22T13:53:30.226Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Oakridge Aeros",
+     "teamId": "odb-97266",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
+     "gp": 5,
+     "w": 4,
+     "l": 1,
+     "t": 0,
+     "pts": 8,
+     "gf": 27,
+     "ga": 9,
+     "diff": 18,
+     "l10": "4-1",
+     "strk": "W4"
+    },
     {
      "team": "Brantford 99ers",
      "teamId": "odb-97250",
@@ -51,19 +66,19 @@
      "strk": "W3"
     },
     {
-     "team": "Oakridge Aeros",
-     "teamId": "odb-97266",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
+     "team": "North London Nationals",
+     "teamId": "odb-97256",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
      "gp": 4,
-     "w": 3,
-     "l": 1,
-     "t": 0,
+     "w": 2,
+     "l": 0,
+     "t": 2,
      "pts": 6,
-     "gf": 22,
-     "ga": 9,
-     "diff": 13,
-     "l10": "3-1",
-     "strk": "W3"
+     "gf": 23,
+     "ga": 14,
+     "diff": 9,
+     "l10": "2-0-2",
+     "strk": "T2"
     },
     {
      "team": "West London Hawks",
@@ -96,21 +111,6 @@
      "strk": "W2"
     },
     {
-     "team": "North London Nationals",
-     "teamId": "odb-97256",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 4,
-     "w": 2,
-     "l": 0,
-     "t": 2,
-     "pts": 6,
-     "gf": 23,
-     "ga": 14,
-     "diff": 9,
-     "l10": "2-0-2",
-     "strk": "T2"
-    },
-    {
      "team": "Waterloo Wolves",
      "teamId": "odb-97254",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
@@ -129,16 +129,16 @@
      "team": "London Bandits",
      "teamId": "odb-97255",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 5,
+     "gp": 6,
      "w": 2,
-     "l": 2,
+     "l": 3,
      "t": 1,
      "pts": 5,
      "gf": 13,
-     "ga": 20,
-     "diff": -7,
-     "l10": "2-2-1",
-     "strk": "T1"
+     "ga": 25,
+     "diff": -12,
+     "l10": "2-3-1",
+     "strk": "L1"
     },
     {
      "team": "Kitchener Jr Rangers",

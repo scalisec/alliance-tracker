@@ -621,6 +621,15 @@
   "mhr": null
  },
  {
+  "id": "2715:cambridge-hawks",
+  "name": "Cambridge Hawks",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Cambridge Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+  "mhr": null
+ },
+ {
   "id": "2715:burlington-bulldogs-gold",
   "name": "Burlington Bulldogs Gold",
   "divisionId": 2715,
@@ -636,15 +645,6 @@
   "division": "U11 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
- },
- {
-  "id": "2715:cambridge-hawks",
-  "name": "Cambridge Hawks",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
   "mhr": null
  },
  {
@@ -1494,6 +1494,15 @@
   "mhr": null
  },
  {
+  "id": "2722:elgin-middlesex-canucks",
+  "name": "Elgin-Middlesex Canucks",
+  "divisionId": 2722,
+  "division": "U14 AAA",
+  "association": "Elgin-Middlesex Canucks",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+  "mhr": null
+ },
+ {
   "id": "2722:sun-county-panthers",
   "name": "Sun County Panthers",
   "divisionId": 2722,
@@ -1518,15 +1527,6 @@
   "division": "U14 AAA",
   "association": "Cambridge Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
- },
- {
-  "id": "2722:elgin-middlesex-canucks",
-  "name": "Elgin-Middlesex Canucks",
-  "divisionId": 2722,
-  "division": "U14 AAA",
-  "association": "Elgin-Middlesex Canucks",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
   "mhr": null
  },
  {
@@ -2043,6 +2043,15 @@
   "mhr": null
  },
  {
+  "id": "2727:oakridge-aeros",
+  "name": "Oakridge Aeros",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
+  "mhr": null
+ },
+ {
   "id": "2727:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2727,
@@ -2070,12 +2079,12 @@
   "mhr": null
  },
  {
-  "id": "2727:oakridge-aeros",
-  "name": "Oakridge Aeros",
+  "id": "2727:north-london-nationals",
+  "name": "North London Nationals",
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
   "mhr": null
  },
  {
@@ -2094,15 +2103,6 @@
   "division": "U15 BB",
   "association": "Burlington Raiders Hockey Club",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-  "mhr": null
- },
- {
-  "id": "2727:north-london-nationals",
-  "name": "North London Nationals",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
   "mhr": null
  },
  {

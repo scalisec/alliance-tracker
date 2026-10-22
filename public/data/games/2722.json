@@ -509,14 +509,17 @@
   "start": "2026-10-18T15:00:00-04:00",
   "away": "Elgin-Middlesex Canucks",
   "home": "Chatham-Kent Cyclones",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Memorial (Memorial)",
   "code": "U14P30",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-10-18/15:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3080447
+  }
  },
  {
   "id": 2374748,
