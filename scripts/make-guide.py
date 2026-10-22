@@ -85,8 +85,9 @@ def footer(c, page):
     c.line(M, 34, W - M, 34)
     c.setFont("Body", 8.5)
     c.setFillColor(MUTED)
-    c.drawString(M, 22, "Alliance Tracker is an unofficial community app, not affiliated with or endorsed by the Minor Hockey Alliance of Ontario.")
-    c.drawRightString(W - M, 22, f"{page} / 2")
+    c.drawString(M, 23, "Alliance Tracker is an unofficial community app, not affiliated with or endorsed by the Minor Hockey Alliance of Ontario.")
+    c.drawString(M, 12, "Questions or feedback: benchbosslabs@gmail.com")
+    c.drawRightString(W - M, 23, f"{page} / 2")
 
 
 def page1(c):

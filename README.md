@@ -3,6 +3,8 @@
 Unofficial standings, scores and schedules for **Minor Hockey Alliance of Ontario** rep divisions, modelled on [OWHA Tracker](https://owhatracker.app/). An installable phone web app, hosted free on GitHub Pages.
 
 > Unofficial community app. Not affiliated with or endorsed by ALLIANCE Hockey, GameSheet Inc. or MYHockey Rankings. All data and logos belong to their owners.
+>
+> Questions or feedback: [benchbosslabs@gmail.com](mailto:benchbosslabs@gmail.com)
 
 ## Features
 

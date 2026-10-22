@@ -52,7 +52,7 @@ export const FETCH = {
   timeoutMs: 30_000,
   retries: 2,
   userAgent:
-    'AllianceTracker/1.0 (unofficial family app; +https://scalisec.github.io/alliance-tracker/)',
+    'AllianceTracker/1.0 (unofficial family app; +https://scalisec.github.io/alliance-tracker/; benchbosslabs@gmail.com)',
 };
 
 // How long after puck drop a game is expected to have a final score.

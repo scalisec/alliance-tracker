@@ -4,6 +4,8 @@ import { useSaved, useTheme } from '../store.js';
 import { BrandMark, Icon, Sheet } from '../ui.jsx';
 import InstallCard from './InstallCard.jsx';
 
+const CONTACT_EMAIL = 'benchbosslabs@gmail.com';
+
 /* global __BUILD__ */
 // e.g. "Oct 17, 1:52 PM · 811b1a5"
 function buildLabel() {
@@ -98,6 +100,10 @@ export default function Settings({ ctx, onClose, onRefresh }) {
         <p className="hint" style={{ lineHeight: 1.5 }}>
           Standings, scores and schedules for Minor Hockey Alliance of Ontario rep divisions. Data sourced from alliancehockey.com, theonedb.com and myhockeyrankings.com. Box scores open on GameSheet.
         </p>
+        <div className="set-row">
+          <div><div className="lbl">Questions or feedback</div><div className="hint">Bench Boss Labs</div></div>
+          <a className="val" href={`mailto:${CONTACT_EMAIL}?subject=Alliance%20Tracker`} style={{ color: 'var(--accent)', fontWeight: 600 }}>{CONTACT_EMAIL}</a>
+        </div>
         <p className="fine">
           Alliance Tracker is an unofficial community app. It is not affiliated with or endorsed by the Minor Hockey Alliance of Ontario (ALLIANCE Hockey), GameSheet Inc. or MYHockey Rankings. All data and logos remain the property of their respective owners.
         </p>
