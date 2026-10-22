@@ -554,14 +554,17 @@
   "start": "2026-10-21T20:00:00-04:00",
   "away": "Stratford Warriors",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Sports Park (1)",
   "code": "U18BR51",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3089524
+  }
  },
  {
   "id": 2379226,

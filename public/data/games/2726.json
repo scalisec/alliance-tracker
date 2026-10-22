@@ -491,14 +491,17 @@
   "start": "2026-10-21T20:00:00-04:00",
   "away": "Kitchener Jr Rangers Red",
   "home": "Kitchener Jr Rangers Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U15S31",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-10-21/20:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3089518
+  }
  },
  {
   "id": 2375747,

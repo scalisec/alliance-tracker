@@ -1,10 +1,25 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-10-22T01:19:57.126Z",
+ "updatedAt": "2026-10-22T01:40:21.811Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Cambridge Hawks",
+     "teamId": "odb-97123",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "gp": 5,
+     "w": 5,
+     "l": 0,
+     "t": 0,
+     "pts": 10,
+     "gf": 28,
+     "ga": 11,
+     "diff": 17,
+     "l10": "5-0",
+     "strk": "W5"
+    },
     {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97124",
@@ -33,21 +48,6 @@
      "ga": 9,
      "diff": 11,
      "l10": "4-1",
-     "strk": "W4"
-    },
-    {
-     "team": "Cambridge Hawks",
-     "teamId": "odb-97123",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 4,
-     "w": 4,
-     "l": 0,
-     "t": 0,
-     "pts": 8,
-     "gf": 22,
-     "ga": 11,
-     "diff": 11,
-     "l10": "4-0",
      "strk": "W4"
     },
     {
@@ -156,21 +156,6 @@
      "strk": "L1"
     },
     {
-     "team": "Stratford Warriors",
-     "teamId": "odb-98278",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 5,
-     "w": 1,
-     "l": 3,
-     "t": 1,
-     "pts": 3,
-     "gf": 14,
-     "ga": 30,
-     "diff": -16,
-     "l10": "1-3-1",
-     "strk": "L1"
-    },
-    {
      "team": "Lambeth Lancers",
      "teamId": "odb-98279",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
@@ -184,6 +169,21 @@
      "diff": -12,
      "l10": "1-2-1",
      "strk": "T1"
+    },
+    {
+     "team": "Stratford Warriors",
+     "teamId": "odb-98278",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
+     "gp": 6,
+     "w": 1,
+     "l": 4,
+     "t": 1,
+     "pts": 3,
+     "gf": 14,
+     "ga": 36,
+     "diff": -22,
+     "l10": "1-4-1",
+     "strk": "L2"
     },
     {
      "team": "St. Thomas Jr Stars",
