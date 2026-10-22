@@ -665,14 +665,17 @@
   "start": "2026-10-21T19:00:00-04:00",
   "away": "St. Thomas Jr Stars",
   "home": "Oakridge Aeros",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Oakridge (Oakridge)",
   "code": "U14BR69",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5029/2026-10-21/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3088965
+  }
  },
  {
   "id": 2378206,
@@ -680,14 +683,17 @@
   "start": "2026-10-21T19:15:00-04:00",
   "away": "Stratford Warriors",
   "home": "Woodstock Jr Navy Vets",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Reeves CC (Red)",
   "code": "U14BR22",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4269/2026-10-21/19:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3088966
+  }
  },
  {
   "id": 2378155,

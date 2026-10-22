@@ -1728,6 +1728,15 @@
   "mhr": null
  },
  {
+  "id": "2724:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2724,
+  "division": "U14 BB",
+  "association": null,
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+  "mhr": null
+ },
+ {
   "id": "2724:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2724,
@@ -1752,15 +1761,6 @@
   "division": "U14 BB",
   "association": "Woodstock Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
- },
- {
-  "id": "2724:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2724,
-  "division": "U14 BB",
-  "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
   "mhr": null
  },
  {
