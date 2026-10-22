@@ -3,7 +3,7 @@ name: Publish app on code change
 on:
   push:
     branches: [main]
-    paths-ignore: ['public/data/**', 'fixtures/**', '**.md']
+    paths-ignore: ['public/data/**', 'public/logos/**', 'fixtures/**', '**.md']
   workflow_dispatch:
 
 permissions:

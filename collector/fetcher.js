@@ -58,11 +58,24 @@ export async function fetchText(url, { delayMs } = {}) {
   throw new Error(`Failed ${url}: ${lastErr?.message}`);
 }
 
-export async function fetchBinary(url) {
+// Images (logos). Same per-host politeness and timeout as pages; only https
+// images under 1 MB are accepted.
+export async function fetchBinary(url, { delayMs = 3000, maxBytes = 1_000_000, timeoutMs = FETCH.timeoutMs } = {}) {
   assertAllowed(url);
-  const res = await fetch(url, { headers: { 'User-Agent': FETCH.userAgent } });
-  if (!res.ok) return null;
-  return Buffer.from(await res.arrayBuffer());
+  if (!url.startsWith('https://')) return null;
+  const host = new URL(url).hostname;
+  const wait = (lastHit.get(host) ?? 0) + delayMs - Date.now();
+  if (wait > 0) await sleep(wait);
+  lastHit.set(host, Date.now());
+  requestCount++;
+  const ctrl = new AbortController();
+  const t = setTimeout(() => ctrl.abort(), timeoutMs);
+  try {
+    const res = await fetch(url, { headers: { 'User-Agent': FETCH.userAgent }, signal: ctrl.signal });
+    if (!res.ok || !(res.headers.get('content-type') ?? '').startsWith('image/')) return null;
+    const buf = Buffer.from(await res.arrayBuffer());
+    return buf.length <= maxBytes ? buf : null;
+  } catch { return null; } finally { clearTimeout(t); }
 }
 
 export const stats = () => ({ requests: requestCount });

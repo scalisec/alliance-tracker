@@ -2,7 +2,7 @@
 // - Pages (index.html) and data files: network first, saved copy only when offline.
 // - Hashed build files (assets/*-abc123.js/css), icons, logo: cache first; their
 //   names change with every build, so a cached copy is never out of date.
-const CACHE = 'at-v2';
+const CACHE = 'at-v3';
 self.addEventListener('install', () => self.skipWaiting());
 self.addEventListener('activate', (e) => {
   e.waitUntil(

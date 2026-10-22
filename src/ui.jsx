@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { fmtWhen, gameState } from './data.js';
+import { fmtWhen, gameState, safeUrl } from './data.js';
 
 // ---------- icons ----------
 const I = ({ d, size = 22, sw = 1.8, fill = 'none' }) => (
@@ -35,7 +35,7 @@ const initials = (n) => n.replace(/\b(Jr|the)\b\.?/gi, '').replace(/[^\w\s-]/g, 
 
 export function TeamLogo({ name = '', logo, size = 44 }) {
   const [broken, setBroken] = useState(false);
-  if (logo && !broken) return <img className="logo" src={logo} alt="" width={size} height={size} loading="lazy" onError={() => setBroken(true)} />;
+  if (logo && !broken && (logo.startsWith('logos/') || safeUrl(logo))) return <img className="logo" src={logo} alt="" width={size} height={size} loading="lazy" onError={() => setBroken(true)} />;
   return (
     <span className="logo-fallback" style={{ width: size, height: size, fontSize: size * 0.36, background: PALETTE[hash(name) % PALETTE.length] }}>
       {initials(name) || '?'}
@@ -121,8 +121,8 @@ export function GameCard({ game: g, logoOf, mine = [], onOpen, scored = true }) 
       </div>
       <div className="game-foot">
         <span className="venue"><Icon.pin /><span>{g.venue ?? 'Venue TBA'}</span></span>
-        {g.liveBarn && (
-          <a className="lb" href={g.liveBarn} target="_blank" rel="noopener noreferrer" onClick={(e) => e.stopPropagation()}>{state === 'live' ? 'Watch live' : 'LiveBarn'}</a>
+        {safeUrl(g.liveBarn) && (
+          <a className="lb" href={safeUrl(g.liveBarn)} target="_blank" rel="noopener noreferrer" onClick={(e) => e.stopPropagation()}>{state === 'live' ? 'Watch live' : 'LiveBarn'}</a>
         )}
       </div>
     </Tag>

@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { useJson, fmtLongDay, fmtTime, gameState, ago } from '../data.js';
+import { useJson, fmtLongDay, fmtTime, gameState, ago, safeUrl } from '../data.js';
 import { Empty, Icon, TeamLogo, Top } from '../ui.jsx';
 import { back } from '../App.jsx';
 
@@ -7,7 +7,8 @@ const AUTO_CHECK_MS = 2 * 60 * 1000;
 
 export default function GameDetail({ ctx, divId, gameId }) {
   const { data: games } = useJson(`games/${divId}.json`, [ctx.tick]);
-  const game = games?.find((g) => String(g.id) === String(gameId));
+  const found = games?.find((g) => String(g.id) === String(gameId));
+  const game = found && { ...found, liveBarn: safeUrl(found.liveBarn) };
   const div = ctx.divById(divId);
   const state = game ? gameState(game, { scored: div?.scored !== false }) : null;
   const waiting = state === 'live' || state === 'awaiting';
@@ -17,7 +18,7 @@ export default function GameDetail({ ctx, divId, gameId }) {
 
   const check = async () => {
     setBusy(true);
-    try { await ctx.refresh(true); } finally { setCheckedAt(Date.now()); setBusy(false); }
+    try { await ctx.refresh(); } finally { setCheckedAt(Date.now()); setBusy(false); }
   };
   // While a live/awaiting game is open, look for new data every 2 minutes,
   // and re-render each 30 s so "checked … ago" stays accurate.
@@ -31,7 +32,8 @@ export default function GameDetail({ ctx, divId, gameId }) {
 
   const [showGs, setShowGs] = useState(false);
   const gsSeason = game?.gamesheet?.season ?? ctx.meta?.gamesheetSeasons?.[div?.level] ?? null;
-  const gsUrl = game?.gamesheet
+  const gsOk = game?.gamesheet && /^\d+$/.test(String(game.gamesheet.season)) && /^\d+$/.test(String(game.gamesheet.game));
+  const gsUrl = gsOk
     ? `https://gamesheetstats.com/seasons/${game.gamesheet.season}/games/${game.gamesheet.game}`
     : gsSeason ? `https://gamesheetstats.com/seasons/${gsSeason}/games` : null;
 
@@ -89,6 +91,7 @@ export default function GameDetail({ ctx, divId, gameId }) {
                       title="GameSheet"
                       src={embedUrl(gsUrl)}
                       loading="lazy"
+                      sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"
                       referrerPolicy="strict-origin-when-cross-origin"
                     />
                     <div className="gs-foot">
@@ -124,7 +127,7 @@ function Side({ name, logo, win, label }) {
 // GameSheet box score when we know its link; otherwise Alliance's game page,
 // which carries the same box score in its own tab.
 function boxScoreUrl(game, divId) {
-  return game.gamesheet
+  return game.gamesheet && /^\d+$/.test(String(game.gamesheet.game))
     ? `https://gamesheetstats.com/seasons/${game.gamesheet.season}/games/${game.gamesheet.game}`
     : `https://alliancehockey.com/Groups/${divId}/Games/${game.id}/`;
 }

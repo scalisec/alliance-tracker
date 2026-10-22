@@ -19,7 +19,7 @@ export default function Schedule({ ctx }) {
 
   const liveCount = shown.filter((g) => ['live', 'awaiting'].includes(gameState(g, { scored: div?.scored !== false }))).length;
   const [busy, setBusy] = useState(false);
-  const refresh = async () => { setBusy(true); try { await ctx.refresh(true); } finally { setBusy(false); } };
+  const refresh = async () => { setBusy(true); try { await ctx.refresh(); } finally { setBusy(false); } };
 
   // Group by day.
   const days = [];

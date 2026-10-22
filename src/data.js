@@ -82,3 +82,7 @@ export function gameState(g, { scored = true, now = Date.now() } = {}) {
 }
 
 export const isPast = (g) => g.status === 'final' || (g.start && Date.parse(g.start) < Date.now() - LIVE_MINUTES * 60000);
+
+// Links read from other sites are only used if they're plain https URLs
+// (blocks javascript: and other unsafe schemes).
+export const safeUrl = (u) => (typeof u === 'string' && /^https:\/\/[^\s]+$/i.test(u) ? u : null);

@@ -6,6 +6,7 @@
 //   node collector/run.js capture  save raw HTML samples to fixtures/ (parser checks)
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import crypto from 'node:crypto';
 import { DIVISIONS, SEASON, ONEDB_SEED_TEAM, GAMESHEET_SEASONS, GAME_FINAL_AFTER_MIN, GAME_RECHECK_HOURS } from './config.js';
 import { fetchText, fetchBinary, stats } from './fetcher.js';
 import * as alliance from './sources/alliance.js';
@@ -20,11 +21,17 @@ const MAX_REQUESTS = Number(process.env.MAX_REQUESTS ?? 120);
 const readJson = async (f, fallback) => {
   try { return JSON.parse(await fs.readFile(f, 'utf8')); } catch { return fallback; }
 };
+// Writes only when the content actually changed, and counts real changes, so a
+// run that finds nothing new doesn't commit, republish or bust phones' caches.
+let changedFiles = 0;
 const writeJson = async (f, v) => {
   await fs.mkdir(path.dirname(f), { recursive: true });
   const next = JSON.stringify(v, null, 1);
   const prev = await fs.readFile(f, 'utf8').catch(() => null);
-  if (prev !== next) await fs.writeFile(f, next);
+  if (prev === next) return false;
+  await fs.writeFile(f, next);
+  changedFiles++;
+  return true;
 };
 const budgetLeft = () => stats().requests < MAX_REQUESTS;
 const totals = { games: 0, rows: 0, warnings: [], failed: 0 };
@@ -47,7 +54,8 @@ async function refreshDivision(div, { withStandings = true, fullSeason = false }
     for (const g of list) {
       const prev = byId.get(g.id);
       // Keep fields we learned earlier (GameSheet link, LiveBarn) if the new read lacks them.
-      byId.set(g.id, { ...prev, ...g, gamesheet: prev?.gamesheet ?? null, liveBarn: g.liveBarn ?? prev?.liveBarn ?? null });
+      const lb = [g.liveBarn, prev?.liveBarn].find((u) => typeof u === 'string' && u.startsWith('https://')) ?? null;
+      byId.set(g.id, { ...prev, ...g, gamesheet: prev?.gamesheet ?? null, liveBarn: lb });
     }
   };
 
@@ -56,7 +64,12 @@ async function refreshDivision(div, { withStandings = true, fullSeason = false }
     const stHtml = await fetchText(alliance.urls.standings(div.id));
     const st = stHtml ? alliance.parseStandings(stHtml) : { regular: [], playoffs: [] };
     groups = [...st.regular, ...st.playoffs];
-    await writeJson(standingsFile, { divisionId: div.id, updatedAt: new Date().toISOString(), regular: st.regular, playoffs: st.playoffs.length ? st.playoffs : null });
+    // Keep the old file (and its updatedAt) when the table itself hasn't changed.
+    const prevSt = await readJson(standingsFile, null);
+    const playoffs = st.playoffs.length ? st.playoffs : null;
+    if (!prevSt || JSON.stringify([prevSt.regular, prevSt.playoffs]) !== JSON.stringify([st.regular, playoffs])) {
+      await writeJson(standingsFile, { divisionId: div.id, updatedAt: new Date().toISOString(), regular: st.regular, playoffs });
+    }
   }
 
   // Other months from TheOneDB (nightly/weekly); current month from Alliance (every run).
@@ -167,20 +180,48 @@ async function rebuildTeams() {
       });
     }
   }
+  // Serve logos from the app itself (faster, offline, no third-party requests).
+  for (const t of teams.values()) t.logo = await localLogo(t.logo);
   await writeJson(path.join(DATA, 'teams.json'), [...teams.values()]);
   return teams.size;
 }
+
+// Remote logo URL -> saved copy at public/logos/<hash>.<ext>. Downloaded once;
+// if a download fails the remote URL is kept and retried on a later run.
+const LOGOS = path.join(ROOT, 'public', 'logos');
+let logoFailures = 0;
+async function localLogo(url) {
+  if (!url || !/^https:\/\//.test(url)) return url?.startsWith('logos/') ? url : null;
+  const ext = (/\.(png|jpe?g|gif|webp|svg)(?:$|\?)/i.exec(url)?.[1] ?? 'png').toLowerCase().replace('jpeg', 'jpg');
+  const name = `${crypto.createHash('sha1').update(url).digest('hex').slice(0, 12)}.${ext}`;
+  const file = path.join(LOGOS, name);
+  if (await fs.access(file).then(() => true, () => false)) return `logos/${name}`;
+  if (ext === 'svg') return url; // never self-host SVGs (they can carry scripts)
+  // Downloads happen on the nightly run only, and stop for the night after a
+  // failure, so a slow image server can never hold up live score updates.
+  if (mode !== 'full' || logoFailures > 0) return url;
+  const buf = await fetchBinary(url, { timeoutMs: 10_000 });
+  if (!buf) { logoFailures++; return url; }
+  await fs.mkdir(LOGOS, { recursive: true });
+  await fs.writeFile(file, buf);
+  changedFiles++;
+  log(`saved logo ${name}`);
+  return `logos/${name}`;
+}
 const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
+// meta.updatedAt is the data version phones use to refresh their saved copies,
+// so it only moves when some data file really changed.
 async function writeMeta(mode) {
-  const meta = await readJson(path.join(DATA, 'meta.json'), {});
-  meta.season = SEASON;
-  meta.sample = false;
+  const file = path.join(DATA, 'meta.json');
+  const meta = await readJson(file, {});
+  const core = (m) => JSON.stringify([m.season, m.sample, m.gamesheetSeasons, m.divisions]);
+  const before = core(meta);
+  Object.assign(meta, { season: SEASON, sample: false, gamesheetSeasons: GAMESHEET_SEASONS, divisions: DIVISIONS });
+  if (changedFiles === 0 && core(meta) === before) { log('no data changes; nothing to publish'); return; }
   meta.updatedAt = new Date().toISOString();
   meta.runs = { ...(meta.runs ?? {}), [mode]: meta.updatedAt };
-  meta.gamesheetSeasons = GAMESHEET_SEASONS;
-  meta.divisions = DIVISIONS;
-  await writeJson(path.join(DATA, 'meta.json'), meta);
+  await writeJson(file, meta);
 }
 
 async function ensureLogo() {
@@ -303,6 +344,8 @@ log(`mode=${mode}`);
 
 // First real run: clear the preview sample data so it never mixes with real data.
 const prevMeta = await readJson(path.join(DATA, 'meta.json'), {});
+// Keep GameSheet season ids learned on earlier runs (e.g. AAA is auto-detected).
+for (const [k, v] of Object.entries(prevMeta.gamesheetSeasons ?? {})) GAMESHEET_SEASONS[k] ??= v;
 if (prevMeta.sample && (mode === 'live' || mode === 'weekly')) {
   log('Sample data still in place; waiting for the first full sync. Nothing to do.');
   process.exit(0);
