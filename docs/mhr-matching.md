@@ -15,17 +15,16 @@ matched once by hand and stored in `public/data/mhr-links.json`.
 4. Close calls are decided only when there is one possible team; anything else is
    checked with Cristian.
 
-Result: 303 of 316 rep teams linked. U8/U9 MD teams aren't on MYHockey.
+Result: 304 of 316 rep teams linked. U8/U9 MD teams aren't on MYHockey.
 
 Name differences decided by hand: "Sault Major Jr Greyhounds" = MHR "Soo Jr
 Greyhounds"; "Cambridge Jr RedHawks" U16 AAA = MHR "Cambridge Hawks"; Burlington
-Raiders U11 BB = MHR 32807.
+Raiders U11 BB = MHR 32807. Burlington Raiders U10 BB = MHR 40348 (confirmed by
+Cristian on 2026-10-22; MYHockey files it under its U11 BB/B division).
 
 ## Still to match (re-check later in the season)
 
-**U10 BB:** Burlington Raiders (possible MHR 40348: named "Burlington Raiders U10
-BB" but filed under MHAO U11 BB/B, 1 game, needs confirming), Woodstock Jr Navy
-Vets, Dresden Jr Kings, Lambeth Lancers, Mooretown Jr Flags, Lambton Shores
+**U10 BB:** Woodstock Jr Navy Vets, Dresden Jr Kings, Lambeth Lancers, Mooretown Jr Flags, Lambton Shores
 Predators, Elgin-Thames 73s, Petrolia Oilers, South Kent Lightning, Mt Brydges
 Cougars, St Thomas Jr Stars.
 

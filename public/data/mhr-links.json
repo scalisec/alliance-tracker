@@ -28,6 +28,7 @@
     "2712:brantford-99ers": 6315,
     "2712:burlington-bulldogs-blue": 34792,
     "2712:burlington-bulldogs-white": 16142,
+    "2712:burlington-raiders": 40348,
     "2712:cambridge-hawks": 16127,
     "2712:kitchener-jr-rangers": 16135,
     "2712:london-bandits": 16150,
@@ -313,10 +314,9 @@
   "season": 2026,
   "unmatched": {
     "_note": "Teams with no MYHockey team page as of 2026-10-21. Re-check these on MYHockey's MHAO league page (league-info?l=204).",
-    "checkedAt": "2026-10-21",
+    "checkedAt": "2026-10-22",
     "teams": {
       "U10 BB": [
-        "Burlington Raiders (possible: MHR 40348, listed as 'Burlington Raiders U10 BB' under MHAO U11 BB/B, awaiting confirmation)",
         "Woodstock Jr Navy Vets",
         "Dresden Jr. Kings",
         "Lambeth Lancers",
