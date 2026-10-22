@@ -310,5 +310,28 @@
     "Burlington Raiders Hockey Club": 3359,
     "Waterloo Minor Hockey": 1345
   },
-  "season": 2026
+  "season": 2026,
+  "unmatched": {
+    "_note": "Teams with no MYHockey team page as of 2026-10-21. Re-check these on MYHockey's MHAO league page (league-info?l=204).",
+    "checkedAt": "2026-10-21",
+    "teams": {
+      "U10 BB": [
+        "Burlington Raiders (possible: MHR 40348, listed as 'Burlington Raiders U10 BB' under MHAO U11 BB/B, awaiting confirmation)",
+        "Woodstock Jr Navy Vets",
+        "Dresden Jr. Kings",
+        "Lambeth Lancers",
+        "Mooretown Jr. Flags",
+        "Lambton Shores Predators",
+        "Elgin-Thames 73s",
+        "Petrolia Oilers",
+        "South Kent Lightning",
+        "Mt. Brydges Cougars",
+        "St. Thomas Jr Stars"
+      ],
+      "U16 AAA": [
+        "NOHA Red",
+        "NOHA Black"
+      ]
+    }
+  }
 }
