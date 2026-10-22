@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.56.0",
-    "@vitejs/plugin-react": "^5.2.0",
+    "@vitejs/plugin-react": "^6.1.2",
     "cheerio": "^1.2.0",
     "sharp": "^0.35.5",
     "vite": "^7.3.7"
