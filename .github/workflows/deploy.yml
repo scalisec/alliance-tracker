@@ -36,7 +36,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with: { name: screen-test-report, path: test-results, retention-days: 7 }
       - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with: { path: dist }
       - id: deploy
         uses: actions/deploy-pages@v4
