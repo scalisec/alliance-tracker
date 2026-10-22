@@ -359,14 +359,17 @@
   "start": "2026-10-21T20:15:00-04:00",
   "away": "Mt. Brydges Cougars",
   "home": "London Jr Knights Green",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Western Fair (Chik-fil-a)",
   "code": "U18S141",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4445/2026-10-21/20:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3089520
+  }
  },
  {
   "id": 2375973,
