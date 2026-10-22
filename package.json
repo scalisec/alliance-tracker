@@ -23,7 +23,7 @@
     "@vitejs/plugin-react": "^5.2.0",
     "cheerio": "^1.2.0",
     "sharp": "^0.35.5",
-    "vite": "^7.3.7"
+    "vite": "^8.3.4"
   },
   "type": "module",
   "private": true
