@@ -2,7 +2,7 @@
 // Alliance Tracker collector.
 //   node collector/run.js full     nightly: schedules + standings, all scored divisions
 //   node collector/run.js live     game windows: only divisions with games now
-//   node collector/run.js weekly   MD divisions (no scores kept) + MHR ratings
+//   node collector/run.js weekly   MD divisions (no scores kept)
 //   node collector/run.js capture  save raw HTML samples to fixtures/ (parser checks)
 import fs from 'node:fs/promises';
 import path from 'node:path';
@@ -11,7 +11,7 @@ import { DIVISIONS, SEASON, ONEDB_SEED_TEAM, GAMESHEET_SEASONS, GAME_FINAL_AFTER
 import { fetchText, fetchBinary, stats } from './fetcher.js';
 import * as alliance from './sources/alliance.js';
 import * as theonedb from './sources/theonedb.js';
-import * as mhr from './sources/mhr.js';
+import { slug } from '../src/teams.js';
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
 const DATA = path.join(ROOT, 'public', 'data');
@@ -36,6 +36,15 @@ const writeJson = async (f, v) => {
 const budgetLeft = () => stats().requests < MAX_REQUESTS;
 const totals = { games: 0, rows: 0, warnings: [], failed: 0 };
 const log = (...a) => console.log(new Date().toISOString().slice(11, 19), ...a);
+// One division failing (a site hiccup) must not stop the others.
+async function safely(div, fn) {
+  try { return await fn(); } catch (e) {
+    totals.failed++;
+    totals.warnings.push(`${div.name}: ${e.message.slice(0, 100)}`);
+    log(`div ${div.name} FAILED: ${e.message.slice(0, 100)}`);
+    return null;
+  }
+}
 
 // ---------- association logos (by team-name prefix) ----------
 const associations = await readJson(path.join(OVERRIDES, 'associations.json'), []);
@@ -161,8 +170,6 @@ async function refreshGameLinks(div, games, now, { maxAgeDays = 3, maxLookups = 
 // ---------- teams index (for search + My Teams) ----------
 async function rebuildTeams() {
   const teams = new Map();
-  const mhrMap = await readJson(path.join(OVERRIDES, 'mhr-teams.json'), {});
-  const mhrData = await readJson(path.join(DATA, 'mhr.json'), {});
   for (const div of DIVISIONS) {
     const st = await readJson(path.join(DATA, 'standings', `${div.id}.json`), null);
     const games = await readJson(path.join(DATA, 'games', `${div.id}.json`), []);
@@ -176,7 +183,6 @@ async function rebuildTeams() {
       teams.set(id, {
         id, name, divisionId: div.id, division: div.name,
         association: a?.name ?? null, logo: logos.get(name) ?? a?.logo ?? null,
-        mhr: mhrMap[id] ? { id: mhrMap[id], ...(mhrData[mhrMap[id]] ?? {}) } : null,
       });
     }
   }
@@ -208,16 +214,16 @@ async function localLogo(url) {
   log(`saved logo ${name}`);
   return `logos/${name}`;
 }
-const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
 // meta.updatedAt is the data version phones use to refresh their saved copies,
 // so it only moves when some data file really changed.
 async function writeMeta(mode) {
   const file = path.join(DATA, 'meta.json');
   const meta = await readJson(file, {});
-  const core = (m) => JSON.stringify([m.season, m.sample, m.gamesheetSeasons, m.divisions]);
+  const core = (m) => JSON.stringify([m.season, m.gamesheetSeasons, m.divisions]);
   const before = core(meta);
-  Object.assign(meta, { season: SEASON, sample: false, gamesheetSeasons: GAMESHEET_SEASONS, divisions: DIVISIONS });
+  delete meta.sample;
+  Object.assign(meta, { season: SEASON, gamesheetSeasons: GAMESHEET_SEASONS, divisions: DIVISIONS });
   if (changedFiles === 0 && core(meta) === before) { log('no data changes; nothing to publish'); return; }
   meta.updatedAt = new Date().toISOString();
   meta.runs = { ...(meta.runs ?? {}), [mode]: meta.updatedAt };
@@ -241,17 +247,17 @@ async function full() {
   // 1) Standings + schedules for every division first, so they never run out of budget.
   const fresh = [];
   for (const div of scored) {
-    try { fresh.push([div, (await refreshDivision(div, { fullSeason: true })).games]); }
-    catch (e) { totals.failed++; totals.warnings.push(`${div.name}: ${e.message.slice(0, 100)}`); log(`div ${div.name} FAILED: ${e.message.slice(0, 100)}`); }
+    const r = await safely(div, () => refreshDivision(div, { fullSeason: true }));
+    if (r) fresh.push([div, r.games]);
   }
   // MD normally updates weekly; fill it in now if it has under two months of games.
   for (const div of DIVISIONS.filter((d) => d.refresh === 'weekly')) {
     const have = await readJson(path.join(DATA, 'games', `${div.id}.json`), []);
-    if (new Set(have.map((g) => g.start?.slice(0, 7))).size < 2) await refreshDivision(div, { withStandings: false, fullSeason: true });
+    if (new Set(have.map((g) => g.start?.slice(0, 7))).size < 2) await safely(div, () => refreshDivision(div, { withStandings: false, fullSeason: true }));
   }
   // 2) Then a few GameSheet links per division for the last week's games.
   //    (Live runs pick these up on game days; the app falls back to Alliance's game page.)
-  for (const [div, games] of fresh) await refreshGameLinks(div, games, now, { maxAgeDays: 7, maxLookups: 3 });
+  for (const [div, games] of fresh) await safely(div, () => refreshGameLinks(div, games, now, { maxAgeDays: 7, maxLookups: 3 }));
 }
 
 async function live() {
@@ -268,31 +274,17 @@ async function live() {
       return needsResult || recentFinal;
     });
     if (!active) continue;
-    try {
+    await safely(div, async () => {
       const { games: fresh } = await refreshDivision(div);
       await refreshGameLinks(div, fresh, now);
-    } catch (e) { totals.failed++; totals.warnings.push(`${div.name}: ${e.message.slice(0, 100)}`); log(`div ${div.name} FAILED: ${e.message.slice(0, 100)}`); }
+    });
   }
 }
 
 async function weekly() {
   for (const div of DIVISIONS.filter((d) => d.refresh === 'weekly')) {
-    try { await refreshDivision(div, { withStandings: false, fullSeason: true }); }
-    catch (e) { totals.failed++; totals.warnings.push(`${div.name}: ${e.message.slice(0, 100)}`); }
+    await safely(div, () => refreshDivision(div, { withStandings: false, fullSeason: true }));
   }
-  // MHR ratings for mapped teams.
-  const mhrMap = await readJson(path.join(OVERRIDES, 'mhr-teams.json'), {});
-  const out = await readJson(path.join(DATA, 'mhr.json'), {});
-  const year = Number(SEASON.slice(0, 4));
-  for (const mhrId of new Set(Object.values(mhrMap))) {
-    if (!budgetLeft()) break;
-    // MHR blocks automated requests (Cloudflare challenge); don't let that fail the run.
-    try {
-      const html = await fetchText(mhr.teamUrl(mhrId, year), { delayMs: 5000 });
-      if (html) out[mhrId] = { ...mhr.parseTeamPage(html), checkedAt: new Date().toISOString() };
-    } catch (e) { totals.warnings.push(`MHR ${mhrId}: ${e.message.slice(0, 60)}`); }
-  }
-  await writeJson(path.join(DATA, 'mhr.json'), out);
 }
 
 async function capture() {
@@ -324,12 +316,6 @@ async function capture() {
   if (gp) await save('theonedb-schedule-u13bb.html', theonedb.BASE + gp);
   const menu = team ? theonedb.parseGroupMenu(team) : {};
   if (menu['U13 BB']) await save('theonedb-schedule-u13bb-nov.html', theonedb.monthUrl(menu['U13 BB'], 2026, 11));
-  // MYHockey Rankings: Burlington Lions Optimist (Bulldogs) association + U10 BB (White) team.
-  const MHR = 'https://myhockeyrankings.com';
-  await save('mhr-assoc-1798-default.html', `${MHR}/association-info?a=1798`);
-  await save('mhr-assoc-1798-2026.html', `${MHR}/association-info?a=1798&y=2026`);
-  await save('mhr-team-16142-2026.html', `${MHR}/team-info?y=2026&t=16142`);
-  await save('mhr-team-16142-2025.html', `${MHR}/team-info?y=2025&t=16142`);
   if (sched) {
     const parsed = alliance.parseSchedule(sched, 2721);
     report.push(`schedule parser: ${parsed.length} games; first: ${JSON.stringify(parsed[0] ?? null)}`);
@@ -342,19 +328,9 @@ const modes = { full, live, weekly, capture };
 if (!modes[mode]) { console.error(`Unknown mode ${mode}`); process.exit(1); }
 log(`mode=${mode}`);
 
-// First real run: clear the preview sample data so it never mixes with real data.
-const prevMeta = await readJson(path.join(DATA, 'meta.json'), {});
 // Keep GameSheet season ids learned on earlier runs (e.g. AAA is auto-detected).
+const prevMeta = await readJson(path.join(DATA, 'meta.json'), {});
 for (const [k, v] of Object.entries(prevMeta.gamesheetSeasons ?? {})) GAMESHEET_SEASONS[k] ??= v;
-if (prevMeta.sample && (mode === 'live' || mode === 'weekly')) {
-  log('Sample data still in place; waiting for the first full sync. Nothing to do.');
-  process.exit(0);
-}
-if (prevMeta.sample && mode === 'full') {
-  for (const d of ['games', 'standings', 'detail']) await fs.rm(path.join(DATA, d), { recursive: true, force: true });
-  await fs.rm(path.join(DATA, 'teams.json'), { force: true });
-  log('cleared sample data');
-}
 
 await modes[mode]();
 

@@ -3,7 +3,7 @@ import { useMany } from '../data.js';
 import { useSaved } from '../store.js';
 import { Empty, Icon, TeamLogo, Top } from '../ui.jsx';
 import { back, go } from '../App.jsx';
-import { activeGroups } from '../standings.js';
+import { standingFor } from '../teams.js';
 
 export default function FindTeam({ ctx }) {
   const [q, setQ] = useState('');
@@ -39,12 +39,8 @@ export default function FindTeam({ ctx }) {
   const divIds = [...new Set(results.map((t) => t.divisionId))].filter((id) => ctx.divById(id)?.scored);
   const standings = useMany(divIds.map((id) => `standings/${id}.json`), [ctx.tick]);
   const place = (t) => {
-    const s = standings?.[divIds.indexOf(t.divisionId)];
-    for (const g of activeGroups(s?.regular)) {
-      const i = g.rows.findIndex((r) => r.team === t.name);
-      if (i >= 0) return ` · #${i + 1} · ${g.rows[i].pts} pts`;
-    }
-    return '';
+    const { row, rank } = standingFor(standings?.[divIds.indexOf(t.divisionId)]?.regular, t.name);
+    return row ? ` · #${rank} · ${row.pts} pts` : '';
   };
 
   return (

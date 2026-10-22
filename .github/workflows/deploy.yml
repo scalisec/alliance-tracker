@@ -26,6 +26,15 @@ jobs:
       - uses: actions/setup-node@v4
         with: { node-version: 22, cache: npm }
       - run: npm ci && npm run build
+      # Checks before publishing: a failure here stops a broken version going live.
+      - name: Parser checks
+        run: npm test
+      - name: Screen tests (click through the main screens)
+        run: npx playwright install --with-deps chromium && npx playwright test
+      - name: Keep the screen-test report if something failed
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with: { name: screen-test-report, path: test-results, retention-days: 7 }
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with: { path: dist }

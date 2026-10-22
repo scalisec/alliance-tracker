@@ -89,11 +89,6 @@ export default function App() {
   return (
     <div className="app">
       {error && <div className="page"><div className="banner">{error}</div></div>}
-      {meta?.sample && showNav && (
-        <div className="page" style={{ paddingTop: 'calc(8px + env(safe-area-inset-top))', paddingBottom: 0 }}>
-          <div className="banner"><b>Preview with sample data.</b> Real Alliance standings and schedules appear after the first data update.</div>
-        </div>
-      )}
       {meta ? screen : !error && <div className="empty"><div className="puck" /><p>Loading…</p></div>}
       {showNav && (
         <nav className="nav">

@@ -2,7 +2,7 @@ import { useJson, ago } from '../data.js';
 import { useSaved } from '../store.js';
 import { BrandMark, Empty, GameCard, Icon, TeamLogo, Top } from '../ui.jsx';
 import { go } from '../App.jsx';
-import { activeGroups } from '../standings.js';
+import { ordinal, slug, standingFor } from '../teams.js';
 import { FormRow, lastResults } from '../form.jsx';
 import { mhrLink } from '../mhr.jsx';
 
@@ -40,11 +40,7 @@ function TeamCard({ team, ctx }) {
   const { data: mhrLinks } = useJson('mhr-links.json', [ctx.tick]);
   const mhr = mhrLink(team, mhrLinks);
 
-  let row = null, rank = null, groupName = '';
-  // A team can appear in more than one round; use the one with the most games played.
-  activeGroups(standings?.regular).forEach((g) => g.rows.forEach((r, i) => {
-    if (r.team === team.name && (!row || r.gp > row.gp)) { row = r; rank = i + 1; groupName = g.name; }
-  }));
+  const { row, rank, groupName } = standingFor(standings?.regular, team.name);
 
   const mine = (g) => g.home === team.name || g.away === team.name;
   const list = (games ?? []).filter(mine).sort((a, b) => (a.start ?? '').localeCompare(b.start ?? ''));
@@ -58,7 +54,7 @@ function TeamCard({ team, ctx }) {
 
   return (
     <section className="card team-card">
-      <div className="team-head tap" role="button" onClick={() => go(`team/${team.divisionId}/${team.id.split(':')[1]}`)}>
+      <div className="team-head tap" role="button" onClick={() => go(`team/${team.divisionId}/${slug(team.name)}`)}>
         <TeamLogo name={team.name} logo={team.logo} size={46} />
         <div className="grow">
           <div className="name">{team.name}</div>
@@ -102,5 +98,3 @@ function TeamCard({ team, ctx }) {
     </section>
   );
 }
-
-const ordinal = (n) => { const s = ['th', 'st', 'nd', 'rd'], v = n % 100; return n + (s[(v - 20) % 10] || s[v] || s[0]); };

@@ -5,8 +5,7 @@ import { Empty, Icon, Seg, TeamLogo, Top } from '../ui.jsx';
 import DivisionPicker from './DivisionPicker.jsx';
 import { go } from '../App.jsx';
 import { activeGroups } from '../standings.js';
-
-const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+import { slug } from '../teams.js';
 
 export default function Standings({ ctx }) {
   const [phase, setPhase] = useState('regular');

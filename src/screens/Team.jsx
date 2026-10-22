@@ -3,11 +3,9 @@ import { useJson, gameState, isPast, fmtWhen } from '../data.js';
 import { useSaved } from '../store.js';
 import { Empty, GameCard, Icon, Seg, TeamLogo, Top } from '../ui.jsx';
 import { back, go } from '../App.jsx';
-import { activeGroups } from '../standings.js';
+import { ordinal, slug, standingFor } from '../teams.js';
 import { FormRow, lastResults, resultFor } from '../form.jsx';
 import { MhrCard } from '../mhr.jsx';
-
-const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
 // Team page: record, every game played (newest first) and upcoming games.
 // Route: #/team/{divisionId}/{team-slug}
@@ -25,10 +23,7 @@ export default function Team({ ctx, divId, teamSlug }) {
   const name = team.name;
 
   // Standings row: the round where this team has played the most games.
-  let row = null, rank = null, groupName = '';
-  activeGroups(standings?.regular).forEach((g) => g.rows.forEach((r, i) => {
-    if (r.team === name && (!row || r.gp > row.gp)) { row = r; rank = i + 1; groupName = g.name; }
-  }));
+  const { row, rank, groupName } = standingFor(standings?.regular, name);
 
   const mine = (g) => g.home === name || g.away === name;
   const list = (games ?? []).filter(mine).sort((a, b) => (a.start ?? '').localeCompare(b.start ?? ''));
@@ -117,5 +112,3 @@ function ResultRow({ g, name, state, result, onOpen }) {
     </button>
   );
 }
-
-const ordinal = (n) => { const s = ['th', 'st', 'nd', 'rd'], v = n % 100; return n + (s[(v - 20) % 10] || s[v] || s[0]); };
