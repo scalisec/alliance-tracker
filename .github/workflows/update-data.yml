@@ -100,7 +100,7 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with: { path: dist }
       - id: deploy
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
 
   next:
     # Keep live updates coming every ~20 min during game windows.
