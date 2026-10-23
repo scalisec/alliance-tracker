@@ -68,7 +68,8 @@ jobs:
         run: |
           git config user.name "alliance-tracker-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add public/data public/assets public/icons public/logos
+          # Only add folders that exist (git add fails on a missing path).
+          for d in public/data public/assets public/icons public/logos; do [ -e "$d" ] && git add "$d"; done
           if git diff --cached --quiet; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
