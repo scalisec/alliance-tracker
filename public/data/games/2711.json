@@ -371,14 +371,17 @@
   "start": "2026-10-23T18:30:00-04:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "London Jr Knights White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U10S12",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3094625
+  }
  },
  {
   "id": 2376123,

@@ -96,16 +96,16 @@
   "logo": "logos/612db499a971.png"
  },
  {
-  "id": "2711:london-jr-knights-green",
-  "name": "London Jr Knights Green",
+  "id": "2711:london-jr-knights-white",
+  "name": "London Jr Knights White",
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
  },
  {
-  "id": "2711:london-jr-knights-white",
-  "name": "London Jr Knights White",
+  "id": "2711:london-jr-knights-green",
+  "name": "London Jr Knights Green",
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "London Jr Knights",

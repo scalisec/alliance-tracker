@@ -1,6 +1,6 @@
 {
  "divisionId": 2710,
- "updatedAt": "2026-10-22T13:45:16.819Z",
+ "updatedAt": "2026-10-23T23:50:22.371Z",
  "regular": [
   {
    "name": "East Division",
@@ -24,16 +24,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-96945",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 2,
-     "w": 1,
+     "gp": 3,
+     "w": 2,
      "l": 0,
      "t": 1,
-     "pts": 3,
-     "gf": 17,
-     "ga": 7,
-     "diff": 10,
-     "l10": "1-0-1",
-     "strk": "W1"
+     "pts": 5,
+     "gf": 22,
+     "ga": 8,
+     "diff": 14,
+     "l10": "2-0-1",
+     "strk": "W2"
     },
     {
      "team": "Cambridge Hawks",
@@ -69,16 +69,16 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96941",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 1,
+     "gp": 2,
      "w": 0,
-     "l": 1,
+     "l": 2,
      "t": 0,
      "pts": 0,
-     "gf": 2,
-     "ga": 4,
-     "diff": -2,
-     "l10": "0-1",
-     "strk": "L1"
+     "gf": 3,
+     "ga": 9,
+     "diff": -6,
+     "l10": "0-2",
+     "strk": "L2"
     }
    ]
   },

@@ -1,6 +1,6 @@
 {
  "divisionId": 2711,
- "updatedAt": "2026-10-23T02:17:46.888Z",
+ "updatedAt": "2026-10-23T23:50:51.799Z",
  "regular": [
   {
    "name": "",
@@ -21,6 +21,21 @@
      "strk": "W4"
     },
     {
+     "team": "London Jr Knights White",
+     "teamId": "odb-97031",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 4,
+     "w": 4,
+     "l": 0,
+     "t": 0,
+     "pts": 8,
+     "gf": 15,
+     "ga": 5,
+     "diff": 10,
+     "l10": "4-0",
+     "strk": "W4"
+    },
+    {
      "team": "London Jr Knights Green",
      "teamId": "odb-97030",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
@@ -36,34 +51,19 @@
      "strk": "W3"
     },
     {
-     "team": "London Jr Knights White",
-     "teamId": "odb-97031",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 3,
-     "w": 3,
-     "l": 0,
-     "t": 0,
-     "pts": 6,
-     "gf": 12,
-     "ga": 4,
-     "diff": 8,
-     "l10": "3-0",
-     "strk": "W3"
-    },
-    {
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-97035",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 3,
+     "gp": 4,
      "w": 3,
-     "l": 0,
+     "l": 1,
      "t": 0,
      "pts": 6,
-     "gf": 21,
-     "ga": 10,
-     "diff": 11,
-     "l10": "3-0",
-     "strk": "W3"
+     "gf": 22,
+     "ga": 13,
+     "diff": 9,
+     "l10": "3-1",
+     "strk": "L1"
     },
     {
      "team": "Sarnia Jr. Sting",
