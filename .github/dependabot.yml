@@ -1,10 +1,30 @@
-# Weekly checks for security fixes in the app's tools and in the GitHub Actions it uses.
+# Update suggestions, tuned to stay quiet:
+# - One grouped suggestion per month for small, safe updates (minor/patch).
+# - Big version jumps (e.g. React 19, Vite 8) are skipped here and done on purpose
+#   during a quarterly upgrade-and-test session.
+# - Security fixes still arrive on their own as soon as GitHub knows about them
+#   (repo Settings -> Code security -> "Dependabot security updates").
 version: 2
 updates:
   - package-ecosystem: npm
     directory: /
-    schedule: { interval: weekly }
-    open-pull-requests-limit: 5
+    schedule: { interval: monthly }
+    open-pull-requests-limit: 2
+    groups:
+      small-updates:
+        patterns: ['*']
+        update-types: [minor, patch]
+    ignore:
+      - dependency-name: '*'
+        update-types: ['version-update:semver-major']
   - package-ecosystem: github-actions
     directory: /
-    schedule: { interval: weekly }
+    schedule: { interval: monthly }
+    open-pull-requests-limit: 1
+    groups:
+      actions:
+        patterns: ['*']
+        update-types: [minor, patch]
+    ignore:
+      - dependency-name: '*'
+        update-types: ['version-update:semver-major']

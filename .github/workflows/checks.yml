@@ -1,0 +1,25 @@
+name: Checks on suggested changes
+
+# Runs the same checks as a publish (parser tests + screen tests) on every pull
+# request, e.g. Dependabot's update suggestions, so they show a pass/fail before
+# anyone merges them. Nothing is published from here.
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci && npm run build
+      - name: Parser checks
+        run: npm test
+      - name: Screen tests
+        run: npx playwright install --with-deps chromium && npx playwright test
