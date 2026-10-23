@@ -758,14 +758,17 @@
   "start": "2026-10-22T19:00:00-04:00",
   "away": "Sarnia Jr. Sting",
   "home": "Oakridge Aeros",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Oakridge (Oakridge)",
   "code": "U12BR68",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5029/2026-10-22/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3091679
+  }
  },
  {
   "id": 2377975,

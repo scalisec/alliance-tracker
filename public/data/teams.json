@@ -5,8 +5,7 @@
   "divisionId": 2710,
   "division": "U10 AAA",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2710:waterloo-wolves",
@@ -14,8 +13,7 @@
   "divisionId": 2710,
   "division": "U10 AAA",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2710:cambridge-hawks",
@@ -23,8 +21,7 @@
   "divisionId": 2710,
   "division": "U10 AAA",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2710:brantford-99ers",
@@ -32,8 +29,7 @@
   "divisionId": 2710,
   "division": "U10 AAA",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2710:huron-perth-lakers",
@@ -41,8 +37,7 @@
   "divisionId": 2710,
   "division": "U10 AAA",
   "association": "Huron-Perth Lakers",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png"
  },
  {
   "id": "2710:elgin-middlesex-canucks",
@@ -50,8 +45,7 @@
   "divisionId": 2710,
   "division": "U10 AAA",
   "association": "Elgin-Middlesex Canucks",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png"
  },
  {
   "id": "2710:sun-county-panthers",
@@ -59,8 +53,7 @@
   "divisionId": 2710,
   "division": "U10 AAA",
   "association": "Sun County Panthers",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png"
  },
  {
   "id": "2710:windsor-jr-spitfires",
@@ -68,8 +61,7 @@
   "divisionId": 2710,
   "division": "U10 AAA",
   "association": "Windsor AAA Zone",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png"
  },
  {
   "id": "2710:london-jr-knights",
@@ -77,8 +69,7 @@
   "divisionId": 2710,
   "division": "U10 AAA",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2710:sarnia-lambton-jr-sting",
@@ -86,8 +77,7 @@
   "divisionId": 2710,
   "division": "U10 AAA",
   "association": "Lambton Jr Sting",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png"
  },
  {
   "id": "2710:chatham-kent-cyclones",
@@ -95,8 +85,7 @@
   "divisionId": 2710,
   "division": "U10 AAA",
   "association": "Chatham-Kent Cyclones",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png"
  },
  {
   "id": "2711:st-thomas-jr-stars",
@@ -104,8 +93,7 @@
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png"
  },
  {
   "id": "2711:london-jr-knights-green",
@@ -113,8 +101,7 @@
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2711:london-jr-knights-white",
@@ -122,17 +109,7 @@
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
- },
- {
-  "id": "2711:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2711,
-  "division": "U10 AA-A",
-  "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2711:woodstock-jr-navy-vets",
@@ -140,8 +117,15 @@
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png"
+ },
+ {
+  "id": "2711:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2711,
+  "division": "U10 AA-A",
+  "association": "Sarnia Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png"
  },
  {
   "id": "2711:mt-brydges-cougars",
@@ -149,8 +133,7 @@
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png"
  },
  {
   "id": "2711:kitchener-jr-rangers-red",
@@ -158,8 +141,7 @@
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2711:stratford-warriors",
@@ -167,8 +149,7 @@
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "Stratford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png"
  },
  {
   "id": "2711:waterloo-wolves",
@@ -176,8 +157,7 @@
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2711:cambridge-hawks",
@@ -185,8 +165,7 @@
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2711:burlington-raiders",
@@ -194,8 +173,7 @@
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png"
  },
  {
   "id": "2711:brantford-99ers",
@@ -203,8 +181,7 @@
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2711:kitchener-jr-rangers-blue",
@@ -212,8 +189,7 @@
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2712:burlington-bulldogs-blue",
@@ -221,8 +197,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2712:kitchener-jr-rangers",
@@ -230,8 +205,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2712:burlington-raiders",
@@ -239,8 +213,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png"
  },
  {
   "id": "2712:cambridge-hawks",
@@ -248,8 +221,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2712:waterloo-wolves",
@@ -257,8 +229,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2712:brantford-99ers",
@@ -266,8 +237,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2712:burlington-bulldogs-white",
@@ -275,8 +245,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2712:woodstock-jr-navy-vets",
@@ -284,8 +253,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png"
  },
  {
   "id": "2712:north-london-nationals",
@@ -293,8 +261,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png"
  },
  {
   "id": "2712:oakridge-aeros",
@@ -302,8 +269,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png"
  },
  {
   "id": "2712:london-bandits",
@@ -311,8 +277,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png"
  },
  {
   "id": "2712:west-london-hawks",
@@ -320,8 +285,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png"
  },
  {
   "id": "2712:sarnia-jr-sting",
@@ -329,8 +293,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png"
  },
  {
   "id": "2712:dresden-jr-kings",
@@ -338,8 +301,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": null,
-  "logo": null,
-  "mhr": null
+  "logo": null
  },
  {
   "id": "2712:lambeth-lancers",
@@ -347,8 +309,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png",
-  "mhr": null
+  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png"
  },
  {
   "id": "2712:mooretown-jr-flags",
@@ -356,8 +317,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": null,
-  "logo": null,
-  "mhr": null
+  "logo": null
  },
  {
   "id": "2712:lambton-shores-predators",
@@ -365,8 +325,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": "Lambton Jr Sting",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png"
  },
  {
   "id": "2712:elgin-thames-73s",
@@ -374,8 +333,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": null,
-  "logo": null,
-  "mhr": null
+  "logo": null
  },
  {
   "id": "2712:petrolia-oilers",
@@ -383,8 +341,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": null,
-  "logo": null,
-  "mhr": null
+  "logo": null
  },
  {
   "id": "2712:south-kent-lightning",
@@ -392,8 +349,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": null,
-  "logo": null,
-  "mhr": null
+  "logo": null
  },
  {
   "id": "2712:mt-brydges-cougars",
@@ -401,8 +357,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": null,
-  "logo": null,
-  "mhr": null
+  "logo": null
  },
  {
   "id": "2712:st-thomas-jr-stars",
@@ -410,8 +365,7 @@
   "divisionId": 2712,
   "division": "U10 BB",
   "association": null,
-  "logo": null,
-  "mhr": null
+  "logo": null
  },
  {
   "id": "2713:kitchener-jr-rangers",
@@ -419,8 +373,7 @@
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2713:huron-perth-lakers",
@@ -428,8 +381,7 @@
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "Huron-Perth Lakers",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png"
  },
  {
   "id": "2713:waterloo-wolves",
@@ -437,8 +389,7 @@
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2713:cambridge-hawks",
@@ -446,8 +397,7 @@
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2713:brantford-99ers",
@@ -455,8 +405,7 @@
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2713:elgin-middlesex-canucks",
@@ -464,8 +413,7 @@
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "Elgin-Middlesex Canucks",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png"
  },
  {
   "id": "2713:london-jr-knights",
@@ -473,8 +421,7 @@
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2713:windsor-jr-spitfires",
@@ -482,8 +429,7 @@
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "Windsor AAA Zone",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png"
  },
  {
   "id": "2713:sarnia-lambton-jr-sting",
@@ -491,8 +437,7 @@
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "Lambton Jr Sting",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png"
  },
  {
   "id": "2713:chatham-kent-cyclones",
@@ -500,8 +445,7 @@
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "Chatham-Kent Cyclones",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png"
  },
  {
   "id": "2713:sun-county-panthers",
@@ -509,8 +453,7 @@
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "Sun County Panthers",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png"
  },
  {
   "id": "2714:london-jr-knights-green",
@@ -518,8 +461,7 @@
   "divisionId": 2714,
   "division": "U11 AA-A",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2714:waterloo-wolves",
@@ -527,8 +469,7 @@
   "divisionId": 2714,
   "division": "U11 AA-A",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2714:london-jr-knights-white",
@@ -536,8 +477,7 @@
   "divisionId": 2714,
   "division": "U11 AA-A",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2714:kitchener-jr-rangers-red",
@@ -545,8 +485,7 @@
   "divisionId": 2714,
   "division": "U11 AA-A",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2714:brantford-99ers",
@@ -554,8 +493,7 @@
   "divisionId": 2714,
   "division": "U11 AA-A",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2714:mt-brydges-cougars",
@@ -563,8 +501,7 @@
   "divisionId": 2714,
   "division": "U11 AA-A",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png"
  },
  {
   "id": "2714:st-thomas-jr-stars",
@@ -572,8 +509,7 @@
   "divisionId": 2714,
   "division": "U11 AA-A",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png"
  },
  {
   "id": "2714:cambridge-hawks",
@@ -581,8 +517,7 @@
   "divisionId": 2714,
   "division": "U11 AA-A",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2714:kitchener-jr-rangers-blue",
@@ -590,8 +525,7 @@
   "divisionId": 2714,
   "division": "U11 AA-A",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2714:woodstock-jr-navy-vets",
@@ -599,8 +533,7 @@
   "divisionId": 2714,
   "division": "U11 AA-A",
   "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png"
  },
  {
   "id": "2714:sarnia-jr-sting",
@@ -608,8 +541,7 @@
   "divisionId": 2714,
   "division": "U11 AA-A",
   "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png"
  },
  {
   "id": "2714:stratford-warriors",
@@ -617,8 +549,7 @@
   "divisionId": 2714,
   "division": "U11 AA-A",
   "association": "Stratford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png"
  },
  {
   "id": "2715:cambridge-hawks",
@@ -626,8 +557,7 @@
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2715:burlington-bulldogs-gold",
@@ -635,8 +565,7 @@
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2715:burlington-bulldogs-blue",
@@ -644,8 +573,7 @@
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2715:sarnia-jr-sting",
@@ -653,8 +581,7 @@
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png"
  },
  {
   "id": "2715:woodstock-jr-navy-vets",
@@ -662,8 +589,7 @@
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png"
  },
  {
   "id": "2715:north-london-nationals",
@@ -671,8 +597,7 @@
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png"
  },
  {
   "id": "2715:kitchener-jr-rangers",
@@ -680,8 +605,7 @@
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2715:brantford-99ers",
@@ -689,8 +613,7 @@
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2715:burlington-raiders",
@@ -698,8 +621,7 @@
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png"
  },
  {
   "id": "2715:burlington-bulldogs-white",
@@ -707,8 +629,7 @@
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2715:waterloo-wolves",
@@ -716,8 +637,7 @@
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2715:oakridge-aeros",
@@ -725,8 +645,7 @@
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png"
  },
  {
   "id": "2715:london-bandits",
@@ -734,8 +653,7 @@
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png"
  },
  {
   "id": "2715:west-london-hawks",
@@ -743,8 +661,7 @@
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png"
  },
  {
   "id": "2716:kitchener-jr-rangers",
@@ -752,8 +669,7 @@
   "divisionId": 2716,
   "division": "U12 AAA",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2716:london-jr-knights",
@@ -761,8 +677,7 @@
   "divisionId": 2716,
   "division": "U12 AAA",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2716:sarnia-lambton-jr-sting",
@@ -770,8 +685,7 @@
   "divisionId": 2716,
   "division": "U12 AAA",
   "association": "Lambton Jr Sting",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png"
  },
  {
   "id": "2716:elgin-middlesex-canucks",
@@ -779,8 +693,7 @@
   "divisionId": 2716,
   "division": "U12 AAA",
   "association": "Elgin-Middlesex Canucks",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png"
  },
  {
   "id": "2716:windsor-jr-spitfires",
@@ -788,8 +701,7 @@
   "divisionId": 2716,
   "division": "U12 AAA",
   "association": "Windsor AAA Zone",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png"
  },
  {
   "id": "2716:waterloo-wolves",
@@ -797,8 +709,7 @@
   "divisionId": 2716,
   "division": "U12 AAA",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2716:brantford-99ers",
@@ -806,8 +717,7 @@
   "divisionId": 2716,
   "division": "U12 AAA",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2716:huron-perth-lakers",
@@ -815,8 +725,7 @@
   "divisionId": 2716,
   "division": "U12 AAA",
   "association": "Huron-Perth Lakers",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png"
  },
  {
   "id": "2716:sun-county-panthers",
@@ -824,8 +733,7 @@
   "divisionId": 2716,
   "division": "U12 AAA",
   "association": "Sun County Panthers",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png"
  },
  {
   "id": "2716:sault-major-jr-greyhounds",
@@ -833,8 +741,7 @@
   "divisionId": 2716,
   "division": "U12 AAA",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png"
  },
  {
   "id": "2717:mt-brydges-cougars",
@@ -842,8 +749,7 @@
   "divisionId": 2717,
   "division": "U12 AA-A",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png"
  },
  {
   "id": "2717:waterloo-wolves",
@@ -851,8 +757,7 @@
   "divisionId": 2717,
   "division": "U12 AA-A",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2717:stratford-warriors",
@@ -860,8 +765,7 @@
   "divisionId": 2717,
   "division": "U12 AA-A",
   "association": "Stratford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png"
  },
  {
   "id": "2717:sarnia-jr-sting",
@@ -869,8 +773,7 @@
   "divisionId": 2717,
   "division": "U12 AA-A",
   "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png"
  },
  {
   "id": "2717:london-jr-knights-green",
@@ -878,8 +781,7 @@
   "divisionId": 2717,
   "division": "U12 AA-A",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2717:brantford-99ers",
@@ -887,8 +789,7 @@
   "divisionId": 2717,
   "division": "U12 AA-A",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2717:london-jr-knights-white",
@@ -896,8 +797,7 @@
   "divisionId": 2717,
   "division": "U12 AA-A",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2717:kitchener-jr-rangers-red",
@@ -905,8 +805,7 @@
   "divisionId": 2717,
   "division": "U12 AA-A",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2717:woodstock-jr-navy-vets",
@@ -914,8 +813,7 @@
   "divisionId": 2717,
   "division": "U12 AA-A",
   "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png"
  },
  {
   "id": "2717:st-thomas-jr-stars",
@@ -923,8 +821,7 @@
   "divisionId": 2717,
   "division": "U12 AA-A",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png"
  },
  {
   "id": "2717:kitchener-jr-rangers-blue",
@@ -932,8 +829,7 @@
   "divisionId": 2717,
   "division": "U12 AA-A",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2717:cambridge-hawks",
@@ -941,8 +837,7 @@
   "divisionId": 2717,
   "division": "U12 AA-A",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2717:burlington-raiders",
@@ -950,8 +845,7 @@
   "divisionId": 2717,
   "division": "U12 AA-A",
   "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png"
  },
  {
   "id": "2718:woodstock-jr-navy-vets",
@@ -959,8 +853,7 @@
   "divisionId": 2718,
   "division": "U12 BB",
   "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png"
  },
  {
   "id": "2718:st-thomas-jr-stars",
@@ -968,8 +861,7 @@
   "divisionId": 2718,
   "division": "U12 BB",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png"
  },
  {
   "id": "2718:waterloo-wolves",
@@ -977,8 +869,7 @@
   "divisionId": 2718,
   "division": "U12 BB",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2718:burlington-bulldogs-gold",
@@ -986,8 +877,7 @@
   "divisionId": 2718,
   "division": "U12 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2718:kitchener-jr-rangers",
@@ -995,8 +885,7 @@
   "divisionId": 2718,
   "division": "U12 BB",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2718:sarnia-jr-sting",
@@ -1004,8 +893,7 @@
   "divisionId": 2718,
   "division": "U12 BB",
   "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png"
  },
  {
   "id": "2718:brantford-99ers",
@@ -1013,8 +901,7 @@
   "divisionId": 2718,
   "division": "U12 BB",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2718:london-bandits",
@@ -1022,8 +909,7 @@
   "divisionId": 2718,
   "division": "U12 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png"
  },
  {
   "id": "2718:burlington-bulldogs-white",
@@ -1031,17 +917,7 @@
   "divisionId": 2718,
   "division": "U12 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
- },
- {
-  "id": "2718:oakridge-aeros",
-  "name": "Oakridge Aeros",
-  "divisionId": 2718,
-  "division": "U12 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2718:burlington-raiders",
@@ -1049,8 +925,15 @@
   "divisionId": 2718,
   "division": "U12 BB",
   "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png"
+ },
+ {
+  "id": "2718:oakridge-aeros",
+  "name": "Oakridge Aeros",
+  "divisionId": 2718,
+  "division": "U12 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png"
  },
  {
   "id": "2718:west-london-hawks",
@@ -1058,8 +941,7 @@
   "divisionId": 2718,
   "division": "U12 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png"
  },
  {
   "id": "2718:burlington-bulldogs-blue",
@@ -1067,8 +949,7 @@
   "divisionId": 2718,
   "division": "U12 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2718:north-london-nationals",
@@ -1076,8 +957,7 @@
   "divisionId": 2718,
   "division": "U12 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png"
  },
  {
   "id": "2718:cambridge-hawks",
@@ -1085,8 +965,7 @@
   "divisionId": 2718,
   "division": "U12 BB",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2718:stratford-warriors",
@@ -1094,8 +973,7 @@
   "divisionId": 2718,
   "division": "U12 BB",
   "association": "Stratford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png"
  },
  {
   "id": "2719:huron-perth-lakers",
@@ -1103,8 +981,7 @@
   "divisionId": 2719,
   "division": "U13 AAA",
   "association": "Huron-Perth Lakers",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png"
  },
  {
   "id": "2719:brantford-99ers",
@@ -1112,8 +989,7 @@
   "divisionId": 2719,
   "division": "U13 AAA",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2719:sarnia-lambton-jr-sting",
@@ -1121,8 +997,7 @@
   "divisionId": 2719,
   "division": "U13 AAA",
   "association": "Lambton Jr Sting",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png"
  },
  {
   "id": "2719:london-jr-knights",
@@ -1130,8 +1005,7 @@
   "divisionId": 2719,
   "division": "U13 AAA",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2719:windsor-jr-spitfires",
@@ -1139,8 +1013,7 @@
   "divisionId": 2719,
   "division": "U13 AAA",
   "association": "Windsor AAA Zone",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png"
  },
  {
   "id": "2719:sun-county-panthers",
@@ -1148,8 +1021,7 @@
   "divisionId": 2719,
   "division": "U13 AAA",
   "association": "Sun County Panthers",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png"
  },
  {
   "id": "2719:cambridge-hawks",
@@ -1157,8 +1029,7 @@
   "divisionId": 2719,
   "division": "U13 AAA",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2719:waterloo-wolves",
@@ -1166,8 +1037,7 @@
   "divisionId": 2719,
   "division": "U13 AAA",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2719:kitchener-jr-rangers",
@@ -1175,8 +1045,7 @@
   "divisionId": 2719,
   "division": "U13 AAA",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2719:sault-major-jr-greyhounds",
@@ -1184,8 +1053,7 @@
   "divisionId": 2719,
   "division": "U13 AAA",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png"
  },
  {
   "id": "2719:elgin-middlesex-canucks",
@@ -1193,8 +1061,7 @@
   "divisionId": 2719,
   "division": "U13 AAA",
   "association": "Elgin-Middlesex Canucks",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png"
  },
  {
   "id": "2719:chatham-kent-cyclones",
@@ -1202,8 +1069,7 @@
   "divisionId": 2719,
   "division": "U13 AAA",
   "association": "Chatham-Kent Cyclones",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png"
  },
  {
   "id": "2720:stratford-warriors",
@@ -1211,8 +1077,7 @@
   "divisionId": 2720,
   "division": "U13 AA-A",
   "association": "Stratford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png"
  },
  {
   "id": "2720:brantford-99ers",
@@ -1220,8 +1085,7 @@
   "divisionId": 2720,
   "division": "U13 AA-A",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2720:waterloo-wolves",
@@ -1229,8 +1093,7 @@
   "divisionId": 2720,
   "division": "U13 AA-A",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2720:london-jr-knights-green",
@@ -1238,8 +1101,7 @@
   "divisionId": 2720,
   "division": "U13 AA-A",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2720:kitchener-jr-rangers-red",
@@ -1247,8 +1109,7 @@
   "divisionId": 2720,
   "division": "U13 AA-A",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2720:woodstock-jr-navy-vets",
@@ -1256,8 +1117,7 @@
   "divisionId": 2720,
   "division": "U13 AA-A",
   "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png"
  },
  {
   "id": "2720:cambridge-hawks",
@@ -1265,8 +1125,7 @@
   "divisionId": 2720,
   "division": "U13 AA-A",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2720:sarnia-jr-sting",
@@ -1274,8 +1133,7 @@
   "divisionId": 2720,
   "division": "U13 AA-A",
   "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png"
  },
  {
   "id": "2720:st-thomas-jr-stars",
@@ -1283,8 +1141,7 @@
   "divisionId": 2720,
   "division": "U13 AA-A",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png"
  },
  {
   "id": "2720:london-jr-knights-white",
@@ -1292,8 +1149,7 @@
   "divisionId": 2720,
   "division": "U13 AA-A",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2720:mt-brydges-cougars",
@@ -1301,8 +1157,7 @@
   "divisionId": 2720,
   "division": "U13 AA-A",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png"
  },
  {
   "id": "2720:burlington-raiders",
@@ -1310,8 +1165,7 @@
   "divisionId": 2720,
   "division": "U13 AA-A",
   "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png"
  },
  {
   "id": "2720:kitchener-jr-rangers-blue",
@@ -1319,8 +1173,7 @@
   "divisionId": 2720,
   "division": "U13 AA-A",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2721:stratford-warriors",
@@ -1328,8 +1181,7 @@
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Stratford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png"
  },
  {
   "id": "2721:waterloo-wolves",
@@ -1337,8 +1189,7 @@
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2721:burlington-raiders",
@@ -1346,8 +1197,7 @@
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png"
  },
  {
   "id": "2721:oakridge-aeros",
@@ -1355,8 +1205,7 @@
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png"
  },
  {
   "id": "2721:brantford-99ers",
@@ -1364,8 +1213,7 @@
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2721:kitchener-jr-rangers",
@@ -1373,8 +1221,7 @@
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2721:burlington-bulldogs-blue",
@@ -1382,8 +1229,7 @@
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2721:sarnia-jr-sting",
@@ -1391,8 +1237,7 @@
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png"
  },
  {
   "id": "2721:west-london-hawks",
@@ -1400,8 +1245,7 @@
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png"
  },
  {
   "id": "2721:burlington-bulldogs-white",
@@ -1409,8 +1253,7 @@
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2721:london-bandits",
@@ -1418,8 +1261,7 @@
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png"
  },
  {
   "id": "2721:woodstock-jr-navy-vets",
@@ -1427,8 +1269,7 @@
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png"
  },
  {
   "id": "2721:cambridge-hawks",
@@ -1436,8 +1277,7 @@
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2721:north-london-nationals",
@@ -1445,8 +1285,7 @@
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png"
  },
  {
   "id": "2722:waterloo-wolves",
@@ -1454,8 +1293,7 @@
   "divisionId": 2722,
   "division": "U14 AAA",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2722:huron-perth-lakers",
@@ -1463,8 +1301,7 @@
   "divisionId": 2722,
   "division": "U14 AAA",
   "association": "Huron-Perth Lakers",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png"
  },
  {
   "id": "2722:windsor-jr-spitfires",
@@ -1472,8 +1309,7 @@
   "divisionId": 2722,
   "division": "U14 AAA",
   "association": "Windsor AAA Zone",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png"
  },
  {
   "id": "2722:sarnia-lambton-jr-sting",
@@ -1481,8 +1317,7 @@
   "divisionId": 2722,
   "division": "U14 AAA",
   "association": "Lambton Jr Sting",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png"
  },
  {
   "id": "2722:london-jr-knights",
@@ -1490,8 +1325,7 @@
   "divisionId": 2722,
   "division": "U14 AAA",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2722:elgin-middlesex-canucks",
@@ -1499,8 +1333,7 @@
   "divisionId": 2722,
   "division": "U14 AAA",
   "association": "Elgin-Middlesex Canucks",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png"
  },
  {
   "id": "2722:sun-county-panthers",
@@ -1508,8 +1341,7 @@
   "divisionId": 2722,
   "division": "U14 AAA",
   "association": "Sun County Panthers",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png"
  },
  {
   "id": "2722:brantford-99ers",
@@ -1517,8 +1349,7 @@
   "divisionId": 2722,
   "division": "U14 AAA",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2722:cambridge-hawks",
@@ -1526,8 +1357,7 @@
   "divisionId": 2722,
   "division": "U14 AAA",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2722:kitchener-jr-rangers",
@@ -1535,8 +1365,7 @@
   "divisionId": 2722,
   "division": "U14 AAA",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2722:sault-major-jr-greyhounds",
@@ -1544,8 +1373,7 @@
   "divisionId": 2722,
   "division": "U14 AAA",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png"
  },
  {
   "id": "2722:chatham-kent-cyclones",
@@ -1553,8 +1381,7 @@
   "divisionId": 2722,
   "division": "U14 AAA",
   "association": "Chatham-Kent Cyclones",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png"
  },
  {
   "id": "2723:london-jr-knights-green",
@@ -1562,8 +1389,7 @@
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2723:brantford-99ers",
@@ -1571,8 +1397,7 @@
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2723:london-jr-knights-white",
@@ -1580,8 +1405,7 @@
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2723:st-thomas-jr-stars",
@@ -1589,8 +1413,7 @@
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png"
  },
  {
   "id": "2723:kitchener-jr-rangers-red",
@@ -1598,8 +1421,7 @@
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2723:woodstock-jr-navy-vets",
@@ -1607,8 +1429,7 @@
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png"
  },
  {
   "id": "2723:stratford-warriors",
@@ -1616,8 +1437,7 @@
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": "Stratford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png"
  },
  {
   "id": "2723:mt-brydges-cougars",
@@ -1625,8 +1445,7 @@
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png"
  },
  {
   "id": "2723:kitchener-jr-rangers-blue",
@@ -1634,8 +1453,7 @@
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2723:sarnia-jr-sting",
@@ -1643,8 +1461,7 @@
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png"
  },
  {
   "id": "2723:cambridge-hawks",
@@ -1652,8 +1469,7 @@
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2723:waterloo-wolves",
@@ -1661,8 +1477,7 @@
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2723:burlington-raiders",
@@ -1670,8 +1485,7 @@
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png"
  },
  {
   "id": "2724:stratford-warriors",
@@ -1679,8 +1493,7 @@
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Stratford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png"
  },
  {
   "id": "2724:london-bandits",
@@ -1688,8 +1501,7 @@
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png"
  },
  {
   "id": "2724:cambridge-hawks",
@@ -1697,8 +1509,7 @@
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2724:brantford-99ers",
@@ -1706,8 +1517,7 @@
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2724:kitchener-jr-rangers",
@@ -1715,8 +1525,7 @@
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2724:sarnia-jr-sting",
@@ -1724,8 +1533,7 @@
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png"
  },
  {
   "id": "2724:st-thomas-jr-stars",
@@ -1733,8 +1541,7 @@
   "divisionId": 2724,
   "division": "U14 BB",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png"
  },
  {
   "id": "2724:waterloo-wolves",
@@ -1742,8 +1549,7 @@
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2724:north-london-nationals",
@@ -1751,8 +1557,7 @@
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png"
  },
  {
   "id": "2724:woodstock-jr-navy-vets",
@@ -1760,8 +1565,7 @@
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png"
  },
  {
   "id": "2724:oakridge-aeros",
@@ -1769,8 +1573,7 @@
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png"
  },
  {
   "id": "2724:west-london-hawks",
@@ -1778,8 +1581,7 @@
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png"
  },
  {
   "id": "2724:lambeth-lancers",
@@ -1787,8 +1589,7 @@
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png"
  },
  {
   "id": "2724:burlington-raiders",
@@ -1796,8 +1597,7 @@
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png"
  },
  {
   "id": "2724:burlington-bulldogs-white",
@@ -1805,8 +1605,7 @@
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2724:burlington-bulldogs-blue",
@@ -1814,8 +1613,7 @@
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2725:brantford-99ers",
@@ -1823,8 +1621,7 @@
   "divisionId": 2725,
   "division": "U15 AAA",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2725:chatham-kent-cyclones",
@@ -1832,8 +1629,7 @@
   "divisionId": 2725,
   "division": "U15 AAA",
   "association": "Chatham-Kent Cyclones",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png"
  },
  {
   "id": "2725:kitchener-jr-rangers",
@@ -1841,8 +1637,7 @@
   "divisionId": 2725,
   "division": "U15 AAA",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2725:sarnia-lambton-jr-sting",
@@ -1850,8 +1645,7 @@
   "divisionId": 2725,
   "division": "U15 AAA",
   "association": "Lambton Jr Sting",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png"
  },
  {
   "id": "2725:elgin-middlesex-canucks",
@@ -1859,8 +1653,7 @@
   "divisionId": 2725,
   "division": "U15 AAA",
   "association": "Elgin-Middlesex Canucks",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png"
  },
  {
   "id": "2725:huron-perth-lakers",
@@ -1868,8 +1661,7 @@
   "divisionId": 2725,
   "division": "U15 AAA",
   "association": "Huron-Perth Lakers",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png"
  },
  {
   "id": "2725:sault-major-jr-greyhounds",
@@ -1877,8 +1669,7 @@
   "divisionId": 2725,
   "division": "U15 AAA",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png"
  },
  {
   "id": "2725:sun-county-panthers",
@@ -1886,8 +1677,7 @@
   "divisionId": 2725,
   "division": "U15 AAA",
   "association": "Sun County Panthers",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png"
  },
  {
   "id": "2725:cambridge-hawks",
@@ -1895,8 +1685,7 @@
   "divisionId": 2725,
   "division": "U15 AAA",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2725:waterloo-wolves",
@@ -1904,8 +1693,7 @@
   "divisionId": 2725,
   "division": "U15 AAA",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2725:london-jr-knights",
@@ -1913,8 +1701,7 @@
   "divisionId": 2725,
   "division": "U15 AAA",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2725:windsor-jr-spitfires",
@@ -1922,8 +1709,7 @@
   "divisionId": 2725,
   "division": "U15 AAA",
   "association": "Windsor AAA Zone",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png"
  },
  {
   "id": "2726:kitchener-jr-rangers-red",
@@ -1931,8 +1717,7 @@
   "divisionId": 2726,
   "division": "U15 AA-A",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2726:st-thomas-jr-stars",
@@ -1940,8 +1725,7 @@
   "divisionId": 2726,
   "division": "U15 AA-A",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png"
  },
  {
   "id": "2726:mt-brydges-cougars",
@@ -1949,8 +1733,7 @@
   "divisionId": 2726,
   "division": "U15 AA-A",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png"
  },
  {
   "id": "2726:london-jr-knights-green",
@@ -1958,8 +1741,7 @@
   "divisionId": 2726,
   "division": "U15 AA-A",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2726:brantford-99ers",
@@ -1967,8 +1749,7 @@
   "divisionId": 2726,
   "division": "U15 AA-A",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2726:sarnia-jr-sting",
@@ -1976,8 +1757,7 @@
   "divisionId": 2726,
   "division": "U15 AA-A",
   "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png"
  },
  {
   "id": "2726:london-jr-knights-white",
@@ -1985,35 +1765,7 @@
   "divisionId": 2726,
   "division": "U15 AA-A",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
- },
- {
-  "id": "2726:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2726,
-  "division": "U15 AA-A",
-  "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
- },
- {
-  "id": "2726:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2726,
-  "division": "U15 AA-A",
-  "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
- },
- {
-  "id": "2726:burlington-raiders",
-  "name": "Burlington Raiders",
-  "divisionId": 2726,
-  "division": "U15 AA-A",
-  "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2726:cambridge-hawks",
@@ -2021,8 +1773,31 @@
   "divisionId": 2726,
   "division": "U15 AA-A",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
+ },
+ {
+  "id": "2726:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2726,
+  "division": "U15 AA-A",
+  "association": "Woodstock Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png"
+ },
+ {
+  "id": "2726:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2726,
+  "division": "U15 AA-A",
+  "association": "Waterloo Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
+ },
+ {
+  "id": "2726:burlington-raiders",
+  "name": "Burlington Raiders",
+  "divisionId": 2726,
+  "division": "U15 AA-A",
+  "association": "Burlington Raiders Hockey Club",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png"
  },
  {
   "id": "2726:kitchener-jr-rangers-blue",
@@ -2030,8 +1805,7 @@
   "divisionId": 2726,
   "division": "U15 AA-A",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2726:stratford-warriors",
@@ -2039,8 +1813,7 @@
   "divisionId": 2726,
   "division": "U15 AA-A",
   "association": "Stratford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png"
  },
  {
   "id": "2727:oakridge-aeros",
@@ -2048,8 +1821,7 @@
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png"
  },
  {
   "id": "2727:brantford-99ers",
@@ -2057,8 +1829,7 @@
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2727:st-thomas-jr-stars",
@@ -2066,8 +1837,7 @@
   "divisionId": 2727,
   "division": "U15 BB",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png"
  },
  {
   "id": "2727:sarnia-jr-sting",
@@ -2075,8 +1845,7 @@
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png"
  },
  {
   "id": "2727:north-london-nationals",
@@ -2084,8 +1853,7 @@
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png"
  },
  {
   "id": "2727:west-london-hawks",
@@ -2093,8 +1861,7 @@
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png"
  },
  {
   "id": "2727:burlington-raiders",
@@ -2102,8 +1869,7 @@
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png"
  },
  {
   "id": "2727:waterloo-wolves",
@@ -2111,8 +1877,7 @@
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2727:london-bandits",
@@ -2120,8 +1885,7 @@
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png"
  },
  {
   "id": "2727:kitchener-jr-rangers",
@@ -2129,8 +1893,7 @@
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2727:woodstock-jr-navy-vets",
@@ -2138,8 +1901,7 @@
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png"
  },
  {
   "id": "2727:lambeth-lancers",
@@ -2147,8 +1909,7 @@
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png"
  },
  {
   "id": "2727:burlington-bulldogs-blue",
@@ -2156,8 +1917,7 @@
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2727:cambridge-hawks",
@@ -2165,8 +1925,7 @@
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2728:waterloo-wolves",
@@ -2174,8 +1933,7 @@
   "divisionId": 2728,
   "division": "U16 AAA",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2728:brantford-99ers",
@@ -2183,8 +1941,7 @@
   "divisionId": 2728,
   "division": "U16 AAA",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2728:huron-perth-lakers",
@@ -2192,8 +1949,7 @@
   "divisionId": 2728,
   "division": "U16 AAA",
   "association": "Huron-Perth Lakers",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png"
  },
  {
   "id": "2728:kitchener-jr-rangers",
@@ -2201,8 +1957,7 @@
   "divisionId": 2728,
   "division": "U16 AAA",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2728:cambridge-jr-redhawks",
@@ -2210,8 +1965,7 @@
   "divisionId": 2728,
   "division": "U16 AAA",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2728:london-jr-knights",
@@ -2219,8 +1973,7 @@
   "divisionId": 2728,
   "division": "U16 AAA",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2728:chatham-kent-cyclones",
@@ -2228,8 +1981,7 @@
   "divisionId": 2728,
   "division": "U16 AAA",
   "association": "Chatham-Kent Cyclones",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png"
  },
  {
   "id": "2728:windsor-jr-spitfires",
@@ -2237,8 +1989,7 @@
   "divisionId": 2728,
   "division": "U16 AAA",
   "association": "Windsor AAA Zone",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png"
  },
  {
   "id": "2728:sarnia-lambton-jr-sting",
@@ -2246,8 +1997,7 @@
   "divisionId": 2728,
   "division": "U16 AAA",
   "association": "Lambton Jr Sting",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png"
  },
  {
   "id": "2728:elgin-middlesex-canucks",
@@ -2255,8 +2005,7 @@
   "divisionId": 2728,
   "division": "U16 AAA",
   "association": "Elgin-Middlesex Canucks",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png"
  },
  {
   "id": "2728:noha-red",
@@ -2264,8 +2013,7 @@
   "divisionId": 2728,
   "division": "U16 AAA",
   "association": null,
-  "logo": null,
-  "mhr": null
+  "logo": null
  },
  {
   "id": "2728:noha-black",
@@ -2273,8 +2021,7 @@
   "divisionId": 2728,
   "division": "U16 AAA",
   "association": null,
-  "logo": null,
-  "mhr": null
+  "logo": null
  },
  {
   "id": "2729:mt-brydges-cougars",
@@ -2282,8 +2029,7 @@
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png"
  },
  {
   "id": "2729:brantford-99ers",
@@ -2291,8 +2037,7 @@
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2729:waterloo-wolves",
@@ -2300,8 +2045,7 @@
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2729:london-jr-knights-green",
@@ -2309,8 +2053,7 @@
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2729:stratford-warriors",
@@ -2318,8 +2061,7 @@
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": "Stratford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png"
  },
  {
   "id": "2729:cambridge-hawks",
@@ -2327,8 +2069,7 @@
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2729:kitchener-jr-rangers-red",
@@ -2336,8 +2077,7 @@
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2729:sarnia-jr-sting",
@@ -2345,8 +2085,7 @@
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png"
  },
  {
   "id": "2729:st-thomas-jr-stars",
@@ -2354,8 +2093,7 @@
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png"
  },
  {
   "id": "2729:london-jr-knights-white",
@@ -2363,8 +2101,7 @@
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2729:kitchener-jr-rangers-blue",
@@ -2372,8 +2109,7 @@
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2729:woodstock-jr-navy-vets",
@@ -2381,8 +2117,7 @@
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png"
  },
  {
   "id": "2730:oakridge-aeros",
@@ -2390,8 +2125,7 @@
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png"
  },
  {
   "id": "2730:brantford-99ers",
@@ -2399,8 +2133,7 @@
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2730:sarnia-jr-sting",
@@ -2408,8 +2141,7 @@
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png"
  },
  {
   "id": "2730:north-london-nationals",
@@ -2417,8 +2149,7 @@
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png"
  },
  {
   "id": "2730:waterloo-wolves",
@@ -2426,8 +2157,7 @@
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2730:st-thomas-jr-stars",
@@ -2435,8 +2165,7 @@
   "divisionId": 2730,
   "division": "U16 BB",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png"
  },
  {
   "id": "2730:kitchener-jr-rangers-blue",
@@ -2444,8 +2173,7 @@
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2730:kitchener-jr-rangers-red",
@@ -2453,8 +2181,7 @@
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2730:cambridge-hawks",
@@ -2462,8 +2189,7 @@
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2730:lambeth-lancers",
@@ -2471,8 +2197,7 @@
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png"
  },
  {
   "id": "2730:burlington-bulldogs-white",
@@ -2480,8 +2205,7 @@
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2730:woodstock-jr-navy-vets",
@@ -2489,8 +2213,7 @@
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png"
  },
  {
   "id": "2730:burlington-bulldogs-gold",
@@ -2498,8 +2221,7 @@
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2730:burlington-bulldogs-blue",
@@ -2507,8 +2229,7 @@
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2730:burlington-raiders",
@@ -2516,8 +2237,7 @@
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png"
  },
  {
   "id": "2730:west-london-hawks",
@@ -2525,8 +2245,7 @@
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png"
  },
  {
   "id": "2731:elgin-middlesex-canucks",
@@ -2534,8 +2253,7 @@
   "divisionId": 2731,
   "division": "U18 AAA",
   "association": "Elgin-Middlesex Canucks",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png"
  },
  {
   "id": "2731:london-jr-knights",
@@ -2543,8 +2261,7 @@
   "divisionId": 2731,
   "division": "U18 AAA",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2731:kitchener-jr-rangers",
@@ -2552,8 +2269,7 @@
   "divisionId": 2731,
   "division": "U18 AAA",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2731:waterloo-wolves",
@@ -2561,8 +2277,7 @@
   "divisionId": 2731,
   "division": "U18 AAA",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2731:sarnia-lambton-jr-sting",
@@ -2570,8 +2285,7 @@
   "divisionId": 2731,
   "division": "U18 AAA",
   "association": "Lambton Jr Sting",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png"
  },
  {
   "id": "2731:brantford-99ers",
@@ -2579,8 +2293,7 @@
   "divisionId": 2731,
   "division": "U18 AAA",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2731:windsor-jr-spitfires",
@@ -2588,8 +2301,7 @@
   "divisionId": 2731,
   "division": "U18 AAA",
   "association": "Windsor AAA Zone",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png"
  },
  {
   "id": "2731:huron-perth-lakers",
@@ -2597,8 +2309,7 @@
   "divisionId": 2731,
   "division": "U18 AAA",
   "association": "Huron-Perth Lakers",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png"
  },
  {
   "id": "2732:london-jr-knights-green",
@@ -2606,8 +2317,7 @@
   "divisionId": 2732,
   "division": "U18 AA-A",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2732:woodstock-jr-navy-vets",
@@ -2615,8 +2325,7 @@
   "divisionId": 2732,
   "division": "U18 AA-A",
   "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png"
  },
  {
   "id": "2732:sarnia-jr-sting",
@@ -2624,8 +2333,7 @@
   "divisionId": 2732,
   "division": "U18 AA-A",
   "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png"
  },
  {
   "id": "2732:stratford-warriors",
@@ -2633,8 +2341,7 @@
   "divisionId": 2732,
   "division": "U18 AA-A",
   "association": "Stratford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png"
  },
  {
   "id": "2732:brantford-99ers",
@@ -2642,8 +2349,7 @@
   "divisionId": 2732,
   "division": "U18 AA-A",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2732:london-jr-knights-white",
@@ -2651,8 +2357,7 @@
   "divisionId": 2732,
   "division": "U18 AA-A",
   "association": "London Jr Knights",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png"
  },
  {
   "id": "2732:waterloo-wolves",
@@ -2660,8 +2365,7 @@
   "divisionId": 2732,
   "division": "U18 AA-A",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2732:kitchener-jr-rangers",
@@ -2669,8 +2373,7 @@
   "divisionId": 2732,
   "division": "U18 AA-A",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2732:cambridge-hawks",
@@ -2678,8 +2381,7 @@
   "divisionId": 2732,
   "division": "U18 AA-A",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2732:mt-brydges-cougars",
@@ -2687,8 +2389,7 @@
   "divisionId": 2732,
   "division": "U18 AA-A",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png"
  },
  {
   "id": "2732:st-thomas-jr-stars",
@@ -2696,8 +2397,7 @@
   "divisionId": 2732,
   "division": "U18 AA-A",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png"
  },
  {
   "id": "2733:cambridge-hawks",
@@ -2705,8 +2405,7 @@
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2733:kitchener-jr-rangers",
@@ -2714,8 +2413,7 @@
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2733:waterloo-wolves-white",
@@ -2723,8 +2421,7 @@
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2733:waterloo-wolves-gold",
@@ -2732,8 +2429,7 @@
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2733:west-london-hawks-black",
@@ -2741,8 +2437,7 @@
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png"
  },
  {
   "id": "2733:burlington-raiders",
@@ -2750,8 +2445,7 @@
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png"
  },
  {
   "id": "2733:west-london-hawks-gold",
@@ -2759,8 +2453,7 @@
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png"
  },
  {
   "id": "2733:brantford-99ers",
@@ -2768,8 +2461,7 @@
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2733:sarnia-jr-sting",
@@ -2777,8 +2469,7 @@
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png"
  },
  {
   "id": "2733:burlington-bulldogs-white",
@@ -2786,8 +2477,7 @@
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2733:lambeth-lancers",
@@ -2795,8 +2485,7 @@
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png"
  },
  {
   "id": "2733:stratford-warriors",
@@ -2804,8 +2493,7 @@
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Stratford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png"
  },
  {
   "id": "2733:st-thomas-jr-stars",
@@ -2813,8 +2501,7 @@
   "divisionId": 2733,
   "division": "U18 BB",
   "association": null,
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png"
  },
  {
   "id": "2733:burlington-bulldogs-blue",
@@ -2822,8 +2509,7 @@
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2733:oakridge-aeros",
@@ -2831,8 +2517,7 @@
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png"
  },
  {
   "id": "2733:north-london-nationals",
@@ -2840,8 +2525,7 @@
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Greater London Hockey Association",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png"
  },
  {
   "id": "2734:stratford-warriors",
@@ -2849,8 +2533,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Stratford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png"
  },
  {
   "id": "2734:west-london-hawks-1",
@@ -2858,8 +2541,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Greater London Hockey Association",
-  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png",
-  "mhr": null
+  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png"
  },
  {
   "id": "2734:burlington-bulldogs-white",
@@ -2867,8 +2549,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2734:north-london-nationals-t2",
@@ -2876,8 +2557,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Greater London Hockey Association",
-  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png",
-  "mhr": null
+  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png"
  },
  {
   "id": "2734:burlington-bulldogs-blue",
@@ -2885,8 +2565,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2734:waterloo-wolves-black",
@@ -2894,8 +2573,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2734:kitchener-jr-rangers-white",
@@ -2903,8 +2581,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2734:burlington-jr-raiders-black",
@@ -2912,8 +2589,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png"
  },
  {
   "id": "2734:kitchener-jr-rangers-red",
@@ -2921,8 +2597,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2734:waterloo-wolves-gold",
@@ -2930,8 +2605,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2734:west-london-hawks-2",
@@ -2939,8 +2613,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Greater London Hockey Association",
-  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png",
-  "mhr": null
+  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png"
  },
  {
   "id": "2734:cambridge-hawks-red",
@@ -2948,8 +2621,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2734:north-london-nationals-t1",
@@ -2957,8 +2629,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Greater London Hockey Association",
-  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png",
-  "mhr": null
+  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png"
  },
  {
   "id": "2734:cambridge-hawks-black",
@@ -2966,8 +2637,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2734:oakridge-aeros-1",
@@ -2975,8 +2645,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Greater London Hockey Association",
-  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png",
-  "mhr": null
+  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png"
  },
  {
   "id": "2734:brantford-99ers-1",
@@ -2984,8 +2653,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2734:sarnia-jr-sting-2",
@@ -2993,8 +2661,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png"
  },
  {
   "id": "2734:kitchener-jr-rangers-blue",
@@ -3002,8 +2669,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2734:woodstock-jr-navy-vets",
@@ -3011,8 +2677,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png"
  },
  {
   "id": "2734:sarnia-jr-sting-1",
@@ -3020,8 +2685,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png"
  },
  {
   "id": "2734:oakridge-aeros-2",
@@ -3029,8 +2693,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Greater London Hockey Association",
-  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png",
-  "mhr": null
+  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png"
  },
  {
   "id": "2734:burlington-jr-raiders-red",
@@ -3038,8 +2701,7 @@
   "divisionId": 2734,
   "division": "U9 MD",
   "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png"
  },
  {
   "id": "2735:waterloo-wolves",
@@ -3047,8 +2709,7 @@
   "divisionId": 2735,
   "division": "U8 MD",
   "association": "Waterloo Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
  },
  {
   "id": "2735:burlington-jr-raiders-black",
@@ -3056,8 +2717,7 @@
   "divisionId": 2735,
   "division": "U8 MD",
   "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png"
  },
  {
   "id": "2735:woodstock-jr-navy-vets",
@@ -3065,8 +2725,7 @@
   "divisionId": 2735,
   "division": "U8 MD",
   "association": "Woodstock Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png"
  },
  {
   "id": "2735:kitchener-jr-rangers-blue",
@@ -3074,8 +2733,7 @@
   "divisionId": 2735,
   "division": "U8 MD",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2735:sarnia-jr-sting",
@@ -3083,8 +2741,7 @@
   "divisionId": 2735,
   "division": "U8 MD",
   "association": "Sarnia Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png"
  },
  {
   "id": "2735:west-london-hawks",
@@ -3092,8 +2749,7 @@
   "divisionId": 2735,
   "division": "U8 MD",
   "association": "Greater London Hockey Association",
-  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png",
-  "mhr": null
+  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png"
  },
  {
   "id": "2735:cambridge-hawks",
@@ -3101,8 +2757,7 @@
   "divisionId": 2735,
   "division": "U8 MD",
   "association": "Cambridge Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png"
  },
  {
   "id": "2735:burlington-bulldogs-white",
@@ -3110,8 +2765,7 @@
   "divisionId": 2735,
   "division": "U8 MD",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2735:north-london-nationals",
@@ -3119,8 +2773,7 @@
   "divisionId": 2735,
   "division": "U8 MD",
   "association": "Greater London Hockey Association",
-  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png",
-  "mhr": null
+  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png"
  },
  {
   "id": "2735:london-bandits",
@@ -3128,8 +2781,7 @@
   "divisionId": 2735,
   "division": "U8 MD",
   "association": "Greater London Hockey Association",
-  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png",
-  "mhr": null
+  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png"
  },
  {
   "id": "2735:brantford-99ers",
@@ -3137,8 +2789,7 @@
   "divisionId": 2735,
   "division": "U8 MD",
   "association": "Brantford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png"
  },
  {
   "id": "2735:burlington-bulldogs-blue",
@@ -3146,8 +2797,7 @@
   "divisionId": 2735,
   "division": "U8 MD",
   "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png"
  },
  {
   "id": "2735:stratford-warriors",
@@ -3155,8 +2805,7 @@
   "divisionId": 2735,
   "division": "U8 MD",
   "association": "Stratford Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png"
  },
  {
   "id": "2735:burlington-jr-raiders-red",
@@ -3164,8 +2813,7 @@
   "divisionId": 2735,
   "division": "U8 MD",
   "association": "Burlington Raiders Hockey Club",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png"
  },
  {
   "id": "2735:oakridge-aeros",
@@ -3173,8 +2821,7 @@
   "divisionId": 2735,
   "division": "U8 MD",
   "association": "Greater London Hockey Association",
-  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png",
-  "mhr": null
+  "logo": "https://alliancehockey.com/public/images/common/sponsors/Associations/greater-london-hockey-association.png"
  },
  {
   "id": "2735:kitchener-jr-rangers-white",
@@ -3182,7 +2829,6 @@
   "divisionId": 2735,
   "division": "U8 MD",
   "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-  "mhr": null
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  }
 ]

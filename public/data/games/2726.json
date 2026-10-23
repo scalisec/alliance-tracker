@@ -509,14 +509,17 @@
   "start": "2026-10-22T19:00:00-04:00",
   "away": "Cambridge Hawks",
   "home": "Woodstock Jr Navy Vets",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Reeves CC (Green)",
   "code": "U15S66",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4268/2026-10-22/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3091678
+  }
  },
  {
   "id": 2375695,
