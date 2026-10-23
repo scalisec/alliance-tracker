@@ -2336,6 +2336,14 @@
   "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png"
  },
  {
+  "id": "2732:kitchener-jr-rangers",
+  "name": "Kitchener Jr Rangers",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "Kitchener Minor Hockey",
+  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
+ },
+ {
   "id": "2732:stratford-warriors",
   "name": "Stratford Warriors",
   "divisionId": 2732,
@@ -2366,14 +2374,6 @@
   "division": "U18 AA-A",
   "association": "Waterloo Minor Hockey",
   "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png"
- },
- {
-  "id": "2732:kitchener-jr-rangers",
-  "name": "Kitchener Jr Rangers",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": "Kitchener Minor Hockey",
-  "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png"
  },
  {
   "id": "2732:cambridge-hawks",

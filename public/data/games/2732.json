@@ -377,14 +377,17 @@
   "start": "2026-10-22T20:30:00-04:00",
   "away": "Cambridge Hawks",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U18S149",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-10-22/20:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3091702
+  }
  },
  {
   "id": 2376071,
