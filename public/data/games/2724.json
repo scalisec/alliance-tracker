@@ -794,14 +794,17 @@
   "start": "2026-10-24T15:30:00-04:00",
   "away": "Oakridge Aeros",
   "home": "London Bandits",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Argyle (B)",
   "code": "U14BR45",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3095772
+  }
  },
  {
   "id": 2378210,

@@ -1,6 +1,6 @@
 {
  "divisionId": 2724,
- "updatedAt": "2026-10-24T19:13:21.684Z",
+ "updatedAt": "2026-10-24T21:11:37.008Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "London Bandits",
      "teamId": "odb-97241",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 6,
-     "w": 5,
+     "gp": 7,
+     "w": 6,
      "l": 0,
      "t": 1,
-     "pts": 11,
-     "gf": 34,
+     "pts": 13,
+     "gf": 40,
      "ga": 7,
-     "diff": 27,
-     "l10": "5-0-1",
-     "strk": "W1"
+     "diff": 33,
+     "l10": "6-0-1",
+     "strk": "W2"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -159,16 +159,16 @@
      "team": "Oakridge Aeros",
      "teamId": "odb-97248",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 6,
+     "gp": 7,
      "w": 2,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 4,
      "gf": 11,
-     "ga": 25,
-     "diff": -14,
-     "l10": "2-4",
-     "strk": "L2"
+     "ga": 31,
+     "diff": -20,
+     "l10": "2-5",
+     "strk": "L3"
     },
     {
      "team": "West London Hawks",
