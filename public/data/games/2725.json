@@ -617,14 +617,17 @@
   "start": "2026-10-23T20:00:00-04:00",
   "away": "Sarnia-Lambton Jr Sting",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U15P114",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3094614
+  }
  },
  {
   "id": 2374919,

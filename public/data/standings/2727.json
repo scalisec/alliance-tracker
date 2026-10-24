@@ -1,10 +1,25 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-10-22T13:53:30.226Z",
+ "updatedAt": "2026-10-24T01:52:39.036Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "West London Hawks",
+     "teamId": "odb-97257",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
+     "gp": 5,
+     "w": 4,
+     "l": 1,
+     "t": 0,
+     "pts": 8,
+     "gf": 24,
+     "ga": 12,
+     "diff": 12,
+     "l10": "4-1",
+     "strk": "W2"
+    },
     {
      "team": "Oakridge Aeros",
      "teamId": "odb-97266",
@@ -66,36 +81,6 @@
      "strk": "W3"
     },
     {
-     "team": "North London Nationals",
-     "teamId": "odb-97256",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 4,
-     "w": 2,
-     "l": 0,
-     "t": 2,
-     "pts": 6,
-     "gf": 23,
-     "ga": 14,
-     "diff": 9,
-     "l10": "2-0-2",
-     "strk": "T2"
-    },
-    {
-     "team": "West London Hawks",
-     "teamId": "odb-97257",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 4,
-     "w": 3,
-     "l": 1,
-     "t": 0,
-     "pts": 6,
-     "gf": 18,
-     "ga": 9,
-     "diff": 9,
-     "l10": "3-1",
-     "strk": "W1"
-    },
-    {
      "team": "Burlington Raiders",
      "teamId": "odb-97260",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
@@ -109,6 +94,21 @@
      "diff": 7,
      "l10": "3-1",
      "strk": "W2"
+    },
+    {
+     "team": "North London Nationals",
+     "teamId": "odb-97256",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
+     "gp": 4,
+     "w": 2,
+     "l": 0,
+     "t": 2,
+     "pts": 6,
+     "gf": 23,
+     "ga": 14,
+     "diff": 9,
+     "l10": "2-0-2",
+     "strk": "T2"
     },
     {
      "team": "Waterloo Wolves",
@@ -174,16 +174,16 @@
      "team": "Lambeth Lancers",
      "teamId": "odb-97267",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-     "gp": 4,
+     "gp": 5,
      "w": 0,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 0,
-     "gf": 7,
-     "ga": 18,
-     "diff": -11,
-     "l10": "0-4",
-     "strk": "L4"
+     "gf": 10,
+     "ga": 24,
+     "diff": -14,
+     "l10": "0-5",
+     "strk": "L5"
     },
     {
      "team": "Burlington Bulldogs Blue",

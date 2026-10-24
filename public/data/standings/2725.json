@@ -1,6 +1,6 @@
 {
  "divisionId": 2725,
- "updatedAt": "2026-10-24T00:52:38.082Z",
+ "updatedAt": "2026-10-24T01:51:49.054Z",
  "regular": [
   {
    "name": "",
@@ -36,6 +36,21 @@
      "strk": "W4"
     },
     {
+     "team": "Sarnia-Lambton Jr Sting",
+     "teamId": "odb-96999",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
+     "gp": 8,
+     "w": 4,
+     "l": 3,
+     "t": 1,
+     "pts": 9,
+     "gf": 26,
+     "ga": 20,
+     "diff": 6,
+     "l10": "4-3-1",
+     "strk": "T1"
+    },
+    {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-96998",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -62,21 +77,6 @@
      "gf": 25,
      "ga": 12,
      "diff": 13,
-     "l10": "4-3",
-     "strk": "W1"
-    },
-    {
-     "team": "Sarnia-Lambton Jr Sting",
-     "teamId": "odb-96999",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 7,
-     "w": 4,
-     "l": 3,
-     "t": 0,
-     "pts": 8,
-     "gf": 23,
-     "ga": 17,
-     "diff": 6,
      "l10": "4-3",
      "strk": "W1"
     },
@@ -126,6 +126,21 @@
      "strk": "L1"
     },
     {
+     "team": "London Jr Knights",
+     "teamId": "odb-97000",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 7,
+     "w": 1,
+     "l": 5,
+     "t": 1,
+     "pts": 3,
+     "gf": 11,
+     "ga": 20,
+     "diff": -9,
+     "l10": "1-5-1",
+     "strk": "T1"
+    },
+    {
      "team": "Cambridge Hawks",
      "teamId": "odb-96994",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
@@ -154,21 +169,6 @@
      "diff": -9,
      "l10": "1-4",
      "strk": "L2"
-    },
-    {
-     "team": "London Jr Knights",
-     "teamId": "odb-97000",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 6,
-     "w": 1,
-     "l": 5,
-     "t": 0,
-     "pts": 2,
-     "gf": 8,
-     "ga": 17,
-     "diff": -9,
-     "l10": "1-5",
-     "strk": "L1"
     },
     {
      "team": "Windsor Jr Spitfires",

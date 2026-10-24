@@ -1632,6 +1632,14 @@
   "logo": "logos/b0bd0d065caa.png"
  },
  {
+  "id": "2725:sarnia-lambton-jr-sting",
+  "name": "Sarnia-Lambton Jr Sting",
+  "divisionId": 2725,
+  "division": "U15 AAA",
+  "association": "Lambton Jr Sting",
+  "logo": "logos/bcc449715362.png"
+ },
+ {
   "id": "2725:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2725,
@@ -1646,14 +1654,6 @@
   "division": "U15 AAA",
   "association": "Huron-Perth Lakers",
   "logo": "logos/e85b73e63ae2.png"
- },
- {
-  "id": "2725:sarnia-lambton-jr-sting",
-  "name": "Sarnia-Lambton Jr Sting",
-  "divisionId": 2725,
-  "division": "U15 AAA",
-  "association": "Lambton Jr Sting",
-  "logo": "logos/bcc449715362.png"
  },
  {
   "id": "2725:elgin-middlesex-canucks",
@@ -1680,6 +1680,14 @@
   "logo": "logos/8998f15cb7f8.png"
  },
  {
+  "id": "2725:london-jr-knights",
+  "name": "London Jr Knights",
+  "divisionId": 2725,
+  "division": "U15 AAA",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
+ },
+ {
   "id": "2725:cambridge-hawks",
   "name": "Cambridge Hawks",
   "divisionId": 2725,
@@ -1694,14 +1702,6 @@
   "division": "U15 AAA",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
- },
- {
-  "id": "2725:london-jr-knights",
-  "name": "London Jr Knights",
-  "divisionId": 2725,
-  "division": "U15 AAA",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2725:windsor-jr-spitfires",
@@ -1816,6 +1816,14 @@
   "logo": "logos/51ff29ef905f.png"
  },
  {
+  "id": "2727:west-london-hawks",
+  "name": "West London Hawks",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/2237c5fc46ea.png"
+ },
+ {
   "id": "2727:oakridge-aeros",
   "name": "Oakridge Aeros",
   "divisionId": 2727,
@@ -1848,28 +1856,20 @@
   "logo": "logos/704c833c6aca.png"
  },
  {
-  "id": "2727:north-london-nationals",
-  "name": "North London Nationals",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/41275c8a7241.png"
- },
- {
-  "id": "2727:west-london-hawks",
-  "name": "West London Hawks",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/2237c5fc46ea.png"
- },
- {
   "id": "2727:burlington-raiders",
   "name": "Burlington Raiders",
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Burlington Raiders Hockey Club",
   "logo": "logos/8845e5146a9b.png"
+ },
+ {
+  "id": "2727:north-london-nationals",
+  "name": "North London Nationals",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/41275c8a7241.png"
  },
  {
   "id": "2727:waterloo-wolves",

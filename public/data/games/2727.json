@@ -539,14 +539,17 @@
   "start": "2026-10-23T20:15:00-04:00",
   "away": "West London Hawks",
   "home": "Lambeth Lancers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Lambeth (Lambeth)",
   "code": "U15BR18",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3094590
+  }
  },
  {
   "id": 2378864,
