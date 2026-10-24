@@ -581,14 +581,17 @@
   "start": "2026-10-24T12:00:00-04:00",
   "away": "Burlington Bulldogs White",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Pat Stapleton Arena (Pat Stapleton Arena)",
   "code": "U13BR56",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4699/2026-10-24/12:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3095043
+  }
  },
  {
   "id": 2378091,
@@ -596,14 +599,17 @@
   "start": "2026-10-24T13:15:00-04:00",
   "away": "Kitchener Jr Rangers",
   "home": "West London Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Bostwick (A)",
   "code": "U13BR43",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5025/2026-10-24/13:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3096156
+  }
  },
  {
   "id": 2378014,

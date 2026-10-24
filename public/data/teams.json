@@ -1216,12 +1216,12 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
-  "id": "2721:kitchener-jr-rangers",
-  "name": "Kitchener Jr Rangers",
+  "id": "2721:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
   "divisionId": 2721,
   "division": "U13 BB",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2721:burlington-bulldogs-blue",
@@ -1232,12 +1232,12 @@
   "logo": "logos/49dba036a6a8.png"
  },
  {
-  "id": "2721:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
+  "id": "2721:kitchener-jr-rangers",
+  "name": "Kitchener Jr Rangers",
   "divisionId": 2721,
   "division": "U13 BB",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2721:west-london-hawks",
