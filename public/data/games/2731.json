@@ -398,14 +398,17 @@
   "start": "2026-10-24T09:00:00-04:00",
   "away": "Elgin-Middlesex Canucks",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Sarnia PASA (Rink 1)",
   "code": "U18P85",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-10-24/09:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3095203
+  }
  },
  {
   "id": 2373398,
