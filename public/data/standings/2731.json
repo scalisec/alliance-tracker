@@ -1,10 +1,25 @@
 {
  "divisionId": 2731,
- "updatedAt": "2026-10-24T02:32:53.516Z",
+ "updatedAt": "2026-10-24T15:25:45.529Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Kitchener Jr Rangers",
+     "teamId": "odb-97021",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 7,
+     "w": 6,
+     "l": 1,
+     "t": 0,
+     "pts": 12,
+     "gf": 38,
+     "ga": 15,
+     "diff": 23,
+     "l10": "6-1-0",
+     "strk": "W5"
+    },
     {
      "team": "London Jr Knights",
      "teamId": "odb-97023",
@@ -24,31 +39,16 @@
      "team": "Elgin-Middlesex Canucks",
      "teamId": "odb-97019",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 8,
+     "gp": 9,
      "w": 5,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "pts": 11,
-     "gf": 41,
-     "ga": 32,
-     "diff": 9,
-     "l10": "5-2-1",
-     "strk": "L1"
-    },
-    {
-     "team": "Kitchener Jr Rangers",
-     "teamId": "odb-97021",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 6,
-     "w": 5,
-     "l": 1,
-     "t": 0,
-     "pts": 10,
-     "gf": 34,
-     "ga": 14,
-     "diff": 20,
-     "l10": "5-1-0",
-     "strk": "W4"
+     "gf": 42,
+     "ga": 36,
+     "diff": 6,
+     "l10": "5-3-1",
+     "strk": "L2"
     },
     {
      "team": "Waterloo Wolves",

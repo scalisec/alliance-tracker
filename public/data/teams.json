@@ -2248,6 +2248,14 @@
   "logo": "logos/2237c5fc46ea.png"
  },
  {
+  "id": "2731:kitchener-jr-rangers",
+  "name": "Kitchener Jr Rangers",
+  "divisionId": 2731,
+  "division": "U18 AAA",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
+ },
+ {
   "id": "2731:london-jr-knights",
   "name": "London Jr Knights",
   "divisionId": 2731,
@@ -2262,14 +2270,6 @@
   "division": "U18 AAA",
   "association": "Elgin-Middlesex Canucks",
   "logo": "logos/2573db2f4749.png"
- },
- {
-  "id": "2731:kitchener-jr-rangers",
-  "name": "Kitchener Jr Rangers",
-  "divisionId": 2731,
-  "division": "U18 AAA",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2731:waterloo-wolves",
