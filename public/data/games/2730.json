@@ -626,14 +626,17 @@
   "start": "2026-10-23T21:30:00-04:00",
   "away": "Oakridge Aeros",
   "home": "Lambeth Lancers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Lambeth (Lambeth)",
   "code": "U16BR18",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3094580
+  }
  },
  {
   "id": 2379038,

@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-10-22T13:54:57.599Z",
+ "updatedAt": "2026-10-24T03:11:10.515Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Oakridge Aeros",
      "teamId": "odb-97276",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 6,
-     "w": 4,
+     "gp": 7,
+     "w": 5,
      "l": 1,
      "t": 1,
-     "pts": 9,
-     "gf": 24,
-     "ga": 17,
-     "diff": 7,
-     "l10": "4-1-1",
-     "strk": "W2"
+     "pts": 11,
+     "gf": 27,
+     "ga": 18,
+     "diff": 9,
+     "l10": "5-1-1",
+     "strk": "W3"
     },
     {
      "team": "Brantford 99ers",
@@ -144,16 +144,16 @@
      "team": "Lambeth Lancers",
      "teamId": "odb-97283",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-     "gp": 4,
+     "gp": 5,
      "w": 2,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "pts": 4,
-     "gf": 8,
-     "ga": 10,
-     "diff": -2,
-     "l10": "2-2",
-     "strk": "W1"
+     "gf": 9,
+     "ga": 13,
+     "diff": -4,
+     "l10": "2-3",
+     "strk": "L1"
     },
     {
      "team": "Burlington Bulldogs White",
