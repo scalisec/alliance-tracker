@@ -640,6 +640,14 @@
   "logo": "logos/1953df906ca9.png"
  },
  {
+  "id": "2715:west-london-hawks",
+  "name": "West London Hawks",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/2237c5fc46ea.png"
+ },
+ {
   "id": "2715:oakridge-aeros",
   "name": "Oakridge Aeros",
   "divisionId": 2715,
@@ -654,14 +662,6 @@
   "division": "U11 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/973902eb1015.png"
- },
- {
-  "id": "2715:west-london-hawks",
-  "name": "West London Hawks",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/2237c5fc46ea.png"
  },
  {
   "id": "2716:kitchener-jr-rangers",
