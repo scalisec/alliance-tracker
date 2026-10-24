@@ -1,6 +1,6 @@
 {
  "divisionId": 2720,
- "updatedAt": "2026-10-24T19:53:45.527Z",
+ "updatedAt": "2026-10-24T20:50:48.138Z",
  "regular": [
   {
    "name": "",
@@ -81,6 +81,21 @@
      "strk": "L1"
     },
     {
+     "team": "Sarnia Jr. Sting",
+     "teamId": "odb-97071",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+     "gp": 5,
+     "w": 2,
+     "l": 2,
+     "t": 1,
+     "pts": 5,
+     "gf": 19,
+     "ga": 11,
+     "diff": 8,
+     "l10": "2-2-1",
+     "strk": "W1"
+    },
+    {
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97076",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
@@ -141,21 +156,6 @@
      "strk": "T1"
     },
     {
-     "team": "Sarnia Jr. Sting",
-     "teamId": "odb-97071",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 4,
-     "w": 1,
-     "l": 2,
-     "t": 1,
-     "pts": 3,
-     "gf": 12,
-     "ga": 11,
-     "diff": 1,
-     "l10": "1-2-1",
-     "strk": "L1"
-    },
-    {
      "team": "Mt. Brydges Cougars",
      "teamId": "odb-97288",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
@@ -168,21 +168,6 @@
      "ga": 8,
      "diff": -1,
      "l10": "1-2",
-     "strk": "L1"
-    },
-    {
-     "team": "Burlington Raiders",
-     "teamId": "odb-97075",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 5,
-     "w": 1,
-     "l": 4,
-     "t": 0,
-     "pts": 2,
-     "gf": 11,
-     "ga": 21,
-     "diff": -10,
-     "l10": "1-4",
      "strk": "L1"
     },
     {
@@ -199,6 +184,21 @@
      "diff": -8,
      "l10": "0-4-2",
      "strk": "T1"
+    },
+    {
+     "team": "Burlington Raiders",
+     "teamId": "odb-97075",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
+     "gp": 6,
+     "w": 1,
+     "l": 5,
+     "t": 0,
+     "pts": 2,
+     "gf": 11,
+     "ga": 28,
+     "diff": -17,
+     "l10": "1-5",
+     "strk": "L2"
     }
    ]
   }

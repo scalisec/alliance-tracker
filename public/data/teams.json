@@ -432,20 +432,20 @@
   "logo": "logos/1d06ddd6cd32.png"
  },
  {
-  "id": "2713:sarnia-lambton-jr-sting",
-  "name": "Sarnia-Lambton Jr Sting",
-  "divisionId": 2713,
-  "division": "U11 AAA",
-  "association": "Lambton Jr Sting",
-  "logo": "logos/bcc449715362.png"
- },
- {
   "id": "2713:chatham-kent-cyclones",
   "name": "Chatham-Kent Cyclones",
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "Chatham-Kent Cyclones",
   "logo": "logos/b0bd0d065caa.png"
+ },
+ {
+  "id": "2713:sarnia-lambton-jr-sting",
+  "name": "Sarnia-Lambton Jr Sting",
+  "divisionId": 2713,
+  "division": "U11 AAA",
+  "association": "Lambton Jr Sting",
+  "logo": "logos/bcc449715362.png"
  },
  {
   "id": "2713:sun-county-panthers",
@@ -1112,6 +1112,14 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
+  "id": "2720:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2720,
+  "division": "U13 AA-A",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
+ },
+ {
   "id": "2720:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2720,
@@ -1144,14 +1152,6 @@
   "logo": "logos/08d490425be3.png"
  },
  {
-  "id": "2720:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2720,
-  "division": "U13 AA-A",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
- },
- {
   "id": "2720:mt-brydges-cougars",
   "name": "Mt. Brydges Cougars",
   "divisionId": 2720,
@@ -1160,20 +1160,20 @@
   "logo": "logos/0f4ddfdee820.png"
  },
  {
-  "id": "2720:burlington-raiders",
-  "name": "Burlington Raiders",
-  "divisionId": 2720,
-  "division": "U13 AA-A",
-  "association": "Burlington Raiders Hockey Club",
-  "logo": "logos/8845e5146a9b.png"
- },
- {
   "id": "2720:kitchener-jr-rangers-blue",
   "name": "Kitchener Jr Rangers Blue",
   "divisionId": 2720,
   "division": "U13 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
+ },
+ {
+  "id": "2720:burlington-raiders",
+  "name": "Burlington Raiders",
+  "divisionId": 2720,
+  "division": "U13 AA-A",
+  "association": "Burlington Raiders Hockey Club",
+  "logo": "logos/8845e5146a9b.png"
  },
  {
   "id": "2721:stratford-warriors",
