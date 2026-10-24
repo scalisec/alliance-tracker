@@ -434,14 +434,17 @@
   "start": "2026-10-24T12:00:00-04:00",
   "away": "Sarnia-Lambton Jr Sting",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Sarnia PASA (Rink 1)",
   "code": "U18P12",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-10-24/12:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3095205
+  }
  },
  {
   "id": 2373279,
@@ -449,14 +452,17 @@
   "start": "2026-10-24T12:15:00-04:00",
   "away": "London Jr Knights",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Sarnia PASA (Rink 2)",
   "code": "U18P13",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-10-24/12:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3095204
+  }
  },
  {
   "id": 2373312,
