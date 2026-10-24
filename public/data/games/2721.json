@@ -635,14 +635,17 @@
   "start": "2026-10-24T16:30:00-04:00",
   "away": "Burlington Bulldogs Blue",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 2,
+  "status": "final",
   "venue": "RIM Park (Lions)",
   "code": "U13BR84",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3096158
+  }
  },
  {
   "id": 2378059,

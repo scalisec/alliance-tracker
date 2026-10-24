@@ -314,14 +314,17 @@
   "start": "2026-10-24T17:30:00-04:00",
   "away": "Kitchener Jr Rangers",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Preston Aud (1)",
   "code": "U10P32",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2624/2026-10-24/17:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3096636
+  }
  },
  {
   "id": 2373965,

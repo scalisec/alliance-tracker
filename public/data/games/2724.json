@@ -812,14 +812,17 @@
   "start": "2026-10-24T18:00:00-04:00",
   "away": "Burlington Bulldogs Blue",
   "home": "Lambeth Lancers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Lambeth (Lambeth)",
   "code": "U14BR46",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3096722
+  }
  },
  {
   "id": 2378182,

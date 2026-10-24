@@ -488,14 +488,17 @@
   "start": "2026-10-24T17:15:00-04:00",
   "away": "Kitchener Jr Rangers",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Sarnia PASA (Rink 2)",
   "code": "U18P45",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-10-24/17:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3096668
+  }
  },
  {
   "id": 2373380,

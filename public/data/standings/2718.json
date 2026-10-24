@@ -1,6 +1,6 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-10-24T23:26:21.954Z",
+ "updatedAt": "2026-10-24T23:46:21.814Z",
  "regular": [
   {
    "name": "",
@@ -96,6 +96,21 @@
      "strk": "W5"
     },
     {
+     "team": "Oakridge Aeros",
+     "teamId": "odb-97213",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
+     "gp": 9,
+     "w": 3,
+     "l": 6,
+     "t": 0,
+     "pts": 6,
+     "gf": 24,
+     "ga": 37,
+     "diff": -13,
+     "l10": "3-6",
+     "strk": "W1"
+    },
+    {
      "team": "West London Hawks",
      "teamId": "odb-97215",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
@@ -154,21 +169,6 @@
      "diff": -9,
      "l10": "2-4",
      "strk": "L1"
-    },
-    {
-     "team": "Oakridge Aeros",
-     "teamId": "odb-97213",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 8,
-     "w": 2,
-     "l": 6,
-     "t": 0,
-     "pts": 4,
-     "gf": 19,
-     "ga": 35,
-     "diff": -16,
-     "l10": "2-6",
-     "strk": "L4"
     },
     {
      "team": "Burlington Raiders",
@@ -234,16 +234,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-97217",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 5,
+     "gp": 6,
      "w": 0,
-     "l": 4,
+     "l": 5,
      "t": 1,
      "pts": 1,
-     "gf": 8,
-     "ga": 26,
-     "diff": -18,
-     "l10": "0-4-1",
-     "strk": "T1"
+     "gf": 10,
+     "ga": 31,
+     "diff": -21,
+     "l10": "0-5-1",
+     "strk": "L1"
     }
    ]
   }

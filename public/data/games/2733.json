@@ -626,14 +626,17 @@
   "start": "2026-10-24T17:30:00-04:00",
   "away": "Burlington Bulldogs Blue",
   "home": "St. Thomas Jr Stars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Joe Thornton CC (STMHA)",
   "code": "U18BR101",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4355/2026-10-24/17:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3096688
+  }
  },
  {
   "id": 2379301,

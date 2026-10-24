@@ -902,14 +902,17 @@
   "start": "2026-10-24T18:15:00-04:00",
   "away": "Oakridge Aeros",
   "home": "Stratford Warriors",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Rotary Complex (Rink B)",
   "code": "U12BR46",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3096677
+  }
  },
  {
   "id": 2377945,

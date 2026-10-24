@@ -1,6 +1,6 @@
 {
  "divisionId": 2724,
- "updatedAt": "2026-10-24T21:11:37.008Z",
+ "updatedAt": "2026-10-24T23:48:01.715Z",
  "regular": [
   {
    "name": "",
@@ -171,6 +171,21 @@
      "strk": "L3"
     },
     {
+     "team": "Lambeth Lancers",
+     "teamId": "odb-97249",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
+     "gp": 8,
+     "w": 1,
+     "l": 6,
+     "t": 1,
+     "pts": 3,
+     "gf": 14,
+     "ga": 44,
+     "diff": -30,
+     "l10": "1-6-1",
+     "strk": "W1"
+    },
+    {
      "team": "West London Hawks",
      "teamId": "odb-97244",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
@@ -184,21 +199,6 @@
      "diff": -11,
      "l10": "0-3-1",
      "strk": "L3"
-    },
-    {
-     "team": "Lambeth Lancers",
-     "teamId": "odb-97249",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-     "gp": 7,
-     "w": 0,
-     "l": 6,
-     "t": 1,
-     "pts": 1,
-     "gf": 11,
-     "ga": 43,
-     "diff": -32,
-     "l10": "0-6-1",
-     "strk": "L4"
     },
     {
      "team": "Burlington Raiders",
@@ -216,6 +216,21 @@
      "strk": "L1"
     },
     {
+     "team": "Burlington Bulldogs Blue",
+     "teamId": "odb-97245",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 9,
+     "w": 0,
+     "l": 9,
+     "t": 0,
+     "pts": 0,
+     "gf": 9,
+     "ga": 58,
+     "diff": -49,
+     "l10": "0-9",
+     "strk": "L9"
+    },
+    {
      "team": "Burlington Bulldogs White",
      "teamId": "odb-97433",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
@@ -229,21 +244,6 @@
      "diff": -40,
      "l10": "0-6",
      "strk": "L6"
-    },
-    {
-     "team": "Burlington Bulldogs Blue",
-     "teamId": "odb-97245",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 8,
-     "w": 0,
-     "l": 8,
-     "t": 0,
-     "pts": 0,
-     "gf": 8,
-     "ga": 55,
-     "diff": -47,
-     "l10": "0-8",
-     "strk": "L8"
     }
    ]
   }

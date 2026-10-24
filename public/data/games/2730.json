@@ -716,14 +716,17 @@
   "start": "2026-10-24T17:45:00-04:00",
   "away": "Burlington Bulldogs Blue",
   "home": "North London Nationals",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Carling (A)",
   "code": "U16BR95",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5027/2026-10-24/17:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3096718
+  }
  },
  {
   "id": 2378983,
