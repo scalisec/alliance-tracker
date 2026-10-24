@@ -794,14 +794,17 @@
   "start": "2026-10-24T12:00:00-04:00",
   "away": "Burlington Bulldogs White",
   "home": "Burlington Bulldogs Gold",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Central (Central)",
   "code": "U12BR82",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4335/2026-10-24/12:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3095171
+  }
  },
  {
   "id": 2377997,
