@@ -1,6 +1,6 @@
 {
  "divisionId": 2732,
- "updatedAt": "2026-10-24T12:49:49.096Z",
+ "updatedAt": "2026-10-24T20:32:42.885Z",
  "regular": [
   {
    "name": "",
@@ -51,6 +51,21 @@
      "strk": "W2"
     },
     {
+     "team": "London Jr Knights White",
+     "teamId": "odb-97120",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 5,
+     "w": 2,
+     "l": 2,
+     "t": 1,
+     "pts": 5,
+     "gf": 12,
+     "ga": 15,
+     "diff": -3,
+     "l10": "2-2-1",
+     "strk": "T1"
+    },
+    {
      "team": "Brantford 99ers",
      "teamId": "odb-97112",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
@@ -96,34 +111,19 @@
      "strk": "L1"
     },
     {
-     "team": "London Jr Knights White",
-     "teamId": "odb-97120",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 4,
-     "w": 2,
-     "l": 2,
-     "t": 0,
-     "pts": 4,
-     "gf": 11,
-     "ga": 14,
-     "diff": -3,
-     "l10": "2-2",
-     "strk": "W1"
-    },
-    {
      "team": "Waterloo Wolves",
      "teamId": "odb-97117",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 4,
+     "gp": 5,
      "w": 1,
      "l": 2,
-     "t": 1,
-     "pts": 3,
-     "gf": 10,
-     "ga": 9,
+     "t": 2,
+     "pts": 4,
+     "gf": 11,
+     "ga": 10,
      "diff": 1,
-     "l10": "1-2-1",
-     "strk": "L2"
+     "l10": "1-2-2",
+     "strk": "T1"
     },
     {
      "team": "Mt. Brydges Cougars",

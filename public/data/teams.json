@@ -608,20 +608,20 @@
   "logo": "logos/41275c8a7241.png"
  },
  {
-  "id": "2715:burlington-bulldogs-white",
-  "name": "Burlington Bulldogs White",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
- },
- {
   "id": "2715:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
+ },
+ {
+  "id": "2715:burlington-bulldogs-white",
+  "name": "Burlington Bulldogs White",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2715:burlington-raiders",
@@ -2336,6 +2336,14 @@
   "logo": "logos/704c833c6aca.png"
  },
  {
+  "id": "2732:london-jr-knights-white",
+  "name": "London Jr Knights White",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
+ },
+ {
   "id": "2732:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2732,
@@ -2358,14 +2366,6 @@
   "division": "U18 AA-A",
   "association": "Stratford Minor Hockey",
   "logo": "logos/51ff29ef905f.png"
- },
- {
-  "id": "2732:london-jr-knights-white",
-  "name": "London Jr Knights White",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2732:waterloo-wolves",
