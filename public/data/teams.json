@@ -768,20 +768,20 @@
   "logo": "logos/51ff29ef905f.png"
  },
  {
-  "id": "2717:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2717,
-  "division": "U12 AA-A",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
- },
- {
   "id": "2717:london-jr-knights-green",
   "name": "London Jr Knights Green",
   "divisionId": 2717,
   "division": "U12 AA-A",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
+ },
+ {
+  "id": "2717:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2717,
+  "division": "U12 AA-A",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2717:brantford-99ers",
@@ -1112,6 +1112,14 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
+  "id": "2720:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2720,
+  "division": "U13 AA-A",
+  "association": null,
+  "logo": "logos/612db499a971.png"
+ },
+ {
   "id": "2720:woodstock-jr-navy-vets",
   "name": "Woodstock Jr Navy Vets",
   "divisionId": 2720,
@@ -1128,28 +1136,20 @@
   "logo": "logos/e0787358df89.png"
  },
  {
-  "id": "2720:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2720,
-  "division": "U13 AA-A",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
- },
- {
-  "id": "2720:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2720,
-  "division": "U13 AA-A",
-  "association": null,
-  "logo": "logos/612db499a971.png"
- },
- {
   "id": "2720:london-jr-knights-white",
   "name": "London Jr Knights White",
   "divisionId": 2720,
   "division": "U13 AA-A",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
+ },
+ {
+  "id": "2720:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2720,
+  "division": "U13 AA-A",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2720:mt-brydges-cougars",
@@ -1368,20 +1368,20 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
-  "id": "2722:sault-major-jr-greyhounds",
-  "name": "Sault Major Jr Greyhounds",
-  "divisionId": 2722,
-  "division": "U14 AAA",
-  "association": null,
-  "logo": "logos/91cb455aba29.png"
- },
- {
   "id": "2722:chatham-kent-cyclones",
   "name": "Chatham-Kent Cyclones",
   "divisionId": 2722,
   "division": "U14 AAA",
   "association": "Chatham-Kent Cyclones",
   "logo": "logos/b0bd0d065caa.png"
+ },
+ {
+  "id": "2722:sault-major-jr-greyhounds",
+  "name": "Sault Major Jr Greyhounds",
+  "divisionId": 2722,
+  "division": "U14 AAA",
+  "association": null,
+  "logo": "logos/91cb455aba29.png"
  },
  {
   "id": "2723:london-jr-knights-green",
@@ -1416,20 +1416,20 @@
   "logo": "logos/612db499a971.png"
  },
  {
-  "id": "2723:kitchener-jr-rangers-red",
-  "name": "Kitchener Jr Rangers Red",
-  "divisionId": 2723,
-  "division": "U14 AA-A",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
- },
- {
   "id": "2723:woodstock-jr-navy-vets",
   "name": "Woodstock Jr Navy Vets",
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": "Woodstock Minor Hockey",
   "logo": "logos/6c3aa7a1db2c.png"
+ },
+ {
+  "id": "2723:kitchener-jr-rangers-red",
+  "name": "Kitchener Jr Rangers Red",
+  "divisionId": 2723,
+  "division": "U14 AA-A",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2723:stratford-warriors",

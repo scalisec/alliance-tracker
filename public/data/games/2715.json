@@ -578,14 +578,17 @@
   "start": "2026-10-24T14:45:00-04:00",
   "away": "Oakridge Aeros",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Clearwater (Red)",
   "code": "U11BR69",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3095894
+  }
  },
  {
   "id": 2379370,

@@ -599,14 +599,17 @@
   "start": "2026-10-24T13:30:00-04:00",
   "away": "Cambridge Hawks",
   "home": "Chatham-Kent Cyclones",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Memorial (Memorial)",
   "code": "U14P18",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-10-24/13:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3095775
+  }
  },
  {
   "id": 2374813,

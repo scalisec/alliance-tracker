@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-10-24T02:51:06.690Z",
+ "updatedAt": "2026-10-24T19:54:05.556Z",
  "regular": [
   {
    "name": "",
@@ -129,16 +129,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-96982",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 7,
+     "gp": 8,
      "w": 2,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 4,
-     "gf": 8,
-     "ga": 42,
-     "diff": -34,
-     "l10": "2-5",
-     "strk": "L1"
+     "gf": 10,
+     "ga": 46,
+     "diff": -36,
+     "l10": "2-6",
+     "strk": "L2"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -156,6 +156,21 @@
      "strk": "L4"
     },
     {
+     "team": "Chatham-Kent Cyclones",
+     "teamId": "odb-96983",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
+     "gp": 7,
+     "w": 1,
+     "l": 6,
+     "t": 0,
+     "pts": 2,
+     "gf": 6,
+     "ga": 33,
+     "diff": -27,
+     "l10": "1-6",
+     "strk": "W1"
+    },
+    {
      "team": "Sault Major Jr Greyhounds",
      "teamId": "odb-96992",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png",
@@ -169,21 +184,6 @@
      "diff": -7,
      "l10": "0-3-1",
      "strk": "L3"
-    },
-    {
-     "team": "Chatham-Kent Cyclones",
-     "teamId": "odb-96983",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
-     "gp": 6,
-     "w": 0,
-     "l": 6,
-     "t": 0,
-     "pts": 0,
-     "gf": 2,
-     "ga": 31,
-     "diff": -29,
-     "l10": "0-6",
-     "strk": "L6"
     }
    ]
   }
