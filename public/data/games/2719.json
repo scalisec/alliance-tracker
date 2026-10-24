@@ -461,14 +461,17 @@
   "start": "2026-10-23T19:30:00-04:00",
   "away": "Sault Major Jr Greyhounds",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Gretzky Center (#2)",
   "code": "U13P161",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4549/2026-10-23/19:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3094603
+  }
  },
  {
   "id": 2381311,

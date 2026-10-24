@@ -1,6 +1,6 @@
 {
  "divisionId": 2725,
- "updatedAt": "2026-10-22T13:52:32.437Z",
+ "updatedAt": "2026-10-24T00:52:38.082Z",
  "regular": [
   {
    "name": "",
@@ -51,6 +51,21 @@
      "strk": "W1"
     },
     {
+     "team": "Huron-Perth Lakers",
+     "teamId": "odb-96997",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
+     "gp": 7,
+     "w": 4,
+     "l": 3,
+     "t": 0,
+     "pts": 8,
+     "gf": 25,
+     "ga": 12,
+     "diff": 13,
+     "l10": "4-3",
+     "strk": "W1"
+    },
+    {
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-96999",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
@@ -79,21 +94,6 @@
      "diff": 15,
      "l10": "3-2-1",
      "strk": "W1"
-    },
-    {
-     "team": "Huron-Perth Lakers",
-     "teamId": "odb-96997",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 6,
-     "w": 3,
-     "l": 3,
-     "t": 0,
-     "pts": 6,
-     "gf": 17,
-     "ga": 12,
-     "diff": 5,
-     "l10": "3-3",
-     "strk": "L1"
     },
     {
      "team": "Sault Major Jr Greyhounds",
@@ -174,16 +174,16 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-97003",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 6,
+     "gp": 7,
      "w": 0,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 0,
      "gf": 8,
-     "ga": 37,
-     "diff": -29,
-     "l10": "0-6",
-     "strk": "L6"
+     "ga": 45,
+     "diff": -37,
+     "l10": "0-7",
+     "strk": "L7"
     }
    ]
   }

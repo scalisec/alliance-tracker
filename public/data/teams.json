@@ -1640,6 +1640,14 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
+  "id": "2725:huron-perth-lakers",
+  "name": "Huron-Perth Lakers",
+  "divisionId": 2725,
+  "division": "U15 AAA",
+  "association": "Huron-Perth Lakers",
+  "logo": "logos/e85b73e63ae2.png"
+ },
+ {
   "id": "2725:sarnia-lambton-jr-sting",
   "name": "Sarnia-Lambton Jr Sting",
   "divisionId": 2725,
@@ -1654,14 +1662,6 @@
   "division": "U15 AAA",
   "association": "Elgin-Middlesex Canucks",
   "logo": "logos/2573db2f4749.png"
- },
- {
-  "id": "2725:huron-perth-lakers",
-  "name": "Huron-Perth Lakers",
-  "divisionId": 2725,
-  "division": "U15 AAA",
-  "association": "Huron-Perth Lakers",
-  "logo": "logos/e85b73e63ae2.png"
  },
  {
   "id": "2725:sault-major-jr-greyhounds",
