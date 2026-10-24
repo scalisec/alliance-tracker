@@ -1736,6 +1736,14 @@
   "logo": "logos/0f4ddfdee820.png"
  },
  {
+  "id": "2726:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2726,
+  "division": "U15 AA-A",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
+ },
+ {
   "id": "2726:london-jr-knights-green",
   "name": "London Jr Knights Green",
   "divisionId": 2726,
@@ -1750,14 +1758,6 @@
   "division": "U15 AA-A",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
- },
- {
-  "id": "2726:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2726,
-  "division": "U15 AA-A",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2726:sarnia-jr-sting",
