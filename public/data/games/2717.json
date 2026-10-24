@@ -497,14 +497,17 @@
   "start": "2026-10-24T17:45:00-04:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "Kitchener Jr Rangers Red",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Sportsworld (Prac)",
   "code": "U12S25",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4168/2026-10-24/17:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3096094
+  }
  },
  {
   "id": 2375431,

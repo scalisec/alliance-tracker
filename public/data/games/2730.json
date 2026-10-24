@@ -698,14 +698,17 @@
   "start": "2026-10-24T17:30:00-04:00",
   "away": "Burlington Bulldogs Gold",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Clearwater (Red)",
   "code": "U16BR40",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3096003
+  }
  },
  {
   "id": 2378995,
