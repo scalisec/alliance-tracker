@@ -326,14 +326,17 @@
   "start": "2026-10-23T18:15:00-04:00",
   "away": "Brantford 99ers",
   "home": "Elgin-Middlesex Canucks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Sarnia PASA (Rink 2)",
   "code": "U18P43",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-10-23/18:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3094531
+  }
  },
  {
   "id": 2373331,
@@ -341,14 +344,17 @@
   "start": "2026-10-23T18:30:00-04:00",
   "away": "Windsor Jr Spitfires",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Sarnia PASA (Rink 1)",
   "code": "U18P24",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-10-23/18:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3094530
+  }
  },
  {
   "id": 2373405,

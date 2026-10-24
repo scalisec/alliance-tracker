@@ -425,14 +425,17 @@
   "start": "2026-10-23T18:45:00-04:00",
   "away": "Chatham-Kent Cyclones",
   "home": "Elgin-Middlesex Canucks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U13P58",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-10-23/18:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3094601
+  }
  },
  {
   "id": 2374561,
@@ -440,14 +443,17 @@
   "start": "2026-10-23T19:00:00-04:00",
   "away": "Huron-Perth Lakers",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Sportsworld (Spectator)",
   "code": "U13P144",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4167/2026-10-23/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3094602
+  }
  },
  {
   "id": 2381308,

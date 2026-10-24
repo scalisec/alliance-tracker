@@ -1,6 +1,6 @@
 {
  "divisionId": 2731,
- "updatedAt": "2026-10-22T13:55:26.481Z",
+ "updatedAt": "2026-10-24T00:32:47.954Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,31 @@
      "team": "Elgin-Middlesex Canucks",
      "teamId": "odb-97019",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 7,
+     "gp": 8,
+     "w": 5,
+     "l": 2,
+     "t": 0,
+     "pts": 11,
+     "gf": 41,
+     "ga": 32,
+     "diff": 9,
+     "l10": "5-2-1",
+     "strk": "L1"
+    },
+    {
+     "team": "Kitchener Jr Rangers",
+     "teamId": "odb-97021",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 6,
      "w": 5,
      "l": 1,
      "t": 0,
-     "pts": 11,
-     "gf": 36,
-     "ga": 26,
-     "diff": 10,
-     "l10": "5-1-1",
-     "strk": "W1"
+     "pts": 10,
+     "gf": 34,
+     "ga": 14,
+     "diff": 20,
+     "l10": "5-1-0",
+     "strk": "W4"
     },
     {
      "team": "London Jr Knights",
@@ -36,21 +51,6 @@
      "strk": "L1"
     },
     {
-     "team": "Kitchener Jr Rangers",
-     "teamId": "odb-97021",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 5,
-     "w": 4,
-     "l": 1,
-     "t": 0,
-     "pts": 8,
-     "gf": 27,
-     "ga": 12,
-     "diff": 15,
-     "l10": "4-1-0",
-     "strk": "W3"
-    },
-    {
      "team": "Waterloo Wolves",
      "teamId": "odb-97024",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
@@ -64,6 +64,21 @@
      "diff": 4,
      "l10": "3-1-0",
      "strk": "L1"
+    },
+    {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97018",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 4,
+     "w": 2,
+     "l": 2,
+     "t": 0,
+     "pts": 4,
+     "gf": 21,
+     "ga": 23,
+     "diff": -2,
+     "l10": "2-2-0",
+     "strk": "W1"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",
@@ -81,34 +96,19 @@
      "strk": "L1"
     },
     {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97018",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 3,
-     "w": 1,
-     "l": 2,
-     "t": 0,
-     "pts": 2,
-     "gf": 15,
-     "ga": 18,
-     "diff": -3,
-     "l10": "1-2-0",
-     "strk": "L2"
-    },
-    {
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-97025",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 2,
+     "gp": 3,
      "w": 0,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "pts": 0,
-     "gf": 5,
-     "ga": 12,
-     "diff": -7,
-     "l10": "0-2-0",
-     "strk": "L2"
+     "gf": 7,
+     "ga": 19,
+     "diff": -12,
+     "l10": "0-3-0",
+     "strk": "L3"
     },
     {
      "team": "Huron-Perth Lakers",
