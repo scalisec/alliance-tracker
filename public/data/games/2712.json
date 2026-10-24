@@ -719,14 +719,17 @@
   "start": "2026-10-24T17:15:00-04:00",
   "away": "Burlington Bulldogs White",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Gretzky Center (#2)",
   "code": "U10BE8",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4549/2026-10-24/17:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3095821
+  }
  },
  {
   "id": 2379419,
