@@ -584,14 +584,17 @@
   "start": "2026-10-24T17:15:00-04:00",
   "away": "Waterloo Wolves",
   "home": "Woodstock Jr Navy Vets",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Reeves CC (Red)",
   "code": "U16S16",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4269/2026-10-24/17:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3096124
+  }
  },
  {
   "id": 2375862,

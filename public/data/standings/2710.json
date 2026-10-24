@@ -1,10 +1,25 @@
 {
  "divisionId": 2710,
- "updatedAt": "2026-10-24T21:48:41.064Z",
+ "updatedAt": "2026-10-24T23:24:32.223Z",
  "regular": [
   {
    "name": "East Division",
    "rows": [
+    {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-96945",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 4,
+     "w": 3,
+     "l": 0,
+     "t": 1,
+     "pts": 7,
+     "gf": 24,
+     "ga": 9,
+     "diff": 15,
+     "l10": "3-0-1",
+     "strk": "W3"
+    },
     {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-96942",
@@ -19,21 +34,6 @@
      "diff": 2,
      "l10": "3-1",
      "strk": "W1"
-    },
-    {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-96945",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 3,
-     "w": 2,
-     "l": 0,
-     "t": 1,
-     "pts": 5,
-     "gf": 22,
-     "ga": 8,
-     "diff": 14,
-     "l10": "2-0-1",
-     "strk": "W2"
     },
     {
      "team": "Cambridge Hawks",
@@ -104,16 +104,16 @@
      "team": "Sun County Panthers",
      "teamId": "odb-97285",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 2,
+     "gp": 3,
      "w": 2,
-     "l": 0,
+     "l": 1,
      "t": 0,
      "pts": 4,
-     "gf": 18,
-     "ga": 4,
-     "diff": 14,
-     "l10": "2-0",
-     "strk": "W2"
+     "gf": 19,
+     "ga": 6,
+     "diff": 13,
+     "l10": "2-1",
+     "strk": "L1"
     },
     {
      "team": "London Jr Knights",

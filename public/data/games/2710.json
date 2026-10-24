@@ -329,14 +329,17 @@
   "start": "2026-10-24T18:00:00-04:00",
   "away": "Sun County Panthers",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 2,
+  "status": "final",
   "venue": "RIM Park (Lions)",
   "code": "U10P6",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3096637
+  }
  },
  {
   "id": 2373932,

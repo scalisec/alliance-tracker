@@ -1,10 +1,25 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-10-24T22:46:30.962Z",
+ "updatedAt": "2026-10-24T23:26:21.954Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Woodstock Jr Navy Vets",
+     "teamId": "odb-98138",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+     "gp": 7,
+     "w": 6,
+     "l": 0,
+     "t": 1,
+     "pts": 13,
+     "gf": 35,
+     "ga": 10,
+     "diff": 25,
+     "l10": "6-0-1",
+     "strk": "W6"
+    },
     {
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97220",
@@ -66,21 +81,6 @@
      "strk": "W4"
     },
     {
-     "team": "Woodstock Jr Navy Vets",
-     "teamId": "odb-98138",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 6,
-     "w": 5,
-     "l": 0,
-     "t": 1,
-     "pts": 11,
-     "gf": 29,
-     "ga": 10,
-     "diff": 19,
-     "l10": "5-0-1",
-     "strk": "W5"
-    },
-    {
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97214",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
@@ -114,16 +114,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-97206",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 7,
+     "gp": 8,
      "w": 2,
-     "l": 4,
+     "l": 5,
      "t": 1,
      "pts": 5,
      "gf": 23,
-     "ga": 40,
-     "diff": -17,
-     "l10": "2-4-1",
-     "strk": "W1"
+     "ga": 46,
+     "diff": -23,
+     "l10": "2-5-1",
+     "strk": "L1"
     },
     {
      "team": "London Bandits",
