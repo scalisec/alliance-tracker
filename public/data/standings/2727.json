@@ -1,6 +1,6 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-10-24T20:11:27.059Z",
+ "updatedAt": "2026-10-24T21:53:10.390Z",
  "regular": [
   {
    "name": "",
@@ -51,6 +51,21 @@
      "strk": "W2"
     },
     {
+     "team": "North London Nationals",
+     "teamId": "odb-97256",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
+     "gp": 5,
+     "w": 3,
+     "l": 0,
+     "t": 2,
+     "pts": 8,
+     "gf": 30,
+     "ga": 15,
+     "diff": 15,
+     "l10": "3-0-2",
+     "strk": "W1"
+    },
+    {
      "team": "Brantford 99ers",
      "teamId": "odb-97250",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
@@ -79,21 +94,6 @@
      "diff": 12,
      "l10": "3-0",
      "strk": "W3"
-    },
-    {
-     "team": "North London Nationals",
-     "teamId": "odb-97256",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 4,
-     "w": 2,
-     "l": 0,
-     "t": 2,
-     "pts": 6,
-     "gf": 23,
-     "ga": 14,
-     "diff": 9,
-     "l10": "2-0-2",
-     "strk": "T2"
     },
     {
      "team": "Burlington Raiders",
@@ -144,16 +144,16 @@
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97252",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 5,
+     "gp": 6,
      "w": 2,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 4,
-     "gf": 13,
-     "ga": 13,
-     "diff": 0,
-     "l10": "2-3",
-     "strk": "L1"
+     "gf": 14,
+     "ga": 20,
+     "diff": -6,
+     "l10": "2-4",
+     "strk": "L2"
     },
     {
      "team": "Woodstock Jr Navy Vets",

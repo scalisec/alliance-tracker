@@ -434,14 +434,17 @@
   "start": "2026-10-24T16:15:00-04:00",
   "away": "London Jr Knights Green",
   "home": "Kitchener Jr Rangers Red",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Activa (Tom Graham)",
   "code": "U11S57",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4200/2026-10-24/16:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3095660
+  }
  },
  {
   "id": 2375389,
