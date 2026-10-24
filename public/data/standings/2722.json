@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-10-22T13:51:04.084Z",
+ "updatedAt": "2026-10-24T01:11:45.766Z",
  "regular": [
   {
    "name": "",
@@ -39,16 +39,16 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-96991",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 5,
-     "w": 4,
+     "gp": 6,
+     "w": 5,
      "l": 1,
      "t": 0,
-     "pts": 8,
-     "gf": 25,
-     "ga": 8,
-     "diff": 17,
-     "l10": "4-1",
-     "strk": "W2"
+     "pts": 10,
+     "gf": 29,
+     "ga": 9,
+     "diff": 20,
+     "l10": "5-1",
+     "strk": "W3"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",
@@ -81,6 +81,21 @@
      "strk": "L1"
     },
     {
+     "team": "Sun County Panthers",
+     "teamId": "odb-96989",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
+     "gp": 6,
+     "w": 3,
+     "l": 3,
+     "t": 0,
+     "pts": 6,
+     "gf": 23,
+     "ga": 18,
+     "diff": 5,
+     "l10": "3-3",
+     "strk": "W2"
+    },
+    {
      "team": "Elgin-Middlesex Canucks",
      "teamId": "odb-96984",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
@@ -93,21 +108,6 @@
      "ga": 7,
      "diff": 6,
      "l10": "2-2-1",
-     "strk": "W1"
-    },
-    {
-     "team": "Sun County Panthers",
-     "teamId": "odb-96989",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 5,
-     "w": 2,
-     "l": 3,
-     "t": 0,
-     "pts": 4,
-     "gf": 16,
-     "ga": 18,
-     "diff": -2,
-     "l10": "2-3",
      "strk": "W1"
     },
     {
@@ -129,31 +129,31 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-96982",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 6,
+     "gp": 7,
      "w": 2,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 4,
      "gf": 8,
-     "ga": 35,
-     "diff": -27,
-     "l10": "2-4",
-     "strk": "W1"
+     "ga": 42,
+     "diff": -34,
+     "l10": "2-5",
+     "strk": "L1"
     },
     {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-96986",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 6,
+     "gp": 7,
      "w": 1,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 2,
-     "gf": 11,
-     "ga": 26,
-     "diff": -15,
-     "l10": "1-5",
-     "strk": "L3"
+     "gf": 12,
+     "ga": 30,
+     "diff": -18,
+     "l10": "1-6",
+     "strk": "L4"
     },
     {
      "team": "Sault Major Jr Greyhounds",

@@ -290,14 +290,17 @@
   "start": "2026-10-23T19:30:00-04:00",
   "away": "Kitchener Jr Rangers",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 2,
+  "status": "final",
   "venue": "RIM Park (Lions)",
   "code": "U11P10",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3094581
+  }
  },
  {
   "id": 2373758,

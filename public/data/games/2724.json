@@ -722,14 +722,17 @@
   "start": "2026-10-23T19:30:00-04:00",
   "away": "Burlington Bulldogs White",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 13,
+  "status": "final",
   "venue": "Grand River (Grand River)",
   "code": "U14BR67",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4191/2026-10-23/19:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3094546
+  }
  },
  {
   "id": 2378170,
