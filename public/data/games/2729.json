@@ -566,14 +566,17 @@
   "start": "2026-10-23T20:30:00-04:00",
   "away": "Stratford Warriors",
   "home": "Kitchener Jr Rangers Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U16S177",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-10-23/20:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3094570
+  }
  },
  {
   "id": 2375950,

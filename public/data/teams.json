@@ -1320,6 +1320,14 @@
   "logo": "logos/bcc449715362.png"
  },
  {
+  "id": "2722:elgin-middlesex-canucks",
+  "name": "Elgin-Middlesex Canucks",
+  "divisionId": 2722,
+  "division": "U14 AAA",
+  "association": "Elgin-Middlesex Canucks",
+  "logo": "logos/2573db2f4749.png"
+ },
+ {
   "id": "2722:london-jr-knights",
   "name": "London Jr Knights",
   "divisionId": 2722,
@@ -1334,14 +1342,6 @@
   "division": "U14 AAA",
   "association": "Sun County Panthers",
   "logo": "logos/8998f15cb7f8.png"
- },
- {
-  "id": "2722:elgin-middlesex-canucks",
-  "name": "Elgin-Middlesex Canucks",
-  "divisionId": 2722,
-  "division": "U14 AAA",
-  "association": "Elgin-Middlesex Canucks",
-  "logo": "logos/2573db2f4749.png"
  },
  {
   "id": "2722:brantford-99ers",
@@ -2336,6 +2336,14 @@
   "logo": "logos/704c833c6aca.png"
  },
  {
+  "id": "2732:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
+ },
+ {
   "id": "2732:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2732,
@@ -2350,14 +2358,6 @@
   "division": "U18 AA-A",
   "association": "Stratford Minor Hockey",
   "logo": "logos/51ff29ef905f.png"
- },
- {
-  "id": "2732:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2732:london-jr-knights-white",

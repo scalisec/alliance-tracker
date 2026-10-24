@@ -428,14 +428,17 @@
   "start": "2026-10-23T20:30:00-04:00",
   "away": "London Jr Knights Green",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Civic Centre (Civic Centre)",
   "code": "U18S73",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3094536
+  }
  },
  {
   "id": 2376046,
