@@ -1,6 +1,6 @@
 {
  "divisionId": 2714,
- "updatedAt": "2026-10-22T13:47:12.677Z",
+ "updatedAt": "2026-10-24T17:26:09.785Z",
  "regular": [
   {
    "name": "",
@@ -33,6 +33,21 @@
      "ga": 10,
      "diff": 2,
      "l10": "3-1",
+     "strk": "W1"
+    },
+    {
+     "team": "Cambridge Hawks",
+     "teamId": "odb-97049",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "gp": 5,
+     "w": 2,
+     "l": 2,
+     "t": 1,
+     "pts": 5,
+     "gf": 18,
+     "ga": 27,
+     "diff": -9,
+     "l10": "2-2-1",
      "strk": "W1"
     },
     {
@@ -111,21 +126,6 @@
      "strk": "L1"
     },
     {
-     "team": "Cambridge Hawks",
-     "teamId": "odb-97049",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 4,
-     "w": 1,
-     "l": 2,
-     "t": 1,
-     "pts": 3,
-     "gf": 13,
-     "ga": 24,
-     "diff": -11,
-     "l10": "1-2-1",
-     "strk": "L1"
-    },
-    {
      "team": "Kitchener Jr Rangers Blue",
      "teamId": "odb-97297",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -174,16 +174,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-97046",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 3,
+     "gp": 4,
      "w": 0,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 0,
-     "gf": 3,
-     "ga": 19,
-     "diff": -16,
-     "l10": "0-3",
-     "strk": "L3"
+     "gf": 6,
+     "ga": 24,
+     "diff": -18,
+     "l10": "0-4",
+     "strk": "L4"
     }
    ]
   }

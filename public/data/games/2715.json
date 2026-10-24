@@ -545,14 +545,17 @@
   "start": "2026-10-24T12:15:00-04:00",
   "away": "Waterloo Wolves",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Grand River (Grand River)",
   "code": "U11BR75",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4191/2026-10-24/12:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3095892
+  }
  },
  {
   "id": 2379333,
