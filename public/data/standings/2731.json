@@ -1,10 +1,25 @@
 {
  "divisionId": 2731,
- "updatedAt": "2026-10-24T18:13:14.170Z",
+ "updatedAt": "2026-10-24T22:50:31.016Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Elgin-Middlesex Canucks",
+     "teamId": "odb-97019",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+     "gp": 10,
+     "w": 6,
+     "l": 3,
+     "t": 0,
+     "pts": 13,
+     "gf": 46,
+     "ga": 37,
+     "diff": 9,
+     "l10": "6-3-1",
+     "strk": "W1"
+    },
     {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97021",
@@ -34,21 +49,6 @@
      "diff": 1,
      "l10": "5-3-1",
      "strk": "L1"
-    },
-    {
-     "team": "Elgin-Middlesex Canucks",
-     "teamId": "odb-97019",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 9,
-     "w": 5,
-     "l": 3,
-     "t": 0,
-     "pts": 11,
-     "gf": 42,
-     "ga": 36,
-     "diff": 6,
-     "l10": "5-3-1",
-     "strk": "L2"
     },
     {
      "team": "Waterloo Wolves",
@@ -114,16 +114,16 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-97020",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 4,
+     "gp": 5,
      "w": 0,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 0,
-     "gf": 5,
-     "ga": 19,
-     "diff": -14,
-     "l10": "0-4-0",
-     "strk": "L4"
+     "gf": 6,
+     "ga": 23,
+     "diff": -17,
+     "l10": "0-5-0",
+     "strk": "L5"
     }
    ]
   }

@@ -653,14 +653,17 @@
   "start": "2026-10-24T16:45:00-04:00",
   "away": "Elgin-Middlesex Canucks",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 0,
+  "status": "final",
   "venue": "RIM Park (Pillers)",
   "code": "U15P152",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3095783
+  }
  },
  {
   "id": 2374883,

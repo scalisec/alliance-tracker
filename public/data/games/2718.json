@@ -866,14 +866,17 @@
   "start": "2026-10-24T17:30:00-04:00",
   "away": "London Bandits",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Grand River (Grand River)",
   "code": "U12BR99",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4191/2026-10-24/17:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3095960
+  }
  },
  {
   "id": 2378003,

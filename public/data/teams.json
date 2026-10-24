@@ -864,6 +864,14 @@
   "logo": "logos/1953df906ca9.png"
  },
  {
+  "id": "2718:kitchener-jr-rangers",
+  "name": "Kitchener Jr Rangers",
+  "divisionId": 2718,
+  "division": "U12 BB",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
+ },
+ {
   "id": "2718:burlington-bulldogs-gold",
   "name": "Burlington Bulldogs Gold",
   "divisionId": 2718,
@@ -886,14 +894,6 @@
   "division": "U12 BB",
   "association": "Sarnia Minor Hockey",
   "logo": "logos/704c833c6aca.png"
- },
- {
-  "id": "2718:kitchener-jr-rangers",
-  "name": "Kitchener Jr Rangers",
-  "divisionId": 2718,
-  "division": "U12 BB",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2718:west-london-hawks",
@@ -1632,6 +1632,14 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
+  "id": "2725:elgin-middlesex-canucks",
+  "name": "Elgin-Middlesex Canucks",
+  "divisionId": 2725,
+  "division": "U15 AAA",
+  "association": "Elgin-Middlesex Canucks",
+  "logo": "logos/2573db2f4749.png"
+ },
+ {
   "id": "2725:chatham-kent-cyclones",
   "name": "Chatham-Kent Cyclones",
   "divisionId": 2725,
@@ -1654,14 +1662,6 @@
   "division": "U15 AAA",
   "association": "Huron-Perth Lakers",
   "logo": "logos/e85b73e63ae2.png"
- },
- {
-  "id": "2725:elgin-middlesex-canucks",
-  "name": "Elgin-Middlesex Canucks",
-  "divisionId": 2725,
-  "division": "U15 AAA",
-  "association": "Elgin-Middlesex Canucks",
-  "logo": "logos/2573db2f4749.png"
  },
  {
   "id": "2725:sault-major-jr-greyhounds",
@@ -1952,14 +1952,6 @@
   "logo": "logos/e85b73e63ae2.png"
  },
  {
-  "id": "2728:kitchener-jr-rangers",
-  "name": "Kitchener Jr Rangers",
-  "divisionId": 2728,
-  "division": "U16 AAA",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
- },
- {
   "id": "2728:cambridge-jr-redhawks",
   "name": "Cambridge Jr RedHawks",
   "divisionId": 2728,
@@ -1968,12 +1960,12 @@
   "logo": "logos/e0787358df89.png"
  },
  {
-  "id": "2728:london-jr-knights",
-  "name": "London Jr Knights",
+  "id": "2728:kitchener-jr-rangers",
+  "name": "Kitchener Jr Rangers",
   "divisionId": 2728,
   "division": "U16 AAA",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2728:chatham-kent-cyclones",
@@ -1982,6 +1974,14 @@
   "division": "U16 AAA",
   "association": "Chatham-Kent Cyclones",
   "logo": "logos/b0bd0d065caa.png"
+ },
+ {
+  "id": "2728:london-jr-knights",
+  "name": "London Jr Knights",
+  "divisionId": 2728,
+  "division": "U16 AAA",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2728:windsor-jr-spitfires",
@@ -2160,6 +2160,14 @@
   "logo": "logos/41275c8a7241.png"
  },
  {
+  "id": "2730:kitchener-jr-rangers-red",
+  "name": "Kitchener Jr Rangers Red",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
+ },
+ {
   "id": "2730:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2730,
@@ -2170,14 +2178,6 @@
  {
   "id": "2730:kitchener-jr-rangers-blue",
   "name": "Kitchener Jr Rangers Blue",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
- },
- {
-  "id": "2730:kitchener-jr-rangers-red",
-  "name": "Kitchener Jr Rangers Red",
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Kitchener Minor Hockey",
@@ -2248,6 +2248,14 @@
   "logo": "logos/2237c5fc46ea.png"
  },
  {
+  "id": "2731:elgin-middlesex-canucks",
+  "name": "Elgin-Middlesex Canucks",
+  "divisionId": 2731,
+  "division": "U18 AAA",
+  "association": "Elgin-Middlesex Canucks",
+  "logo": "logos/2573db2f4749.png"
+ },
+ {
   "id": "2731:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2731,
@@ -2262,14 +2270,6 @@
   "division": "U18 AAA",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
- },
- {
-  "id": "2731:elgin-middlesex-canucks",
-  "name": "Elgin-Middlesex Canucks",
-  "divisionId": 2731,
-  "division": "U18 AAA",
-  "association": "Elgin-Middlesex Canucks",
-  "logo": "logos/2573db2f4749.png"
  },
  {
   "id": "2731:waterloo-wolves",
