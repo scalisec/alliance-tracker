@@ -1,10 +1,25 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-10-23T02:18:16.321Z",
+ "updatedAt": "2026-10-24T16:26:42.298Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "St. Thomas Jr Stars",
+     "teamId": "odb-97220",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "gp": 8,
+     "w": 6,
+     "l": 1,
+     "t": 1,
+     "pts": 13,
+     "gf": 41,
+     "ga": 24,
+     "diff": 17,
+     "l10": "6-1-1",
+     "strk": "W1"
+    },
     {
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-98138",
@@ -19,21 +34,6 @@
      "diff": 19,
      "l10": "5-0-1",
      "strk": "W5"
-    },
-    {
-     "team": "St. Thomas Jr Stars",
-     "teamId": "odb-97220",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 7,
-     "w": 5,
-     "l": 1,
-     "t": 1,
-     "pts": 11,
-     "gf": 38,
-     "ga": 24,
-     "diff": 14,
-     "l10": "5-1-1",
-     "strk": "L1"
     },
     {
      "team": "Waterloo Wolves",
@@ -219,16 +219,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-97219",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 5,
+     "gp": 6,
      "w": 1,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 2,
      "gf": 8,
-     "ga": 23,
-     "diff": -15,
-     "l10": "1-4",
-     "strk": "W1"
+     "ga": 26,
+     "diff": -18,
+     "l10": "1-5",
+     "strk": "L1"
     },
     {
      "team": "Stratford Warriors",

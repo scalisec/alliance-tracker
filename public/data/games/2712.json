@@ -635,14 +635,17 @@
   "start": "2026-10-24T11:00:00-04:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Grand River (Grand River)",
   "code": "U10BE10",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4191/2026-10-24/11:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3095049
+  }
  },
  {
   "id": 2411523,

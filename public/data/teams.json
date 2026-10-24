@@ -848,20 +848,20 @@
   "logo": "logos/8845e5146a9b.png"
  },
  {
-  "id": "2718:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2718,
-  "division": "U12 BB",
-  "association": "Woodstock Minor Hockey",
-  "logo": "logos/6c3aa7a1db2c.png"
- },
- {
   "id": "2718:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2718,
   "division": "U12 BB",
   "association": null,
   "logo": "logos/612db499a971.png"
+ },
+ {
+  "id": "2718:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2718,
+  "division": "U12 BB",
+  "association": "Woodstock Minor Hockey",
+  "logo": "logos/6c3aa7a1db2c.png"
  },
  {
   "id": "2718:waterloo-wolves",
