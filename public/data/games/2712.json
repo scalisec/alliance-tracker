@@ -617,14 +617,17 @@
   "start": "2026-10-24T10:15:00-04:00",
   "away": "Burlington Bulldogs Blue",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 11,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Sports Park (2)",
   "code": "U10BE38",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3095047
+  }
  },
  {
   "id": 2379486,
