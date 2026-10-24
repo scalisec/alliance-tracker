@@ -527,14 +527,17 @@
   "start": "2026-10-23T20:00:00-04:00",
   "away": "Waterloo Wolves",
   "home": "Kitchener Jr Rangers Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 4,
+  "status": "final",
   "venue": "The Aud (Kinsmen)",
   "code": "U15S26",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3094548
+  }
  },
  {
   "id": 2375746,

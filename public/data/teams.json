@@ -1744,6 +1744,14 @@
   "logo": "logos/08d490425be3.png"
  },
  {
+  "id": "2726:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2726,
+  "division": "U15 AA-A",
+  "association": "Waterloo Minor Hockey",
+  "logo": "logos/1953df906ca9.png"
+ },
+ {
   "id": "2726:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2726,
@@ -1782,14 +1790,6 @@
   "division": "U15 AA-A",
   "association": "Woodstock Minor Hockey",
   "logo": "logos/6c3aa7a1db2c.png"
- },
- {
-  "id": "2726:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2726,
-  "division": "U15 AA-A",
-  "association": "Waterloo Minor Hockey",
-  "logo": "logos/1953df906ca9.png"
  },
  {
   "id": "2726:burlington-raiders",
@@ -2376,14 +2376,6 @@
   "logo": "logos/1953df906ca9.png"
  },
  {
-  "id": "2732:cambridge-hawks",
-  "name": "Cambridge Hawks",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": "Cambridge Minor Hockey",
-  "logo": "logos/e0787358df89.png"
- },
- {
   "id": "2732:mt-brydges-cougars",
   "name": "Mt. Brydges Cougars",
   "divisionId": 2732,
@@ -2398,6 +2390,14 @@
   "division": "U18 AA-A",
   "association": null,
   "logo": "logos/612db499a971.png"
+ },
+ {
+  "id": "2732:cambridge-hawks",
+  "name": "Cambridge Hawks",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "Cambridge Minor Hockey",
+  "logo": "logos/e0787358df89.png"
  },
  {
   "id": "2733:cambridge-hawks",
