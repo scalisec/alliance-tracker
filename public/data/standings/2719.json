@@ -1,6 +1,6 @@
 {
  "divisionId": 2719,
- "updatedAt": "2026-10-24T18:12:04.102Z",
+ "updatedAt": "2026-10-24T20:10:37.009Z",
  "regular": [
   {
    "name": "",
@@ -51,19 +51,34 @@
      "strk": "T1"
     },
     {
+     "team": "Sun County Panthers",
+     "teamId": "odb-96977",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
+     "gp": 3,
+     "w": 2,
+     "l": 0,
+     "t": 1,
+     "pts": 5,
+     "gf": 15,
+     "ga": 7,
+     "diff": 8,
+     "l10": "2-0-1",
+     "strk": "W2"
+    },
+    {
      "team": "London Jr Knights",
      "teamId": "odb-96976",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 4,
+     "gp": 5,
      "w": 2,
-     "l": 1,
+     "l": 2,
      "t": 1,
      "pts": 5,
-     "gf": 16,
-     "ga": 7,
-     "diff": 9,
-     "l10": "2-1-1",
-     "strk": "W1"
+     "gf": 18,
+     "ga": 10,
+     "diff": 8,
+     "l10": "2-2-1",
+     "strk": "L1"
     },
     {
      "team": "Windsor Jr Spitfires",
@@ -93,21 +108,6 @@
      "ga": 18,
      "diff": -1,
      "l10": "2-3",
-     "strk": "W1"
-    },
-    {
-     "team": "Sun County Panthers",
-     "teamId": "odb-96977",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 2,
-     "w": 1,
-     "l": 0,
-     "t": 1,
-     "pts": 3,
-     "gf": 12,
-     "ga": 5,
-     "diff": 7,
-     "l10": "1-0-1",
      "strk": "W1"
     },
     {

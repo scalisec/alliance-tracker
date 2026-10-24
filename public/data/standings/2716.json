@@ -1,6 +1,6 @@
 {
  "divisionId": 2716,
- "updatedAt": "2026-10-24T18:51:58.382Z",
+ "updatedAt": "2026-10-24T20:10:17.100Z",
  "regular": [
   {
    "name": "",
@@ -36,34 +36,34 @@
      "strk": "W3"
     },
     {
-     "team": "Sarnia-Lambton Jr Sting",
-     "teamId": "odb-96963",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 4,
-     "w": 3,
-     "l": 1,
-     "t": 0,
-     "pts": 6,
-     "gf": 16,
-     "ga": 9,
-     "diff": 7,
-     "l10": "3-1",
-     "strk": "L1"
-    },
-    {
      "team": "Elgin-Middlesex Canucks",
      "teamId": "odb-96960",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 4,
-     "w": 2,
+     "gp": 5,
+     "w": 3,
      "l": 0,
      "t": 2,
+     "pts": 8,
+     "gf": 20,
+     "ga": 6,
+     "diff": 14,
+     "l10": "3-0-2",
+     "strk": "W1"
+    },
+    {
+     "team": "Sarnia-Lambton Jr Sting",
+     "teamId": "odb-96963",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
+     "gp": 5,
+     "w": 3,
+     "l": 2,
+     "t": 0,
      "pts": 6,
      "gf": 16,
-     "ga": 6,
-     "diff": 10,
-     "l10": "2-0-2",
-     "strk": "T2"
+     "ga": 13,
+     "diff": 3,
+     "l10": "3-2",
+     "strk": "L2"
     },
     {
      "team": "Windsor Jr Spitfires",

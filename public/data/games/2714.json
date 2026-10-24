@@ -398,14 +398,17 @@
   "start": "2026-10-24T15:00:00-04:00",
   "away": "London Jr Knights White",
   "home": "Kitchener Jr Rangers Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Grand River (Grand River)",
   "code": "U11S16",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4191/2026-10-24/15:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3095658
+  }
  },
  {
   "id": 2375372,
