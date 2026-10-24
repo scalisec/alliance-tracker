@@ -557,14 +557,17 @@
   "start": "2026-10-23T20:45:00-04:00",
   "away": "Oakridge Aeros",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Activa (Tom Graham)",
   "code": "U15BR12",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4200/2026-10-23/20:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3094591
+  }
  },
  {
   "id": 2378846,

@@ -1816,20 +1816,20 @@
   "logo": "logos/51ff29ef905f.png"
  },
  {
-  "id": "2727:west-london-hawks",
-  "name": "West London Hawks",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/2237c5fc46ea.png"
- },
- {
   "id": "2727:oakridge-aeros",
   "name": "Oakridge Aeros",
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/ae847321ae88.png"
+ },
+ {
+  "id": "2727:west-london-hawks",
+  "name": "West London Hawks",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/2237c5fc46ea.png"
  },
  {
   "id": "2727:brantford-99ers",
@@ -2248,6 +2248,14 @@
   "logo": "logos/2237c5fc46ea.png"
  },
  {
+  "id": "2731:london-jr-knights",
+  "name": "London Jr Knights",
+  "divisionId": 2731,
+  "division": "U18 AAA",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
+ },
+ {
   "id": "2731:elgin-middlesex-canucks",
   "name": "Elgin-Middlesex Canucks",
   "divisionId": 2731,
@@ -2264,14 +2272,6 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
-  "id": "2731:london-jr-knights",
-  "name": "London Jr Knights",
-  "divisionId": 2731,
-  "division": "U18 AAA",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
- },
- {
   "id": "2731:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2731,
@@ -2280,20 +2280,20 @@
   "logo": "logos/1953df906ca9.png"
  },
  {
-  "id": "2731:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2731,
-  "division": "U18 AAA",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
- },
- {
   "id": "2731:sarnia-lambton-jr-sting",
   "name": "Sarnia-Lambton Jr Sting",
   "divisionId": 2731,
   "division": "U18 AAA",
   "association": "Lambton Jr Sting",
   "logo": "logos/bcc449715362.png"
+ },
+ {
+  "id": "2731:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2731,
+  "division": "U18 AAA",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2731:windsor-jr-spitfires",
@@ -2440,14 +2440,6 @@
   "logo": "logos/2237c5fc46ea.png"
  },
  {
-  "id": "2733:burlington-raiders",
-  "name": "Burlington Raiders",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Burlington Raiders Hockey Club",
-  "logo": "logos/8845e5146a9b.png"
- },
- {
   "id": "2733:west-london-hawks-gold",
   "name": "West London Hawks Gold",
   "divisionId": 2733,
@@ -2456,12 +2448,28 @@
   "logo": "logos/2237c5fc46ea.png"
  },
  {
+  "id": "2733:burlington-raiders",
+  "name": "Burlington Raiders",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Burlington Raiders Hockey Club",
+  "logo": "logos/8845e5146a9b.png"
+ },
+ {
   "id": "2733:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
+ },
+ {
+  "id": "2733:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": null,
+  "logo": "logos/612db499a971.png"
  },
  {
   "id": "2733:sarnia-jr-sting",
@@ -2494,14 +2502,6 @@
   "division": "U18 BB",
   "association": "Stratford Minor Hockey",
   "logo": "logos/51ff29ef905f.png"
- },
- {
-  "id": "2733:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": null,
-  "logo": "logos/612db499a971.png"
  },
  {
   "id": "2733:burlington-bulldogs-blue",

@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-10-22T13:56:24.009Z",
+ "updatedAt": "2026-10-24T02:33:53.546Z",
  "regular": [
   {
    "name": "",
@@ -81,21 +81,6 @@
      "strk": "W1"
     },
     {
-     "team": "Burlington Raiders",
-     "teamId": "odb-98275",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 3,
-     "w": 2,
-     "l": 0,
-     "t": 1,
-     "pts": 5,
-     "gf": 10,
-     "ga": 4,
-     "diff": 6,
-     "l10": "2-0-1",
-     "strk": "W2"
-    },
-    {
      "team": "West London Hawks Gold",
      "teamId": "odb-97126",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
@@ -111,6 +96,21 @@
      "strk": "W1"
     },
     {
+     "team": "Burlington Raiders",
+     "teamId": "odb-98275",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
+     "gp": 4,
+     "w": 2,
+     "l": 1,
+     "t": 1,
+     "pts": 5,
+     "gf": 11,
+     "ga": 12,
+     "diff": -1,
+     "l10": "2-1-1",
+     "strk": "L1"
+    },
+    {
      "team": "Brantford 99ers",
      "teamId": "odb-97128",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
@@ -124,6 +124,21 @@
      "diff": 7,
      "l10": "2-1",
      "strk": "L1"
+    },
+    {
+     "team": "St. Thomas Jr Stars",
+     "teamId": "odb-97132",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "gp": 4,
+     "w": 2,
+     "l": 2,
+     "t": 0,
+     "pts": 4,
+     "gf": 17,
+     "ga": 9,
+     "diff": 8,
+     "l10": "2-2",
+     "strk": "W2"
     },
     {
      "team": "Sarnia Jr. Sting",
@@ -184,21 +199,6 @@
      "diff": -22,
      "l10": "1-4-1",
      "strk": "L2"
-    },
-    {
-     "team": "St. Thomas Jr Stars",
-     "teamId": "odb-97132",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 3,
-     "w": 1,
-     "l": 2,
-     "t": 0,
-     "pts": 2,
-     "gf": 9,
-     "ga": 8,
-     "diff": 1,
-     "l10": "1-2",
-     "strk": "W1"
     },
     {
      "team": "Burlington Bulldogs Blue",
