@@ -1,6 +1,6 @@
 {
  "divisionId": 2732,
- "updatedAt": "2026-10-24T02:52:56.950Z",
+ "updatedAt": "2026-10-24T12:49:49.096Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-97118",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 4,
-     "w": 3,
+     "gp": 5,
+     "w": 4,
      "l": 1,
      "t": 0,
-     "pts": 6,
-     "gf": 11,
-     "ga": 13,
-     "diff": -2,
-     "l10": "3-1",
-     "strk": "W2"
+     "pts": 8,
+     "gf": 15,
+     "ga": 15,
+     "diff": 0,
+     "l10": "4-1",
+     "strk": "W3"
     },
     {
      "team": "Sarnia Jr. Sting",
@@ -159,16 +159,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-97113",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 5,
+     "gp": 6,
      "w": 1,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 2,
-     "gf": 12,
-     "ga": 19,
-     "diff": -7,
-     "l10": "1-4",
-     "strk": "L1"
+     "gf": 14,
+     "ga": 23,
+     "diff": -9,
+     "l10": "1-5",
+     "strk": "L2"
     }
    ]
   }
