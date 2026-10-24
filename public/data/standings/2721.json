@@ -1,6 +1,6 @@
 {
  "divisionId": 2721,
- "updatedAt": "2026-10-22T13:50:35.061Z",
+ "updatedAt": "2026-10-24T17:08:28.518Z",
  "regular": [
   {
    "name": "",
@@ -21,6 +21,21 @@
      "strk": "W5"
     },
     {
+     "team": "Burlington Raiders",
+     "teamId": "odb-97233",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
+     "gp": 6,
+     "w": 5,
+     "l": 1,
+     "t": 0,
+     "pts": 10,
+     "gf": 31,
+     "ga": 9,
+     "diff": 22,
+     "l10": "5-1",
+     "strk": "W4"
+    },
+    {
      "team": "Waterloo Wolves",
      "teamId": "odb-97224",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
@@ -34,21 +49,6 @@
      "diff": 7,
      "l10": "5-1",
      "strk": "L1"
-    },
-    {
-     "team": "Burlington Raiders",
-     "teamId": "odb-97233",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 5,
-     "w": 4,
-     "l": 1,
-     "t": 0,
-     "pts": 8,
-     "gf": 27,
-     "ga": 9,
-     "diff": 18,
-     "l10": "4-1",
-     "strk": "W3"
     },
     {
      "team": "Oakridge Aeros",
@@ -174,16 +174,16 @@
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-97232",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 4,
+     "gp": 5,
      "w": 1,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 2,
      "gf": 4,
-     "ga": 17,
-     "diff": -13,
-     "l10": "1-3",
-     "strk": "L3"
+     "ga": 21,
+     "diff": -17,
+     "l10": "1-4",
+     "strk": "L4"
     },
     {
      "team": "Cambridge Hawks",

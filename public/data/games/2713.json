@@ -308,14 +308,17 @@
   "start": "2026-10-24T10:30:00-04:00",
   "away": "Brantford 99ers",
   "home": "Chatham-Kent Cyclones",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Memorial (Memorial)",
   "code": "U11P133",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-10-24/10:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3095094
+  }
  },
  {
   "id": 2373770,

@@ -1,6 +1,6 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-10-24T16:26:42.298Z",
+ "updatedAt": "2026-10-24T17:07:38.535Z",
  "regular": [
   {
    "name": "",
@@ -96,6 +96,21 @@
      "strk": "W4"
     },
     {
+     "team": "West London Hawks",
+     "teamId": "odb-97215",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
+     "gp": 7,
+     "w": 2,
+     "l": 4,
+     "t": 1,
+     "pts": 5,
+     "gf": 15,
+     "ga": 32,
+     "diff": -17,
+     "l10": "2-4-1",
+     "strk": "T1"
+    },
+    {
      "team": "Brantford 99ers",
      "teamId": "odb-97206",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
@@ -171,34 +186,19 @@
      "strk": "L4"
     },
     {
-     "team": "West London Hawks",
-     "teamId": "odb-97215",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 6,
-     "w": 2,
-     "l": 4,
-     "t": 0,
-     "pts": 4,
-     "gf": 11,
-     "ga": 28,
-     "diff": -17,
-     "l10": "2-4",
-     "strk": "L1"
-    },
-    {
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97218",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 6,
+     "gp": 7,
      "w": 1,
      "l": 5,
-     "t": 0,
-     "pts": 2,
-     "gf": 22,
-     "ga": 30,
+     "t": 1,
+     "pts": 3,
+     "gf": 26,
+     "ga": 34,
      "diff": -8,
-     "l10": "1-5",
-     "strk": "L3"
+     "l10": "1-5-1",
+     "strk": "T1"
     },
     {
      "team": "North London Nationals",

@@ -563,14 +563,17 @@
   "start": "2026-10-24T11:45:00-04:00",
   "away": "Burlington Raiders",
   "home": "Woodstock Jr Navy Vets",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Reeves CC (Red)",
   "code": "U13BR45",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4269/2026-10-24/11:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3095042
+  }
  },
  {
   "id": 2378071,
