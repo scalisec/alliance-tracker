@@ -568,6 +568,14 @@
   "logo": "logos/49dba036a6a8.png"
  },
  {
+  "id": "2715:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Woodstock Minor Hockey",
+  "logo": "logos/6c3aa7a1db2c.png"
+ },
+ {
   "id": "2715:burlington-bulldogs-blue",
   "name": "Burlington Bulldogs Blue",
   "divisionId": 2715,
@@ -584,20 +592,20 @@
   "logo": "logos/704c833c6aca.png"
  },
  {
-  "id": "2715:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Woodstock Minor Hockey",
-  "logo": "logos/6c3aa7a1db2c.png"
- },
- {
   "id": "2715:north-london-nationals",
   "name": "North London Nationals",
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/41275c8a7241.png"
+ },
+ {
+  "id": "2715:burlington-bulldogs-white",
+  "name": "Burlington Bulldogs White",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2715:kitchener-jr-rangers",
@@ -622,14 +630,6 @@
   "division": "U11 BB",
   "association": "Burlington Raiders Hockey Club",
   "logo": "logos/8845e5146a9b.png"
- },
- {
-  "id": "2715:burlington-bulldogs-white",
-  "name": "Burlington Bulldogs White",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2715:waterloo-wolves",
