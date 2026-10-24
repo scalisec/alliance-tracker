@@ -650,14 +650,17 @@
   "start": "2026-10-24T16:45:00-04:00",
   "away": "Cambridge Hawks",
   "home": "North London Nationals",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Carling (B)",
   "code": "U13BR90",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5028/2026-10-24/16:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3096159
+  }
  },
  {
   "id": 2378049,

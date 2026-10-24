@@ -1,6 +1,6 @@
 {
  "divisionId": 2713,
- "updatedAt": "2026-10-24T21:29:30.563Z",
+ "updatedAt": "2026-10-24T22:10:02.927Z",
  "regular": [
   {
    "name": "East Division",
@@ -36,6 +36,21 @@
      "strk": "W2"
     },
     {
+     "team": "Brantford 99ers",
+     "teamId": "odb-96947",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 5,
+     "w": 1,
+     "l": 3,
+     "t": 1,
+     "pts": 3,
+     "gf": 12,
+     "ga": 23,
+     "diff": -11,
+     "l10": "1-3-1",
+     "strk": "W1"
+    },
+    {
      "team": "Waterloo Wolves",
      "teamId": "odb-96955",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
@@ -64,21 +79,6 @@
      "diff": -7,
      "l10": "1-2",
      "strk": "W1"
-    },
-    {
-     "team": "Brantford 99ers",
-     "teamId": "odb-96947",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 4,
-     "w": 0,
-     "l": 3,
-     "t": 1,
-     "pts": 1,
-     "gf": 8,
-     "ga": 21,
-     "diff": -13,
-     "l10": "0-3-1",
-     "strk": "L1"
     }
    ]
   },
@@ -164,16 +164,16 @@
      "team": "Sun County Panthers",
      "teamId": "odb-97284",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 1,
+     "gp": 2,
      "w": 0,
-     "l": 1,
+     "l": 2,
      "t": 0,
      "pts": 0,
-     "gf": 2,
-     "ga": 4,
-     "diff": -2,
-     "l10": "0-1",
-     "strk": "L1"
+     "gf": 4,
+     "ga": 8,
+     "diff": -4,
+     "l10": "0-2",
+     "strk": "L2"
     }
    ]
   }

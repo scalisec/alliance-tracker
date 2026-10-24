@@ -326,14 +326,17 @@
   "start": "2026-10-24T15:45:00-04:00",
   "away": "Brantford 99ers",
   "home": "Sun County Panthers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Essex (Libro)",
   "code": "U11P117",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4370/2026-10-24/15:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3096072
+  }
  },
  {
   "id": 2373677,

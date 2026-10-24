@@ -1,6 +1,6 @@
 {
  "divisionId": 2711,
- "updatedAt": "2026-10-24T18:50:38.340Z",
+ "updatedAt": "2026-10-24T22:09:02.377Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97037",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 4,
-     "w": 4,
+     "gp": 5,
+     "w": 5,
      "l": 0,
      "t": 0,
-     "pts": 8,
-     "gf": 31,
-     "ga": 4,
-     "diff": 27,
-     "l10": "4-0",
-     "strk": "W4"
+     "pts": 10,
+     "gf": 37,
+     "ga": 7,
+     "diff": 30,
+     "l10": "5-0",
+     "strk": "W5"
     },
     {
      "team": "London Jr Knights White",
@@ -51,6 +51,21 @@
      "strk": "W3"
     },
     {
+     "team": "Sarnia Jr. Sting",
+     "teamId": "odb-97032",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+     "gp": 4,
+     "w": 3,
+     "l": 1,
+     "t": 0,
+     "pts": 6,
+     "gf": 19,
+     "ga": 7,
+     "diff": 12,
+     "l10": "3-1",
+     "strk": "W3"
+    },
+    {
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-97035",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
@@ -64,21 +79,6 @@
      "diff": 9,
      "l10": "3-1",
      "strk": "L1"
-    },
-    {
-     "team": "Sarnia Jr. Sting",
-     "teamId": "odb-97032",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 3,
-     "w": 2,
-     "l": 1,
-     "t": 0,
-     "pts": 4,
-     "gf": 17,
-     "ga": 6,
-     "diff": 11,
-     "l10": "2-1",
-     "strk": "W2"
     },
     {
      "team": "Mt. Brydges Cougars",
@@ -96,21 +96,6 @@
      "strk": "L1"
     },
     {
-     "team": "Kitchener Jr Rangers Red",
-     "teamId": "odb-97029",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 3,
-     "w": 2,
-     "l": 1,
-     "t": 0,
-     "pts": 4,
-     "gf": 16,
-     "ga": 13,
-     "diff": 3,
-     "l10": "2-1",
-     "strk": "W2"
-    },
-    {
      "team": "Waterloo Wolves",
      "teamId": "odb-97034",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
@@ -124,6 +109,21 @@
      "diff": 4,
      "l10": "2-3",
      "strk": "W1"
+    },
+    {
+     "team": "Kitchener Jr Rangers Red",
+     "teamId": "odb-97029",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 4,
+     "w": 2,
+     "l": 2,
+     "t": 0,
+     "pts": 4,
+     "gf": 19,
+     "ga": 19,
+     "diff": 0,
+     "l10": "2-2",
+     "strk": "L1"
     },
     {
      "team": "Cambridge Hawks",
@@ -144,16 +144,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-97033",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 4,
+     "gp": 5,
      "w": 1,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 2,
-     "gf": 12,
-     "ga": 15,
-     "diff": -3,
-     "l10": "1-3",
-     "strk": "L1"
+     "gf": 13,
+     "ga": 17,
+     "diff": -4,
+     "l10": "1-4",
+     "strk": "L2"
     },
     {
      "team": "Burlington Raiders",

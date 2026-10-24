@@ -635,14 +635,17 @@
   "start": "2026-10-24T16:00:00-04:00",
   "away": "Windsor Jr Spitfires",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U15P26",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-10-24/16:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3095782
+  }
  },
  {
   "id": 2374953,

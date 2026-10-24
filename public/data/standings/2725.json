@@ -1,6 +1,6 @@
 {
  "divisionId": 2725,
- "updatedAt": "2026-10-24T01:51:49.054Z",
+ "updatedAt": "2026-10-24T22:13:02.688Z",
  "regular": [
   {
    "name": "",
@@ -19,6 +19,21 @@
      "diff": 23,
      "l10": "8-0",
      "strk": "W8"
+    },
+    {
+     "team": "Kitchener Jr Rangers",
+     "teamId": "odb-96998",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 8,
+     "w": 5,
+     "l": 2,
+     "t": 1,
+     "pts": 11,
+     "gf": 30,
+     "ga": 14,
+     "diff": 16,
+     "l10": "5-2-1",
+     "strk": "W2"
     },
     {
      "team": "Chatham-Kent Cyclones",
@@ -49,21 +64,6 @@
      "diff": 6,
      "l10": "4-3-1",
      "strk": "T1"
-    },
-    {
-     "team": "Kitchener Jr Rangers",
-     "teamId": "odb-96998",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 7,
-     "w": 4,
-     "l": 2,
-     "t": 1,
-     "pts": 9,
-     "gf": 24,
-     "ga": 13,
-     "diff": 11,
-     "l10": "4-2-1",
-     "strk": "W1"
     },
     {
      "team": "Huron-Perth Lakers",
@@ -174,16 +174,16 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-97003",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 7,
+     "gp": 8,
      "w": 0,
-     "l": 7,
+     "l": 8,
      "t": 0,
      "pts": 0,
-     "gf": 8,
-     "ga": 45,
-     "diff": -37,
-     "l10": "0-7",
-     "strk": "L7"
+     "gf": 9,
+     "ga": 51,
+     "diff": -42,
+     "l10": "0-8",
+     "strk": "L8"
     }
    ]
   }

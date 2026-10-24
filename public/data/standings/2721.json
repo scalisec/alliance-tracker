@@ -1,6 +1,6 @@
 {
  "divisionId": 2721,
- "updatedAt": "2026-10-24T21:52:00.339Z",
+ "updatedAt": "2026-10-24T22:12:12.477Z",
  "regular": [
   {
    "name": "",
@@ -141,6 +141,21 @@
      "strk": "W2"
     },
     {
+     "team": "Cambridge Hawks",
+     "teamId": "odb-97235",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "gp": 7,
+     "w": 1,
+     "l": 6,
+     "t": 0,
+     "pts": 2,
+     "gf": 14,
+     "ga": 28,
+     "diff": -14,
+     "l10": "1-6",
+     "strk": "W1"
+    },
+    {
      "team": "London Bandits",
      "teamId": "odb-97225",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
@@ -186,34 +201,19 @@
      "strk": "L4"
     },
     {
-     "team": "Cambridge Hawks",
-     "teamId": "odb-97235",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 6,
-     "w": 0,
-     "l": 6,
-     "t": 0,
-     "pts": 0,
-     "gf": 9,
-     "ga": 25,
-     "diff": -16,
-     "l10": "0-6",
-     "strk": "L6"
-    },
-    {
      "team": "North London Nationals",
      "teamId": "odb-97226",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 4,
+     "gp": 5,
      "w": 0,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 0,
-     "gf": 4,
-     "ga": 22,
-     "diff": -18,
-     "l10": "0-4",
-     "strk": "L4"
+     "gf": 7,
+     "ga": 27,
+     "diff": -20,
+     "l10": "0-5",
+     "strk": "L5"
     }
    ]
   }

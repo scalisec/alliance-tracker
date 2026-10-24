@@ -1,6 +1,6 @@
 {
  "divisionId": 2720,
- "updatedAt": "2026-10-24T20:50:48.138Z",
+ "updatedAt": "2026-10-24T22:11:42.529Z",
  "regular": [
   {
    "name": "",
@@ -114,16 +114,31 @@
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-97074",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 6,
+     "gp": 7,
      "w": 2,
-     "l": 3,
+     "l": 4,
      "t": 1,
      "pts": 5,
      "gf": 18,
-     "ga": 21,
-     "diff": -3,
-     "l10": "2-3-1",
-     "strk": "L2"
+     "ga": 24,
+     "diff": -6,
+     "l10": "2-4-1",
+     "strk": "L3"
+    },
+    {
+     "team": "Mt. Brydges Cougars",
+     "teamId": "odb-97288",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
+     "gp": 4,
+     "w": 2,
+     "l": 2,
+     "t": 0,
+     "pts": 4,
+     "gf": 10,
+     "ga": 8,
+     "diff": 2,
+     "l10": "2-2",
+     "strk": "W1"
     },
     {
      "team": "Cambridge Hawks",
@@ -156,19 +171,19 @@
      "strk": "T1"
     },
     {
-     "team": "Mt. Brydges Cougars",
-     "teamId": "odb-97288",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-     "gp": 3,
+     "team": "Burlington Raiders",
+     "teamId": "odb-97075",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
+     "gp": 6,
      "w": 1,
-     "l": 2,
+     "l": 5,
      "t": 0,
      "pts": 2,
-     "gf": 7,
-     "ga": 8,
-     "diff": -1,
-     "l10": "1-2",
-     "strk": "L1"
+     "gf": 11,
+     "ga": 28,
+     "diff": -17,
+     "l10": "1-5",
+     "strk": "L2"
     },
     {
      "team": "Kitchener Jr Rangers Blue",
@@ -184,21 +199,6 @@
      "diff": -8,
      "l10": "0-4-2",
      "strk": "T1"
-    },
-    {
-     "team": "Burlington Raiders",
-     "teamId": "odb-97075",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 6,
-     "w": 1,
-     "l": 5,
-     "t": 0,
-     "pts": 2,
-     "gf": 11,
-     "ga": 28,
-     "diff": -17,
-     "l10": "1-5",
-     "strk": "L2"
     }
    ]
   }

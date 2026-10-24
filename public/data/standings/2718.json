@@ -1,6 +1,6 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-10-24T21:10:46.967Z",
+ "updatedAt": "2026-10-24T22:10:52.475Z",
  "regular": [
   {
    "name": "",
@@ -66,6 +66,21 @@
      "strk": "W5"
     },
     {
+     "team": "Sarnia Jr. Sting",
+     "teamId": "odb-97214",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+     "gp": 5,
+     "w": 5,
+     "l": 0,
+     "t": 0,
+     "pts": 10,
+     "gf": 33,
+     "ga": 5,
+     "diff": 28,
+     "l10": "5-0",
+     "strk": "W5"
+    },
+    {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97208",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -78,21 +93,6 @@
      "ga": 8,
      "diff": 19,
      "l10": "4-0-1",
-     "strk": "W4"
-    },
-    {
-     "team": "Sarnia Jr. Sting",
-     "teamId": "odb-97214",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 4,
-     "w": 4,
-     "l": 0,
-     "t": 0,
-     "pts": 8,
-     "gf": 26,
-     "ga": 5,
-     "diff": 21,
-     "l10": "4-0",
      "strk": "W4"
     },
     {
@@ -156,21 +156,6 @@
      "strk": "L1"
     },
     {
-     "team": "Burlington Raiders",
-     "teamId": "odb-97216",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 5,
-     "w": 1,
-     "l": 2,
-     "t": 2,
-     "pts": 4,
-     "gf": 11,
-     "ga": 19,
-     "diff": -8,
-     "l10": "1-2-2",
-     "strk": "T1"
-    },
-    {
      "team": "Oakridge Aeros",
      "teamId": "odb-97213",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
@@ -184,6 +169,21 @@
      "diff": -16,
      "l10": "2-6",
      "strk": "L4"
+    },
+    {
+     "team": "Burlington Raiders",
+     "teamId": "odb-97216",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
+     "gp": 6,
+     "w": 1,
+     "l": 3,
+     "t": 2,
+     "pts": 4,
+     "gf": 11,
+     "ga": 26,
+     "diff": -15,
+     "l10": "1-3-2",
+     "strk": "L1"
     },
     {
      "team": "Burlington Bulldogs Blue",

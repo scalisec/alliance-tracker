@@ -440,14 +440,17 @@
   "start": "2026-10-24T16:15:00-04:00",
   "away": "St. Thomas Jr Stars",
   "home": "Kitchener Jr Rangers Red",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Sportsworld (Prac)",
   "code": "U10S63",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4168/2026-10-24/16:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3096725
+  }
  },
  {
   "id": 2376184,
@@ -455,14 +458,17 @@
   "start": "2026-10-24T16:45:00-04:00",
   "away": "Sarnia Jr. Sting",
   "home": "Stratford Warriors",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Rotary Complex (Rink B)",
   "code": "U10S38",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3096726
+  }
  },
  {
   "id": 2376176,
