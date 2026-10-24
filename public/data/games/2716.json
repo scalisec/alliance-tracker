@@ -344,14 +344,17 @@
   "start": "2026-10-24T12:30:00-04:00",
   "away": "Sun County Panthers",
   "home": "Huron-Perth Lakers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 5,
+  "status": "final",
   "venue": "PERC (PERC)",
   "code": "U12P100",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4939/2026-10-24/12:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3096013
+  }
  },
  {
   "id": 2374242,

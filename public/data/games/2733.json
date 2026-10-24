@@ -590,14 +590,17 @@
   "start": "2026-10-24T13:00:00-04:00",
   "away": "Stratford Warriors",
   "home": "Waterloo Wolves Gold",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 2,
+  "status": "final",
   "venue": "RIM Park (Pillers)",
   "code": "U18BR141",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3095838
+  }
  },
  {
   "id": 2379305,

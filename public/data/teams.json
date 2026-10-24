@@ -144,14 +144,6 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
-  "id": "2711:stratford-warriors",
-  "name": "Stratford Warriors",
-  "divisionId": 2711,
-  "division": "U10 AA-A",
-  "association": "Stratford Minor Hockey",
-  "logo": "logos/51ff29ef905f.png"
- },
- {
   "id": "2711:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2711,
@@ -168,6 +160,14 @@
   "logo": "logos/e0787358df89.png"
  },
  {
+  "id": "2711:stratford-warriors",
+  "name": "Stratford Warriors",
+  "divisionId": 2711,
+  "division": "U10 AA-A",
+  "association": "Stratford Minor Hockey",
+  "logo": "logos/51ff29ef905f.png"
+ },
+ {
   "id": "2711:burlington-raiders",
   "name": "Burlington Raiders",
   "divisionId": 2711,
@@ -176,20 +176,20 @@
   "logo": "logos/8845e5146a9b.png"
  },
  {
-  "id": "2711:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2711,
-  "division": "U10 AA-A",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
- },
- {
   "id": "2711:kitchener-jr-rangers-blue",
   "name": "Kitchener Jr Rangers Blue",
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
+ },
+ {
+  "id": "2711:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2711,
+  "division": "U10 AA-A",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2712:burlington-bulldogs-blue",
@@ -704,6 +704,14 @@
   "logo": "logos/1d06ddd6cd32.png"
  },
  {
+  "id": "2716:huron-perth-lakers",
+  "name": "Huron-Perth Lakers",
+  "divisionId": 2716,
+  "division": "U12 AAA",
+  "association": "Huron-Perth Lakers",
+  "logo": "logos/e85b73e63ae2.png"
+ },
+ {
   "id": "2716:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2716,
@@ -718,14 +726,6 @@
   "division": "U12 AAA",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
- },
- {
-  "id": "2716:huron-perth-lakers",
-  "name": "Huron-Perth Lakers",
-  "divisionId": 2716,
-  "division": "U12 AAA",
-  "association": "Huron-Perth Lakers",
-  "logo": "logos/e85b73e63ae2.png"
  },
  {
   "id": "2716:sun-county-panthers",
