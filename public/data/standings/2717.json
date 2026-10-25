@@ -1,6 +1,6 @@
 {
  "divisionId": 2717,
- "updatedAt": "2026-10-25T17:38:30.806Z",
+ "updatedAt": "2026-10-25T19:24:39.265Z",
  "regular": [
   {
    "name": "",
@@ -66,6 +66,21 @@
      "strk": "L1"
     },
     {
+     "team": "Woodstock Jr Navy Vets",
+     "teamId": "odb-97061",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+     "gp": 5,
+     "w": 3,
+     "l": 1,
+     "t": 1,
+     "pts": 7,
+     "gf": 20,
+     "ga": 9,
+     "diff": 11,
+     "l10": "3-1-1",
+     "strk": "W2"
+    },
+    {
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97058",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
@@ -99,21 +114,6 @@
      "team": "Kitchener Jr Rangers Red",
      "teamId": "odb-97055",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 4,
-     "w": 2,
-     "l": 1,
-     "t": 1,
-     "pts": 5,
-     "gf": 11,
-     "ga": 8,
-     "diff": 3,
-     "l10": "2-1-1",
-     "strk": "W1"
-    },
-    {
-     "team": "Woodstock Jr Navy Vets",
-     "teamId": "odb-97061",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
      "gp": 4,
      "w": 2,
      "l": 1,
@@ -189,16 +189,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97062",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 5,
+     "gp": 6,
      "w": 0,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 0,
-     "gf": 5,
-     "ga": 39,
-     "diff": -34,
-     "l10": "0-5",
-     "strk": "L5"
+     "gf": 6,
+     "ga": 48,
+     "diff": -42,
+     "l10": "0-6",
+     "strk": "L6"
     }
    ]
   }

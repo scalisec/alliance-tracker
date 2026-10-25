@@ -506,14 +506,17 @@
   "start": "2026-10-25T13:30:00-04:00",
   "away": "Brantford 99ers",
   "home": "Kitchener Jr Rangers Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U11S39",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-10-25/13:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3098186
+  }
  },
  {
   "id": 2375380,

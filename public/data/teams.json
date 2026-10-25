@@ -40,14 +40,6 @@
   "logo": "logos/e85b73e63ae2.png"
  },
  {
-  "id": "2710:london-jr-knights",
-  "name": "London Jr Knights",
-  "divisionId": 2710,
-  "division": "U10 AAA",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
- },
- {
   "id": "2710:elgin-middlesex-canucks",
   "name": "Elgin-Middlesex Canucks",
   "divisionId": 2710,
@@ -62,6 +54,14 @@
   "division": "U10 AAA",
   "association": "Sun County Panthers",
   "logo": "logos/8998f15cb7f8.png"
+ },
+ {
+  "id": "2710:london-jr-knights",
+  "name": "London Jr Knights",
+  "divisionId": 2710,
+  "division": "U10 AAA",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2710:windsor-jr-spitfires",
@@ -128,6 +128,14 @@
   "logo": "logos/6c3aa7a1db2c.png"
  },
  {
+  "id": "2711:mt-brydges-cougars",
+  "name": "Mt. Brydges Cougars",
+  "divisionId": 2711,
+  "division": "U10 AA-A",
+  "association": null,
+  "logo": "logos/0f4ddfdee820.png"
+ },
+ {
   "id": "2711:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2711,
@@ -142,14 +150,6 @@
   "division": "U10 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
- },
- {
-  "id": "2711:mt-brydges-cougars",
-  "name": "Mt. Brydges Cougars",
-  "divisionId": 2711,
-  "division": "U10 AA-A",
-  "association": null,
-  "logo": "logos/0f4ddfdee820.png"
  },
  {
   "id": "2711:brantford-99ers",
@@ -416,20 +416,20 @@
   "logo": "logos/2573db2f4749.png"
  },
  {
-  "id": "2713:london-jr-knights",
-  "name": "London Jr Knights",
-  "divisionId": 2713,
-  "division": "U11 AAA",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
- },
- {
   "id": "2713:windsor-jr-spitfires",
   "name": "Windsor Jr Spitfires",
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "Windsor AAA Zone",
   "logo": "logos/1d06ddd6cd32.png"
+ },
+ {
+  "id": "2713:london-jr-knights",
+  "name": "London Jr Knights",
+  "divisionId": 2713,
+  "division": "U11 AAA",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2713:sarnia-lambton-jr-sting",
@@ -488,6 +488,14 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
+  "id": "2714:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2714,
+  "division": "U11 AA-A",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
+ },
+ {
   "id": "2714:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2714,
@@ -510,14 +518,6 @@
   "division": "U11 AA-A",
   "association": null,
   "logo": "logos/612db499a971.png"
- },
- {
-  "id": "2714:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2714,
-  "division": "U11 AA-A",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2714:sarnia-jr-sting",
@@ -776,6 +776,14 @@
   "logo": "logos/51ff29ef905f.png"
  },
  {
+  "id": "2717:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2717,
+  "division": "U12 AA-A",
+  "association": "Woodstock Minor Hockey",
+  "logo": "logos/6c3aa7a1db2c.png"
+ },
+ {
   "id": "2717:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2717,
@@ -798,14 +806,6 @@
   "division": "U12 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
- },
- {
-  "id": "2717:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2717,
-  "division": "U12 AA-A",
-  "association": "Woodstock Minor Hockey",
-  "logo": "logos/6c3aa7a1db2c.png"
  },
  {
   "id": "2717:st-thomas-jr-stars",

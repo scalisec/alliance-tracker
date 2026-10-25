@@ -1,6 +1,6 @@
 {
  "divisionId": 2714,
- "updatedAt": "2026-10-25T17:37:30.855Z",
+ "updatedAt": "2026-10-25T19:23:29.113Z",
  "regular": [
   {
    "name": "",
@@ -66,6 +66,21 @@
      "strk": "W1"
     },
     {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97038",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 6,
+     "w": 3,
+     "l": 3,
+     "t": 0,
+     "pts": 6,
+     "gf": 25,
+     "ga": 21,
+     "diff": 4,
+     "l10": "3-3",
+     "strk": "W1"
+    },
+    {
      "team": "Waterloo Wolves",
      "teamId": "odb-97047",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
@@ -111,21 +126,6 @@
      "strk": "T1"
     },
     {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97038",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 5,
-     "w": 2,
-     "l": 3,
-     "t": 0,
-     "pts": 4,
-     "gf": 21,
-     "ga": 21,
-     "diff": 0,
-     "l10": "2-3",
-     "strk": "L2"
-    },
-    {
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97045",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
@@ -144,16 +144,16 @@
      "team": "Kitchener Jr Rangers Blue",
      "teamId": "odb-97297",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 5,
+     "gp": 6,
      "w": 1,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 2,
      "gf": 10,
-     "ga": 16,
-     "diff": -6,
-     "l10": "1-4",
-     "strk": "L1"
+     "ga": 20,
+     "diff": -10,
+     "l10": "1-5",
+     "strk": "L2"
     },
     {
      "team": "Woodstock Jr Navy Vets",

@@ -353,14 +353,17 @@
   "start": "2026-10-25T10:00:00-04:00",
   "away": "Sun County Panthers",
   "home": "Huron-Perth Lakers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 10,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Allman (Allman)",
   "code": "U10P61",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4857/2026-10-25/10:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3097229
+  }
  },
  {
   "id": 2373982,
