@@ -608,14 +608,17 @@
   "start": "2026-10-25T15:15:00-04:00",
   "away": "Sun County Panthers",
   "home": "Huron-Perth Lakers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Rotary Complex (Rink B)",
   "code": "U13P104",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3099018
+  }
  },
  {
   "id": 2374534,

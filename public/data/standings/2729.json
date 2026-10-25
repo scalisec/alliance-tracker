@@ -1,6 +1,6 @@
 {
  "divisionId": 2729,
- "updatedAt": "2026-10-24T23:29:32.070Z",
+ "updatedAt": "2026-10-25T20:46:37.099Z",
  "regular": [
   {
    "name": "",
@@ -36,6 +36,21 @@
      "strk": "W5"
     },
     {
+     "team": "Stratford Warriors",
+     "teamId": "odb-97108",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
+     "gp": 9,
+     "w": 4,
+     "l": 3,
+     "t": 2,
+     "pts": 10,
+     "gf": 29,
+     "ga": 29,
+     "diff": 0,
+     "l10": "4-3-2",
+     "strk": "W1"
+    },
+    {
      "team": "Brantford 99ers",
      "teamId": "odb-97102",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
@@ -64,21 +79,6 @@
      "diff": 19,
      "l10": "4-1",
      "strk": "L1"
-    },
-    {
-     "team": "Stratford Warriors",
-     "teamId": "odb-97108",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 8,
-     "w": 3,
-     "l": 3,
-     "t": 2,
-     "pts": 8,
-     "gf": 25,
-     "ga": 26,
-     "diff": -1,
-     "l10": "3-3-2",
-     "strk": "T1"
     },
     {
      "team": "Cambridge Hawks",
@@ -174,16 +174,16 @@
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-97110",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 6,
+     "gp": 7,
      "w": 0,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 0,
-     "gf": 10,
-     "ga": 30,
-     "diff": -20,
-     "l10": "0-6",
-     "strk": "L6"
+     "gf": 13,
+     "ga": 34,
+     "diff": -21,
+     "l10": "0-7",
+     "strk": "L7"
     }
    ]
   }

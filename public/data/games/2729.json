@@ -602,14 +602,17 @@
   "start": "2026-10-25T15:00:00-04:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "Stratford Warriors",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Allman (Allman)",
   "code": "U16S193",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4857/2026-10-25/15:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3099006
+  }
  },
  {
   "id": 2375784,

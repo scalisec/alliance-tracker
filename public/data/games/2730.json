@@ -734,14 +734,17 @@
   "start": "2026-10-25T15:00:00-04:00",
   "away": "Lambeth Lancers",
   "home": "Kitchener Jr Rangers Red",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 2,
+  "status": "final",
   "venue": "The Aud (Kinsmen)",
   "code": "U16BR70",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3098886
+  }
  },
  {
   "id": 2378941,
