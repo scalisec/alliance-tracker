@@ -16,14 +16,6 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
-  "id": "2710:cambridge-hawks",
-  "name": "Cambridge Hawks",
-  "divisionId": 2710,
-  "division": "U10 AAA",
-  "association": "Cambridge Minor Hockey",
-  "logo": "logos/e0787358df89.png"
- },
- {
   "id": "2710:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2710,
@@ -32,20 +24,20 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
+  "id": "2710:cambridge-hawks",
+  "name": "Cambridge Hawks",
+  "divisionId": 2710,
+  "division": "U10 AAA",
+  "association": "Cambridge Minor Hockey",
+  "logo": "logos/e0787358df89.png"
+ },
+ {
   "id": "2710:huron-perth-lakers",
   "name": "Huron-Perth Lakers",
   "divisionId": 2710,
   "division": "U10 AAA",
   "association": "Huron-Perth Lakers",
   "logo": "logos/e85b73e63ae2.png"
- },
- {
-  "id": "2710:elgin-middlesex-canucks",
-  "name": "Elgin-Middlesex Canucks",
-  "divisionId": 2710,
-  "division": "U10 AAA",
-  "association": "Elgin-Middlesex Canucks",
-  "logo": "logos/2573db2f4749.png"
  },
  {
   "id": "2710:sun-county-panthers",
@@ -62,6 +54,14 @@
   "division": "U10 AAA",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
+ },
+ {
+  "id": "2710:elgin-middlesex-canucks",
+  "name": "Elgin-Middlesex Canucks",
+  "divisionId": 2710,
+  "division": "U10 AAA",
+  "association": "Elgin-Middlesex Canucks",
+  "logo": "logos/2573db2f4749.png"
  },
  {
   "id": "2710:windsor-jr-spitfires",
@@ -600,20 +600,20 @@
   "logo": "logos/49dba036a6a8.png"
  },
  {
-  "id": "2715:kitchener-jr-rangers",
-  "name": "Kitchener Jr Rangers",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
- },
- {
   "id": "2715:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
+ },
+ {
+  "id": "2715:kitchener-jr-rangers",
+  "name": "Kitchener Jr Rangers",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2715:burlington-bulldogs-white",
@@ -704,20 +704,20 @@
   "logo": "logos/1d06ddd6cd32.png"
  },
  {
-  "id": "2716:huron-perth-lakers",
-  "name": "Huron-Perth Lakers",
-  "divisionId": 2716,
-  "division": "U12 AAA",
-  "association": "Huron-Perth Lakers",
-  "logo": "logos/e85b73e63ae2.png"
- },
- {
   "id": "2716:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2716,
   "division": "U12 AAA",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
+ },
+ {
+  "id": "2716:huron-perth-lakers",
+  "name": "Huron-Perth Lakers",
+  "divisionId": 2716,
+  "division": "U12 AAA",
+  "association": "Huron-Perth Lakers",
+  "logo": "logos/e85b73e63ae2.png"
  },
  {
   "id": "2716:brantford-99ers",
@@ -1952,20 +1952,20 @@
   "logo": "logos/e85b73e63ae2.png"
  },
  {
-  "id": "2728:kitchener-jr-rangers",
-  "name": "Kitchener Jr Rangers",
-  "divisionId": 2728,
-  "division": "U16 AAA",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
- },
- {
   "id": "2728:cambridge-jr-redhawks",
   "name": "Cambridge Jr RedHawks",
   "divisionId": 2728,
   "division": "U16 AAA",
   "association": "Cambridge Minor Hockey",
   "logo": "logos/e0787358df89.png"
+ },
+ {
+  "id": "2728:kitchener-jr-rangers",
+  "name": "Kitchener Jr Rangers",
+  "divisionId": 2728,
+  "division": "U16 AAA",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2728:chatham-kent-cyclones",

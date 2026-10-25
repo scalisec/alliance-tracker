@@ -650,14 +650,17 @@
   "start": "2026-10-25T13:45:00-04:00",
   "away": "West London Hawks",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Gretzky Center (#3)",
   "code": "U11BR29",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4551/2026-10-25/13:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3098894
+  }
  },
  {
   "id": 2379362,

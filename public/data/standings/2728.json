@@ -1,6 +1,6 @@
 {
  "divisionId": 2728,
- "updatedAt": "2026-10-25T16:38:24.608Z",
+ "updatedAt": "2026-10-25T19:45:50.107Z",
  "regular": [
   {
    "name": "East Division",
@@ -51,32 +51,32 @@
      "strk": "W1"
     },
     {
-     "team": "Kitchener Jr Rangers",
-     "teamId": "odb-97010",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 2,
-     "w": 0,
-     "l": 2,
-     "t": 0,
-     "pts": 0,
-     "gf": 2,
-     "ga": 7,
-     "diff": -5,
-     "l10": "0-2",
-     "strk": "L2"
-    },
-    {
      "team": "Cambridge Jr RedHawks",
      "teamId": "odb-97006",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "gp": 4,
+     "w": 1,
+     "l": 3,
+     "t": 0,
+     "pts": 2,
+     "gf": 10,
+     "ga": 20,
+     "diff": -10,
+     "l10": "1-3",
+     "strk": "W1"
+    },
+    {
+     "team": "Kitchener Jr Rangers",
+     "teamId": "odb-97010",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
      "gp": 3,
      "w": 0,
      "l": 3,
      "t": 0,
      "pts": 0,
-     "gf": 5,
-     "ga": 18,
-     "diff": -13,
+     "gf": 4,
+     "ga": 12,
+     "diff": -8,
      "l10": "0-3",
      "strk": "L3"
     }

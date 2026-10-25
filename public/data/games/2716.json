@@ -398,14 +398,17 @@
   "start": "2026-10-25T14:00:00-04:00",
   "away": "Waterloo Wolves",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Sportsworld (Spectator)",
   "code": "U12P48",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4167/2026-10-25/14:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3098955
+  }
  },
  {
   "id": 2374330,

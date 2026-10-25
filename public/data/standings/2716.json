@@ -1,6 +1,6 @@
 {
  "divisionId": 2716,
- "updatedAt": "2026-10-24T20:30:12.784Z",
+ "updatedAt": "2026-10-25T19:43:59.882Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-96962",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 6,
+     "gp": 7,
      "w": 5,
      "l": 0,
-     "t": 1,
-     "pts": 11,
-     "gf": 25,
-     "ga": 7,
+     "t": 2,
+     "pts": 12,
+     "gf": 27,
+     "ga": 9,
      "diff": 18,
-     "l10": "5-0-1",
-     "strk": "W3"
+     "l10": "5-0-2",
+     "strk": "T1"
     },
     {
      "team": "London Jr Knights",
@@ -81,6 +81,21 @@
      "strk": "W1"
     },
     {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-96966",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 4,
+     "w": 1,
+     "l": 2,
+     "t": 1,
+     "pts": 3,
+     "gf": 11,
+     "ga": 12,
+     "diff": -1,
+     "l10": "1-2-1",
+     "strk": "T1"
+    },
+    {
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96961",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
@@ -93,21 +108,6 @@
      "ga": 27,
      "diff": -12,
      "l10": "1-5-1",
-     "strk": "W1"
-    },
-    {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-96966",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 3,
-     "w": 1,
-     "l": 2,
-     "t": 0,
-     "pts": 2,
-     "gf": 9,
-     "ga": 10,
-     "diff": -1,
-     "l10": "1-2",
      "strk": "W1"
     },
     {

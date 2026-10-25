@@ -284,14 +284,17 @@
   "start": "2026-10-24T12:15:00-04:00",
   "away": "Sun County Panthers",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Gretzky Center (#1)",
   "code": "U10P40",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-10-24/12:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3095191
+  }
  },
  {
   "id": 2374023,
@@ -407,14 +410,17 @@
   "start": "2026-10-25T13:15:00-04:00",
   "away": "Chatham-Kent Cyclones",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 8,
+  "status": "final",
   "venue": "Civic Centre (Civic Centre)",
   "code": "U10P64",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3098862
+  }
  },
  {
   "id": 2373929,
