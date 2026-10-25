@@ -480,6 +480,14 @@
   "logo": "logos/0f4ddfdee820.png"
  },
  {
+  "id": "2714:kitchener-jr-rangers-red",
+  "name": "Kitchener Jr Rangers Red",
+  "divisionId": 2714,
+  "division": "U11 AA-A",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
+ },
+ {
   "id": "2714:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2714,
@@ -494,14 +502,6 @@
   "division": "U11 AA-A",
   "association": "Cambridge Minor Hockey",
   "logo": "logos/e0787358df89.png"
- },
- {
-  "id": "2714:kitchener-jr-rangers-red",
-  "name": "Kitchener Jr Rangers Red",
-  "divisionId": 2714,
-  "division": "U11 AA-A",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2714:brantford-99ers",
@@ -1864,20 +1864,20 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
-  "id": "2727:burlington-raiders",
-  "name": "Burlington Raiders",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Burlington Raiders Hockey Club",
-  "logo": "logos/8845e5146a9b.png"
- },
- {
   "id": "2727:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
+ },
+ {
+  "id": "2727:burlington-raiders",
+  "name": "Burlington Raiders",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Burlington Raiders Hockey Club",
+  "logo": "logos/8845e5146a9b.png"
  },
  {
   "id": "2727:london-bandits",

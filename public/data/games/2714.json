@@ -452,14 +452,17 @@
   "start": "2026-10-25T11:30:00-04:00",
   "away": "Kitchener Jr Rangers Red",
   "home": "Stratford Warriors",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Allman (Allman)",
   "code": "U11S53",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4857/2026-10-25/11:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3098183
+  }
  },
  {
   "id": 2375376,
