@@ -542,14 +542,17 @@
   "start": "2026-10-25T09:00:00-04:00",
   "away": "Waterloo Wolves",
   "home": "Elgin-Middlesex Canucks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Sarnia PASA (Rink 1)",
   "code": "U18P99",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-10-25/09:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3097408
+  }
  },
  {
   "id": 2373402,
@@ -557,14 +560,17 @@
   "start": "2026-10-25T09:15:00-04:00",
   "away": "Huron-Perth Lakers",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Sarnia PASA (Rink 2)",
   "code": "U18P115",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-10-25/09:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3097407
+  }
  },
  {
   "id": 2373374,
