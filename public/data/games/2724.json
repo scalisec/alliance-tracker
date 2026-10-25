@@ -848,14 +848,17 @@
   "start": "2026-10-25T14:15:00-04:00",
   "away": "Sarnia Jr. Sting",
   "home": "Burlington Bulldogs White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 14,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Appleby (3)",
   "code": "U14BR84",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-10-25/14:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3099099
+  }
  },
  {
   "id": 2378143,

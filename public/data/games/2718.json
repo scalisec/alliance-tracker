@@ -989,14 +989,17 @@
   "start": "2026-10-25T15:00:00-04:00",
   "away": "Burlington Bulldogs Gold",
   "home": "Woodstock Jr Navy Vets",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Reeves CC (Red)",
   "code": "U12BR98",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4269/2026-10-25/15:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3099121
+  }
  },
  {
   "id": 2377986,

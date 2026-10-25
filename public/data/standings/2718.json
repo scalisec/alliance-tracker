@@ -1,6 +1,6 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-10-25T20:03:15.868Z",
+ "updatedAt": "2026-10-25T20:24:08.490Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-98138",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 7,
+     "gp": 8,
      "w": 6,
      "l": 0,
-     "t": 1,
-     "pts": 13,
-     "gf": 35,
-     "ga": 10,
+     "t": 2,
+     "pts": 14,
+     "gf": 38,
+     "ga": 13,
      "diff": 25,
-     "l10": "6-0-1",
-     "strk": "W6"
+     "l10": "6-0-2",
+     "strk": "T1"
     },
     {
      "team": "St. Thomas Jr Stars",
@@ -66,6 +66,21 @@
      "strk": "T1"
     },
     {
+     "team": "Burlington Bulldogs Gold",
+     "teamId": "odb-97432",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 7,
+     "w": 5,
+     "l": 0,
+     "t": 2,
+     "pts": 12,
+     "gf": 39,
+     "ga": 14,
+     "diff": 25,
+     "l10": "5-0-2",
+     "strk": "T1"
+    },
+    {
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97214",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
@@ -79,21 +94,6 @@
      "diff": 28,
      "l10": "5-0-1",
      "strk": "T1"
-    },
-    {
-     "team": "Burlington Bulldogs Gold",
-     "teamId": "odb-97432",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 6,
-     "w": 5,
-     "l": 0,
-     "t": 1,
-     "pts": 11,
-     "gf": 36,
-     "ga": 11,
-     "diff": 25,
-     "l10": "5-0-1",
-     "strk": "W4"
     },
     {
      "team": "Burlington Bulldogs White",

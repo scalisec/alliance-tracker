@@ -1,6 +1,6 @@
 {
  "divisionId": 2719,
- "updatedAt": "2026-10-25T19:04:39.002Z",
+ "updatedAt": "2026-10-25T20:24:38.502Z",
  "regular": [
   {
    "name": "",
@@ -21,34 +21,34 @@
      "strk": "W6"
     },
     {
-     "team": "Brantford 99ers",
-     "teamId": "odb-96969",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 7,
-     "w": 5,
-     "l": 2,
-     "t": 0,
-     "pts": 10,
-     "gf": 33,
-     "ga": 22,
-     "diff": 11,
-     "l10": "5-2",
-     "strk": "W1"
-    },
-    {
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-96975",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 5,
-     "w": 3,
+     "gp": 6,
+     "w": 4,
      "l": 0,
      "t": 2,
-     "pts": 8,
-     "gf": 17,
-     "ga": 8,
+     "pts": 10,
+     "gf": 20,
+     "ga": 9,
+     "diff": 11,
+     "l10": "4-0-2",
+     "strk": "W2"
+    },
+    {
+     "team": "Brantford 99ers",
+     "teamId": "odb-96969",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 8,
+     "w": 5,
+     "l": 3,
+     "t": 0,
+     "pts": 10,
+     "gf": 34,
+     "ga": 25,
      "diff": 9,
-     "l10": "3-0-2",
-     "strk": "W1"
+     "l10": "5-3",
+     "strk": "L1"
     },
     {
      "team": "Windsor Jr Spitfires",

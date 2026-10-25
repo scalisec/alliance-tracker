@@ -568,6 +568,14 @@
   "logo": "logos/e0787358df89.png"
  },
  {
+  "id": "2715:kitchener-jr-rangers",
+  "name": "Kitchener Jr Rangers",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
+ },
+ {
   "id": "2715:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2715,
@@ -606,14 +614,6 @@
   "division": "U11 BB",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
- },
- {
-  "id": "2715:kitchener-jr-rangers",
-  "name": "Kitchener Jr Rangers",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2715:burlington-bulldogs-white",
@@ -880,20 +880,20 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
-  "id": "2718:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2718,
-  "division": "U12 BB",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
- },
- {
   "id": "2718:burlington-bulldogs-gold",
   "name": "Burlington Bulldogs Gold",
   "divisionId": 2718,
   "division": "U12 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "logos/49dba036a6a8.png"
+ },
+ {
+  "id": "2718:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2718,
+  "division": "U12 BB",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2718:burlington-bulldogs-white",
@@ -984,20 +984,20 @@
   "logo": "logos/e85b73e63ae2.png"
  },
  {
-  "id": "2719:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2719,
-  "division": "U13 AAA",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
- },
- {
   "id": "2719:sarnia-lambton-jr-sting",
   "name": "Sarnia-Lambton Jr Sting",
   "divisionId": 2719,
   "division": "U13 AAA",
   "association": "Lambton Jr Sting",
   "logo": "logos/bcc449715362.png"
+ },
+ {
+  "id": "2719:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2719,
+  "division": "U13 AAA",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2719:windsor-jr-spitfires",
@@ -1184,20 +1184,20 @@
   "logo": "logos/1953df906ca9.png"
  },
  {
-  "id": "2721:stratford-warriors",
-  "name": "Stratford Warriors",
-  "divisionId": 2721,
-  "division": "U13 BB",
-  "association": "Stratford Minor Hockey",
-  "logo": "logos/51ff29ef905f.png"
- },
- {
   "id": "2721:burlington-raiders",
   "name": "Burlington Raiders",
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Burlington Raiders Hockey Club",
   "logo": "logos/8845e5146a9b.png"
+ },
+ {
+  "id": "2721:stratford-warriors",
+  "name": "Stratford Warriors",
+  "divisionId": 2721,
+  "division": "U13 BB",
+  "association": "Stratford Minor Hockey",
+  "logo": "logos/51ff29ef905f.png"
  },
  {
   "id": "2721:burlington-bulldogs-blue",
@@ -1224,20 +1224,20 @@
   "logo": "logos/ae847321ae88.png"
  },
  {
-  "id": "2721:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2721,
-  "division": "U13 BB",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
- },
- {
   "id": "2721:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
+ },
+ {
+  "id": "2721:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2721,
+  "division": "U13 BB",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2721:west-london-hawks",
@@ -1512,6 +1512,14 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
+  "id": "2724:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2724,
+  "division": "U14 BB",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
+ },
+ {
   "id": "2724:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2724,
@@ -1542,14 +1550,6 @@
   "division": "U14 BB",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
- },
- {
-  "id": "2724:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2724,
-  "division": "U14 BB",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2724:north-london-nationals",
