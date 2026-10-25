@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-10-25T00:26:28.678Z",
+ "updatedAt": "2026-10-25T01:25:40.867Z",
  "regular": [
   {
    "name": "",
@@ -99,16 +99,31 @@
      "team": "Sun County Panthers",
      "teamId": "odb-96989",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 6,
+     "gp": 7,
      "w": 3,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 6,
-     "gf": 23,
-     "ga": 18,
-     "diff": 5,
-     "l10": "3-3",
-     "strk": "W2"
+     "gf": 24,
+     "ga": 20,
+     "diff": 4,
+     "l10": "3-4",
+     "strk": "L1"
+    },
+    {
+     "team": "Kitchener Jr Rangers",
+     "teamId": "odb-96986",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 8,
+     "w": 2,
+     "l": 6,
+     "t": 0,
+     "pts": 4,
+     "gf": 14,
+     "ga": 31,
+     "diff": -17,
+     "l10": "2-6",
+     "strk": "W1"
     },
     {
      "team": "Brantford 99ers",
@@ -139,21 +154,6 @@
      "diff": -36,
      "l10": "2-6",
      "strk": "L2"
-    },
-    {
-     "team": "Kitchener Jr Rangers",
-     "teamId": "odb-96986",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 7,
-     "w": 1,
-     "l": 6,
-     "t": 0,
-     "pts": 2,
-     "gf": 12,
-     "ga": 30,
-     "diff": -18,
-     "l10": "1-6",
-     "strk": "L4"
     },
     {
      "team": "Chatham-Kent Cyclones",

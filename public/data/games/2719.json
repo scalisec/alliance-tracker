@@ -515,14 +515,17 @@
   "start": "2026-10-24T17:00:00-04:00",
   "away": "Windsor Jr Spitfires",
   "home": "Chatham-Kent Cyclones",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 9,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Memorial (Memorial)",
   "code": "U13P63",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-10-24/17:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3095845
+  }
  },
  {
   "id": 2381310,

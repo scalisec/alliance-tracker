@@ -650,14 +650,17 @@
   "start": "2026-10-24T19:00:00-04:00",
   "away": "Kitchener Jr Rangers",
   "home": "Sun County Panthers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Nature Fresh RC (Unico)",
   "code": "U14P171",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4525/2026-10-24/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3096674
+  }
  },
  {
   "id": 2374785,
