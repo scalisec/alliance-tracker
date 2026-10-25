@@ -432,20 +432,20 @@
   "logo": "logos/1d06ddd6cd32.png"
  },
  {
-  "id": "2713:chatham-kent-cyclones",
-  "name": "Chatham-Kent Cyclones",
-  "divisionId": 2713,
-  "division": "U11 AAA",
-  "association": "Chatham-Kent Cyclones",
-  "logo": "logos/b0bd0d065caa.png"
- },
- {
   "id": "2713:sarnia-lambton-jr-sting",
   "name": "Sarnia-Lambton Jr Sting",
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "Lambton Jr Sting",
   "logo": "logos/bcc449715362.png"
+ },
+ {
+  "id": "2713:chatham-kent-cyclones",
+  "name": "Chatham-Kent Cyclones",
+  "divisionId": 2713,
+  "division": "U11 AAA",
+  "association": "Chatham-Kent Cyclones",
+  "logo": "logos/b0bd0d065caa.png"
  },
  {
   "id": "2713:sun-county-panthers",
@@ -1832,6 +1832,14 @@
   "logo": "logos/612db499a971.png"
  },
  {
+  "id": "2727:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
+ },
+ {
   "id": "2727:west-london-hawks",
   "name": "West London Hawks",
   "divisionId": 2727,
@@ -1854,14 +1862,6 @@
   "division": "U15 BB",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
- },
- {
-  "id": "2727:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2727:burlington-raiders",
@@ -1952,20 +1952,20 @@
   "logo": "logos/e85b73e63ae2.png"
  },
  {
-  "id": "2728:cambridge-jr-redhawks",
-  "name": "Cambridge Jr RedHawks",
-  "divisionId": 2728,
-  "division": "U16 AAA",
-  "association": "Cambridge Minor Hockey",
-  "logo": "logos/e0787358df89.png"
- },
- {
   "id": "2728:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2728,
   "division": "U16 AAA",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
+ },
+ {
+  "id": "2728:cambridge-jr-redhawks",
+  "name": "Cambridge Jr RedHawks",
+  "divisionId": 2728,
+  "division": "U16 AAA",
+  "association": "Cambridge Minor Hockey",
+  "logo": "logos/e0787358df89.png"
  },
  {
   "id": "2728:chatham-kent-cyclones",
@@ -1984,6 +1984,14 @@
   "logo": "logos/08d490425be3.png"
  },
  {
+  "id": "2728:elgin-middlesex-canucks",
+  "name": "Elgin-Middlesex Canucks",
+  "divisionId": 2728,
+  "division": "U16 AAA",
+  "association": "Elgin-Middlesex Canucks",
+  "logo": "logos/2573db2f4749.png"
+ },
+ {
   "id": "2728:windsor-jr-spitfires",
   "name": "Windsor Jr Spitfires",
   "divisionId": 2728,
@@ -1998,14 +2006,6 @@
   "division": "U16 AAA",
   "association": "Lambton Jr Sting",
   "logo": "logos/bcc449715362.png"
- },
- {
-  "id": "2728:elgin-middlesex-canucks",
-  "name": "Elgin-Middlesex Canucks",
-  "divisionId": 2728,
-  "division": "U16 AAA",
-  "association": "Elgin-Middlesex Canucks",
-  "logo": "logos/2573db2f4749.png"
  },
  {
   "id": "2728:noha-red",

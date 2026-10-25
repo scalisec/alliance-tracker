@@ -1,6 +1,6 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-10-24T21:53:10.390Z",
+ "updatedAt": "2026-10-25T00:26:58.592Z",
  "regular": [
   {
    "name": "",
@@ -34,6 +34,21 @@
      "diff": 8,
      "l10": "4-0-1",
      "strk": "W3"
+    },
+    {
+     "team": "Sarnia Jr. Sting",
+     "teamId": "odb-97258",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+     "gp": 4,
+     "w": 4,
+     "l": 0,
+     "t": 0,
+     "pts": 8,
+     "gf": 24,
+     "ga": 6,
+     "diff": 18,
+     "l10": "4-0",
+     "strk": "W4"
     },
     {
      "team": "West London Hawks",
@@ -81,21 +96,6 @@
      "strk": "W2"
     },
     {
-     "team": "Sarnia Jr. Sting",
-     "teamId": "odb-97258",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 3,
-     "w": 3,
-     "l": 0,
-     "t": 0,
-     "pts": 6,
-     "gf": 17,
-     "ga": 5,
-     "diff": 12,
-     "l10": "3-0",
-     "strk": "W3"
-    },
-    {
      "team": "Burlington Raiders",
      "teamId": "odb-97260",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
@@ -114,16 +114,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97254",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 4,
+     "gp": 5,
      "w": 2,
-     "l": 1,
+     "l": 2,
      "t": 1,
      "pts": 5,
-     "gf": 12,
-     "ga": 9,
-     "diff": 3,
-     "l10": "2-1-1",
-     "strk": "W2"
+     "gf": 13,
+     "ga": 16,
+     "diff": -3,
+     "l10": "2-2-1",
+     "strk": "L1"
     },
     {
      "team": "London Bandits",

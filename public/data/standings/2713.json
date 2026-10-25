@@ -1,6 +1,6 @@
 {
  "divisionId": 2713,
- "updatedAt": "2026-10-24T23:25:42.524Z",
+ "updatedAt": "2026-10-25T00:25:39.067Z",
  "regular": [
   {
    "name": "East Division",
@@ -104,16 +104,16 @@
      "team": "London Jr Knights",
      "teamId": "odb-96954",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 3,
+     "gp": 4,
      "w": 2,
-     "l": 0,
+     "l": 1,
      "t": 1,
      "pts": 5,
      "gf": 11,
-     "ga": 4,
-     "diff": 7,
-     "l10": "2-0-1",
-     "strk": "W2"
+     "ga": 6,
+     "diff": 5,
+     "l10": "2-1-1",
+     "strk": "L1"
     },
     {
      "team": "Windsor Jr Spitfires",
@@ -131,6 +131,21 @@
      "strk": "L1"
     },
     {
+     "team": "Sarnia-Lambton Jr Sting",
+     "teamId": "odb-96953",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
+     "gp": 5,
+     "w": 2,
+     "l": 2,
+     "t": 1,
+     "pts": 5,
+     "gf": 10,
+     "ga": 12,
+     "diff": -2,
+     "l10": "2-2-1",
+     "strk": "W1"
+    },
+    {
      "team": "Chatham-Kent Cyclones",
      "teamId": "odb-96949",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
@@ -144,21 +159,6 @@
      "diff": -4,
      "l10": "2-3",
      "strk": "W1"
-    },
-    {
-     "team": "Sarnia-Lambton Jr Sting",
-     "teamId": "odb-96953",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 4,
-     "w": 1,
-     "l": 2,
-     "t": 1,
-     "pts": 3,
-     "gf": 8,
-     "ga": 12,
-     "diff": -4,
-     "l10": "1-2-1",
-     "strk": "L1"
     },
     {
      "team": "Sun County Panthers",

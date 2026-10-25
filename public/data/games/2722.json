@@ -632,14 +632,17 @@
   "start": "2026-10-24T18:30:00-04:00",
   "away": "Huron-Perth Lakers",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 10,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Gretzky Center (#2)",
   "code": "U14P63",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4549/2026-10-24/18:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3096673
+  }
  },
  {
   "id": 2374769,

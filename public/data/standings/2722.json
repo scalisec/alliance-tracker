@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-10-24T19:54:05.556Z",
+ "updatedAt": "2026-10-25T00:26:28.678Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96985",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 6,
-     "w": 5,
+     "gp": 7,
+     "w": 6,
      "l": 0,
      "t": 1,
-     "pts": 11,
-     "gf": 29,
-     "ga": 9,
-     "diff": 20,
-     "l10": "5-0-1",
-     "strk": "W5"
+     "pts": 13,
+     "gf": 39,
+     "ga": 10,
+     "diff": 29,
+     "l10": "6-0-1",
+     "strk": "W6"
     },
     {
      "team": "Windsor Jr Spitfires",
@@ -114,16 +114,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-96981",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 8,
+     "gp": 9,
      "w": 2,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 4,
-     "gf": 14,
-     "ga": 36,
-     "diff": -22,
-     "l10": "2-6",
-     "strk": "L4"
+     "gf": 15,
+     "ga": 46,
+     "diff": -31,
+     "l10": "2-7",
+     "strk": "L5"
     },
     {
      "team": "Cambridge Hawks",

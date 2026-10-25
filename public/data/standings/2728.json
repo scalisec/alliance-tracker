@@ -1,6 +1,6 @@
 {
  "divisionId": 2728,
- "updatedAt": "2026-10-24T22:49:11.024Z",
+ "updatedAt": "2026-10-25T00:27:18.723Z",
  "regular": [
   {
    "name": "East Division",
@@ -51,6 +51,21 @@
      "strk": "L1"
     },
     {
+     "team": "Kitchener Jr Rangers",
+     "teamId": "odb-97010",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 2,
+     "w": 0,
+     "l": 2,
+     "t": 0,
+     "pts": 0,
+     "gf": 2,
+     "ga": 7,
+     "diff": -5,
+     "l10": "0-2",
+     "strk": "L2"
+    },
+    {
      "team": "Cambridge Jr RedHawks",
      "teamId": "odb-97006",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
@@ -64,21 +79,6 @@
      "diff": -13,
      "l10": "0-3",
      "strk": "L3"
-    },
-    {
-     "team": "Kitchener Jr Rangers",
-     "teamId": "odb-97010",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 1,
-     "w": 0,
-     "l": 1,
-     "t": 0,
-     "pts": 0,
-     "gf": 1,
-     "ga": 4,
-     "diff": -3,
-     "l10": "0-1",
-     "strk": "L1"
     }
    ]
   },
@@ -116,6 +116,21 @@
      "strk": "W2"
     },
     {
+     "team": "Elgin-Middlesex Canucks",
+     "teamId": "odb-97008",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+     "gp": 1,
+     "w": 1,
+     "l": 0,
+     "t": 0,
+     "pts": 2,
+     "gf": 3,
+     "ga": 1,
+     "diff": 2,
+     "l10": "1-0",
+     "strk": "W1"
+    },
+    {
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-97015",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
@@ -144,21 +159,6 @@
      "diff": -3,
      "l10": "0-1",
      "strk": "L1"
-    },
-    {
-     "team": "Elgin-Middlesex Canucks",
-     "teamId": "odb-97008",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 0,
-     "w": 0,
-     "l": 0,
-     "t": 0,
-     "pts": 0,
-     "gf": 0,
-     "ga": 0,
-     "diff": 0,
-     "l10": "0-0",
-     "strk": "-"
     }
    ]
   }
