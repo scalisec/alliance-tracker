@@ -31,6 +31,9 @@ export default function GameDetail({ ctx, divId, gameId }) {
   }, [waiting]);
 
   const [showGs, setShowGs] = useState(false);
+  // Live game: open GameSheet's live scoring straight away (it's newer than Alliance's data).
+  const isLive = state === 'live';
+  useEffect(() => { if (isLive) setShowGs(true); }, [isLive]);
   const gsSeason = game?.gamesheet?.season ?? ctx.meta?.gamesheetSeasons?.[div?.level] ?? null;
   const gsOk = game?.gamesheet && /^\d+$/.test(String(game.gamesheet.season)) && /^\d+$/.test(String(game.gamesheet.game));
   const gsUrl = gsOk
@@ -104,7 +107,7 @@ export default function GameDetail({ ctx, divId, gameId }) {
             )}
             <p className="legend" style={{ textAlign: 'center' }}>
               {state === 'final' ? 'Scorers, assists and penalties open on GameSheet.'
-                : state === 'live' ? 'Open the GameSheet panel below for live scoring (when the scorekeeper uses the GameSheet app).'
+                : state === 'live' ? 'Live scoring above comes from GameSheet, when the scorekeeper uses the GameSheet app.'
                 : waiting ? '' : 'Score and box score appear after the game.'}
             </p>
           </>

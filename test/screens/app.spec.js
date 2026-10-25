@@ -76,3 +76,21 @@ test('switching division updates standings', async ({ page }) => {
   expect(after.length).toBeGreaterThan(3);
   expect(after.join()).not.toEqual(before.join());
 });
+
+test('a live game opens GameSheet live scoring automatically', async ({ page }) => {
+  // Make one U10 BB game "live" by moving its start to 20 minutes ago.
+  let gameId;
+  await page.route('**/data/games/2712.json*', async (route) => {
+    const games = await (await route.fetch()).json();
+    const g = games.find((x) => x.status !== 'final') ?? games[0];
+    Object.assign(g, { start: new Date(Date.now() - 20 * 60000).toISOString(), status: 'scheduled', homeScore: null, awayScore: null });
+    gameId = g.id;
+    await route.fulfill({ json: games });
+  });
+  await page.goto('./#/schedule');
+  await expect(page.locator('.badge.live').first()).toBeVisible();
+  await page.goto(`./#/game/2712/${gameId}`);
+  await expect(page.locator('.badge.live')).toBeVisible();
+  await expect(page.locator('.gs-embed iframe')).toBeVisible();
+  await expect(page.getByRole('button', { name: /Refresh score/ })).toBeVisible();
+});

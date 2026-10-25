@@ -36,7 +36,7 @@ theonedb.com ────────┴─► GitHub Actions collector ─► p
 
 | Run | When (Toronto) | Does |
 |---|---|---|
-| Live | Sat/Sun every 20 min, 7 AM–midnight; weekdays every 30 min, 5 PM–midnight | Only divisions with games due; scores, standings, box scores. Exits early if nothing is due. |
+| Live | Every 10 min during game windows: Sat/Sun 7 AM–midnight, weekdays 5 PM–midnight | Only divisions with games due; scores, standings, box scores. Exits early if nothing is due. |
 | Full | Nightly ~3–4 AM | All schedules + standings, box-score backfill (newest first) |
 | Weekly | Monday ~5 AM | MD schedules |
 

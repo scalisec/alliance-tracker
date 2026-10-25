@@ -4,16 +4,16 @@ name: Update data and publish
 # cover both. Live runs exit early (no page reads) when no games are due.
 #
 # GitHub's scheduler often skips frequent schedules, so during game windows each
-# live run starts the next one ~20 minutes later itself (job "next"). The cron
+# live run starts the next one ~10 minutes later itself (job "next"). The cron
 # lines below then act as a backup that restarts the chain if it ever stops.
 on:
   schedule:
     - cron: '15 8 * * *'          # nightly full sync (~3-4 AM Toronto)
     - cron: '35 9 * * 1'          # weekly: MD schedules + MHR ratings (Mon)
-    - cron: '7-59/20 11-23 * * 0,6' # weekends, daytime: every 20 min
-    - cron: '7-59/20 0-4 * * 0,1'   # weekend evenings (Sat/Sun night Toronto)
-    - cron: '11-59/30 21-23 * * 1-5' # weekday evenings: every 30 min
-    - cron: '11-59/30 0-4 * * 2-6'   # weekday evenings, after midnight UTC
+    - cron: '7-59/10 11-23 * * 0,6' # weekends, daytime: every 10 min
+    - cron: '7-59/10 0-4 * * 0,1'   # weekend evenings (Sat/Sun night Toronto)
+    - cron: '11-59/10 21-23 * * 1-5' # weekday evenings: every 10 min
+    - cron: '11-59/10 0-4 * * 2-6'   # weekday evenings, after midnight UTC
   workflow_dispatch:
     inputs:
       mode:
@@ -104,7 +104,7 @@ jobs:
         uses: actions/deploy-pages@v4
 
   next:
-    # Keep live updates coming every ~20 min during game windows.
+    # Keep live updates coming every ~10 min during game windows.
     needs: [collect, deploy]
     if: always() && needs.collect.outputs.mode == 'live'
     runs-on: ubuntu-latest
@@ -123,9 +123,9 @@ jobs:
           if [ "$H" -lt "$FIRST" ] || { [ "$H" -eq 23 ] && [ "$M" -gt 40 ]; }; then
             echo "Outside the game window; the chain stops until the next scheduled run."; exit 0
           fi
-          # Start the next run 20 minutes after this one started.
+          # Start the next run 10 minutes after this one started.
           STARTED=$(gh api "repos/$GH_REPO/actions/runs/${{ github.run_id }}" --jq .run_started_at)
-          WAIT=$(( 1200 - ( $(date +%s) - $(date -d "$STARTED" +%s) ) ))
+          WAIT=$(( 600 - ( $(date +%s) - $(date -d "$STARTED" +%s) ) ))
           if [ "$WAIT" -gt 0 ]; then echo "Waiting ${WAIT}s"; sleep "$WAIT"; fi
           # Don't start a second chain if another update is already queued or running.
           OTHERS=$(gh run list -w update-data.yml -L 20 --json databaseId,status \
