@@ -1,6 +1,6 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-10-25T21:41:42.575Z",
+ "updatedAt": "2026-10-25T22:00:35.382Z",
  "regular": [
   {
    "name": "",
@@ -39,16 +39,16 @@
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97220",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 8,
+     "gp": 9,
      "w": 6,
      "l": 1,
-     "t": 1,
-     "pts": 13,
-     "gf": 41,
-     "ga": 24,
+     "t": 2,
+     "pts": 14,
+     "gf": 45,
+     "ga": 28,
      "diff": 17,
-     "l10": "6-1-1",
-     "strk": "W1"
+     "l10": "6-1-2",
+     "strk": "T1"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -126,6 +126,21 @@
      "strk": "W1"
     },
     {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97206",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 9,
+     "w": 2,
+     "l": 5,
+     "t": 2,
+     "pts": 6,
+     "gf": 27,
+     "ga": 50,
+     "diff": -23,
+     "l10": "2-5-2",
+     "strk": "T1"
+    },
+    {
      "team": "West London Hawks",
      "teamId": "odb-97215",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
@@ -139,21 +154,6 @@
      "diff": -17,
      "l10": "2-4-1",
      "strk": "T1"
-    },
-    {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97206",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 8,
-     "w": 2,
-     "l": 5,
-     "t": 1,
-     "pts": 5,
-     "gf": 23,
-     "ga": 46,
-     "diff": -23,
-     "l10": "2-5-1",
-     "strk": "L1"
     },
     {
      "team": "North London Nationals",
