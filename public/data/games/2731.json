@@ -506,14 +506,17 @@
   "start": "2026-10-24T18:30:00-04:00",
   "away": "Waterloo Wolves",
   "home": "Windsor Jr Spitfires",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Sarnia PASA (Rink 1)",
   "code": "U18P34",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-10-24/18:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3096669
+  }
  },
  {
   "id": 2373287,
