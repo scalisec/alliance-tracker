@@ -584,6 +584,14 @@
   "logo": "logos/6c3aa7a1db2c.png"
  },
  {
+  "id": "2715:north-london-nationals",
+  "name": "North London Nationals",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/41275c8a7241.png"
+ },
+ {
   "id": "2715:burlington-bulldogs-blue",
   "name": "Burlington Bulldogs Blue",
   "divisionId": 2715,
@@ -598,14 +606,6 @@
   "division": "U11 BB",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
- },
- {
-  "id": "2715:north-london-nationals",
-  "name": "North London Nationals",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/41275c8a7241.png"
  },
  {
   "id": "2715:brantford-99ers",

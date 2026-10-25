@@ -1,6 +1,6 @@
 {
  "divisionId": 2712,
- "updatedAt": "2026-10-24T22:29:18.484Z",
+ "updatedAt": "2026-10-25T16:16:06.660Z",
  "regular": [
   {
    "name": "East Division",
@@ -39,16 +39,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97187",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 6,
-     "w": 2,
+     "gp": 7,
+     "w": 3,
      "l": 2,
      "t": 2,
-     "pts": 6,
-     "gf": 16,
-     "ga": 13,
-     "diff": 3,
-     "l10": "2-2-2",
-     "strk": "T1"
+     "pts": 8,
+     "gf": 23,
+     "ga": 14,
+     "diff": 9,
+     "l10": "3-2-2",
+     "strk": "W1"
     },
     {
      "team": "Waterloo Wolves",
@@ -84,16 +84,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-97181",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 4,
+     "gp": 5,
      "w": 2,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "pts": 4,
-     "gf": 14,
-     "ga": 9,
-     "diff": 5,
-     "l10": "2-2",
-     "strk": "W2"
+     "gf": 15,
+     "ga": 16,
+     "diff": -1,
+     "l10": "2-3",
+     "strk": "L1"
     },
     {
      "team": "Burlington Bulldogs White",
@@ -134,16 +134,16 @@
      "team": "North London Nationals",
      "teamId": "odb-97177",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 2,
-     "w": 2,
+     "gp": 3,
+     "w": 3,
      "l": 0,
      "t": 0,
-     "pts": 4,
-     "gf": 20,
-     "ga": 2,
-     "diff": 18,
-     "l10": "2-0",
-     "strk": "W2"
+     "pts": 6,
+     "gf": 23,
+     "ga": 4,
+     "diff": 19,
+     "l10": "3-0",
+     "strk": "W3"
     },
     {
      "team": "Oakridge Aeros",
@@ -194,16 +194,16 @@
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97179",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 2,
+     "gp": 3,
      "w": 1,
-     "l": 1,
+     "l": 2,
      "t": 0,
      "pts": 2,
-     "gf": 5,
-     "ga": 8,
-     "diff": -3,
-     "l10": "1-1",
-     "strk": "L1"
+     "gf": 7,
+     "ga": 11,
+     "diff": -4,
+     "l10": "1-2",
+     "strk": "L2"
     }
    ]
   }

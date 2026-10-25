@@ -617,14 +617,17 @@
   "start": "2026-10-25T11:00:00-04:00",
   "away": "North London Nationals",
   "home": "London Bandits",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U11BR18",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3097421
+  }
  },
  {
   "id": 2379391,
