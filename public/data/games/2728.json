@@ -203,14 +203,17 @@
   "start": "2026-10-24T19:00:00-04:00",
   "away": "Sarnia-Lambton Jr Sting",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Gretzky Center (#1)",
   "code": "U16P17",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-10-24/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3096699
+  }
  },
  {
   "id": 2375231,
