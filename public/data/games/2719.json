@@ -90,21 +90,6 @@
   "gamesheet": null
  },
  {
-  "id": 2374566,
-  "divisionId": 2719,
-  "start": "2026-10-04T11:00:00-04:00",
-  "away": "Windsor Jr Spitfires",
-  "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "cancelled",
-  "venue": "Sportsworld (Spectator)",
-  "code": "U13P141",
-  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4167/2026-10-04/11:00",
-  "type": "regular",
-  "gamesheet": null
- },
- {
   "id": 2374537,
   "divisionId": 2719,
   "start": "2026-10-04T12:15:00-04:00",
@@ -1997,6 +1982,21 @@
   "venue": "Blenheim",
   "code": "U13P61",
   "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
+  "id": 2374566,
+  "divisionId": 2719,
+  "start": "2027-01-10T12:30:00-05:00",
+  "away": "Windsor Jr Spitfires",
+  "home": "Kitchener Jr Rangers",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Sportsworld (Spectator)",
+  "code": "U13P141",
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4167/2026-10-04/11:00",
   "type": "regular",
   "gamesheet": null
  },

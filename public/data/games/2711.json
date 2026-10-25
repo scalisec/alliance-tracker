@@ -389,14 +389,17 @@
   "start": "2026-10-24T11:00:00-04:00",
   "away": "Mt. Brydges Cougars",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Gretzky Center (#1)",
   "code": "U10S26",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-10-24/11:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3095372
+  }
  },
  {
   "id": 2376135,

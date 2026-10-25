@@ -2517,6 +2517,21 @@
   "gamesheet": null
  },
  {
+  "id": 2408507,
+  "divisionId": 2712,
+  "start": "2027-01-30T14:15:00-05:00",
+  "away": "Mt. Brydges Cougars",
+  "home": "West London Hawks",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Bostwick (A)",
+  "code": "U10BRS-146",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
   "id": 2411521,
   "divisionId": 2712,
   "start": "2027-01-30T14:30:00-05:00",
@@ -2527,21 +2542,6 @@
   "status": "scheduled",
   "venue": "Carling (B)",
   "code": "U10BW4",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
-  "id": 2408507,
-  "divisionId": 2712,
-  "start": "2027-01-30T15:00:00-05:00",
-  "away": "Mt. Brydges Cougars",
-  "home": "West London Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Bostwick (A)",
-  "code": "U10BRS-146",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null
