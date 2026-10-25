@@ -467,14 +467,17 @@
   "start": "2026-10-24T19:45:00-04:00",
   "away": "Kitchener Jr Rangers",
   "home": "Stratford Warriors",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Rotary Complex (Rink B)",
   "code": "U18S113",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3096721
+  }
  },
  {
   "id": 2376100,

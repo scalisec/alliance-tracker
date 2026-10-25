@@ -680,14 +680,17 @@
   "start": "2026-10-24T20:00:00-04:00",
   "away": "Cambridge Hawks",
   "home": "Lambeth Lancers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Bostwick (A)",
   "code": "U18BR155",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5025/2026-10-24/20:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3096691
+  }
  },
  {
   "id": 2379271,
