@@ -485,14 +485,17 @@
   "start": "2026-10-25T13:45:00-04:00",
   "away": "London Jr Knights White",
   "home": "St. Thomas Jr Stars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Joe Thornton CC (STMHA)",
   "code": "U18S39",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4355/2026-10-25/13:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3098998
+  }
  },
  {
   "id": 2376013,

@@ -848,6 +848,14 @@
   "logo": "logos/8845e5146a9b.png"
  },
  {
+  "id": "2718:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2718,
+  "division": "U12 BB",
+  "association": "Waterloo Minor Hockey",
+  "logo": "logos/1953df906ca9.png"
+ },
+ {
   "id": "2718:woodstock-jr-navy-vets",
   "name": "Woodstock Jr Navy Vets",
   "divisionId": 2718,
@@ -862,14 +870,6 @@
   "division": "U12 BB",
   "association": null,
   "logo": "logos/612db499a971.png"
- },
- {
-  "id": "2718:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2718,
-  "division": "U12 BB",
-  "association": "Waterloo Minor Hockey",
-  "logo": "logos/1953df906ca9.png"
  },
  {
   "id": "2718:kitchener-jr-rangers",
@@ -1344,14 +1344,6 @@
   "logo": "logos/8998f15cb7f8.png"
  },
  {
-  "id": "2722:kitchener-jr-rangers",
-  "name": "Kitchener Jr Rangers",
-  "divisionId": 2722,
-  "division": "U14 AAA",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
- },
- {
   "id": "2722:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2722,
@@ -1366,6 +1358,14 @@
   "division": "U14 AAA",
   "association": "Cambridge Minor Hockey",
   "logo": "logos/e0787358df89.png"
+ },
+ {
+  "id": "2722:kitchener-jr-rangers",
+  "name": "Kitchener Jr Rangers",
+  "divisionId": 2722,
+  "division": "U14 AAA",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2722:chatham-kent-cyclones",
@@ -2344,6 +2344,14 @@
   "logo": "logos/704c833c6aca.png"
  },
  {
+  "id": "2732:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
+ },
+ {
   "id": "2732:london-jr-knights-white",
   "name": "London Jr Knights White",
   "divisionId": 2732,
@@ -2352,12 +2360,12 @@
   "logo": "logos/08d490425be3.png"
  },
  {
-  "id": "2732:brantford-99ers",
-  "name": "Brantford 99ers",
+  "id": "2732:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
   "divisionId": 2732,
   "division": "U18 AA-A",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
+  "association": null,
+  "logo": "logos/612db499a971.png"
  },
  {
   "id": "2732:kitchener-jr-rangers",
@@ -2382,14 +2390,6 @@
   "division": "U18 AA-A",
   "association": null,
   "logo": "logos/0f4ddfdee820.png"
- },
- {
-  "id": "2732:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": null,
-  "logo": "logos/612db499a971.png"
  },
  {
   "id": "2732:cambridge-hawks",

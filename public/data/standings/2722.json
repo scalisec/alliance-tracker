@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-10-25T17:39:30.934Z",
+ "updatedAt": "2026-10-25T20:04:25.899Z",
  "regular": [
   {
    "name": "",
@@ -84,16 +84,16 @@
      "team": "London Jr Knights",
      "teamId": "odb-96988",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 6,
+     "gp": 7,
      "w": 3,
      "l": 2,
-     "t": 1,
-     "pts": 7,
-     "gf": 19,
-     "ga": 17,
+     "t": 2,
+     "pts": 8,
+     "gf": 20,
+     "ga": 18,
      "diff": 2,
-     "l10": "3-2-1",
-     "strk": "L2"
+     "l10": "3-2-2",
+     "strk": "T1"
     },
     {
      "team": "Sun County Panthers",
@@ -111,34 +111,19 @@
      "strk": "L1"
     },
     {
-     "team": "Kitchener Jr Rangers",
-     "teamId": "odb-96986",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 8,
-     "w": 2,
-     "l": 6,
-     "t": 0,
-     "pts": 4,
-     "gf": 14,
-     "ga": 31,
-     "diff": -17,
-     "l10": "2-6",
-     "strk": "W1"
-    },
-    {
      "team": "Brantford 99ers",
      "teamId": "odb-96981",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 9,
+     "gp": 10,
      "w": 2,
      "l": 7,
-     "t": 0,
-     "pts": 4,
-     "gf": 15,
-     "ga": 46,
+     "t": 1,
+     "pts": 5,
+     "gf": 16,
+     "ga": 47,
      "diff": -31,
-     "l10": "2-7",
-     "strk": "L5"
+     "l10": "2-7-1",
+     "strk": "T1"
     },
     {
      "team": "Cambridge Hawks",
@@ -154,6 +139,21 @@
      "diff": -37,
      "l10": "2-7",
      "strk": "L3"
+    },
+    {
+     "team": "Kitchener Jr Rangers",
+     "teamId": "odb-96986",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 8,
+     "w": 2,
+     "l": 6,
+     "t": 0,
+     "pts": 4,
+     "gf": 14,
+     "ga": 31,
+     "diff": -17,
+     "l10": "2-6",
+     "strk": "W1"
     },
     {
      "team": "Chatham-Kent Cyclones",
