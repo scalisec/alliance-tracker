@@ -1,6 +1,6 @@
 {
  "divisionId": 2711,
- "updatedAt": "2026-10-25T16:35:44.565Z",
+ "updatedAt": "2026-10-25T17:36:00.705Z",
  "regular": [
   {
    "name": "",
@@ -126,34 +126,19 @@
      "strk": "L2"
     },
     {
-     "team": "Stratford Warriors",
-     "teamId": "odb-97033",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 5,
-     "w": 1,
-     "l": 4,
-     "t": 0,
-     "pts": 2,
-     "gf": 13,
-     "ga": 17,
-     "diff": -4,
-     "l10": "1-4",
-     "strk": "L2"
-    },
-    {
      "team": "Brantford 99ers",
      "teamId": "odb-97026",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 4,
-     "w": 1,
+     "gp": 5,
+     "w": 2,
      "l": 3,
      "t": 0,
-     "pts": 2,
-     "gf": 7,
-     "ga": 20,
-     "diff": -13,
-     "l10": "1-3",
-     "strk": "W1"
+     "pts": 4,
+     "gf": 11,
+     "ga": 21,
+     "diff": -10,
+     "l10": "2-3",
+     "strk": "W2"
     },
     {
      "team": "Cambridge Hawks",
@@ -171,19 +156,34 @@
      "strk": "L3"
     },
     {
+     "team": "Stratford Warriors",
+     "teamId": "odb-97033",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
+     "gp": 5,
+     "w": 1,
+     "l": 4,
+     "t": 0,
+     "pts": 2,
+     "gf": 13,
+     "ga": 17,
+     "diff": -4,
+     "l10": "1-4",
+     "strk": "L2"
+    },
+    {
      "team": "Burlington Raiders",
      "teamId": "odb-97294",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 6,
+     "gp": 7,
      "w": 0,
-     "l": 5,
+     "l": 6,
      "t": 1,
      "pts": 1,
-     "gf": 11,
-     "ga": 29,
-     "diff": -18,
-     "l10": "0-5-1",
-     "strk": "T1"
+     "gf": 12,
+     "ga": 33,
+     "diff": -21,
+     "l10": "0-6-1",
+     "strk": "L1"
     },
     {
      "team": "Kitchener Jr Rangers Blue",

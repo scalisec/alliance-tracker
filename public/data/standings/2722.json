@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-10-25T17:19:24.256Z",
+ "updatedAt": "2026-10-25T17:39:30.934Z",
  "regular": [
   {
    "name": "",
@@ -39,16 +39,16 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-96991",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 6,
-     "w": 5,
+     "gp": 7,
+     "w": 6,
      "l": 1,
      "t": 0,
-     "pts": 10,
-     "gf": 29,
-     "ga": 9,
-     "diff": 20,
-     "l10": "5-1",
-     "strk": "W3"
+     "pts": 12,
+     "gf": 31,
+     "ga": 10,
+     "diff": 21,
+     "l10": "6-1",
+     "strk": "W4"
     },
     {
      "team": "Elgin-Middlesex Canucks",
@@ -144,16 +144,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-96982",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 8,
+     "gp": 9,
      "w": 2,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 4,
-     "gf": 10,
-     "ga": 46,
-     "diff": -36,
-     "l10": "2-6",
-     "strk": "L2"
+     "gf": 11,
+     "ga": 48,
+     "diff": -37,
+     "l10": "2-7",
+     "strk": "L3"
     },
     {
      "team": "Chatham-Kent Cyclones",

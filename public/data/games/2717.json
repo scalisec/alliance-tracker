@@ -515,14 +515,17 @@
   "start": "2026-10-25T12:00:00-04:00",
   "away": "St. Thomas Jr Stars",
   "home": "Kitchener Jr Rangers Red",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U12S39",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-10-25/12:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3097445
+  }
  },
  {
   "id": 2375467,
@@ -530,14 +533,17 @@
   "start": "2026-10-25T12:15:00-04:00",
   "away": "London Jr Knights Green",
   "home": "Stratford Warriors",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Rotary Complex (Rink B)",
   "code": "U12S28",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3097446
+  }
  },
  {
   "id": 2375476,

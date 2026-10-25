@@ -470,14 +470,17 @@
   "start": "2026-10-25T12:15:00-04:00",
   "away": "Waterloo Wolves",
   "home": "Mt. Brydges Cougars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Tri-Township (Tri-Township)",
   "code": "U11S44",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3098184
+  }
  },
  {
   "id": 2375383,
@@ -485,14 +488,17 @@
   "start": "2026-10-25T12:30:00-04:00",
   "away": "Cambridge Hawks",
   "home": "St. Thomas Jr Stars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Joe Thornton CC (STMHA)",
   "code": "U11S61",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4355/2026-10-25/12:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3098185
+  }
  },
  {
   "id": 2375350,

@@ -416,14 +416,17 @@
   "start": "2026-10-25T12:00:00-04:00",
   "away": "Brantford 99ers",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Galt Arena (Galt Arena)",
   "code": "U11P8",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2608/2026-10-25/12:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3097555
+  }
  },
  {
   "id": 2373691,
