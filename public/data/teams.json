@@ -1640,20 +1640,20 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
-  "id": "2725:elgin-middlesex-canucks",
-  "name": "Elgin-Middlesex Canucks",
-  "divisionId": 2725,
-  "division": "U15 AAA",
-  "association": "Elgin-Middlesex Canucks",
-  "logo": "logos/2573db2f4749.png"
- },
- {
   "id": "2725:sarnia-lambton-jr-sting",
   "name": "Sarnia-Lambton Jr Sting",
   "divisionId": 2725,
   "division": "U15 AAA",
   "association": "Lambton Jr Sting",
   "logo": "logos/bcc449715362.png"
+ },
+ {
+  "id": "2725:elgin-middlesex-canucks",
+  "name": "Elgin-Middlesex Canucks",
+  "divisionId": 2725,
+  "division": "U15 AAA",
+  "association": "Elgin-Middlesex Canucks",
+  "logo": "logos/2573db2f4749.png"
  },
  {
   "id": "2725:huron-perth-lakers",
@@ -1816,20 +1816,20 @@
   "logo": "logos/51ff29ef905f.png"
  },
  {
-  "id": "2727:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
- },
- {
   "id": "2727:oakridge-aeros",
   "name": "Oakridge Aeros",
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/ae847321ae88.png"
+ },
+ {
+  "id": "2727:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2727:west-london-hawks",

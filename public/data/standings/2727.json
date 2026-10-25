@@ -1,10 +1,25 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-10-25T22:22:11.835Z",
+ "updatedAt": "2026-10-25T22:42:27.866Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Oakridge Aeros",
+     "teamId": "odb-97266",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
+     "gp": 7,
+     "w": 6,
+     "l": 1,
+     "t": 0,
+     "pts": 12,
+     "gf": 33,
+     "ga": 11,
+     "diff": 22,
+     "l10": "6-1",
+     "strk": "W6"
+    },
     {
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97258",
@@ -18,21 +33,6 @@
      "ga": 8,
      "diff": 25,
      "l10": "5-0",
-     "strk": "W5"
-    },
-    {
-     "team": "Oakridge Aeros",
-     "teamId": "odb-97266",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 6,
-     "w": 5,
-     "l": 1,
-     "t": 0,
-     "pts": 10,
-     "gf": 30,
-     "ga": 11,
-     "diff": 19,
-     "l10": "5-1",
      "strk": "W5"
     },
     {
@@ -114,16 +114,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97260",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 5,
+     "gp": 6,
      "w": 3,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "pts": 6,
      "gf": 19,
-     "ga": 13,
-     "diff": 6,
-     "l10": "3-2",
-     "strk": "L1"
+     "ga": 16,
+     "diff": 3,
+     "l10": "3-3",
+     "strk": "L2"
     },
     {
      "team": "London Bandits",

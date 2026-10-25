@@ -1,6 +1,6 @@
 {
  "divisionId": 2725,
- "updatedAt": "2026-10-25T22:02:15.213Z",
+ "updatedAt": "2026-10-25T22:41:57.841Z",
  "regular": [
   {
    "name": "",
@@ -51,6 +51,21 @@
      "strk": "W2"
     },
     {
+     "team": "Sarnia-Lambton Jr Sting",
+     "teamId": "odb-96999",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
+     "gp": 9,
+     "w": 4,
+     "l": 3,
+     "t": 2,
+     "pts": 10,
+     "gf": 28,
+     "ga": 22,
+     "diff": 6,
+     "l10": "4-3-2",
+     "strk": "T2"
+    },
+    {
      "team": "Elgin-Middlesex Canucks",
      "teamId": "odb-96996",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
@@ -66,34 +81,19 @@
      "strk": "W2"
     },
     {
-     "team": "Sarnia-Lambton Jr Sting",
-     "teamId": "odb-96999",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 8,
-     "w": 4,
-     "l": 3,
-     "t": 1,
-     "pts": 9,
-     "gf": 26,
-     "ga": 20,
-     "diff": 6,
-     "l10": "4-3-1",
-     "strk": "T1"
-    },
-    {
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96997",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 8,
+     "gp": 9,
      "w": 4,
      "l": 4,
-     "t": 0,
-     "pts": 8,
-     "gf": 25,
-     "ga": 17,
+     "t": 1,
+     "pts": 9,
+     "gf": 27,
+     "ga": 19,
      "diff": 8,
-     "l10": "4-4",
-     "strk": "L1"
+     "l10": "4-4-1",
+     "strk": "T1"
     },
     {
      "team": "Sault Major Jr Greyhounds",
