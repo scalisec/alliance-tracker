@@ -1,6 +1,6 @@
 {
  "divisionId": 2719,
- "updatedAt": "2026-10-25T01:25:10.767Z",
+ "updatedAt": "2026-10-25T01:44:58.089Z",
  "regular": [
   {
    "name": "",
@@ -36,6 +36,21 @@
      "strk": "W1"
     },
     {
+     "team": "Sarnia-Lambton Jr Sting",
+     "teamId": "odb-96975",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
+     "gp": 5,
+     "w": 3,
+     "l": 0,
+     "t": 2,
+     "pts": 8,
+     "gf": 17,
+     "ga": 8,
+     "diff": 9,
+     "l10": "3-0-2",
+     "strk": "W1"
+    },
+    {
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-96979",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
@@ -49,21 +64,6 @@
      "diff": 7,
      "l10": "3-2",
      "strk": "W3"
-    },
-    {
-     "team": "Sarnia-Lambton Jr Sting",
-     "teamId": "odb-96975",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 4,
-     "w": 2,
-     "l": 0,
-     "t": 2,
-     "pts": 6,
-     "gf": 11,
-     "ga": 7,
-     "diff": 4,
-     "l10": "2-0-2",
-     "strk": "T1"
     },
     {
      "team": "Sun County Panthers",
@@ -174,16 +174,16 @@
      "team": "Elgin-Middlesex Canucks",
      "teamId": "odb-96972",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 5,
+     "gp": 6,
      "w": 0,
-     "l": 4,
+     "l": 5,
      "t": 1,
      "pts": 1,
-     "gf": 10,
-     "ga": 25,
-     "diff": -15,
-     "l10": "0-4-1",
-     "strk": "L1"
+     "gf": 11,
+     "ga": 31,
+     "diff": -20,
+     "l10": "0-5-1",
+     "strk": "L2"
     }
    ]
   }

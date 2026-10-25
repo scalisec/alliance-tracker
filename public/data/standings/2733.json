@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-10-24T23:50:31.871Z",
+ "updatedAt": "2026-10-25T01:47:48.168Z",
  "regular": [
   {
    "name": "",
@@ -21,6 +21,21 @@
      "strk": "W5"
     },
     {
+     "team": "Waterloo Wolves White",
+     "teamId": "odb-97133",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 6,
+     "w": 5,
+     "l": 1,
+     "t": 0,
+     "pts": 10,
+     "gf": 24,
+     "ga": 10,
+     "diff": 14,
+     "l10": "5-1",
+     "strk": "W5"
+    },
+    {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97124",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -33,21 +48,6 @@
      "ga": 3,
      "diff": 21,
      "l10": "4-0",
-     "strk": "W4"
-    },
-    {
-     "team": "Waterloo Wolves White",
-     "teamId": "odb-97133",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 5,
-     "w": 4,
-     "l": 1,
-     "t": 0,
-     "pts": 8,
-     "gf": 20,
-     "ga": 9,
-     "diff": 11,
-     "l10": "4-1",
      "strk": "W4"
     },
     {
@@ -96,32 +96,32 @@
      "strk": "W3"
     },
     {
-     "team": "West London Hawks Black",
-     "teamId": "odb-97129",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 3,
-     "w": 2,
-     "l": 0,
-     "t": 1,
-     "pts": 5,
-     "gf": 19,
-     "ga": 6,
-     "diff": 13,
-     "l10": "2-0-1",
-     "strk": "W1"
-    },
-    {
      "team": "Burlington Raiders",
      "teamId": "odb-98275",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
+     "gp": 5,
+     "w": 2,
+     "l": 1,
+     "t": 2,
+     "pts": 6,
+     "gf": 14,
+     "ga": 15,
+     "diff": -1,
+     "l10": "2-1-2",
+     "strk": "T1"
+    },
+    {
+     "team": "West London Hawks Black",
+     "teamId": "odb-97129",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
      "gp": 4,
      "w": 2,
      "l": 1,
      "t": 1,
      "pts": 5,
-     "gf": 11,
-     "ga": 12,
-     "diff": -1,
+     "gf": 20,
+     "ga": 10,
+     "diff": 10,
      "l10": "2-1-1",
      "strk": "L1"
     },
@@ -219,16 +219,16 @@
      "team": "Oakridge Aeros",
      "teamId": "odb-97125",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 3,
+     "gp": 4,
      "w": 0,
      "l": 3,
-     "t": 0,
-     "pts": 0,
-     "gf": 5,
-     "ga": 14,
+     "t": 1,
+     "pts": 1,
+     "gf": 8,
+     "ga": 17,
      "diff": -9,
-     "l10": "0-3",
-     "strk": "L3"
+     "l10": "0-3-1",
+     "strk": "T1"
     },
     {
      "team": "North London Nationals",

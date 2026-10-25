@@ -548,14 +548,17 @@
   "start": "2026-10-24T20:00:00-04:00",
   "away": "Elgin-Middlesex Canucks",
   "home": "Sarnia-Lambton Jr Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Clearwater (Blue)",
   "code": "U13P124",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3096697
+  }
  },
  {
   "id": 2381309,

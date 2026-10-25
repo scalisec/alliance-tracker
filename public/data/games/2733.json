@@ -644,14 +644,17 @@
   "start": "2026-10-24T19:30:00-04:00",
   "away": "Waterloo Wolves White",
   "home": "West London Hawks Black",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Bostwick (B)",
   "code": "U18BR91",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5026/2026-10-24/19:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3096690
+  }
  },
  {
   "id": 2379194,
@@ -659,14 +662,17 @@
   "start": "2026-10-24T19:30:00-04:00",
   "away": "Burlington Raiders",
   "home": "Oakridge Aeros",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Oakridge (Oakridge)",
   "code": "U18BR147",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5029/2026-10-24/19:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3096689
+  }
  },
  {
   "id": 2379147,
