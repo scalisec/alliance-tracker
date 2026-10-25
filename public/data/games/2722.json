@@ -617,14 +617,17 @@
   "start": "2026-10-24T15:45:00-04:00",
   "away": "Sarnia-Lambton Jr Sting",
   "home": "Elgin-Middlesex Canucks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U14P106",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-10-24/15:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3095776
+  }
  },
  {
   "id": 2374687,

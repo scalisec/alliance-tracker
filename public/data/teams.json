@@ -896,6 +896,14 @@
   "logo": "logos/704c833c6aca.png"
  },
  {
+  "id": "2718:burlington-bulldogs-white",
+  "name": "Burlington Bulldogs White",
+  "divisionId": 2718,
+  "division": "U12 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
+ },
+ {
   "id": "2718:oakridge-aeros",
   "name": "Oakridge Aeros",
   "divisionId": 2718,
@@ -920,28 +928,20 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
-  "id": "2718:london-bandits",
-  "name": "London Bandits",
-  "divisionId": 2718,
-  "division": "U12 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/973902eb1015.png"
- },
- {
-  "id": "2718:burlington-bulldogs-white",
-  "name": "Burlington Bulldogs White",
-  "divisionId": 2718,
-  "division": "U12 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
- },
- {
   "id": "2718:burlington-raiders",
   "name": "Burlington Raiders",
   "divisionId": 2718,
   "division": "U12 BB",
   "association": "Burlington Raiders Hockey Club",
   "logo": "logos/8845e5146a9b.png"
+ },
+ {
+  "id": "2718:london-bandits",
+  "name": "London Bandits",
+  "divisionId": 2718,
+  "division": "U12 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/973902eb1015.png"
  },
  {
   "id": "2718:burlington-bulldogs-blue",
@@ -1024,6 +1024,14 @@
   "logo": "logos/08d490425be3.png"
  },
  {
+  "id": "2719:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2719,
+  "division": "U13 AAA",
+  "association": "Waterloo Minor Hockey",
+  "logo": "logos/1953df906ca9.png"
+ },
+ {
   "id": "2719:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2719,
@@ -1046,14 +1054,6 @@
   "division": "U13 AAA",
   "association": "Cambridge Minor Hockey",
   "logo": "logos/e0787358df89.png"
- },
- {
-  "id": "2719:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2719,
-  "division": "U13 AAA",
-  "association": "Waterloo Minor Hockey",
-  "logo": "logos/1953df906ca9.png"
  },
  {
   "id": "2719:chatham-kent-cyclones",
@@ -1312,20 +1312,20 @@
   "logo": "logos/1d06ddd6cd32.png"
  },
  {
-  "id": "2722:sarnia-lambton-jr-sting",
-  "name": "Sarnia-Lambton Jr Sting",
-  "divisionId": 2722,
-  "division": "U14 AAA",
-  "association": "Lambton Jr Sting",
-  "logo": "logos/bcc449715362.png"
- },
- {
   "id": "2722:elgin-middlesex-canucks",
   "name": "Elgin-Middlesex Canucks",
   "divisionId": 2722,
   "division": "U14 AAA",
   "association": "Elgin-Middlesex Canucks",
   "logo": "logos/2573db2f4749.png"
+ },
+ {
+  "id": "2722:sarnia-lambton-jr-sting",
+  "name": "Sarnia-Lambton Jr Sting",
+  "divisionId": 2722,
+  "division": "U14 AAA",
+  "association": "Lambton Jr Sting",
+  "logo": "logos/bcc449715362.png"
  },
  {
   "id": "2722:london-jr-knights",

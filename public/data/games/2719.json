@@ -554,14 +554,17 @@
   "start": "2026-10-25T11:30:00-04:00",
   "away": "Sault Major Jr Greyhounds",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 3,
+  "status": "final",
   "venue": "RIM Park (Optimists)",
   "code": "U13P54",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3097225
+  }
  },
  {
   "id": 2374541,

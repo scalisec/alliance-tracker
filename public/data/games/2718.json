@@ -920,14 +920,17 @@
   "start": "2026-10-25T12:00:00-04:00",
   "away": "Burlington Bulldogs White",
   "home": "London Bandits",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 8,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U12BR107",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3097221
+  }
  },
  {
   "id": 2377940,
