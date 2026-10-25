@@ -1,6 +1,6 @@
 {
  "divisionId": 2712,
- "updatedAt": "2026-10-25T16:16:06.660Z",
+ "updatedAt": "2026-10-25T19:01:59.135Z",
  "regular": [
   {
    "name": "East Division",
@@ -146,6 +146,21 @@
      "strk": "W3"
     },
     {
+     "team": "Sarnia Jr. Sting",
+     "teamId": "odb-97179",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+     "gp": 4,
+     "w": 2,
+     "l": 2,
+     "t": 0,
+     "pts": 4,
+     "gf": 16,
+     "ga": 12,
+     "diff": 4,
+     "l10": "2-2",
+     "strk": "W1"
+    },
+    {
      "team": "Oakridge Aeros",
      "teamId": "odb-97178",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
@@ -159,21 +174,6 @@
      "diff": -9,
      "l10": "1-1-2",
      "strk": "W1"
-    },
-    {
-     "team": "London Bandits",
-     "teamId": "odb-97182",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 3,
-     "w": 1,
-     "l": 2,
-     "t": 0,
-     "pts": 2,
-     "gf": 20,
-     "ga": 13,
-     "diff": 7,
-     "l10": "1-2",
-     "strk": "L2"
     },
     {
      "team": "West London Hawks",
@@ -191,19 +191,19 @@
      "strk": "W1"
     },
     {
-     "team": "Sarnia Jr. Sting",
-     "teamId": "odb-97179",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 3,
+     "team": "London Bandits",
+     "teamId": "odb-97182",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
+     "gp": 4,
      "w": 1,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "pts": 2,
-     "gf": 7,
-     "ga": 11,
-     "diff": -4,
-     "l10": "1-2",
-     "strk": "L2"
+     "gf": 21,
+     "ga": 22,
+     "diff": -1,
+     "l10": "1-3",
+     "strk": "L3"
     }
    ]
   }

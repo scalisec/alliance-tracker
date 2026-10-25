@@ -830,14 +830,17 @@
   "start": "2026-10-25T13:45:00-04:00",
   "away": "Burlington Raiders",
   "home": "Stratford Warriors",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Rotary Complex (Rink B)",
   "code": "U14BR83",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3099098
+  }
  },
  {
   "id": 2378120,
