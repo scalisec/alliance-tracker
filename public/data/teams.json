@@ -1288,20 +1288,20 @@
   "logo": "logos/41275c8a7241.png"
  },
  {
-  "id": "2722:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2722,
-  "division": "U14 AAA",
-  "association": "Waterloo Minor Hockey",
-  "logo": "logos/1953df906ca9.png"
- },
- {
   "id": "2722:huron-perth-lakers",
   "name": "Huron-Perth Lakers",
   "divisionId": 2722,
   "division": "U14 AAA",
   "association": "Huron-Perth Lakers",
   "logo": "logos/e85b73e63ae2.png"
+ },
+ {
+  "id": "2722:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2722,
+  "division": "U14 AAA",
+  "association": "Waterloo Minor Hockey",
+  "logo": "logos/1953df906ca9.png"
  },
  {
   "id": "2722:windsor-jr-spitfires",
@@ -2024,20 +2024,20 @@
   "logo": null
  },
  {
-  "id": "2729:mt-brydges-cougars",
-  "name": "Mt. Brydges Cougars",
-  "divisionId": 2729,
-  "division": "U16 AA-A",
-  "association": null,
-  "logo": "logos/0f4ddfdee820.png"
- },
- {
   "id": "2729:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
+ },
+ {
+  "id": "2729:mt-brydges-cougars",
+  "name": "Mt. Brydges Cougars",
+  "divisionId": 2729,
+  "division": "U16 AA-A",
+  "association": null,
+  "logo": "logos/0f4ddfdee820.png"
  },
  {
   "id": "2729:stratford-warriors",
@@ -2120,6 +2120,14 @@
   "logo": "logos/6c3aa7a1db2c.png"
  },
  {
+  "id": "2730:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
+ },
+ {
   "id": "2730:oakridge-aeros",
   "name": "Oakridge Aeros",
   "divisionId": 2730,
@@ -2134,14 +2142,6 @@
   "division": "U16 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/41275c8a7241.png"
- },
- {
-  "id": "2730:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2730:kitchener-jr-rangers-red",

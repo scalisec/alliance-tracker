@@ -1,10 +1,25 @@
 {
  "divisionId": 2729,
- "updatedAt": "2026-10-25T20:46:37.099Z",
+ "updatedAt": "2026-10-25T23:52:41.318Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-97109",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 6,
+     "w": 6,
+     "l": 0,
+     "t": 0,
+     "pts": 12,
+     "gf": 33,
+     "ga": 7,
+     "diff": 26,
+     "l10": "6-0",
+     "strk": "W6"
+    },
     {
      "team": "Mt. Brydges Cougars",
      "teamId": "odb-97291",
@@ -19,21 +34,6 @@
      "diff": 14,
      "l10": "5-0-1",
      "strk": "W1"
-    },
-    {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-97109",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 5,
-     "w": 5,
-     "l": 0,
-     "t": 0,
-     "pts": 10,
-     "gf": 25,
-     "ga": 6,
-     "diff": 19,
-     "l10": "5-0",
-     "strk": "W5"
     },
     {
      "team": "Stratford Warriors",
@@ -159,16 +159,16 @@
      "team": "Kitchener Jr Rangers Blue",
      "teamId": "odb-97302",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 7,
+     "gp": 8,
      "w": 1,
-     "l": 5,
+     "l": 6,
      "t": 1,
      "pts": 3,
-     "gf": 15,
-     "ga": 33,
-     "diff": -18,
-     "l10": "1-5-1",
-     "strk": "T1"
+     "gf": 16,
+     "ga": 41,
+     "diff": -25,
+     "l10": "1-6-1",
+     "strk": "L1"
     },
     {
      "team": "Woodstock Jr Navy Vets",

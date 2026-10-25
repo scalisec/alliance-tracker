@@ -1,10 +1,25 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-10-25T21:23:38.077Z",
+ "updatedAt": "2026-10-25T23:51:21.309Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Huron-Perth Lakers",
+     "teamId": "odb-96985",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
+     "gp": 8,
+     "w": 7,
+     "l": 0,
+     "t": 1,
+     "pts": 15,
+     "gf": 44,
+     "ga": 12,
+     "diff": 32,
+     "l10": "7-0-1",
+     "strk": "W7"
+    },
     {
      "team": "Waterloo Wolves",
      "teamId": "odb-96990",
@@ -19,21 +34,6 @@
      "diff": 39,
      "l10": "7-0",
      "strk": "W7"
-    },
-    {
-     "team": "Huron-Perth Lakers",
-     "teamId": "odb-96985",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 7,
-     "w": 6,
-     "l": 0,
-     "t": 1,
-     "pts": 13,
-     "gf": 39,
-     "ga": 10,
-     "diff": 29,
-     "l10": "6-0-1",
-     "strk": "W6"
     },
     {
      "team": "Windsor Jr Spitfires",
@@ -69,16 +69,16 @@
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-96987",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 6,
+     "gp": 7,
      "w": 4,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "pts": 8,
-     "gf": 25,
-     "ga": 13,
-     "diff": 12,
-     "l10": "4-2",
-     "strk": "L1"
+     "gf": 27,
+     "ga": 18,
+     "diff": 9,
+     "l10": "4-3",
+     "strk": "L2"
     },
     {
      "team": "London Jr Knights",

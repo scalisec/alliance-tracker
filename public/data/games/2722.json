@@ -725,14 +725,17 @@
   "start": "2026-10-25T18:00:00-04:00",
   "away": "Sarnia-Lambton Jr Sting",
   "home": "Huron-Perth Lakers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Zurich (Zurich)",
   "code": "U14P170",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3102443
+  }
  },
  {
   "id": 2374734,
