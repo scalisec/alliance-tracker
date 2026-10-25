@@ -575,14 +575,17 @@
   "start": "2026-10-24T14:30:00-04:00",
   "away": "West London Hawks",
   "home": "Burlington Bulldogs Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Appleby (3)",
   "code": "U15BR25",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-10-24/14:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3095883
+  }
  },
  {
   "id": 2378900,
@@ -662,14 +665,17 @@
   "start": "2026-10-25T16:30:00-04:00",
   "away": "Sarnia Jr. Sting",
   "home": "London Bandits",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 9,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Argyle (B)",
   "code": "U15BR77",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3098884
+  }
  },
  {
   "id": 2378888,

@@ -716,14 +716,17 @@
   "start": "2026-10-25T16:00:00-04:00",
   "away": "Sarnia Jr. Sting",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U18BR50",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-10-25/16:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3099081
+  }
  },
  {
   "id": 2379179,

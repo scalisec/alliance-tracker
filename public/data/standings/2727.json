@@ -1,10 +1,25 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-10-25T16:58:52.928Z",
+ "updatedAt": "2026-10-25T22:22:11.835Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Sarnia Jr. Sting",
+     "teamId": "odb-97258",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+     "gp": 5,
+     "w": 5,
+     "l": 0,
+     "t": 0,
+     "pts": 10,
+     "gf": 33,
+     "ga": 8,
+     "diff": 25,
+     "l10": "5-0",
+     "strk": "W5"
+    },
     {
      "team": "Oakridge Aeros",
      "teamId": "odb-97266",
@@ -21,6 +36,21 @@
      "strk": "W5"
     },
     {
+     "team": "West London Hawks",
+     "teamId": "odb-97257",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
+     "gp": 6,
+     "w": 5,
+     "l": 1,
+     "t": 0,
+     "pts": 10,
+     "gf": 27,
+     "ga": 13,
+     "diff": 14,
+     "l10": "5-1",
+     "strk": "W3"
+    },
+    {
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97262",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
@@ -34,36 +64,6 @@
      "diff": 8,
      "l10": "4-0-1",
      "strk": "W3"
-    },
-    {
-     "team": "Sarnia Jr. Sting",
-     "teamId": "odb-97258",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 4,
-     "w": 4,
-     "l": 0,
-     "t": 0,
-     "pts": 8,
-     "gf": 24,
-     "ga": 6,
-     "diff": 18,
-     "l10": "4-0",
-     "strk": "W4"
-    },
-    {
-     "team": "West London Hawks",
-     "teamId": "odb-97257",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 5,
-     "w": 4,
-     "l": 1,
-     "t": 0,
-     "pts": 8,
-     "gf": 24,
-     "ga": 12,
-     "diff": 12,
-     "l10": "4-1",
-     "strk": "W2"
     },
     {
      "team": "North London Nationals",
@@ -129,16 +129,16 @@
      "team": "London Bandits",
      "teamId": "odb-97255",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 6,
+     "gp": 7,
      "w": 2,
-     "l": 3,
+     "l": 4,
      "t": 1,
      "pts": 5,
-     "gf": 13,
-     "ga": 25,
-     "diff": -12,
-     "l10": "2-3-1",
-     "strk": "L1"
+     "gf": 15,
+     "ga": 34,
+     "diff": -19,
+     "l10": "2-4-1",
+     "strk": "L2"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -189,16 +189,16 @@
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97259",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 6,
+     "gp": 7,
      "w": 0,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 0,
-     "gf": 8,
-     "ga": 28,
-     "diff": -20,
-     "l10": "0-6",
-     "strk": "L6"
+     "gf": 9,
+     "ga": 31,
+     "diff": -22,
+     "l10": "0-7",
+     "strk": "L7"
     },
     {
      "team": "Cambridge Hawks",
