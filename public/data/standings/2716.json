@@ -1,6 +1,6 @@
 {
  "divisionId": 2716,
- "updatedAt": "2026-10-25T19:43:59.882Z",
+ "updatedAt": "2026-10-25T21:21:58.041Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "London Jr Knights",
      "teamId": "odb-96964",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 6,
-     "w": 4,
+     "gp": 7,
+     "w": 5,
      "l": 1,
      "t": 1,
-     "pts": 9,
-     "gf": 27,
-     "ga": 12,
-     "diff": 15,
-     "l10": "4-1-1",
-     "strk": "L1"
+     "pts": 11,
+     "gf": 37,
+     "ga": 13,
+     "diff": 24,
+     "l10": "5-1-1",
+     "strk": "W1"
     },
     {
      "team": "Elgin-Middlesex Canucks",
@@ -129,16 +129,16 @@
      "team": "Sun County Panthers",
      "teamId": "odb-96965",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 4,
+     "gp": 5,
      "w": 0,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 0,
-     "gf": 6,
-     "ga": 25,
-     "diff": -19,
-     "l10": "0-4",
-     "strk": "L4"
+     "gf": 7,
+     "ga": 35,
+     "diff": -28,
+     "l10": "0-5",
+     "strk": "L5"
     },
     {
      "team": "Sault Major Jr Greyhounds",

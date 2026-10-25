@@ -1007,14 +1007,17 @@
   "start": "2026-10-25T16:00:00-04:00",
   "away": "North London Nationals",
   "home": "Stratford Warriors",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Dufferin (Dufferin)",
   "code": "U12BR29",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3099123
+  }
  },
  {
   "id": 2377926,

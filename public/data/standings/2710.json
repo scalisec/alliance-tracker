@@ -1,6 +1,6 @@
 {
  "divisionId": 2710,
- "updatedAt": "2026-10-25T19:41:40.393Z",
+ "updatedAt": "2026-10-25T21:19:18.731Z",
  "regular": [
   {
    "name": "East Division",
@@ -54,16 +54,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-96938",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 4,
+     "gp": 5,
      "w": 1,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 2,
-     "gf": 11,
-     "ga": 18,
-     "diff": -7,
-     "l10": "1-3",
-     "strk": "L1"
+     "gf": 12,
+     "ga": 28,
+     "diff": -16,
+     "l10": "1-4",
+     "strk": "L2"
     },
     {
      "team": "Huron-Perth Lakers",
@@ -131,6 +131,21 @@
      "strk": "L1"
     },
     {
+     "team": "Sarnia-Lambton Jr Sting",
+     "teamId": "odb-96943",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
+     "gp": 4,
+     "w": 2,
+     "l": 1,
+     "t": 1,
+     "pts": 5,
+     "gf": 34,
+     "ga": 12,
+     "diff": 22,
+     "l10": "2-1-1",
+     "strk": "W2"
+    },
+    {
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-96946",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
@@ -144,21 +159,6 @@
      "diff": -11,
      "l10": "2-3",
      "strk": "L2"
-    },
-    {
-     "team": "Sarnia-Lambton Jr Sting",
-     "teamId": "odb-96943",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 3,
-     "w": 1,
-     "l": 1,
-     "t": 1,
-     "pts": 3,
-     "gf": 24,
-     "ga": 11,
-     "diff": 13,
-     "l10": "1-1-1",
-     "strk": "W1"
     },
     {
      "team": "Chatham-Kent Cyclones",

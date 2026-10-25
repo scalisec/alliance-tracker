@@ -524,14 +524,17 @@
   "start": "2026-10-25T15:45:00-04:00",
   "away": "London Jr Knights Green",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Clearwater (Blue)",
   "code": "U11S27",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3102464
+  }
  },
  {
   "id": 2375370,

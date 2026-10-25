@@ -1,10 +1,25 @@
 {
  "divisionId": 2713,
- "updatedAt": "2026-10-25T19:22:59.720Z",
+ "updatedAt": "2026-10-25T21:20:38.545Z",
  "regular": [
   {
    "name": "East Division",
    "rows": [
+    {
+     "team": "Huron-Perth Lakers",
+     "teamId": "odb-96951",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
+     "gp": 5,
+     "w": 3,
+     "l": 1,
+     "t": 1,
+     "pts": 7,
+     "gf": 24,
+     "ga": 17,
+     "diff": 7,
+     "l10": "3-1-1",
+     "strk": "W3"
+    },
     {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-96952",
@@ -19,21 +34,6 @@
      "diff": 9,
      "l10": "3-1",
      "strk": "L1"
-    },
-    {
-     "team": "Huron-Perth Lakers",
-     "teamId": "odb-96951",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 4,
-     "w": 2,
-     "l": 1,
-     "t": 1,
-     "pts": 5,
-     "gf": 18,
-     "ga": 15,
-     "diff": 3,
-     "l10": "2-1-1",
-     "strk": "W2"
     },
     {
      "team": "Brantford 99ers",
@@ -134,16 +134,16 @@
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-96953",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 5,
+     "gp": 6,
      "w": 2,
-     "l": 2,
+     "l": 3,
      "t": 1,
      "pts": 5,
-     "gf": 10,
-     "ga": 12,
-     "diff": -2,
-     "l10": "2-2-1",
-     "strk": "W1"
+     "gf": 12,
+     "ga": 18,
+     "diff": -6,
+     "l10": "2-3-1",
+     "strk": "L1"
     },
     {
      "team": "Chatham-Kent Cyclones",
