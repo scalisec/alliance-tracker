@@ -515,14 +515,17 @@
   "start": "2026-10-25T13:00:00-04:00",
   "away": "Mt. Brydges Cougars",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Preston Aud (1)",
   "code": "U10S42",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2624/2026-10-25/13:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3099322
+  }
  },
  {
   "id": 2376145,
@@ -530,14 +533,17 @@
   "start": "2026-10-25T13:15:00-04:00",
   "away": "London Jr Knights White",
   "home": "Kitchener Jr Rangers Red",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Activa (Tom Graham)",
   "code": "U10S4",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4200/2026-10-25/13:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3099323
+  }
  },
  {
   "id": 2390711,

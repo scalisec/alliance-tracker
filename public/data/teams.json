@@ -1200,6 +1200,14 @@
   "logo": "logos/8845e5146a9b.png"
  },
  {
+  "id": "2721:burlington-bulldogs-blue",
+  "name": "Burlington Bulldogs Blue",
+  "divisionId": 2721,
+  "division": "U13 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
+ },
+ {
   "id": "2721:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2721,
@@ -1214,14 +1222,6 @@
   "division": "U13 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/ae847321ae88.png"
- },
- {
-  "id": "2721:burlington-bulldogs-blue",
-  "name": "Burlington Bulldogs Blue",
-  "divisionId": 2721,
-  "division": "U13 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2721:sarnia-jr-sting",
