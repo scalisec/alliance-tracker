@@ -686,14 +686,17 @@
   "start": "2026-10-25T12:30:00-04:00",
   "away": "North London Nationals",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 2,
+  "status": "final",
   "venue": "RIM Park (Pillers)",
   "code": "U13BR83",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3099285
+  }
  },
  {
   "id": 2378051,

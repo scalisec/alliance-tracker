@@ -1,6 +1,6 @@
 {
  "divisionId": 2721,
- "updatedAt": "2026-10-24T23:47:11.603Z",
+ "updatedAt": "2026-10-25T17:57:44.594Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97224",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 7,
-     "w": 5,
+     "gp": 8,
+     "w": 6,
      "l": 1,
      "t": 1,
-     "pts": 11,
-     "gf": 25,
-     "ga": 18,
-     "diff": 7,
-     "l10": "5-1-1",
-     "strk": "T1"
+     "pts": 13,
+     "gf": 27,
+     "ga": 19,
+     "diff": 8,
+     "l10": "6-1-1",
+     "strk": "W1"
     },
     {
      "team": "Stratford Warriors",
@@ -204,16 +204,16 @@
      "team": "North London Nationals",
      "teamId": "odb-97226",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 5,
+     "gp": 6,
      "w": 0,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 0,
-     "gf": 7,
-     "ga": 27,
-     "diff": -20,
-     "l10": "0-5",
-     "strk": "L5"
+     "gf": 8,
+     "ga": 29,
+     "diff": -21,
+     "l10": "0-6",
+     "strk": "L6"
     }
    ]
   }
