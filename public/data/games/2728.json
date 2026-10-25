@@ -239,14 +239,17 @@
   "start": "2026-10-25T10:15:00-04:00",
   "away": "Windsor Jr Spitfires",
   "home": "Huron-Perth Lakers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Rotary Complex (Rink B)",
   "code": "U16P46",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3097429
+  }
  },
  {
   "id": 2375141,

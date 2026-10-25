@@ -518,14 +518,17 @@
   "start": "2026-10-24T19:00:00-04:00",
   "away": "Sault Major Jr Greyhounds",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Preston Aud (1)",
   "code": "U13P91",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2624/2026-10-24/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3096696
+  }
  },
  {
   "id": 2374654,

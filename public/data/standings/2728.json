@@ -1,6 +1,6 @@
 {
  "divisionId": 2728,
- "updatedAt": "2026-10-25T02:06:00.183Z",
+ "updatedAt": "2026-10-25T16:38:24.608Z",
  "regular": [
   {
    "name": "East Division",
@@ -39,16 +39,16 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-97009",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 4,
-     "w": 1,
+     "gp": 5,
+     "w": 2,
      "l": 2,
      "t": 1,
-     "pts": 3,
-     "gf": 12,
-     "ga": 16,
-     "diff": -4,
-     "l10": "1-2-1",
-     "strk": "L1"
+     "pts": 5,
+     "gf": 18,
+     "ga": 19,
+     "diff": -1,
+     "l10": "2-2-1",
+     "strk": "W1"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -134,16 +134,16 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-97015",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 4,
+     "gp": 5,
      "w": 1,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 2,
-     "gf": 12,
-     "ga": 17,
-     "diff": -5,
-     "l10": "1-3",
-     "strk": "L1"
+     "gf": 15,
+     "ga": 23,
+     "diff": -8,
+     "l10": "1-4",
+     "strk": "L2"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",

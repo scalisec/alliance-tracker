@@ -104,20 +104,20 @@
   "logo": "logos/08d490425be3.png"
  },
  {
-  "id": "2711:london-jr-knights-green",
-  "name": "London Jr Knights Green",
-  "divisionId": 2711,
-  "division": "U10 AA-A",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
- },
- {
   "id": "2711:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "Sarnia Minor Hockey",
   "logo": "logos/704c833c6aca.png"
+ },
+ {
+  "id": "2711:london-jr-knights-green",
+  "name": "London Jr Knights Green",
+  "divisionId": 2711,
+  "division": "U10 AA-A",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2711:woodstock-jr-navy-vets",
@@ -1032,6 +1032,14 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
+  "id": "2719:sault-major-jr-greyhounds",
+  "name": "Sault Major Jr Greyhounds",
+  "divisionId": 2719,
+  "division": "U13 AAA",
+  "association": null,
+  "logo": "logos/91cb455aba29.png"
+ },
+ {
   "id": "2719:cambridge-hawks",
   "name": "Cambridge Hawks",
   "divisionId": 2719,
@@ -1046,14 +1054,6 @@
   "division": "U13 AAA",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
- },
- {
-  "id": "2719:sault-major-jr-greyhounds",
-  "name": "Sault Major Jr Greyhounds",
-  "divisionId": 2719,
-  "division": "U13 AAA",
-  "association": null,
-  "logo": "logos/91cb455aba29.png"
  },
  {
   "id": "2719:chatham-kent-cyclones",
