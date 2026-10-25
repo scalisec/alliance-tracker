@@ -386,14 +386,17 @@
   "start": "2026-10-25T13:00:00-04:00",
   "away": "Kitchener Jr Rangers",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 3,
+  "status": "final",
   "venue": "RIM Park (Optimists)",
   "code": "U10P47",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3098861
+  }
  },
  {
   "id": 2373925,

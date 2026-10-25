@@ -938,14 +938,17 @@
   "start": "2026-10-25T13:00:00-04:00",
   "away": "Sarnia Jr. Sting",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Grand River (Grand River)",
   "code": "U12BR89",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4191/2026-10-25/13:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3099119
+  }
  },
  {
   "id": 2377933,

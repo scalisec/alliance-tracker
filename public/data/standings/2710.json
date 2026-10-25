@@ -1,39 +1,39 @@
 {
  "divisionId": 2710,
- "updatedAt": "2026-10-25T17:55:35.312Z",
+ "updatedAt": "2026-10-25T18:15:38.182Z",
  "regular": [
   {
    "name": "East Division",
    "rows": [
     {
-     "team": "Kitchener Jr Rangers",
-     "teamId": "odb-96942",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 5,
-     "w": 4,
-     "l": 1,
-     "t": 0,
-     "pts": 8,
-     "gf": 25,
-     "ga": 21,
-     "diff": 4,
-     "l10": "4-1",
-     "strk": "W2"
-    },
-    {
      "team": "Waterloo Wolves",
      "teamId": "odb-96945",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 4,
-     "w": 3,
+     "gp": 5,
+     "w": 4,
      "l": 0,
      "t": 1,
-     "pts": 7,
-     "gf": 24,
+     "pts": 9,
+     "gf": 27,
      "ga": 9,
-     "diff": 15,
-     "l10": "3-0-1",
-     "strk": "W3"
+     "diff": 18,
+     "l10": "4-0-1",
+     "strk": "W4"
+    },
+    {
+     "team": "Kitchener Jr Rangers",
+     "teamId": "odb-96942",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 6,
+     "w": 4,
+     "l": 2,
+     "t": 0,
+     "pts": 8,
+     "gf": 25,
+     "ga": 24,
+     "diff": 1,
+     "l10": "4-2",
+     "strk": "L1"
     },
     {
      "team": "Cambridge Hawks",

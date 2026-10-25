@@ -1,19 +1,19 @@
 [
  {
-  "id": "2710:kitchener-jr-rangers",
-  "name": "Kitchener Jr Rangers",
-  "divisionId": 2710,
-  "division": "U10 AAA",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
- },
- {
   "id": "2710:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2710,
   "division": "U10 AAA",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
+ },
+ {
+  "id": "2710:kitchener-jr-rangers",
+  "name": "Kitchener Jr Rangers",
+  "divisionId": 2710,
+  "division": "U10 AAA",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2710:cambridge-hawks",
@@ -880,20 +880,20 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
-  "id": "2718:burlington-bulldogs-gold",
-  "name": "Burlington Bulldogs Gold",
-  "divisionId": 2718,
-  "division": "U12 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
- },
- {
   "id": "2718:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2718,
   "division": "U12 BB",
   "association": "Sarnia Minor Hockey",
   "logo": "logos/704c833c6aca.png"
+ },
+ {
+  "id": "2718:burlington-bulldogs-gold",
+  "name": "Burlington Bulldogs Gold",
+  "divisionId": 2718,
+  "division": "U12 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2718:burlington-bulldogs-white",
