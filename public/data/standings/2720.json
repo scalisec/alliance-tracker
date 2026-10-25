@@ -1,6 +1,6 @@
 {
  "divisionId": 2720,
- "updatedAt": "2026-10-25T22:21:01.762Z",
+ "updatedAt": "2026-10-25T23:21:10.636Z",
  "regular": [
   {
    "name": "",
@@ -126,6 +126,21 @@
      "strk": "L3"
     },
     {
+     "team": "London Jr Knights White",
+     "teamId": "odb-97070",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 5,
+     "w": 2,
+     "l": 2,
+     "t": 1,
+     "pts": 5,
+     "gf": 12,
+     "ga": 20,
+     "diff": -8,
+     "l10": "2-2-1",
+     "strk": "W1"
+    },
+    {
      "team": "Mt. Brydges Cougars",
      "teamId": "odb-97288",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
@@ -156,21 +171,6 @@
      "strk": "W1"
     },
     {
-     "team": "London Jr Knights White",
-     "teamId": "odb-97070",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 4,
-     "w": 1,
-     "l": 2,
-     "t": 1,
-     "pts": 3,
-     "gf": 7,
-     "ga": 18,
-     "diff": -11,
-     "l10": "1-2-1",
-     "strk": "T1"
-    },
-    {
      "team": "Burlington Raiders",
      "teamId": "odb-97075",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
@@ -189,16 +189,16 @@
      "team": "Kitchener Jr Rangers Blue",
      "teamId": "odb-97299",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 7,
+     "gp": 8,
      "w": 0,
-     "l": 5,
+     "l": 6,
      "t": 2,
      "pts": 2,
-     "gf": 9,
-     "ga": 22,
-     "diff": -13,
-     "l10": "0-5-2",
-     "strk": "L1"
+     "gf": 11,
+     "ga": 27,
+     "diff": -16,
+     "l10": "0-6-2",
+     "strk": "L2"
     }
    ]
   }

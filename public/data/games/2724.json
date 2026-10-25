@@ -902,14 +902,17 @@
   "start": "2026-10-25T17:45:00-04:00",
   "away": "Waterloo Wolves",
   "home": "St. Thomas Jr Stars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Joe Thornton CC (Presstran)",
   "code": "U14BR113",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4356/2026-10-25/17:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3102456
+  }
  },
  {
   "id": 2378118,

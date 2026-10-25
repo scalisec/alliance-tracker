@@ -614,14 +614,17 @@
   "start": "2026-10-25T17:30:00-04:00",
   "away": "Kitchener Jr Rangers Blue",
   "home": "London Jr Knights White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U13S63",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3099112
+  }
  },
  {
   "id": 2375526,

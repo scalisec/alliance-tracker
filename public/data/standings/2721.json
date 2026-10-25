@@ -1,6 +1,6 @@
 {
  "divisionId": 2721,
- "updatedAt": "2026-10-25T20:25:08.457Z",
+ "updatedAt": "2026-10-25T23:21:40.663Z",
  "regular": [
   {
    "name": "",
@@ -51,6 +51,21 @@
      "strk": "W5"
     },
     {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97231",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 7,
+     "w": 5,
+     "l": 2,
+     "t": 0,
+     "pts": 10,
+     "gf": 30,
+     "ga": 16,
+     "diff": 14,
+     "l10": "5-2",
+     "strk": "W4"
+    },
+    {
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97230",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
@@ -64,21 +79,6 @@
      "diff": 8,
      "l10": "4-2-1",
      "strk": "W1"
-    },
-    {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97231",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 6,
-     "w": 4,
-     "l": 2,
-     "t": 0,
-     "pts": 8,
-     "gf": 26,
-     "ga": 14,
-     "diff": 12,
-     "l10": "4-2",
-     "strk": "W3"
     },
     {
      "team": "Oakridge Aeros",
@@ -144,16 +144,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-97235",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 7,
+     "gp": 8,
      "w": 1,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 2,
-     "gf": 14,
-     "ga": 28,
-     "diff": -14,
-     "l10": "1-6",
-     "strk": "W1"
+     "gf": 16,
+     "ga": 32,
+     "diff": -16,
+     "l10": "1-7",
+     "strk": "L1"
     },
     {
      "team": "London Bandits",

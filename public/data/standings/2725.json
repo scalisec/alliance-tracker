@@ -1,6 +1,6 @@
 {
  "divisionId": 2725,
- "updatedAt": "2026-10-25T22:41:57.841Z",
+ "updatedAt": "2026-10-25T23:23:00.663Z",
  "regular": [
   {
    "name": "",
@@ -51,6 +51,21 @@
      "strk": "W2"
     },
     {
+     "team": "Elgin-Middlesex Canucks",
+     "teamId": "odb-96996",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+     "gp": 8,
+     "w": 5,
+     "l": 2,
+     "t": 1,
+     "pts": 11,
+     "gf": 37,
+     "ga": 13,
+     "diff": 24,
+     "l10": "5-2-1",
+     "strk": "W3"
+    },
+    {
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-96999",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
@@ -64,21 +79,6 @@
      "diff": 6,
      "l10": "4-3-2",
      "strk": "T2"
-    },
-    {
-     "team": "Elgin-Middlesex Canucks",
-     "teamId": "odb-96996",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 7,
-     "w": 4,
-     "l": 2,
-     "t": 1,
-     "pts": 9,
-     "gf": 30,
-     "ga": 13,
-     "diff": 17,
-     "l10": "4-2-1",
-     "strk": "W2"
     },
     {
      "team": "Huron-Perth Lakers",
@@ -144,16 +144,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-96994",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 7,
+     "gp": 8,
      "w": 1,
-     "l": 5,
+     "l": 6,
      "t": 1,
      "pts": 3,
      "gf": 15,
-     "ga": 32,
-     "diff": -17,
-     "l10": "1-5-1",
-     "strk": "L1"
+     "ga": 39,
+     "diff": -24,
+     "l10": "1-6-1",
+     "strk": "L2"
     },
     {
      "team": "Waterloo Wolves",

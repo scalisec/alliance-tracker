@@ -707,14 +707,17 @@
   "start": "2026-10-25T17:00:00-04:00",
   "away": "Elgin-Middlesex Canucks",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Galt Arena (Galt Arena)",
   "code": "U15P94",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2608/2026-10-25/17:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3099062
+  }
  },
  {
   "id": 2374934,

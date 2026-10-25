@@ -752,14 +752,17 @@
   "start": "2026-10-25T17:00:00-04:00",
   "away": "West London Hawks Gold",
   "home": "Stratford Warriors",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Allman (Allman)",
   "code": "U18BR55",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4857/2026-10-25/17:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3099083
+  }
  },
  {
   "id": 2379071,
