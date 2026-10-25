@@ -671,14 +671,17 @@
   "start": "2026-10-24T18:30:00-04:00",
   "away": "Huron-Perth Lakers",
   "home": "Chatham-Kent Cyclones",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Memorial (Memorial)",
   "code": "U15P42",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-10-24/18:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3096723
+  }
  },
  {
   "id": 2375074,

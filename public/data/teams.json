@@ -552,20 +552,20 @@
   "logo": "logos/51ff29ef905f.png"
  },
  {
-  "id": "2715:cambridge-hawks",
-  "name": "Cambridge Hawks",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Cambridge Minor Hockey",
-  "logo": "logos/e0787358df89.png"
- },
- {
   "id": "2715:burlington-bulldogs-gold",
   "name": "Burlington Bulldogs Gold",
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "logos/49dba036a6a8.png"
+ },
+ {
+  "id": "2715:cambridge-hawks",
+  "name": "Cambridge Hawks",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Cambridge Minor Hockey",
+  "logo": "logos/e0787358df89.png"
  },
  {
   "id": "2715:sarnia-jr-sting",

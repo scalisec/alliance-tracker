@@ -626,14 +626,17 @@
   "start": "2026-10-24T18:30:00-04:00",
   "away": "Sarnia Jr. Sting",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 1,
+  "status": "final",
   "venue": "RIM Park (Pillers)",
   "code": "U15BR48",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3096733
+  }
  },
  {
   "id": 2378925,

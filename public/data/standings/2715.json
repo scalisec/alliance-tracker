@@ -1,10 +1,25 @@
 {
  "divisionId": 2715,
- "updatedAt": "2026-10-24T20:29:42.827Z",
+ "updatedAt": "2026-10-25T00:05:53.830Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Burlington Bulldogs Gold",
+     "teamId": "odb-97204",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 6,
+     "w": 5,
+     "l": 1,
+     "t": 0,
+     "pts": 10,
+     "gf": 35,
+     "ga": 8,
+     "diff": 27,
+     "l10": "5-1",
+     "strk": "W1"
+    },
     {
      "team": "Cambridge Hawks",
      "teamId": "odb-97203",
@@ -19,21 +34,6 @@
      "diff": 7,
      "l10": "4-1-1",
      "strk": "W3"
-    },
-    {
-     "team": "Burlington Bulldogs Gold",
-     "teamId": "odb-97204",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 5,
-     "w": 4,
-     "l": 1,
-     "t": 0,
-     "pts": 8,
-     "gf": 24,
-     "ga": 7,
-     "diff": 17,
-     "l10": "4-1",
-     "strk": "L1"
     },
     {
      "team": "Sarnia Jr. Sting",
@@ -204,16 +204,16 @@
      "team": "London Bandits",
      "teamId": "odb-97200",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 3,
+     "gp": 4,
      "w": 0,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 0,
-     "gf": 9,
-     "ga": 19,
-     "diff": -10,
-     "l10": "0-3",
-     "strk": "L3"
+     "gf": 10,
+     "ga": 30,
+     "diff": -20,
+     "l10": "0-4",
+     "strk": "L4"
     }
    ]
   }

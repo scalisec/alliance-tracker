@@ -185,14 +185,17 @@
   "start": "2026-10-24T18:00:00-04:00",
   "away": "Elgin-Middlesex Canucks",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U16P18",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-10-24/18:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3096698
+  }
  },
  {
   "id": 2375210,
