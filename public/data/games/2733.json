@@ -731,14 +731,17 @@
   "start": "2026-10-25T16:00:00-04:00",
   "away": "Cambridge Hawks",
   "home": "North London Nationals",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Stronach (A)",
   "code": "U18BR81",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3099082
+  }
  },
  {
   "id": 2379254,

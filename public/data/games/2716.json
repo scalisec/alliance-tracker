@@ -434,14 +434,17 @@
   "start": "2026-10-25T16:30:00-04:00",
   "away": "Elgin-Middlesex Canucks",
   "home": "Huron-Perth Lakers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Zurich (Zurich)",
   "code": "U12P22",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3098957
+  }
  },
  {
   "id": 2374306,

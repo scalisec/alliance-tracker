@@ -1,6 +1,6 @@
 {
  "divisionId": 2726,
- "updatedAt": "2026-10-25T01:45:48.147Z",
+ "updatedAt": "2026-10-25T21:43:32.579Z",
  "regular": [
   {
    "name": "",
@@ -34,6 +34,21 @@
      "diff": 11,
      "l10": "4-1",
      "strk": "W1"
+    },
+    {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-97099",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 6,
+     "w": 4,
+     "l": 2,
+     "t": 0,
+     "pts": 8,
+     "gf": 13,
+     "ga": 15,
+     "diff": -2,
+     "l10": "4-2",
+     "strk": "W3"
     },
     {
      "team": "Mt. Brydges Cougars",
@@ -79,21 +94,6 @@
      "diff": 8,
      "l10": "3-2",
      "strk": "L1"
-    },
-    {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-97099",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 5,
-     "w": 3,
-     "l": 2,
-     "t": 0,
-     "pts": 6,
-     "gf": 10,
-     "ga": 14,
-     "diff": -4,
-     "l10": "3-2",
-     "strk": "W2"
     },
     {
      "team": "Sarnia Jr. Sting",
@@ -159,16 +159,16 @@
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-97100",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 8,
+     "gp": 9,
      "w": 2,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 4,
-     "gf": 22,
-     "ga": 31,
-     "diff": -9,
-     "l10": "2-6",
-     "strk": "L3"
+     "gf": 23,
+     "ga": 34,
+     "diff": -11,
+     "l10": "2-7",
+     "strk": "L4"
     },
     {
      "team": "Burlington Raiders",

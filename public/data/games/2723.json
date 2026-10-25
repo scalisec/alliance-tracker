@@ -602,14 +602,17 @@
   "start": "2026-10-25T15:30:00-04:00",
   "away": "Waterloo Wolves",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Preston Aud (1)",
   "code": "U14S49",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2624/2026-10-25/15:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3098853
+  }
  },
  {
   "id": 2375638,

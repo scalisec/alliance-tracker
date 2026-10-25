@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-10-25T20:27:48.517Z",
+ "updatedAt": "2026-10-25T21:45:02.640Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-97123",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 6,
-     "w": 6,
+     "gp": 7,
+     "w": 7,
      "l": 0,
      "t": 0,
-     "pts": 12,
-     "gf": 32,
-     "ga": 11,
-     "diff": 21,
-     "l10": "6-0",
-     "strk": "W6"
+     "pts": 14,
+     "gf": 38,
+     "ga": 13,
+     "diff": 25,
+     "l10": "7-0",
+     "strk": "W7"
     },
     {
      "team": "Waterloo Wolves White",
@@ -234,16 +234,16 @@
      "team": "North London Nationals",
      "teamId": "odb-98277",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 5,
+     "gp": 6,
      "w": 0,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 0,
-     "gf": 3,
-     "ga": 20,
-     "diff": -17,
-     "l10": "0-5",
-     "strk": "L5"
+     "gf": 5,
+     "ga": 26,
+     "diff": -21,
+     "l10": "0-6",
+     "strk": "L6"
     }
    ]
   }

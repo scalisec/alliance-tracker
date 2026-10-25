@@ -788,14 +788,17 @@
   "start": "2026-10-25T16:00:00-04:00",
   "away": "Oakridge Aeros",
   "home": "Elgin-Thames 73s",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 8,
+  "homeScore": 0,
+  "status": "final",
   "venue": "FlightExec Centre (APC)",
   "code": "U10BRS-111",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15516,
+   "game": 3102430
+  }
  },
  {
   "id": 2379509,

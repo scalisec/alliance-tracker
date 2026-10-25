@@ -104,28 +104,20 @@
   "logo": "logos/08d490425be3.png"
  },
  {
-  "id": "2711:london-jr-knights-green",
-  "name": "London Jr Knights Green",
-  "divisionId": 2711,
-  "division": "U10 AA-A",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
- },
- {
-  "id": "2711:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2711,
-  "division": "U10 AA-A",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
- },
- {
   "id": "2711:woodstock-jr-navy-vets",
   "name": "Woodstock Jr Navy Vets",
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "Woodstock Minor Hockey",
   "logo": "logos/6c3aa7a1db2c.png"
+ },
+ {
+  "id": "2711:london-jr-knights-green",
+  "name": "London Jr Knights Green",
+  "divisionId": 2711,
+  "division": "U10 AA-A",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2711:waterloo-wolves",
@@ -142,6 +134,14 @@
   "division": "U10 AA-A",
   "association": null,
   "logo": "logos/0f4ddfdee820.png"
+ },
+ {
+  "id": "2711:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2711,
+  "division": "U10 AA-A",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2711:kitchener-jr-rangers-red",
@@ -928,12 +928,12 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
-  "id": "2718:burlington-raiders",
-  "name": "Burlington Raiders",
+  "id": "2718:north-london-nationals",
+  "name": "North London Nationals",
   "divisionId": 2718,
   "division": "U12 BB",
-  "association": "Burlington Raiders Hockey Club",
-  "logo": "logos/8845e5146a9b.png"
+  "association": "Greater London Hockey Association",
+  "logo": "logos/41275c8a7241.png"
  },
  {
   "id": "2718:london-bandits",
@@ -944,20 +944,20 @@
   "logo": "logos/973902eb1015.png"
  },
  {
+  "id": "2718:burlington-raiders",
+  "name": "Burlington Raiders",
+  "divisionId": 2718,
+  "division": "U12 BB",
+  "association": "Burlington Raiders Hockey Club",
+  "logo": "logos/8845e5146a9b.png"
+ },
+ {
   "id": "2718:burlington-bulldogs-blue",
   "name": "Burlington Bulldogs Blue",
   "divisionId": 2718,
   "division": "U12 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "logos/49dba036a6a8.png"
- },
- {
-  "id": "2718:north-london-nationals",
-  "name": "North London Nationals",
-  "divisionId": 2718,
-  "division": "U12 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/41275c8a7241.png"
  },
  {
   "id": "2718:cambridge-hawks",
@@ -1728,6 +1728,14 @@
   "logo": "logos/612db499a971.png"
  },
  {
+  "id": "2726:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2726,
+  "division": "U15 AA-A",
+  "association": "Waterloo Minor Hockey",
+  "logo": "logos/1953df906ca9.png"
+ },
+ {
   "id": "2726:mt-brydges-cougars",
   "name": "Mt. Brydges Cougars",
   "divisionId": 2726,
@@ -1750,14 +1758,6 @@
   "division": "U15 AA-A",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
- },
- {
-  "id": "2726:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2726,
-  "division": "U15 AA-A",
-  "association": "Waterloo Minor Hockey",
-  "logo": "logos/1953df906ca9.png"
  },
  {
   "id": "2726:sarnia-jr-sting",
