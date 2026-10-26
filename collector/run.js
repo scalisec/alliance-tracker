@@ -174,17 +174,16 @@ async function refreshGameLinks(div, games, now, { maxAgeDays = 3, maxLookups = 
 async function refreshClub(team) {
   const file = path.join(DATA, 'games', `${team.id}.json`);
   const existing = await readJson(file, []);
-  const byId = new Map(existing.map((g) => [g.id, g]));
-  const html = await fetchText(clubs.urls.schedule(team));
-  const list = html ? clubs.parseClubSchedule(html, team) : [];
-  for (const g of list) {
-    const prev = byId.get(g.id);
-    byId.set(g.id, { ...prev, ...g, liveBarn: g.liveBarn ?? prev?.liveBarn ?? null });
-  }
-  const games = [...byId.values()].sort((a, b) => (a.start ?? '').localeCompare(b.start ?? ''));
+  // The team page lists the whole season (no rinks); the Schedule page adds rinks and game types
+  // for recent and upcoming games. Games we already have keep anything these reads don't show.
+  const teamHtml = await fetchText(clubs.urls.team(team), { delayMs: 10_000 });
+  const season = teamHtml ? clubs.parseClubTeamPage(teamHtml, team) : [];
+  const schedHtml = await fetchText(clubs.urls.schedule(team), { delayMs: 10_000 });
+  const recent = schedHtml ? clubs.parseClubSchedule(schedHtml, team) : [];
+  const games = clubs.mergeClubGames(existing, season, recent);
   await writeJson(file, games);
-  totals.games += list.length;
-  log(`club ${team.id}: ${list.length} games read, ${games.length} kept`);
+  totals.games += season.length + recent.length;
+  log(`club ${team.id}: ${season.length} season + ${recent.length} schedule games read, ${games.length} kept`);
   return games;
 }
 
@@ -192,7 +191,7 @@ async function writeClubIndex() {
   const out = [];
   for (const t of CLUB_TEAMS) {
     out.push({ id: `${t.id}:${slug(t.name)}`, name: t.name, divisionId: t.id, division: `${t.division} (${t.league})`,
-      league: t.league, association: t.association, logo: await localLogo(clubs.urls.logo(t)) });
+      league: t.league, association: t.association, logo: await localLogo(t.logo ?? clubs.urls.logo(t)) });
   }
   await writeJson(path.join(DATA, 'clubs.json'), out);
 }

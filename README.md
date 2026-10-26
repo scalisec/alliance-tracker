@@ -46,10 +46,14 @@ A full sync that parses nothing fails instead of publishing empty data.
 
 `CLUB_TEAMS` in `collector/config.js` lists teams outside the Alliance whose schedules are read from their association's site, which runs on the same platform as alliancehockey.com. The first is the **Burlington Barracudas U13 B** (OWHA) from [bghc.ca](https://bghc.ca/Teams/2066/).
 
-- **One page per team per run:** `/Teams/<id>/Schedule/`, read nightly and during game windows when a game needs its result. It's path-style only (no query URLs), 3 s apart.
+- **Two pages per team per run**, read nightly and during game windows when a game needs its result:
+  - the team page `/Teams/<id>/`, whose game list covers the whole season
+  - `/Teams/<id>/Schedule/`, which adds rinks and game types for recent and upcoming games
+
+  Both are path-style (bghc.ca's robots.txt disallows `?` URLs) and read 10 s apart, matching its crawl delay.
 - **What's published:** `public/data/games/<club id>.json` in the same format as the league files, plus `public/data/clubs.json` (team name, division such as "U13 B (OWHA)", logo). Games already saved are kept, so the full season builds up even if the page shows only part of it.
 - **Not shown in Alliance Tracker:** its own screens don't use club teams. [Watch Party](https://scalisec.github.io/bulldogs-watch-party/) lists them in its League team picker.
-- **Capture sample pages** also saves the club's robots.txt, team page and schedule page, and checks the club parser against them.
+- **Capture sample pages** also saves the club's robots.txt, team page and schedule page, and checks the club parsers against them. They were checked against real bghc.ca pages on Oct 26, 2026.
 
 ## First run
 

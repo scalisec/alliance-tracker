@@ -121,3 +121,15 @@ test('club schedule: real bghc.ca team page parses', { skip: !has('club-bghc-206
   assert.ok(g.every((x) => x.start && x.home && x.away && (x.home === CUDAS.name || x.away === CUDAS.name)), 'every game has a time and includes us');
   assert.equal(new Set(g.map((x) => x.id)).size, g.length);
 });
+
+test('club team page: the whole season from the game list, merged with the schedule page', { skip: !has('club-bghc-2066-team.html') || !has('club-bghc-2066-schedule.html') }, () => {
+  const season = clubs.parseClubTeamPage(read('club-bghc-2066-team.html'), CUDAS);
+  const recent = clubs.parseClubSchedule(read('club-bghc-2066-schedule.html'), CUDAS);
+  assert.ok(season.length >= recent.length, `team page should list at least as many games (${season.length} vs ${recent.length})`);
+  assert.ok(season.every((g) => g.start && (g.home === CUDAS.name) !== (g.away === CUDAS.name)), 'every game has a time and us on exactly one side');
+  const all = clubs.mergeClubGames([], season, recent);
+  const withRink = recent.filter((g) => g.venue).length;
+  assert.equal(all.filter((g) => g.venue).length, withRink, 'rinks from the schedule page survive the merge');
+  assert.ok(all.every((g) => g.type), 'every game has a type');
+  assert.ok(all.some((g) => g.start < '2026-10-01'), 'September games come from the team page');
+});

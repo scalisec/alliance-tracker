@@ -63,6 +63,7 @@ export const GAME_RECHECK_HOURS = 6;
 // Club teams outside the Alliance (e.g. OWHA girls' teams), read from their association's site.
 // Same platform as alliancehockey.com. Published to public/data/games/<id>.json and listed in
 // public/data/clubs.json for Watch Party; the Alliance Tracker screens don't use them.
+// bghc.ca's robots.txt allows path-style pages (no ? URLs) with a 10 s crawl delay.
 export const CLUB_TEAMS = [
   {
     id: 'bghc-2066',
@@ -72,5 +73,6 @@ export const CLUB_TEAMS = [
     division: 'U13 B',
     league: 'OWHA',
     association: 'Burlington Girls Hockey Club',
+    logo: 'https://bghc.ca/domains/bghc.ca/bghc_logo.png',
   },
 ];
