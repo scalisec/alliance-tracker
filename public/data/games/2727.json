@@ -1236,6 +1236,21 @@
   "gamesheet": null
  },
  {
+  "id": 2378866,
+  "divisionId": 2727,
+  "start": "2026-11-27T19:45:00-05:00",
+  "away": "West London Hawks",
+  "home": "Kitchener Jr Rangers",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Activa (Tom Graham)",
+  "code": "U15BR90",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
   "id": 2378873,
   "divisionId": 2727,
   "start": "2026-11-27T20:15:00-05:00",
@@ -1246,21 +1261,6 @@
   "status": "scheduled",
   "venue": "Lambeth",
   "code": "U15BR36",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
-  "id": 2378866,
-  "divisionId": 2727,
-  "start": "2026-11-27T20:45:00-05:00",
-  "away": "West London Hawks",
-  "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Activa (Tom Graham)",
-  "code": "U15BR90",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null

@@ -1773,6 +1773,21 @@
   "gamesheet": null
  },
  {
+  "id": 2379064,
+  "divisionId": 2733,
+  "start": "2026-12-08T19:00:00-05:00",
+  "away": "Burlington Bulldogs White",
+  "home": "Burlington Bulldogs Blue",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Appleby (2)",
+  "code": "U18BR142",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
   "id": 2379075,
   "divisionId": 2733,
   "start": "2026-12-11T20:00:00-05:00",
@@ -2833,21 +2848,6 @@
   "status": "scheduled",
   "venue": "Joe Thornton CC (Presstran)",
   "code": "U18BR66",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
-  "id": 2379064,
-  "divisionId": 2733,
-  "start": "2027-02-05T20:00:00-05:00",
-  "away": "Burlington Bulldogs White",
-  "home": "Burlington Bulldogs Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Appleby (3)",
-  "code": "U18BR142",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null

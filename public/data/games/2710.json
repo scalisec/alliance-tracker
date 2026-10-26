@@ -801,6 +801,21 @@
   "gamesheet": null
  },
  {
+  "id": 2374030,
+  "divisionId": 2710,
+  "start": "2026-11-21T13:30:00-05:00",
+  "away": "Waterloo Wolves",
+  "home": "Elgin-Middlesex Canucks",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Komoka CW&RC (2 - Coors)",
+  "code": "U10P133",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
   "id": 2373920,
   "divisionId": 2710,
   "start": "2026-11-21T14:00:00-05:00",
@@ -841,21 +856,6 @@
   "status": "scheduled",
   "venue": "Nichols (A)",
   "code": "U10P69",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
-  "id": 2374030,
-  "divisionId": 2710,
-  "start": "2026-11-21T15:00:00-05:00",
-  "away": "Waterloo Wolves",
-  "home": "Elgin-Middlesex Canucks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Komoka CW&RC (2 - Coors)",
-  "code": "U10P133",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null
