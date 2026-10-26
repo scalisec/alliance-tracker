@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-10-25T23:25:00.753Z",
+ "updatedAt": "2026-10-26T00:42:03.849Z",
  "regular": [
   {
    "name": "",
@@ -156,6 +156,21 @@
      "strk": "L3"
     },
     {
+     "team": "Oakridge Aeros",
+     "teamId": "odb-97125",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
+     "gp": 5,
+     "w": 1,
+     "l": 3,
+     "t": 1,
+     "pts": 3,
+     "gf": 12,
+     "ga": 20,
+     "diff": -8,
+     "l10": "1-3-1",
+     "strk": "W1"
+    },
+    {
      "team": "Burlington Bulldogs White",
      "teamId": "odb-97127",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
@@ -204,31 +219,16 @@
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97122",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 5,
+     "gp": 6,
      "w": 1,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 2,
-     "gf": 14,
-     "ga": 20,
-     "diff": -6,
-     "l10": "1-4",
-     "strk": "L3"
-    },
-    {
-     "team": "Oakridge Aeros",
-     "teamId": "odb-97125",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 4,
-     "w": 0,
-     "l": 3,
-     "t": 1,
-     "pts": 1,
-     "gf": 8,
-     "ga": 17,
-     "diff": -9,
-     "l10": "0-3-1",
-     "strk": "T1"
+     "gf": 17,
+     "ga": 24,
+     "diff": -7,
+     "l10": "1-5",
+     "strk": "L4"
     },
     {
      "team": "North London Nationals",

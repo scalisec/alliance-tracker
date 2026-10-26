@@ -770,14 +770,17 @@
   "start": "2026-10-25T18:30:00-04:00",
   "away": "Oakridge Aeros",
   "home": "Burlington Bulldogs Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Appleby (2)",
   "code": "U18BR12",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4333/2026-10-25/18:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3102462
+  }
  },
  {
   "id": 2379066,

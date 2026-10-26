@@ -2192,6 +2192,14 @@
   "logo": "logos/e0787358df89.png"
  },
  {
+  "id": "2730:burlington-bulldogs-gold",
+  "name": "Burlington Bulldogs Gold",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
+ },
+ {
   "id": "2730:burlington-bulldogs-white",
   "name": "Burlington Bulldogs White",
   "divisionId": 2730,
@@ -2214,14 +2222,6 @@
   "division": "U16 BB",
   "association": "Woodstock Minor Hockey",
   "logo": "logos/6c3aa7a1db2c.png"
- },
- {
-  "id": "2730:burlington-bulldogs-gold",
-  "name": "Burlington Bulldogs Gold",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2730:burlington-bulldogs-blue",
@@ -2480,6 +2480,14 @@
   "logo": "logos/704c833c6aca.png"
  },
  {
+  "id": "2733:oakridge-aeros",
+  "name": "Oakridge Aeros",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/ae847321ae88.png"
+ },
+ {
   "id": "2733:burlington-bulldogs-white",
   "name": "Burlington Bulldogs White",
   "divisionId": 2733,
@@ -2510,14 +2518,6 @@
   "division": "U18 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "logos/49dba036a6a8.png"
- },
- {
-  "id": "2733:oakridge-aeros",
-  "name": "Oakridge Aeros",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/ae847321ae88.png"
  },
  {
   "id": "2733:north-london-nationals",
