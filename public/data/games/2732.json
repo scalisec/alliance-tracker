@@ -521,14 +521,17 @@
   "start": "2026-10-25T18:00:00-04:00",
   "away": "Brantford 99ers",
   "home": "Mt. Brydges Cougars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Tri-Township (Tri-Township)",
   "code": "U18S76",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3102477
+  }
  },
  {
   "id": 2376118,

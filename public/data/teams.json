@@ -1760,6 +1760,14 @@
   "logo": "logos/08d490425be3.png"
  },
  {
+  "id": "2726:cambridge-hawks",
+  "name": "Cambridge Hawks",
+  "divisionId": 2726,
+  "division": "U15 AA-A",
+  "association": "Cambridge Minor Hockey",
+  "logo": "logos/e0787358df89.png"
+ },
+ {
   "id": "2726:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2726,
@@ -1782,14 +1790,6 @@
   "division": "U15 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
- },
- {
-  "id": "2726:cambridge-hawks",
-  "name": "Cambridge Hawks",
-  "divisionId": 2726,
-  "division": "U15 AA-A",
-  "association": "Cambridge Minor Hockey",
-  "logo": "logos/e0787358df89.png"
  },
  {
   "id": "2726:woodstock-jr-navy-vets",
@@ -2120,20 +2120,20 @@
   "logo": "logos/6c3aa7a1db2c.png"
  },
  {
-  "id": "2730:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
- },
- {
   "id": "2730:oakridge-aeros",
   "name": "Oakridge Aeros",
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/ae847321ae88.png"
+ },
+ {
+  "id": "2730:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2730:north-london-nationals",
@@ -2144,20 +2144,20 @@
   "logo": "logos/41275c8a7241.png"
  },
  {
-  "id": "2730:kitchener-jr-rangers-red",
-  "name": "Kitchener Jr Rangers Red",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
- },
- {
   "id": "2730:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
+ },
+ {
+  "id": "2730:kitchener-jr-rangers-red",
+  "name": "Kitchener Jr Rangers Red",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2730:st-thomas-jr-stars",
@@ -2344,12 +2344,12 @@
   "logo": "logos/51ff29ef905f.png"
  },
  {
-  "id": "2732:brantford-99ers",
-  "name": "Brantford 99ers",
+  "id": "2732:mt-brydges-cougars",
+  "name": "Mt. Brydges Cougars",
   "divisionId": 2732,
   "division": "U18 AA-A",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
+  "association": null,
+  "logo": "logos/0f4ddfdee820.png"
  },
  {
   "id": "2732:london-jr-knights-white",
@@ -2366,6 +2366,14 @@
   "division": "U18 AA-A",
   "association": null,
   "logo": "logos/612db499a971.png"
+ },
+ {
+  "id": "2732:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2732:kitchener-jr-rangers",
@@ -2390,14 +2398,6 @@
   "division": "U18 AA-A",
   "association": "Cambridge Minor Hockey",
   "logo": "logos/e0787358df89.png"
- },
- {
-  "id": "2732:mt-brydges-cougars",
-  "name": "Mt. Brydges Cougars",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": null,
-  "logo": "logos/0f4ddfdee820.png"
  },
  {
   "id": "2733:cambridge-hawks",
