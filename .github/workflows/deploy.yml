@@ -17,7 +17,7 @@ concurrency:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # pinned: ubuntu-latest moved to Ubuntu 26, which the test browser installer does not support yet
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}

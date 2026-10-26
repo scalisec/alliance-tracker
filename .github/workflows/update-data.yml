@@ -31,7 +31,7 @@ concurrency:
 
 jobs:
   collect:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # pinned: ubuntu-latest moved to Ubuntu 26, which the test browser installer does not support yet
     timeout-minutes: 60
     permissions:
       contents: write   # commit the refreshed data
@@ -86,7 +86,7 @@ jobs:
       pages: write
       id-token: write
     if: needs.collect.outputs.changed == 'true' || (github.event_name == 'workflow_dispatch' && needs.collect.outputs.mode != 'live')
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # pinned: ubuntu-latest moved to Ubuntu 26, which the test browser installer does not support yet
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
@@ -97,6 +97,12 @@ jobs:
       - uses: actions/setup-node@v4
         with: { node-version: 22, cache: npm }
       - run: npm ci && npm run build
+      # Same checks as a code publish, so a version that failed its tests can't
+      # slip out with a data update.
+      - name: Parser checks
+        run: npm test
+      - name: Screen tests
+        run: npx playwright install --with-deps chromium && npx playwright test
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with: { path: dist }
@@ -107,7 +113,7 @@ jobs:
     # Keep live updates coming every ~10 min during game windows.
     needs: [collect, deploy]
     if: always() && needs.collect.outputs.mode == 'live'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # pinned: ubuntu-latest moved to Ubuntu 26, which the test browser installer does not support yet
     timeout-minutes: 25
     permissions:
       actions: write    # start the next live run

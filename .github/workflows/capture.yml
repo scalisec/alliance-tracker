@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   capture:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # pinned: ubuntu-latest moved to Ubuntu 26, which the test browser installer does not support yet
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
