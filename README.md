@@ -42,6 +42,15 @@ theonedb.com ────────┴─► GitHub Actions collector ─► p
 
 A full sync that parses nothing fails instead of publishing empty data.
 
+## Club teams (for Watch Party)
+
+`CLUB_TEAMS` in `collector/config.js` lists teams outside the Alliance whose schedules are read from their association's site, which runs on the same platform as alliancehockey.com. The first is the **Burlington Barracudas U13 B** (OWHA) from [bghc.ca](https://bghc.ca/Teams/2066/).
+
+- **One page per team per run:** `/Teams/<id>/Schedule/`, read nightly and during game windows when a game needs its result. It's path-style only (no query URLs), 3 s apart.
+- **What's published:** `public/data/games/<club id>.json` in the same format as the league files, plus `public/data/clubs.json` (team name, division such as "U13 B (OWHA)", logo). Games already saved are kept, so the full season builds up even if the page shows only part of it.
+- **Not shown in Alliance Tracker:** its own screens don't use club teams. [Watch Party](https://scalisec.github.io/bulldogs-watch-party/) lists them in its League team picker.
+- **Capture sample pages** also saves the club's robots.txt, team page and schedule page, and checks the club parser against them.
+
 ## First run
 
 1. Create the repo and push (Settings → Pages → Source: **GitHub Actions**).

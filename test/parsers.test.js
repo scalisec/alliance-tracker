@@ -84,3 +84,40 @@ test('standings: single group has no label (U13 BB)', { skip: !has('alliance-sta
   assert.equal(st.regular[0].name, '');
   assert.equal(st.playoffs.length, 0);
 });
+
+// ---------- club team pages (bghc.ca etc.) ----------
+import * as clubs from '../collector/sources/clubs.js';
+const CUDAS = { id: 'bghc-2066', name: 'Burlington Barracudas', site: 'https://bghc.ca', teamId: 2066 };
+
+// Built from what bghc.ca shows (same markup as alliancehockey.com, team point of view).
+const item = ({ id, day, time, tag, text, venue, score = '', result = '', lb = '' }) => `<div class="event-list-item hover-function"><div class="content">
+  <div class="hover-overlay">${lb ? `<a class="livebarn-watch" href="${lb}">Watch</a>` : ''}<a href="/Teams/2066/Games/${id}/">Game Details</a></div>
+  <div class="grid-x"><div class="time-primary"><div class="day_of_month">${day}</div>${time}</div>
+  <div class="tag-list"><div class="tag">${tag}</div></div>
+  <div class="subject-owner">Rep • U13 B (Emmie McKenzie)</div><div class="subject-text">${text}</div><div class="location">${venue}</div>
+  <div class="related-info"><div class="game_score">${score}</div><div class="game_result">${result}</div></div></div></div></div>`;
+const SAMPLE = `<div class="heading-1-wrapper"><span class="text">September 2026</span></div>
+${item({ id: 59945, day: 'Sun 20', time: '9:00 AM', tag: 'Tournament Game', text: 'vs Lambeth Lancers', venue: 'Memorial Arena', score: '1-3', result: 'L' })}
+${item({ id: 59810, day: 'Thu 24', time: '7:00 PM', tag: 'Exhibition', text: 'vs North Halton Twisters', venue: 'Mountainside Arena', score: '4-2', result: 'W', lb: 'https://join.livebarn.com/x' })}
+${item({ id: 59853, day: 'Wed 30', time: '6:00 PM', tag: 'Exhibition', text: '@ North Halton Twisters', venue: 'Milton Memorial Arena', score: '2-5', result: 'W' })}
+<div class="heading-1-wrapper"><span class="text">November 2026</span></div>
+${item({ id: 62190, day: 'Sat 07', time: '12:15 PM', tag: 'Away Game', text: '@ Oakville Hornets<span class="game_no">U13B-114</span>', venue: 'Glen Abbey (1)' })}
+<div class="event-list-item"><div class="time-primary"><div class="day_of_month">Tue 10</div>6:00 PM</div><div class="tag">Practice</div><div class="subject-text">Practice</div></div>`;
+
+test('club schedule: team point of view becomes home/away with our score from W/L', () => {
+  const g = clubs.parseClubSchedule(SAMPLE, CUDAS);
+  assert.equal(g.length, 4, 'practices are skipped');
+  const [t, h, a, up] = g;
+  assert.deepEqual([t.home, t.away, t.homeScore, t.awayScore, t.type, t.status], ['Burlington Barracudas', 'Lambeth Lancers', 1, 3, 'tournament', 'final']);
+  assert.equal(t.start, '2026-09-20T09:00:00-04:00');
+  assert.deepEqual([h.home, h.homeScore, h.awayScore, h.type, h.liveBarn], ['Burlington Barracudas', 4, 2, 'exhibition', 'https://join.livebarn.com/x']);
+  assert.deepEqual([a.away, a.home, a.awayScore, a.homeScore], ['Burlington Barracudas', 'North Halton Twisters', 5, 2], 'a win away: our 5 is the away score');
+  assert.deepEqual([up.home, up.away, up.status, up.code, up.start, up.divisionId], ['Oakville Hornets', 'Burlington Barracudas', 'scheduled', 'U13B-114', '2026-11-07T12:15:00-05:00', 'bghc-2066']);
+});
+
+test('club schedule: real bghc.ca team page parses', { skip: !has('club-bghc-2066-schedule.html') }, () => {
+  const g = clubs.parseClubSchedule(read('club-bghc-2066-schedule.html'), CUDAS);
+  assert.ok(g.length > 0, 'expected games');
+  assert.ok(g.every((x) => x.start && x.home && x.away && (x.home === CUDAS.name || x.away === CUDAS.name)), 'every game has a time and includes us');
+  assert.equal(new Set(g.map((x) => x.id)).size, g.length);
+});

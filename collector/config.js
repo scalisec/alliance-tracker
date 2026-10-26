@@ -59,3 +59,18 @@ export const FETCH = {
 export const GAME_FINAL_AFTER_MIN = 75;
 // How long after a final we keep re-checking for box-score corrections.
 export const GAME_RECHECK_HOURS = 6;
+
+// Club teams outside the Alliance (e.g. OWHA girls' teams), read from their association's site.
+// Same platform as alliancehockey.com. Published to public/data/games/<id>.json and listed in
+// public/data/clubs.json for Watch Party; the Alliance Tracker screens don't use them.
+export const CLUB_TEAMS = [
+  {
+    id: 'bghc-2066',
+    site: 'https://bghc.ca',
+    teamId: 2066,
+    name: 'Burlington Barracudas',
+    division: 'U13 B',
+    league: 'OWHA',
+    association: 'Burlington Girls Hockey Club',
+  },
+];

@@ -114,8 +114,37 @@ const MONTH_RE = /\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s
 const DATE_RE = /\b(Mon|Tue|Wed|Thu|Fri|Sat|Sun)\w*,?\s+(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\w*\.?\s+(\d{1,2})(?:,?\s+(\d{4}))?/i;
 
 export function parseSchedule(html, groupId, { seasonStartYear = 2026, anyGroup = false } = {}) {
-  const $ = cheerio.load(html);
   const games = new Map();
+  for (const it of scheduleItems(html, { seasonStartYear })) {
+    if (it.groupId != null && !anyGroup && it.groupId !== Number(groupId)) continue;
+    const away = it.owner || null;
+    const home = it.text.replace(/^@\s*/, '').replace(/^vs\.?\s*/i, '') || null;
+    const [, as, hs] = it.scoreText.match(SCORE_RE) ?? [];
+    games.set(it.id, {
+      id: it.id, divisionId: Number(groupId),
+      start: it.start,
+      away, home,
+      awayScore: as != null ? Number(as) : null,
+      homeScore: hs != null ? Number(hs) : null,
+      status: it.cancelled ? 'cancelled' : as != null ? 'final' : 'scheduled',
+      venue: it.venue, code: it.code,
+      liveBarn: it.liveBarn,
+      type: it.type,
+      gamesheet: null,
+    });
+  }
+  return [...games.values()];
+}
+
+/**
+ * Every game on an MBLeagueWeb schedule page, as read from the page (no home/away interpretation):
+ * { id, groupId, start, owner, text, code, venue, scoreText, resultText, tags, type, cancelled, liveBarn }.
+ * League pages: owner = away team, text = "@ Home". Club team pages: owner = "Rep • U13 B (Coach)",
+ * text = "vs Opponent" (home) or "@ Opponent" (away). Used by parseSchedule and the club parser.
+ */
+export function scheduleItems(html, { seasonStartYear = 2026 } = {}) {
+  const $ = cheerio.load(html);
+  const items = new Map();
   let month = null, year = null, day = null;
 
   // Walk the document in order so month headings and day labels carry forward.
@@ -133,7 +162,7 @@ export function parseSchedule(html, groupId, { seasonStartYear = 2026, anyGroup 
     const m = link.match(/\/Groups\/(\d+)\/Games\/(\d+)/) ?? link.match(/\/Games\/(\d+)/);
     if (!m) return;
     const id = Number(m[2] ?? m[1]);
-    if (m[2] && !anyGroup && Number(m[1]) !== Number(groupId)) return;
+    const groupId = m[2] ? Number(m[1]) : null;
 
     const dom = clean($el.find('.day_of_month').first().text()); // "Fri 02"
     const dm = dom.match(/(\d{1,2})\s*$/);
@@ -143,33 +172,27 @@ export function parseSchedule(html, groupId, { seasonStartYear = 2026, anyGroup 
 
     const timeText = clean($el.find('.time-primary').first().clone().children('.day_of_month').remove().end().text());
     const time = timeText.match(TIME_RE)?.[1] ?? null;
-    const away = clean($el.find('.subject-owner').first().text()) || null;
-    const homeEl = $el.find('.subject-text').first().clone();
-    homeEl.find('.game_no').remove();
-    const home = clean(homeEl.text()).replace(/^@\s*/, '').replace(/^vs\.?\s*/i, '') || null;
-    const code = clean($el.find('.game_no').first().text()) || null;
-    const venue = clean($el.find('.location').first().text()) || null;
-    const scoreText = clean($el.find('.game_score').first().text());
-    const [, as, hs] = scoreText.match(SCORE_RE) ?? [];
+    const textEl = $el.find('.subject-text').first().clone();
+    textEl.find('.game_no').remove();
     const tags = $el.find('.tag').map((__, t) => clean($(t).text())).get();
-    const type = tags.some((t) => /playoff/i.test(t)) ? 'playoff' : tags.some((t) => /exhibition/i.test(t)) ? 'exhibition' : 'regular';
-    const cancelled = tags.some((t) => /cancel|postpon/i.test(t)) || /cancel|postpon/i.test(clean($el.find('.game_result').text()));
-
+    const resultText = clean($el.find('.game_result').first().text());
     const dateText = month && day ? `Sat, ${month} ${day}${year ? `, ${year}` : ''}` : null;
-    games.set(id, {
-      id, divisionId: Number(groupId),
+    items.set(id, {
+      id, groupId,
       start: toIso(dateText, time, seasonStartYear),
-      away, home,
-      awayScore: as != null ? Number(as) : null,
-      homeScore: hs != null ? Number(hs) : null,
-      status: cancelled ? 'cancelled' : as != null ? 'final' : 'scheduled',
-      venue, code,
+      owner: clean($el.find('.subject-owner').first().text()),
+      text: clean(textEl.text()),
+      code: clean($el.find('.game_no').first().text()) || null,
+      venue: clean($el.find('.location').first().text()) || null,
+      scoreText: clean($el.find('.game_score').first().text()),
+      resultText,
+      tags,
+      type: tags.some((t) => /playoff/i.test(t)) ? 'playoff' : tags.some((t) => /tournament/i.test(t)) ? 'tournament' : tags.some((t) => /exhibition/i.test(t)) ? 'exhibition' : 'regular',
+      cancelled: tags.some((t) => /cancel|postpon/i.test(t)) || /cancel|postpon/i.test(resultText),
       liveBarn: $el.find('a.livebarn-watch, a[href*="livebarn.com"]').first().attr('href') ?? null,
-      type,
-      gamesheet: null,
     });
   });
-  return [...games.values()];
+  return [...items.values()];
 }
 
 // ---------- Game page ----------

@@ -7,10 +7,11 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import crypto from 'node:crypto';
-import { DIVISIONS, SEASON, ONEDB_SEED_TEAM, GAMESHEET_SEASONS, GAME_FINAL_AFTER_MIN, GAME_RECHECK_HOURS } from './config.js';
+import { DIVISIONS, SEASON, ONEDB_SEED_TEAM, GAMESHEET_SEASONS, GAME_FINAL_AFTER_MIN, GAME_RECHECK_HOURS, CLUB_TEAMS } from './config.js';
 import { fetchText, fetchBinary, stats } from './fetcher.js';
 import * as alliance from './sources/alliance.js';
 import * as theonedb from './sources/theonedb.js';
+import * as clubs from './sources/clubs.js';
 import { slug } from '../src/teams.js';
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
@@ -167,6 +168,37 @@ async function refreshGameLinks(div, games, now, { maxAgeDays = 3, maxLookups = 
   if (changed) await writeJson(path.join(DATA, 'games', `${div.id}.json`), games);
 }
 
+// ---------- club teams (outside the Alliance; for Watch Party) ----------
+// One page per team: its schedule on the association's site. Games we already have are kept
+// (the page may only show part of the season), and the newest read wins for each game.
+async function refreshClub(team) {
+  const file = path.join(DATA, 'games', `${team.id}.json`);
+  const existing = await readJson(file, []);
+  const byId = new Map(existing.map((g) => [g.id, g]));
+  const html = await fetchText(clubs.urls.schedule(team));
+  const list = html ? clubs.parseClubSchedule(html, team) : [];
+  for (const g of list) {
+    const prev = byId.get(g.id);
+    byId.set(g.id, { ...prev, ...g, liveBarn: g.liveBarn ?? prev?.liveBarn ?? null });
+  }
+  const games = [...byId.values()].sort((a, b) => (a.start ?? '').localeCompare(b.start ?? ''));
+  await writeJson(file, games);
+  totals.games += list.length;
+  log(`club ${team.id}: ${list.length} games read, ${games.length} kept`);
+  return games;
+}
+
+async function writeClubIndex() {
+  const out = [];
+  for (const t of CLUB_TEAMS) {
+    out.push({ id: `${t.id}:${slug(t.name)}`, name: t.name, divisionId: t.id, division: `${t.division} (${t.league})`,
+      league: t.league, association: t.association, logo: await localLogo(clubs.urls.logo(t)) });
+  }
+  await writeJson(path.join(DATA, 'clubs.json'), out);
+}
+
+const clubSafely = (t, fn) => safely({ name: `club ${t.id}` }, fn);
+
 // ---------- teams index (for search + My Teams) ----------
 async function rebuildTeams() {
   const teams = new Map();
@@ -258,6 +290,8 @@ async function full() {
   // 2) Then a few GameSheet links per division for the last week's games.
   //    (Live runs pick these up on game days; the app falls back to Alliance's game page.)
   for (const [div, games] of fresh) await safely(div, () => refreshGameLinks(div, games, now, { maxAgeDays: 7, maxLookups: 3 }));
+  // 3) Club teams (one page each).
+  for (const t of CLUB_TEAMS) await clubSafely(t, () => refreshClub(t));
 }
 
 async function live() {
@@ -278,6 +312,18 @@ async function live() {
       const { games: fresh } = await refreshDivision(div);
       await refreshGameLinks(div, fresh, now);
     });
+  }
+  await liveClubs(now, today);
+}
+
+// Club teams with a game today that still needs its result.
+async function liveClubs(now, today) {
+  for (const t of CLUB_TEAMS) {
+    if (!budgetLeft()) break;
+    const games = await readJson(path.join(DATA, 'games', `${t.id}.json`), []);
+    const due = games.some((g) => g.start && torontoDay(new Date(g.start)) === today && g.status !== 'final'
+      && (now - Date.parse(g.start)) / 60000 >= GAME_FINAL_AFTER_MIN - 30);
+    if (due) await clubSafely(t, () => refreshClub(t));
   }
 }
 
@@ -316,6 +362,15 @@ async function capture() {
   if (gp) await save('theonedb-schedule-u13bb.html', theonedb.BASE + gp);
   const menu = team ? theonedb.parseGroupMenu(team) : {};
   if (menu['U13 BB']) await save('theonedb-schedule-u13bb-nov.html', theonedb.monthUrl(menu['U13 BB'], 2026, 11));
+  for (const t of CLUB_TEAMS) {
+    await save(`club-${t.id}-robots.txt`, clubs.urls.robots(t));
+    await save(`club-${t.id}-team.html`, clubs.urls.team(t));
+    const cs = await save(`club-${t.id}-schedule.html`, clubs.urls.schedule(t));
+    if (cs) {
+      const g = clubs.parseClubSchedule(cs, t);
+      report.push(`club ${t.id} parser: ${g.length} games; first: ${JSON.stringify(g[0] ?? null)}`);
+    }
+  }
   if (sched) {
     const parsed = alliance.parseSchedule(sched, 2721);
     report.push(`schedule parser: ${parsed.length} games; first: ${JSON.stringify(parsed[0] ?? null)}`);
@@ -342,6 +397,7 @@ if (mode === 'full' && totals.games === 0 && totals.rows === 0) {
 }
 if (mode !== 'capture') {
   const n = await rebuildTeams();
+  await writeClubIndex(); // after the Alliance logos, so a missing club logo never holds them up
   await writeMeta(mode);
   log(`teams indexed: ${n}`);
 }
