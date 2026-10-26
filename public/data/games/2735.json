@@ -1245,21 +1245,6 @@
   "gamesheet": null
  },
  {
-  "id": 2411467,
-  "divisionId": 2735,
-  "start": "2027-01-09T12:00:00-05:00",
-  "away": "Oakridge Aeros",
-  "home": "North London Nationals",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Carling (A)",
-  "code": "U8MDW134",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
   "id": 2411400,
   "divisionId": 2735,
   "start": "2027-01-09T12:15:00-05:00",
@@ -1330,6 +1315,21 @@
   "status": "scheduled",
   "venue": "Argyle (B)",
   "code": "U8MDW105",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
+  "id": 2411467,
+  "divisionId": 2735,
+  "start": "2027-01-09T14:00:00-05:00",
+  "away": "Oakridge Aeros",
+  "home": "North London Nationals",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Carling (A)",
+  "code": "U8MDW134",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null
@@ -1620,6 +1620,21 @@
   "gamesheet": null
  },
  {
+  "id": 2411507,
+  "divisionId": 2735,
+  "start": "2027-01-30T11:00:00-05:00",
+  "away": "North London Nationals",
+  "home": "West London Hawks",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Bostwick (A)",
+  "code": "U8MDW136",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
   "id": 2411409,
   "divisionId": 2735,
   "start": "2027-01-30T11:30:00-05:00",
@@ -1630,21 +1645,6 @@
   "status": "scheduled",
   "venue": "AMC (West)",
   "code": "U8EC77",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
-  "id": 2411507,
-  "divisionId": 2735,
-  "start": "2027-01-30T11:30:00-05:00",
-  "away": "North London Nationals",
-  "home": "West London Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Bostwick (B)",
-  "code": "U8MDW136",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null
