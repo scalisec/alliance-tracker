@@ -752,14 +752,17 @@
   "start": "2026-10-25T16:00:00-04:00",
   "away": "West London Hawks",
   "home": "Burlington Bulldogs Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Appleby (3)",
   "code": "U16BR92",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-10-25/16:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3098887
+  }
  },
  {
   "id": 2378953,
@@ -839,14 +842,17 @@
   "start": "2026-10-25T19:15:00-04:00",
   "away": "Waterloo Wolves",
   "home": "St. Thomas Jr Stars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Joe Thornton CC (Presstran)",
   "code": "U16BR53",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4356/2026-10-25/19:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3102506
+  }
  },
  {
   "id": 2378967,

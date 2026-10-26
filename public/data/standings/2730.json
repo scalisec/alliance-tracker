@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-10-26T00:41:13.636Z",
+ "updatedAt": "2026-10-26T01:11:39.835Z",
  "regular": [
   {
    "name": "",
@@ -81,33 +81,33 @@
      "strk": "W2"
     },
     {
-     "team": "St. Thomas Jr Stars",
-     "teamId": "odb-97280",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "team": "Waterloo Wolves",
+     "teamId": "odb-97275",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
      "gp": 6,
      "w": 4,
      "l": 2,
      "t": 0,
      "pts": 8,
-     "gf": 24,
+     "gf": 20,
      "ga": 11,
-     "diff": 13,
+     "diff": 9,
      "l10": "4-2",
-     "strk": "W3"
+     "strk": "W1"
     },
     {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-97275",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 5,
-     "w": 3,
-     "l": 2,
+     "team": "St. Thomas Jr Stars",
+     "teamId": "odb-97280",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "gp": 7,
+     "w": 4,
+     "l": 3,
      "t": 0,
-     "pts": 6,
-     "gf": 16,
-     "ga": 9,
-     "diff": 7,
-     "l10": "3-2",
+     "pts": 8,
+     "gf": 26,
+     "ga": 15,
+     "diff": 11,
+     "l10": "4-3",
      "strk": "L1"
     },
     {
@@ -201,19 +201,34 @@
      "strk": "L1"
     },
     {
+     "team": "West London Hawks",
+     "teamId": "odb-97282",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
+     "gp": 7,
+     "w": 1,
+     "l": 6,
+     "t": 0,
+     "pts": 2,
+     "gf": 14,
+     "ga": 35,
+     "diff": -21,
+     "l10": "1-6",
+     "strk": "W1"
+    },
+    {
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97278",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 7,
+     "gp": 8,
      "w": 0,
-     "l": 5,
+     "l": 6,
      "t": 2,
      "pts": 2,
-     "gf": 14,
-     "ga": 38,
-     "diff": -24,
-     "l10": "0-5-2",
-     "strk": "L1"
+     "gf": 17,
+     "ga": 43,
+     "diff": -26,
+     "l10": "0-6-2",
+     "strk": "L2"
     },
     {
      "team": "Burlington Raiders",
@@ -229,21 +244,6 @@
      "diff": -30,
      "l10": "0-5-1",
      "strk": "L2"
-    },
-    {
-     "team": "West London Hawks",
-     "teamId": "odb-97282",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 6,
-     "w": 0,
-     "l": 6,
-     "t": 0,
-     "pts": 0,
-     "gf": 9,
-     "ga": 32,
-     "diff": -23,
-     "l10": "0-6",
-     "strk": "L6"
     }
    ]
   }
