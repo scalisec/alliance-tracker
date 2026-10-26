@@ -1,6 +1,6 @@
 {
  "divisionId": 2732,
- "updatedAt": "2026-10-26T01:12:19.794Z",
+ "updatedAt": "2026-10-26T02:15:06.190Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "London Jr Knights Green",
      "teamId": "odb-97115",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 6,
-     "w": 4,
+     "gp": 7,
+     "w": 5,
      "l": 0,
      "t": 2,
-     "pts": 10,
-     "gf": 26,
-     "ga": 10,
-     "diff": 16,
-     "l10": "4-0-2",
-     "strk": "T1"
+     "pts": 12,
+     "gf": 29,
+     "ga": 12,
+     "diff": 17,
+     "l10": "5-0-2",
+     "strk": "W1"
     },
     {
      "team": "Woodstock Jr Navy Vets",
@@ -144,16 +144,16 @@
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97114",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 4,
+     "gp": 5,
      "w": 2,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "pts": 4,
-     "gf": 15,
-     "ga": 8,
-     "diff": 7,
-     "l10": "2-2",
-     "strk": "L1"
+     "gf": 17,
+     "ga": 11,
+     "diff": 6,
+     "l10": "2-3",
+     "strk": "L2"
     },
     {
      "team": "Cambridge Hawks",
