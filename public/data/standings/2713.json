@@ -1,6 +1,6 @@
 {
  "divisionId": 2713,
- "updatedAt": "2026-10-25T21:20:38.545Z",
+ "updatedAt": "2026-10-26T10:16:44.142Z",
  "regular": [
   {
    "name": "East Division",
@@ -116,6 +116,21 @@
      "strk": "W1"
     },
     {
+     "team": "Chatham-Kent Cyclones",
+     "teamId": "odb-96949",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
+     "gp": 6,
+     "w": 3,
+     "l": 3,
+     "t": 0,
+     "pts": 6,
+     "gf": 20,
+     "ga": 23,
+     "diff": -3,
+     "l10": "3-3",
+     "strk": "W2"
+    },
+    {
      "team": "London Jr Knights",
      "teamId": "odb-96954",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
@@ -146,34 +161,19 @@
      "strk": "L1"
     },
     {
-     "team": "Chatham-Kent Cyclones",
-     "teamId": "odb-96949",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
-     "gp": 5,
-     "w": 2,
-     "l": 3,
-     "t": 0,
-     "pts": 4,
-     "gf": 17,
-     "ga": 21,
-     "diff": -4,
-     "l10": "2-3",
-     "strk": "W1"
-    },
-    {
      "team": "Sun County Panthers",
      "teamId": "odb-97284",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 2,
+     "gp": 3,
      "w": 0,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "pts": 0,
-     "gf": 4,
-     "ga": 8,
-     "diff": -4,
-     "l10": "0-2",
-     "strk": "L2"
+     "gf": 6,
+     "ga": 11,
+     "diff": -5,
+     "l10": "0-3",
+     "strk": "L3"
     }
    ]
   }

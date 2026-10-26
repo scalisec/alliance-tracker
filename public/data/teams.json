@@ -424,6 +424,14 @@
   "logo": "logos/1d06ddd6cd32.png"
  },
  {
+  "id": "2713:chatham-kent-cyclones",
+  "name": "Chatham-Kent Cyclones",
+  "divisionId": 2713,
+  "division": "U11 AAA",
+  "association": "Chatham-Kent Cyclones",
+  "logo": "logos/b0bd0d065caa.png"
+ },
+ {
   "id": "2713:london-jr-knights",
   "name": "London Jr Knights",
   "divisionId": 2713,
@@ -438,14 +446,6 @@
   "division": "U11 AAA",
   "association": "Lambton Jr Sting",
   "logo": "logos/bcc449715362.png"
- },
- {
-  "id": "2713:chatham-kent-cyclones",
-  "name": "Chatham-Kent Cyclones",
-  "divisionId": 2713,
-  "division": "U11 AAA",
-  "association": "Chatham-Kent Cyclones",
-  "logo": "logos/b0bd0d065caa.png"
  },
  {
   "id": "2713:sun-county-panthers",
@@ -1112,6 +1112,14 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
+  "id": "2720:mt-brydges-cougars",
+  "name": "Mt. Brydges Cougars",
+  "divisionId": 2720,
+  "division": "U13 AA-A",
+  "association": null,
+  "logo": "logos/0f4ddfdee820.png"
+ },
+ {
   "id": "2720:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2720,
@@ -1142,14 +1150,6 @@
   "division": "U13 AA-A",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
- },
- {
-  "id": "2720:mt-brydges-cougars",
-  "name": "Mt. Brydges Cougars",
-  "divisionId": 2720,
-  "division": "U13 AA-A",
-  "association": null,
-  "logo": "logos/0f4ddfdee820.png"
  },
  {
   "id": "2720:cambridge-hawks",
@@ -1424,6 +1424,14 @@
   "logo": "logos/6c3aa7a1db2c.png"
  },
  {
+  "id": "2723:mt-brydges-cougars",
+  "name": "Mt. Brydges Cougars",
+  "divisionId": 2723,
+  "division": "U14 AA-A",
+  "association": null,
+  "logo": "logos/0f4ddfdee820.png"
+ },
+ {
   "id": "2723:kitchener-jr-rangers-red",
   "name": "Kitchener Jr Rangers Red",
   "divisionId": 2723,
@@ -1438,14 +1446,6 @@
   "division": "U14 AA-A",
   "association": "Stratford Minor Hockey",
   "logo": "logos/51ff29ef905f.png"
- },
- {
-  "id": "2723:mt-brydges-cougars",
-  "name": "Mt. Brydges Cougars",
-  "divisionId": 2723,
-  "division": "U14 AA-A",
-  "association": null,
-  "logo": "logos/0f4ddfdee820.png"
  },
  {
   "id": "2723:kitchener-jr-rangers-blue",
@@ -1512,20 +1512,20 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
-  "id": "2724:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2724,
-  "division": "U14 BB",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
- },
- {
   "id": "2724:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2724,
   "division": "U14 BB",
   "association": null,
   "logo": "logos/612db499a971.png"
+ },
+ {
+  "id": "2724:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2724,
+  "division": "U14 BB",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2724:cambridge-hawks",
