@@ -1623,6 +1623,21 @@
   "gamesheet": null
  },
  {
+  "id": 2377936,
+  "divisionId": 2718,
+  "start": "2026-11-28T17:30:00-05:00",
+  "away": "Burlington Bulldogs Gold",
+  "home": "Kitchener Jr Rangers",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Grand River",
+  "code": "U12BR22",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
   "id": 2377981,
   "divisionId": 2718,
   "start": "2026-11-28T18:00:00-05:00",
@@ -1648,21 +1663,6 @@
   "status": "scheduled",
   "venue": "RIM Park (Lions)",
   "code": "U12BR20",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
-  "id": 2377936,
-  "divisionId": 2718,
-  "start": "2026-11-28T18:30:00-05:00",
-  "away": "Burlington Bulldogs Gold",
-  "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Grand River",
-  "code": "U12BR22",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null

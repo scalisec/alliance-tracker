@@ -948,21 +948,6 @@
   "gamesheet": null
  },
  {
-  "id": 2374758,
-  "divisionId": 2722,
-  "start": "2026-11-07T20:00:00-05:00",
-  "away": "Huron-Perth Lakers",
-  "home": "Sarnia-Lambton Jr Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Clearwater (Blue)",
-  "code": "U14P153",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
   "id": 2374778,
   "divisionId": 2722,
   "start": "2026-11-08T14:45:00-05:00",
@@ -2248,6 +2233,21 @@
   "status": "scheduled",
   "venue": "Western Fair (Chik-fil-a)",
   "code": "U14P118",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
+  "id": 2374758,
+  "divisionId": 2722,
+  "start": "2027-01-27T18:45:00-05:00",
+  "away": "Huron-Perth Lakers",
+  "home": "Sarnia-Lambton Jr Sting",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Sarnia PASA (Rink 2)",
+  "code": "U14P153",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null

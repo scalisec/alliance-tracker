@@ -975,6 +975,21 @@
   "gamesheet": null
  },
  {
+  "id": 2375353,
+  "divisionId": 2714,
+  "start": "2026-11-28T15:00:00-05:00",
+  "away": "Sarnia Jr. Sting",
+  "home": "Kitchener Jr Rangers Blue",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Grand River",
+  "code": "U11S31",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
   "id": 2375391,
   "divisionId": 2714,
   "start": "2026-11-28T15:45:00-05:00",
@@ -985,21 +1000,6 @@
   "status": "scheduled",
   "venue": "Rotary Complex (Rink A)",
   "code": "U11S40",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
-  "id": 2375353,
-  "divisionId": 2714,
-  "start": "2026-11-28T16:00:00-05:00",
-  "away": "Sarnia Jr. Sting",
-  "home": "Kitchener Jr Rangers Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Grand River",
-  "code": "U11S31",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null

@@ -600,20 +600,20 @@
   "logo": "logos/41275c8a7241.png"
  },
  {
-  "id": "2715:burlington-bulldogs-blue",
-  "name": "Burlington Bulldogs Blue",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
- },
- {
   "id": "2715:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
+ },
+ {
+  "id": "2715:burlington-bulldogs-blue",
+  "name": "Burlington Bulldogs Blue",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2715:burlington-bulldogs-white",

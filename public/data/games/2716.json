@@ -1302,6 +1302,21 @@
   "gamesheet": null
  },
  {
+  "id": 2374254,
+  "divisionId": 2716,
+  "start": "2026-12-17T19:00:00-05:00",
+  "away": "Brantford 99ers",
+  "home": "Huron-Perth Lakers",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "PERC",
+  "code": "U12P146",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
   "id": 2374315,
   "divisionId": 2716,
   "start": "2026-12-18T19:00:00-05:00",
@@ -1987,21 +2002,6 @@
   "status": "scheduled",
   "venue": "RIM Park (Lions)",
   "code": "U12P34",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
-  "id": 2374254,
-  "divisionId": 2716,
-  "start": "2027-02-05T19:00:00-05:00",
-  "away": "Brantford 99ers",
-  "home": "Huron-Perth Lakers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Rotary Complex (Rink A)",
-  "code": "U12P146",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null

@@ -635,14 +635,17 @@
   "start": "2026-10-25T12:00:00-04:00",
   "away": "Burlington Bulldogs White",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Rec Complex (Rec Complex)",
   "code": "U11BR60",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4592/2026-10-25/12:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3097422
+  }
  },
  {
   "id": 2379324,
@@ -1271,7 +1274,7 @@
  {
   "id": 2379358,
   "divisionId": 2715,
-  "start": "2026-11-28T13:15:00-05:00",
+  "start": "2026-11-28T12:15:00-05:00",
   "away": "Burlington Raiders",
   "home": "Kitchener Jr Rangers",
   "awayScore": null,
