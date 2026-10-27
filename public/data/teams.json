@@ -464,20 +464,20 @@
   "logo": "logos/08d490425be3.png"
  },
  {
-  "id": "2714:mt-brydges-cougars",
-  "name": "Mt. Brydges Cougars",
-  "divisionId": 2714,
-  "division": "U11 AA-A",
-  "association": null,
-  "logo": "logos/0f4ddfdee820.png"
- },
- {
   "id": "2714:london-jr-knights-white",
   "name": "London Jr Knights White",
   "divisionId": 2714,
   "division": "U11 AA-A",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
+ },
+ {
+  "id": "2714:mt-brydges-cougars",
+  "name": "Mt. Brydges Cougars",
+  "divisionId": 2714,
+  "division": "U11 AA-A",
+  "association": null,
+  "logo": "logos/0f4ddfdee820.png"
  },
  {
   "id": "2714:kitchener-jr-rangers-red",
