@@ -671,14 +671,17 @@
   "start": "2026-10-25T12:15:00-04:00",
   "away": "Stratford Warriors",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Sportsworld (Prac)",
   "code": "U13BR62",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4168/2026-10-25/12:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3097425
+  }
  },
  {
   "id": 2378087,

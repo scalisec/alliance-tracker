@@ -896,7 +896,7 @@
  {
   "id": 2408501,
   "divisionId": 2712,
-  "start": "2026-10-31T14:15:00-04:00",
+  "start": "2026-10-31T14:00:00-04:00",
   "away": "Mt. Brydges Cougars",
   "home": "North London Nationals",
   "awayScore": null,
@@ -904,7 +904,7 @@
   "status": "scheduled",
   "venue": "Carling (A)",
   "code": "U10BRS-143",
-  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5027/2026-10-31/14:15",
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5027/2026-10-31/14:00",
   "type": "regular",
   "gamesheet": null
  },

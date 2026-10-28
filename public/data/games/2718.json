@@ -1023,21 +1023,6 @@
   }
  },
  {
-  "id": 2377926,
-  "divisionId": 2718,
-  "start": "2026-10-25T17:00:00-04:00",
-  "away": "West London Hawks",
-  "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Mr Lube + Tires (Red)",
-  "code": "U12BR63",
-  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/241/2026-10-25/17:00",
-  "type": "regular",
-  "gamesheet": null
- },
- {
   "id": 2377919,
   "divisionId": 2718,
   "start": "2026-10-30T18:30:00-04:00",
@@ -1100,7 +1085,7 @@
  {
   "id": 2377955,
   "divisionId": 2718,
-  "start": "2026-10-31T15:30:00-04:00",
+  "start": "2026-10-31T15:15:00-04:00",
   "away": "Oakridge Aeros",
   "home": "North London Nationals",
   "awayScore": null,
@@ -1108,7 +1093,7 @@
   "status": "scheduled",
   "venue": "Carling (A)",
   "code": "U12BR18",
-  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5027/2026-10-31/15:30",
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5027/2026-10-31/15:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1229,6 +1214,21 @@
   "venue": "Joe Thornton CC (STMHA)",
   "code": "U12BR64",
   "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
+  "id": 2377926,
+  "divisionId": 2718,
+  "start": "2026-11-07T12:00:00-05:00",
+  "away": "West London Hawks",
+  "home": "Burlington Raiders",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Mr Lube + Tires (Red)",
+  "code": "U12BR63",
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/241/2026-10-25/17:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1760,7 +1760,7 @@
  {
   "id": 2377954,
   "divisionId": 2718,
-  "start": "2026-12-01T18:30:00-05:00",
+  "start": "2026-12-01T19:30:00-05:00",
   "away": "London Bandits",
   "home": "North London Nationals",
   "awayScore": null,

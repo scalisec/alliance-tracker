@@ -1428,6 +1428,21 @@
   "gamesheet": null
  },
  {
+  "id": 2378147,
+  "divisionId": 2724,
+  "start": "2026-11-16T19:00:00-05:00",
+  "away": "Cambridge Hawks",
+  "home": "London Bandits",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Argyle (A)",
+  "code": "U14BR87",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
   "id": 2378123,
   "divisionId": 2724,
   "start": "2026-11-17T20:00:00-05:00",
@@ -1678,21 +1693,6 @@
   "status": "scheduled",
   "venue": "Gretzky Center (#1)",
   "code": "U14BR68",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
-  "id": 2378147,
-  "divisionId": 2724,
-  "start": "2026-11-29T14:00:00-05:00",
-  "away": "Cambridge Hawks",
-  "home": "London Bandits",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Nichols (C)",
-  "code": "U14BR87",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null
