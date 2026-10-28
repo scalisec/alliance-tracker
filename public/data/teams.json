@@ -1584,20 +1584,20 @@
   "logo": "logos/97ff93a72d6e.png"
  },
  {
-  "id": "2724:west-london-hawks",
-  "name": "West London Hawks",
-  "divisionId": 2724,
-  "division": "U14 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/2237c5fc46ea.png"
- },
- {
   "id": "2724:burlington-raiders",
   "name": "Burlington Raiders",
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Burlington Raiders Hockey Club",
   "logo": "logos/8845e5146a9b.png"
+ },
+ {
+  "id": "2724:west-london-hawks",
+  "name": "West London Hawks",
+  "divisionId": 2724,
+  "division": "U14 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/2237c5fc46ea.png"
  },
  {
   "id": "2724:burlington-bulldogs-blue",
@@ -1896,6 +1896,14 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
+  "id": "2727:burlington-bulldogs-blue",
+  "name": "Burlington Bulldogs Blue",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
+ },
+ {
   "id": "2727:woodstock-jr-navy-vets",
   "name": "Woodstock Jr Navy Vets",
   "divisionId": 2727,
@@ -1910,14 +1918,6 @@
   "division": "U15 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/97ff93a72d6e.png"
- },
- {
-  "id": "2727:burlington-bulldogs-blue",
-  "name": "Burlington Bulldogs Blue",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2727:cambridge-hawks",
@@ -2064,20 +2064,20 @@
   "logo": "logos/08d490425be3.png"
  },
  {
-  "id": "2729:cambridge-hawks",
-  "name": "Cambridge Hawks",
-  "divisionId": 2729,
-  "division": "U16 AA-A",
-  "association": "Cambridge Minor Hockey",
-  "logo": "logos/e0787358df89.png"
- },
- {
   "id": "2729:kitchener-jr-rangers-red",
   "name": "Kitchener Jr Rangers Red",
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
+ },
+ {
+  "id": "2729:cambridge-hawks",
+  "name": "Cambridge Hawks",
+  "divisionId": 2729,
+  "division": "U16 AA-A",
+  "association": "Cambridge Minor Hockey",
+  "logo": "logos/e0787358df89.png"
  },
  {
   "id": "2729:sarnia-jr-sting",

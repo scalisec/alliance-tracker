@@ -1,6 +1,6 @@
 {
  "divisionId": 2729,
- "updatedAt": "2026-10-25T23:52:41.318Z",
+ "updatedAt": "2026-10-28T01:41:31.120Z",
  "regular": [
   {
    "name": "",
@@ -81,6 +81,21 @@
      "strk": "L1"
     },
     {
+     "team": "Kitchener Jr Rangers Red",
+     "teamId": "odb-97104",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 6,
+     "w": 3,
+     "l": 2,
+     "t": 1,
+     "pts": 7,
+     "gf": 20,
+     "ga": 18,
+     "diff": 2,
+     "l10": "3-2-1",
+     "strk": "W2"
+    },
+    {
      "team": "Cambridge Hawks",
      "teamId": "odb-97103",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
@@ -94,21 +109,6 @@
      "diff": -1,
      "l10": "2-3-2",
      "strk": "T2"
-    },
-    {
-     "team": "Kitchener Jr Rangers Red",
-     "teamId": "odb-97104",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 5,
-     "w": 2,
-     "l": 2,
-     "t": 1,
-     "pts": 5,
-     "gf": 16,
-     "ga": 16,
-     "diff": 0,
-     "l10": "2-2-1",
-     "strk": "W1"
     },
     {
      "team": "Sarnia Jr. Sting",
@@ -159,16 +159,16 @@
      "team": "Kitchener Jr Rangers Blue",
      "teamId": "odb-97302",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 8,
+     "gp": 9,
      "w": 1,
-     "l": 6,
+     "l": 7,
      "t": 1,
      "pts": 3,
-     "gf": 16,
-     "ga": 41,
-     "diff": -25,
-     "l10": "1-6-1",
-     "strk": "L1"
+     "gf": 18,
+     "ga": 45,
+     "diff": -27,
+     "l10": "1-7-1",
+     "strk": "L2"
     },
     {
      "team": "Woodstock Jr Navy Vets",
