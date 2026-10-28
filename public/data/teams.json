@@ -1424,20 +1424,20 @@
   "logo": "logos/6c3aa7a1db2c.png"
  },
  {
-  "id": "2723:mt-brydges-cougars",
-  "name": "Mt. Brydges Cougars",
-  "divisionId": 2723,
-  "division": "U14 AA-A",
-  "association": null,
-  "logo": "logos/0f4ddfdee820.png"
- },
- {
   "id": "2723:kitchener-jr-rangers-red",
   "name": "Kitchener Jr Rangers Red",
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
+ },
+ {
+  "id": "2723:mt-brydges-cougars",
+  "name": "Mt. Brydges Cougars",
+  "divisionId": 2723,
+  "division": "U14 AA-A",
+  "association": null,
+  "logo": "logos/0f4ddfdee820.png"
  },
  {
   "id": "2723:stratford-warriors",
