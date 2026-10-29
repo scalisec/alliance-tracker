@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-10-26T01:11:39.835Z",
+ "updatedAt": "2026-10-29T01:45:18.346Z",
  "regular": [
   {
    "name": "",
@@ -21,6 +21,21 @@
      "strk": "W4"
     },
     {
+     "team": "North London Nationals",
+     "teamId": "odb-97273",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
+     "gp": 7,
+     "w": 5,
+     "l": 0,
+     "t": 2,
+     "pts": 12,
+     "gf": 36,
+     "ga": 11,
+     "diff": 25,
+     "l10": "5-0-2",
+     "strk": "W1"
+    },
+    {
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97274",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
@@ -34,21 +49,6 @@
      "diff": 18,
      "l10": "5-0-1",
      "strk": "W4"
-    },
-    {
-     "team": "North London Nationals",
-     "teamId": "odb-97273",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 6,
-     "w": 4,
-     "l": 0,
-     "t": 2,
-     "pts": 10,
-     "gf": 29,
-     "ga": 10,
-     "diff": 19,
-     "l10": "4-0-2",
-     "strk": "T1"
     },
     {
      "team": "Brantford 99ers",
@@ -129,16 +129,31 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-97270",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 5,
+     "gp": 6,
      "w": 2,
      "l": 2,
-     "t": 1,
-     "pts": 5,
-     "gf": 14,
-     "ga": 13,
+     "t": 2,
+     "pts": 6,
+     "gf": 15,
+     "ga": 14,
      "diff": 1,
-     "l10": "2-2-1",
-     "strk": "W1"
+     "l10": "2-2-2",
+     "strk": "T1"
+    },
+    {
+     "team": "Burlington Bulldogs White",
+     "teamId": "odb-97269",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 8,
+     "w": 1,
+     "l": 4,
+     "t": 3,
+     "pts": 5,
+     "gf": 19,
+     "ga": 26,
+     "diff": -7,
+     "l10": "1-4-3",
+     "strk": "T1"
     },
     {
      "team": "Burlington Bulldogs Gold",
@@ -156,36 +171,6 @@
      "strk": "W1"
     },
     {
-     "team": "Burlington Bulldogs White",
-     "teamId": "odb-97269",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 7,
-     "w": 1,
-     "l": 4,
-     "t": 2,
-     "pts": 4,
-     "gf": 18,
-     "ga": 25,
-     "diff": -7,
-     "l10": "1-4-2",
-     "strk": "L2"
-    },
-    {
-     "team": "Lambeth Lancers",
-     "teamId": "odb-97283",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-     "gp": 6,
-     "w": 2,
-     "l": 4,
-     "t": 0,
-     "pts": 4,
-     "gf": 10,
-     "ga": 15,
-     "diff": -5,
-     "l10": "2-4",
-     "strk": "L2"
-    },
-    {
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-98142",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
@@ -199,6 +184,21 @@
      "diff": -11,
      "l10": "1-3-2",
      "strk": "L1"
+    },
+    {
+     "team": "Lambeth Lancers",
+     "teamId": "odb-97283",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
+     "gp": 7,
+     "w": 2,
+     "l": 5,
+     "t": 0,
+     "pts": 4,
+     "gf": 11,
+     "ga": 22,
+     "diff": -11,
+     "l10": "2-5",
+     "strk": "L3"
     },
     {
      "team": "West London Hawks",
