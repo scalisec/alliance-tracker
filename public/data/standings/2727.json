@@ -1,6 +1,6 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-10-28T01:41:01.113Z",
+ "updatedAt": "2026-10-29T02:14:32.804Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Oakridge Aeros",
      "teamId": "odb-97266",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 7,
+     "gp": 8,
      "w": 6,
      "l": 1,
-     "t": 0,
-     "pts": 12,
-     "gf": 33,
-     "ga": 11,
+     "t": 1,
+     "pts": 13,
+     "gf": 34,
+     "ga": 12,
      "diff": 22,
-     "l10": "6-1",
-     "strk": "W6"
+     "l10": "6-1-1",
+     "strk": "T1"
     },
     {
      "team": "Sarnia Jr. Sting",
@@ -69,16 +69,16 @@
      "team": "North London Nationals",
      "teamId": "odb-97256",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 5,
+     "gp": 6,
      "w": 3,
      "l": 0,
-     "t": 2,
-     "pts": 8,
-     "gf": 30,
-     "ga": 15,
+     "t": 3,
+     "pts": 9,
+     "gf": 31,
+     "ga": 16,
      "diff": 15,
-     "l10": "3-0-2",
-     "strk": "W1"
+     "l10": "3-0-3",
+     "strk": "T1"
     },
     {
      "team": "Brantford 99ers",
