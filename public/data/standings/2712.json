@@ -1,6 +1,6 @@
 {
  "divisionId": 2712,
- "updatedAt": "2026-10-25T22:59:31.823Z",
+ "updatedAt": "2026-10-29T15:13:50.400Z",
  "regular": [
   {
    "name": "East Division",
@@ -24,16 +24,16 @@
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97175",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 5,
-     "w": 4,
+     "gp": 6,
+     "w": 5,
      "l": 1,
      "t": 0,
-     "pts": 8,
-     "gf": 16,
-     "ga": 8,
-     "diff": 8,
-     "l10": "4-1",
-     "strk": "W1"
+     "pts": 10,
+     "gf": 22,
+     "ga": 9,
+     "diff": 13,
+     "l10": "5-1",
+     "strk": "W2"
     },
     {
      "team": "Burlington Raiders",
@@ -99,16 +99,16 @@
      "team": "Burlington Bulldogs White",
      "teamId": "odb-97186",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 5,
+     "gp": 6,
      "w": 1,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 2,
-     "gf": 6,
-     "ga": 20,
-     "diff": -14,
-     "l10": "1-4",
-     "strk": "L3"
+     "gf": 7,
+     "ga": 26,
+     "diff": -19,
+     "l10": "1-5",
+     "strk": "L4"
     },
     {
      "team": "Woodstock Jr Navy Vets",
@@ -146,6 +146,21 @@
      "strk": "W3"
     },
     {
+     "team": "Oakridge Aeros",
+     "teamId": "odb-97178",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
+     "gp": 5,
+     "w": 2,
+     "l": 1,
+     "t": 2,
+     "pts": 6,
+     "gf": 25,
+     "ga": 24,
+     "diff": 1,
+     "l10": "2-1-2",
+     "strk": "W2"
+    },
+    {
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97179",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
@@ -158,21 +173,6 @@
      "ga": 12,
      "diff": 4,
      "l10": "2-2",
-     "strk": "W1"
-    },
-    {
-     "team": "Oakridge Aeros",
-     "teamId": "odb-97178",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 4,
-     "w": 1,
-     "l": 1,
-     "t": 2,
-     "pts": 4,
-     "gf": 15,
-     "ga": 24,
-     "diff": -9,
-     "l10": "1-1-2",
      "strk": "W1"
     },
     {

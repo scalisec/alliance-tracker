@@ -671,9 +671,9 @@
   "start": "2026-10-24T14:00:00-04:00",
   "away": "Elgin-Thames 73s",
   "home": "Oakridge Aeros",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 10,
+  "status": "final",
   "venue": "Oakridge (Oakridge)",
   "code": "U10BRS-125",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5029/2026-10-24/14:00",
@@ -773,14 +773,17 @@
   "start": "2026-10-25T14:00:00-04:00",
   "away": "Kitchener Jr Rangers",
   "home": "Burlington Bulldogs White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Mountainside (Mountainside)",
   "code": "U10BE34",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4336/2026-10-25/14:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3099304
+  }
  },
  {
   "id": 2408462,
