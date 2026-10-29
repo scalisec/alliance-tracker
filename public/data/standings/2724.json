@@ -1,6 +1,6 @@
 {
  "divisionId": 2724,
- "updatedAt": "2026-10-28T01:40:31.210Z",
+ "updatedAt": "2026-10-29T00:54:12.524Z",
  "regular": [
   {
    "name": "",
@@ -159,31 +159,31 @@
      "team": "Oakridge Aeros",
      "teamId": "odb-97248",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 7,
+     "gp": 8,
      "w": 2,
      "l": 5,
-     "t": 0,
-     "pts": 4,
-     "gf": 11,
-     "ga": 31,
+     "t": 1,
+     "pts": 5,
+     "gf": 13,
+     "ga": 33,
      "diff": -20,
-     "l10": "2-5",
-     "strk": "L3"
+     "l10": "2-5-1",
+     "strk": "T1"
     },
     {
      "team": "Lambeth Lancers",
      "teamId": "odb-97249",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-     "gp": 8,
+     "gp": 9,
      "w": 1,
      "l": 6,
-     "t": 1,
-     "pts": 3,
-     "gf": 14,
-     "ga": 44,
+     "t": 2,
+     "pts": 4,
+     "gf": 16,
+     "ga": 46,
      "diff": -30,
-     "l10": "1-6-1",
-     "strk": "W1"
+     "l10": "1-6-2",
+     "strk": "T1"
     },
     {
      "team": "Burlington Raiders",
