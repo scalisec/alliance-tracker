@@ -1,6 +1,6 @@
 {
  "divisionId": 2726,
- "updatedAt": "2026-10-29T01:44:28.306Z",
+ "updatedAt": "2026-10-30T02:27:47.143Z",
  "regular": [
   {
    "name": "",
@@ -24,30 +24,15 @@
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97101",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 5,
+     "gp": 6,
      "w": 4,
      "l": 1,
-     "t": 0,
-     "pts": 8,
-     "gf": 20,
-     "ga": 9,
+     "t": 1,
+     "pts": 9,
+     "gf": 21,
+     "ga": 10,
      "diff": 11,
-     "l10": "4-1",
-     "strk": "W1"
-    },
-    {
-     "team": "Mt. Brydges Cougars",
-     "teamId": "odb-97290",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-     "gp": 6,
-     "w": 3,
-     "l": 1,
-     "t": 2,
-     "pts": 8,
-     "gf": 22,
-     "ga": 13,
-     "diff": 9,
-     "l10": "3-1-2",
+     "l10": "4-1-1",
      "strk": "T1"
     },
     {
@@ -66,6 +51,36 @@
      "strk": "W3"
     },
     {
+     "team": "Mt. Brydges Cougars",
+     "teamId": "odb-97290",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
+     "gp": 6,
+     "w": 3,
+     "l": 1,
+     "t": 2,
+     "pts": 8,
+     "gf": 22,
+     "ga": 13,
+     "diff": 9,
+     "l10": "3-1-2",
+     "strk": "T1"
+    },
+    {
+     "team": "London Jr Knights Green",
+     "teamId": "odb-97095",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 6,
+     "w": 3,
+     "l": 2,
+     "t": 1,
+     "pts": 7,
+     "gf": 15,
+     "ga": 7,
+     "diff": 8,
+     "l10": "3-2-1",
+     "strk": "T1"
+    },
+    {
      "team": "Brantford 99ers",
      "teamId": "odb-97090",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
@@ -79,21 +94,6 @@
      "diff": 4,
      "l10": "3-0-1",
      "strk": "W1"
-    },
-    {
-     "team": "London Jr Knights Green",
-     "teamId": "odb-97095",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 5,
-     "w": 3,
-     "l": 2,
-     "t": 0,
-     "pts": 6,
-     "gf": 14,
-     "ga": 6,
-     "diff": 8,
-     "l10": "3-2",
-     "strk": "L1"
     },
     {
      "team": "Cambridge Hawks",

@@ -1728,14 +1728,6 @@
   "logo": "logos/612db499a971.png"
  },
  {
-  "id": "2726:mt-brydges-cougars",
-  "name": "Mt. Brydges Cougars",
-  "divisionId": 2726,
-  "division": "U15 AA-A",
-  "association": null,
-  "logo": "logos/0f4ddfdee820.png"
- },
- {
   "id": "2726:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2726,
@@ -1744,12 +1736,12 @@
   "logo": "logos/1953df906ca9.png"
  },
  {
-  "id": "2726:brantford-99ers",
-  "name": "Brantford 99ers",
+  "id": "2726:mt-brydges-cougars",
+  "name": "Mt. Brydges Cougars",
   "divisionId": 2726,
   "division": "U15 AA-A",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
+  "association": null,
+  "logo": "logos/0f4ddfdee820.png"
  },
  {
   "id": "2726:london-jr-knights-green",
@@ -1758,6 +1750,14 @@
   "division": "U15 AA-A",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
+ },
+ {
+  "id": "2726:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2726,
+  "division": "U15 AA-A",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2726:cambridge-hawks",

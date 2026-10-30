@@ -635,14 +635,17 @@
   "start": "2026-10-29T20:15:00-04:00",
   "away": "St. Thomas Jr Stars",
   "home": "London Jr Knights Green",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Western Fair (Chik-fil-a)",
   "code": "U15S19",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4445/2026-10-29/20:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3112713
+  }
  },
  {
   "id": 2375676,
