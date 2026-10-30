@@ -1,6 +1,6 @@
 {
  "divisionId": 2719,
- "updatedAt": "2026-10-25T20:44:46.405Z",
+ "updatedAt": "2026-10-30T15:05:53.570Z",
  "regular": [
   {
    "name": "",
@@ -51,6 +51,21 @@
      "strk": "L1"
     },
     {
+     "team": "Sun County Panthers",
+     "teamId": "odb-96977",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
+     "gp": 5,
+     "w": 3,
+     "l": 1,
+     "t": 1,
+     "pts": 7,
+     "gf": 22,
+     "ga": 9,
+     "diff": 13,
+     "l10": "3-1-1",
+     "strk": "W1"
+    },
+    {
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-96979",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
@@ -93,21 +108,6 @@
      "ga": 10,
      "diff": 8,
      "l10": "2-2-1",
-     "strk": "L1"
-    },
-    {
-     "team": "Sun County Panthers",
-     "teamId": "odb-96977",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 4,
-     "w": 2,
-     "l": 1,
-     "t": 1,
-     "pts": 5,
-     "gf": 15,
-     "ga": 9,
-     "diff": 6,
-     "l10": "2-1-1",
      "strk": "L1"
     },
     {
@@ -159,16 +159,16 @@
      "team": "Chatham-Kent Cyclones",
      "teamId": "odb-96971",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
-     "gp": 6,
+     "gp": 7,
      "w": 1,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 2,
      "gf": 11,
-     "ga": 38,
-     "diff": -27,
-     "l10": "1-5",
-     "strk": "L1"
+     "ga": 45,
+     "diff": -34,
+     "l10": "1-6",
+     "strk": "L2"
     },
     {
      "team": "Elgin-Middlesex Canucks",

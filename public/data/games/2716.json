@@ -452,14 +452,17 @@
   "start": "2026-10-28T18:45:00-04:00",
   "away": "London Jr Knights",
   "home": "Sarnia-Lambton Jr Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Sarnia PASA (Rink 2)",
   "code": "U12P150",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-10-28/18:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3109941
+  }
  },
  {
   "id": 2374359,
@@ -518,21 +521,6 @@
   "venue": "PERC (PERC)",
   "code": "U12P123",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4939/2026-10-31/12:30",
-  "type": "regular",
-  "gamesheet": null
- },
- {
-  "id": 2374309,
-  "divisionId": 2716,
-  "start": "2026-10-31T15:00:00-04:00",
-  "away": "Windsor Jr Spitfires",
-  "home": "Sarnia-Lambton Jr Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Sarnia PASA (Rink 1)",
-  "code": "U12P140",
-  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-10-31/15:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -2108,6 +2096,21 @@
   "venue": "Zurich",
   "code": "U12P96",
   "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
+  "id": 2374309,
+  "divisionId": 2716,
+  "start": "2027-02-08T18:45:00-05:00",
+  "away": "Windsor Jr Spitfires",
+  "home": "Sarnia-Lambton Jr Sting",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Sarnia PASA (Rink 2)",
+  "code": "U12P140",
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-10-31/15:00",
   "type": "regular",
   "gamesheet": null
  },
