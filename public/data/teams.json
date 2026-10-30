@@ -1544,6 +1544,14 @@
   "logo": "logos/1953df906ca9.png"
  },
  {
+  "id": "2724:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2724,
+  "division": "U14 BB",
+  "association": "Woodstock Minor Hockey",
+  "logo": "logos/6c3aa7a1db2c.png"
+ },
+ {
   "id": "2724:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2724,
@@ -1558,14 +1566,6 @@
   "division": "U14 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/41275c8a7241.png"
- },
- {
-  "id": "2724:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2724,
-  "division": "U14 BB",
-  "association": "Woodstock Minor Hockey",
-  "logo": "logos/6c3aa7a1db2c.png"
  },
  {
   "id": "2724:oakridge-aeros",

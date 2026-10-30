@@ -1,6 +1,6 @@
 {
  "divisionId": 2724,
- "updatedAt": "2026-10-29T00:54:12.524Z",
+ "updatedAt": "2026-10-30T00:57:26.639Z",
  "regular": [
   {
    "name": "",
@@ -111,19 +111,34 @@
      "strk": "L1"
     },
     {
+     "team": "Woodstock Jr Navy Vets",
+     "teamId": "odb-98139",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+     "gp": 7,
+     "w": 3,
+     "l": 2,
+     "t": 2,
+     "pts": 8,
+     "gf": 24,
+     "ga": 26,
+     "diff": -2,
+     "l10": "3-2-2",
+     "strk": "W1"
+    },
+    {
      "team": "Brantford 99ers",
      "teamId": "odb-97236",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 6,
+     "gp": 7,
      "w": 4,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "pts": 8,
-     "gf": 18,
-     "ga": 24,
-     "diff": -6,
-     "l10": "4-2",
-     "strk": "W2"
+     "gf": 19,
+     "ga": 30,
+     "diff": -11,
+     "l10": "4-3",
+     "strk": "L1"
     },
     {
      "team": "North London Nationals",
@@ -138,21 +153,6 @@
      "ga": 18,
      "diff": 2,
      "l10": "2-3-2",
-     "strk": "T1"
-    },
-    {
-     "team": "Woodstock Jr Navy Vets",
-     "teamId": "odb-98139",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 6,
-     "w": 2,
-     "l": 2,
-     "t": 2,
-     "pts": 6,
-     "gf": 18,
-     "ga": 25,
-     "diff": -7,
-     "l10": "2-2-2",
      "strk": "T1"
     },
     {

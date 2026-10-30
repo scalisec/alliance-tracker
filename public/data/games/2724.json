@@ -956,14 +956,17 @@
   "start": "2026-10-29T19:00:00-04:00",
   "away": "Brantford 99ers",
   "home": "Woodstock Jr Navy Vets",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Reeves CC (Green)",
   "code": "U14BR105",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4268/2026-10-29/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3112640
+  }
  },
  {
   "id": 2378140,
