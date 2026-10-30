@@ -761,14 +761,17 @@
   "start": "2026-10-29T19:30:00-04:00",
   "away": "Elgin-Middlesex Canucks",
   "home": "Sarnia-Lambton Jr Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Sarnia PASA (Rink 2)",
   "code": "U15P12",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-10-29/19:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3112673
+  }
  },
  {
   "id": 2374902,
