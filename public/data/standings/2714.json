@@ -1,6 +1,6 @@
 {
  "divisionId": 2714,
- "updatedAt": "2026-10-31T17:43:58.940Z",
+ "updatedAt": "2026-10-31T20:11:33.346Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "London Jr Knights Green",
      "teamId": "odb-97043",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 7,
-     "w": 7,
+     "gp": 8,
+     "w": 8,
      "l": 0,
      "t": 0,
-     "pts": 14,
-     "gf": 54,
+     "pts": 16,
+     "gf": 57,
      "ga": 9,
-     "diff": 45,
-     "l10": "7-0",
-     "strk": "W7"
+     "diff": 48,
+     "l10": "8-0",
+     "strk": "W8"
     },
     {
      "team": "Mt. Brydges Cougars",
@@ -39,16 +39,16 @@
      "team": "London Jr Knights White",
      "teamId": "odb-97044",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 4,
+     "gp": 5,
      "w": 4,
-     "l": 0,
+     "l": 1,
      "t": 0,
      "pts": 8,
      "gf": 18,
-     "ga": 3,
-     "diff": 15,
-     "l10": "4-0",
-     "strk": "W4"
+     "ga": 6,
+     "diff": 12,
+     "l10": "4-1",
+     "strk": "L1"
     },
     {
      "team": "Kitchener Jr Rangers Red",

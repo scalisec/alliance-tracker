@@ -611,14 +611,17 @@
   "start": "2026-10-31T14:50:00-04:00",
   "away": "London Jr Knights White",
   "home": "London Jr Knights Green",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Nichols (C)",
   "code": "U11S32",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3117379
+  }
  },
  {
   "id": 2375357,
