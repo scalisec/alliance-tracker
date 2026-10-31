@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-10-31T22:54:39.411Z",
+ "updatedAt": "2026-10-31T23:31:59.465Z",
  "regular": [
   {
    "name": "",
@@ -126,21 +126,6 @@
      "strk": "W1"
     },
     {
-     "team": "Kitchener Jr Rangers Blue",
-     "teamId": "odb-97271",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 5,
-     "w": 3,
-     "l": 2,
-     "t": 0,
-     "pts": 6,
-     "gf": 10,
-     "ga": 14,
-     "diff": -4,
-     "l10": "3-2",
-     "strk": "L2"
-    },
-    {
      "team": "Burlington Bulldogs Gold",
      "teamId": "odb-97434",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
@@ -154,6 +139,36 @@
      "diff": 3,
      "l10": "2-3-2",
      "strk": "W2"
+    },
+    {
+     "team": "Woodstock Jr Navy Vets",
+     "teamId": "odb-98142",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+     "gp": 7,
+     "w": 2,
+     "l": 3,
+     "t": 2,
+     "pts": 6,
+     "gf": 21,
+     "ga": 29,
+     "diff": -8,
+     "l10": "2-3-2",
+     "strk": "W1"
+    },
+    {
+     "team": "Kitchener Jr Rangers Blue",
+     "teamId": "odb-97271",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 6,
+     "w": 3,
+     "l": 3,
+     "t": 0,
+     "pts": 6,
+     "gf": 12,
+     "ga": 19,
+     "diff": -7,
+     "l10": "3-3",
+     "strk": "L3"
     },
     {
      "team": "Burlington Bulldogs White",
@@ -171,19 +186,19 @@
      "strk": "L1"
     },
     {
-     "team": "Woodstock Jr Navy Vets",
-     "teamId": "odb-98142",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 6,
-     "w": 1,
-     "l": 3,
-     "t": 2,
+     "team": "Lambeth Lancers",
+     "teamId": "odb-97283",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
+     "gp": 9,
+     "w": 2,
+     "l": 7,
+     "t": 0,
      "pts": 4,
-     "gf": 16,
-     "ga": 27,
-     "diff": -11,
-     "l10": "1-3-2",
-     "strk": "L1"
+     "gf": 14,
+     "ga": 30,
+     "diff": -16,
+     "l10": "2-7",
+     "strk": "L5"
     },
     {
      "team": "West London Hawks",
@@ -199,21 +214,6 @@
      "diff": -20,
      "l10": "2-6",
      "strk": "W2"
-    },
-    {
-     "team": "Lambeth Lancers",
-     "teamId": "odb-97283",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-     "gp": 9,
-     "w": 2,
-     "l": 7,
-     "t": 0,
-     "pts": 4,
-     "gf": 14,
-     "ga": 30,
-     "diff": -16,
-     "l10": "2-7",
-     "strk": "L5"
     },
     {
      "team": "Burlington Bulldogs Blue",

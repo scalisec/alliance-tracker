@@ -599,14 +599,17 @@
   "start": "2026-10-31T17:30:00-04:00",
   "away": "NOHA Black",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U16PE205",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-10-31/17:30",
   "type": "exhibition",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3117437
+  }
  },
  {
   "id": 2375178,

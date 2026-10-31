@@ -1004,14 +1004,17 @@
   "start": "2026-10-31T17:45:00-04:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "Kitchener Jr Rangers Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Activa (Tom Graham)",
   "code": "U16BR88",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4200/2026-10-31/17:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3117823
+  }
  },
  {
   "id": 2379025,

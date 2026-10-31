@@ -2184,24 +2184,8 @@
   "logo": "logos/e0787358df89.png"
  },
  {
-  "id": "2730:kitchener-jr-rangers-blue",
-  "name": "Kitchener Jr Rangers Blue",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
- },
- {
   "id": "2730:burlington-bulldogs-gold",
   "name": "Burlington Bulldogs Gold",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
- },
- {
-  "id": "2730:burlington-bulldogs-white",
-  "name": "Burlington Bulldogs White",
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
@@ -2216,12 +2200,20 @@
   "logo": "logos/6c3aa7a1db2c.png"
  },
  {
-  "id": "2730:west-london-hawks",
-  "name": "West London Hawks",
+  "id": "2730:kitchener-jr-rangers-blue",
+  "name": "Kitchener Jr Rangers Blue",
   "divisionId": 2730,
   "division": "U16 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/2237c5fc46ea.png"
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
+ },
+ {
+  "id": "2730:burlington-bulldogs-white",
+  "name": "Burlington Bulldogs White",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2730:lambeth-lancers",
@@ -2230,6 +2222,14 @@
   "division": "U16 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/97ff93a72d6e.png"
+ },
+ {
+  "id": "2730:west-london-hawks",
+  "name": "West London Hawks",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/2237c5fc46ea.png"
  },
  {
   "id": "2730:burlington-bulldogs-blue",
@@ -2360,6 +2360,14 @@
   "logo": "logos/1953df906ca9.png"
  },
  {
+  "id": "2732:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": null,
+  "logo": "logos/612db499a971.png"
+ },
+ {
   "id": "2732:mt-brydges-cougars",
   "name": "Mt. Brydges Cougars",
   "divisionId": 2732,
@@ -2374,14 +2382,6 @@
   "division": "U18 AA-A",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
- },
- {
-  "id": "2732:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": null,
-  "logo": "logos/612db499a971.png"
  },
  {
   "id": "2732:brantford-99ers",
