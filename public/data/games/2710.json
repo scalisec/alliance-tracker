@@ -464,14 +464,17 @@
   "start": "2026-10-31T12:00:00-04:00",
   "away": "Kitchener Jr Rangers",
   "home": "Sarnia-Lambton Jr Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Sarnia PASA (Rink 1)",
   "code": "U10P94",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-10-31/12:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3116355
+  }
  },
  {
   "id": 2373879,
@@ -479,14 +482,17 @@
   "start": "2026-10-31T12:15:00-04:00",
   "away": "Cambridge Hawks",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 9,
+  "status": "final",
   "venue": "Gretzky Center (#1)",
   "code": "U10P22",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-10-31/12:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3116356
+  }
  },
  {
   "id": 2374032,

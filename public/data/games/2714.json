@@ -560,14 +560,17 @@
   "start": "2026-10-31T12:00:00-04:00",
   "away": "Mt. Brydges Cougars",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Clearwater (Blue)",
   "code": "U11S24",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3116148
+  }
  },
  {
   "id": 2375360,
@@ -575,14 +578,17 @@
   "start": "2026-10-31T12:15:00-04:00",
   "away": "St. Thomas Jr Stars",
   "home": "Kitchener Jr Rangers Red",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 8,
+  "status": "final",
   "venue": "Sportsworld (Prac)",
   "code": "U11S26",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4168/2026-10-31/12:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3117377
+  }
  },
  {
   "id": 2375354,
