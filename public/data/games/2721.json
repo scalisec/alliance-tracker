@@ -797,14 +797,17 @@
   "start": "2026-10-31T12:00:00-04:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "West London Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Bostwick (B)",
   "code": "U13BR22",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5026/2026-10-31/12:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3116317
+  }
  },
  {
   "id": 2378074,
