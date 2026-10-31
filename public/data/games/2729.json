@@ -674,14 +674,17 @@
   "start": "2026-10-31T15:45:00-04:00",
   "away": "Sarnia Jr. Sting",
   "home": "Mt. Brydges Cougars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Tri-Township (Tri-Township)",
   "code": "U16S171",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3117364
+  }
  },
  {
   "id": 2375861,

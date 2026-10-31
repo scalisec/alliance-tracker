@@ -851,14 +851,17 @@
   "start": "2026-10-31T16:30:00-04:00",
   "away": "Burlington Bulldogs White",
   "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Mr Lube + Tires (Red)",
   "code": "U13BR27",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/241/2026-10-31/16:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3117101
+  }
  },
  {
   "id": 2378055,

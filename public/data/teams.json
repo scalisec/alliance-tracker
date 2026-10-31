@@ -1256,20 +1256,20 @@
   "logo": "logos/e0787358df89.png"
  },
  {
-  "id": "2721:london-bandits",
-  "name": "London Bandits",
-  "divisionId": 2721,
-  "division": "U13 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/973902eb1015.png"
- },
- {
   "id": "2721:burlington-bulldogs-white",
   "name": "Burlington Bulldogs White",
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "logos/49dba036a6a8.png"
+ },
+ {
+  "id": "2721:london-bandits",
+  "name": "London Bandits",
+  "divisionId": 2721,
+  "division": "U13 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/973902eb1015.png"
  },
  {
   "id": "2721:woodstock-jr-navy-vets",
@@ -2024,20 +2024,20 @@
   "logo": null
  },
  {
-  "id": "2729:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2729,
-  "division": "U16 AA-A",
-  "association": "Waterloo Minor Hockey",
-  "logo": "logos/1953df906ca9.png"
- },
- {
   "id": "2729:mt-brydges-cougars",
   "name": "Mt. Brydges Cougars",
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": null,
   "logo": "logos/0f4ddfdee820.png"
+ },
+ {
+  "id": "2729:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2729,
+  "division": "U16 AA-A",
+  "association": "Waterloo Minor Hockey",
+  "logo": "logos/1953df906ca9.png"
  },
  {
   "id": "2729:stratford-warriors",

@@ -1,6 +1,6 @@
 {
  "divisionId": 2721,
- "updatedAt": "2026-10-31T20:24:38.775Z",
+ "updatedAt": "2026-10-31T21:42:36.401Z",
  "regular": [
   {
    "name": "",
@@ -39,16 +39,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97233",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 7,
-     "w": 6,
+     "gp": 8,
+     "w": 7,
      "l": 1,
      "t": 0,
-     "pts": 12,
-     "gf": 34,
-     "ga": 10,
-     "diff": 24,
-     "l10": "6-1",
-     "strk": "W5"
+     "pts": 14,
+     "gf": 39,
+     "ga": 12,
+     "diff": 27,
+     "l10": "7-1",
+     "strk": "W6"
     },
     {
      "team": "Brantford 99ers",
@@ -156,6 +156,21 @@
      "strk": "L1"
     },
     {
+     "team": "Burlington Bulldogs White",
+     "teamId": "odb-97221",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 8,
+     "w": 1,
+     "l": 7,
+     "t": 0,
+     "pts": 2,
+     "gf": 13,
+     "ga": 39,
+     "diff": -26,
+     "l10": "1-7",
+     "strk": "L4"
+    },
+    {
      "team": "London Bandits",
      "teamId": "odb-97225",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
@@ -167,21 +182,6 @@
      "gf": 13,
      "ga": 39,
      "diff": -26,
-     "l10": "1-6",
-     "strk": "L3"
-    },
-    {
-     "team": "Burlington Bulldogs White",
-     "teamId": "odb-97221",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 7,
-     "w": 1,
-     "l": 6,
-     "t": 0,
-     "pts": 2,
-     "gf": 11,
-     "ga": 34,
-     "diff": -23,
      "l10": "1-6",
      "strk": "L3"
     },
