@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-10-31T02:08:51.283Z",
+ "updatedAt": "2026-10-31T02:38:41.391Z",
  "regular": [
   {
    "name": "",
@@ -84,16 +84,31 @@
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97132",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 5,
+     "gp": 6,
      "w": 3,
      "l": 2,
-     "t": 0,
-     "pts": 6,
-     "gf": 22,
-     "ga": 12,
+     "t": 1,
+     "pts": 7,
+     "gf": 23,
+     "ga": 13,
      "diff": 10,
-     "l10": "3-2",
-     "strk": "W3"
+     "l10": "3-2-1",
+     "strk": "T1"
+    },
+    {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97128",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 5,
+     "w": 2,
+     "l": 1,
+     "t": 2,
+     "pts": 6,
+     "gf": 17,
+     "ga": 10,
+     "diff": 7,
+     "l10": "2-1-2",
+     "strk": "T2"
     },
     {
      "team": "Burlington Raiders",
@@ -124,21 +139,6 @@
      "diff": 10,
      "l10": "2-1-1",
      "strk": "L1"
-    },
-    {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97128",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 4,
-     "w": 2,
-     "l": 1,
-     "t": 1,
-     "pts": 5,
-     "gf": 16,
-     "ga": 9,
-     "diff": 7,
-     "l10": "2-1-1",
-     "strk": "T1"
     },
     {
      "team": "Burlington Bulldogs Blue",

@@ -914,14 +914,17 @@
   "start": "2026-10-30T20:15:00-04:00",
   "away": "Cambridge Hawks",
   "home": "Lambeth Lancers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Lambeth (Lambeth)",
   "code": "U16BR23",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3115547
+  }
  },
  {
   "id": 2379029,

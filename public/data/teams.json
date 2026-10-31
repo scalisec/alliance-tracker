@@ -2176,14 +2176,6 @@
   "logo": "logos/612db499a971.png"
  },
  {
-  "id": "2730:burlington-bulldogs-gold",
-  "name": "Burlington Bulldogs Gold",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
- },
- {
   "id": "2730:cambridge-hawks",
   "name": "Cambridge Hawks",
   "divisionId": 2730,
@@ -2198,6 +2190,14 @@
   "division": "U16 BB",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
+ },
+ {
+  "id": "2730:burlington-bulldogs-gold",
+  "name": "Burlington Bulldogs Gold",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2730:burlington-bulldogs-white",
@@ -2336,6 +2336,14 @@
   "logo": "logos/704c833c6aca.png"
  },
  {
+  "id": "2732:kitchener-jr-rangers",
+  "name": "Kitchener Jr Rangers",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
+ },
+ {
   "id": "2732:stratford-warriors",
   "name": "Stratford Warriors",
   "divisionId": 2732,
@@ -2382,14 +2390,6 @@
   "division": "U18 AA-A",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
- },
- {
-  "id": "2732:kitchener-jr-rangers",
-  "name": "Kitchener Jr Rangers",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2732:cambridge-hawks",
@@ -2448,6 +2448,14 @@
   "logo": "logos/612db499a971.png"
  },
  {
+  "id": "2733:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
+ },
+ {
   "id": "2733:burlington-raiders",
   "name": "Burlington Raiders",
   "divisionId": 2733,
@@ -2462,14 +2470,6 @@
   "division": "U18 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/2237c5fc46ea.png"
- },
- {
-  "id": "2733:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2733:burlington-bulldogs-blue",
