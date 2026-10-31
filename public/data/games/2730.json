@@ -932,14 +932,17 @@
   "start": "2026-10-31T13:45:00-04:00",
   "away": "Oakridge Aeros",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Rec Complex (Rec Complex)",
   "code": "U16BR119",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4592/2026-10-31/13:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3117076
+  }
  },
  {
   "id": 2379013,

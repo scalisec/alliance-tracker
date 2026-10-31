@@ -1,6 +1,6 @@
 {
  "divisionId": 2721,
- "updatedAt": "2026-10-31T19:56:43.280Z",
+ "updatedAt": "2026-10-31T20:24:38.775Z",
  "regular": [
   {
    "name": "",
@@ -81,6 +81,21 @@
      "strk": "L1"
     },
     {
+     "team": "Sarnia Jr. Sting",
+     "teamId": "odb-97228",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+     "gp": 6,
+     "w": 4,
+     "l": 2,
+     "t": 0,
+     "pts": 8,
+     "gf": 28,
+     "ga": 16,
+     "diff": 12,
+     "l10": "4-2",
+     "strk": "W1"
+    },
+    {
      "team": "West London Hawks",
      "teamId": "odb-97229",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
@@ -109,21 +124,6 @@
      "diff": 6,
      "l10": "4-1",
      "strk": "W1"
-    },
-    {
-     "team": "Sarnia Jr. Sting",
-     "teamId": "odb-97228",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 5,
-     "w": 3,
-     "l": 2,
-     "t": 0,
-     "pts": 6,
-     "gf": 20,
-     "ga": 16,
-     "diff": 4,
-     "l10": "3-2",
-     "strk": "L1"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -204,16 +204,16 @@
      "team": "North London Nationals",
      "teamId": "odb-97226",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 6,
+     "gp": 7,
      "w": 0,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 0,
      "gf": 8,
-     "ga": 29,
-     "diff": -21,
-     "l10": "0-6",
-     "strk": "L6"
+     "ga": 37,
+     "diff": -29,
+     "l10": "0-7",
+     "strk": "L7"
     }
    ]
   }

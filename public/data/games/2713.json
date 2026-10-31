@@ -542,14 +542,17 @@
   "start": "2026-10-31T14:00:00-04:00",
   "away": "Cambridge Hawks",
   "home": "Huron-Perth Lakers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 6,
+  "status": "final",
   "venue": "PERC (PERC)",
   "code": "U11P24",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4939/2026-10-31/14:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3117040
+  }
  },
  {
   "id": 2373667,

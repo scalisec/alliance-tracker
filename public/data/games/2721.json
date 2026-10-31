@@ -815,14 +815,17 @@
   "start": "2026-10-31T13:15:00-04:00",
   "away": "North London Nationals",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 8,
+  "status": "final",
   "venue": "Clearwater (Blue)",
   "code": "U13BR91",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3117099
+  }
  },
  {
   "id": 2378024,

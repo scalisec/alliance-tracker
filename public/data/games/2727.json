@@ -755,14 +755,17 @@
   "start": "2026-10-31T14:45:00-04:00",
   "away": "London Bandits",
   "home": "St. Thomas Jr Stars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 8,
+  "status": "final",
   "venue": "Joe Thornton CC (Presstran)",
   "code": "U15BR9",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4356/2026-10-31/14:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3117161
+  }
  },
  {
   "id": 2378917,

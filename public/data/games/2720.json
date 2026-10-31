@@ -701,14 +701,17 @@
   "start": "2026-10-31T15:00:00-04:00",
   "away": "Kitchener Jr Rangers Red",
   "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Mr Lube + Tires (Red)",
   "code": "U13S2",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/241/2026-10-31/15:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3117313
+  }
  },
  {
   "id": 2375546,

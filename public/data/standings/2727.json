@@ -1,6 +1,6 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-10-31T19:57:33.319Z",
+ "updatedAt": "2026-10-31T20:25:08.898Z",
  "regular": [
   {
    "name": "",
@@ -36,6 +36,21 @@
      "strk": "W4"
     },
     {
+     "team": "St. Thomas Jr Stars",
+     "teamId": "odb-97262",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "gp": 6,
+     "w": 5,
+     "l": 0,
+     "t": 1,
+     "pts": 11,
+     "gf": 25,
+     "ga": 9,
+     "diff": 16,
+     "l10": "5-0-1",
+     "strk": "W4"
+    },
+    {
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97258",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
@@ -49,21 +64,6 @@
      "diff": 25,
      "l10": "5-0",
      "strk": "W5"
-    },
-    {
-     "team": "St. Thomas Jr Stars",
-     "teamId": "odb-97262",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 5,
-     "w": 4,
-     "l": 0,
-     "t": 1,
-     "pts": 9,
-     "gf": 17,
-     "ga": 9,
-     "diff": 8,
-     "l10": "4-0-1",
-     "strk": "W3"
     },
     {
      "team": "North London Nationals",
@@ -144,16 +144,16 @@
      "team": "London Bandits",
      "teamId": "odb-97255",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 7,
+     "gp": 8,
      "w": 2,
-     "l": 4,
+     "l": 5,
      "t": 1,
      "pts": 5,
      "gf": 15,
-     "ga": 34,
-     "diff": -19,
-     "l10": "2-4-1",
-     "strk": "L2"
+     "ga": 42,
+     "diff": -27,
+     "l10": "2-5-1",
+     "strk": "L3"
     },
     {
      "team": "Burlington Bulldogs Blue",
