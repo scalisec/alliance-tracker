@@ -368,20 +368,20 @@
   "logo": null
  },
  {
-  "id": "2713:huron-perth-lakers",
-  "name": "Huron-Perth Lakers",
-  "divisionId": 2713,
-  "division": "U11 AAA",
-  "association": "Huron-Perth Lakers",
-  "logo": "logos/e85b73e63ae2.png"
- },
- {
   "id": "2713:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
+ },
+ {
+  "id": "2713:huron-perth-lakers",
+  "name": "Huron-Perth Lakers",
+  "divisionId": 2713,
+  "division": "U11 AAA",
+  "association": "Huron-Perth Lakers",
+  "logo": "logos/e85b73e63ae2.png"
  },
  {
   "id": "2713:brantford-99ers",
@@ -1496,20 +1496,20 @@
   "logo": "logos/51ff29ef905f.png"
  },
  {
-  "id": "2724:london-bandits",
-  "name": "London Bandits",
-  "divisionId": 2724,
-  "division": "U14 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/973902eb1015.png"
- },
- {
   "id": "2724:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
+ },
+ {
+  "id": "2724:london-bandits",
+  "name": "London Bandits",
+  "divisionId": 2724,
+  "division": "U14 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/973902eb1015.png"
  },
  {
   "id": "2724:st-thomas-jr-stars",
@@ -2176,12 +2176,12 @@
   "logo": "logos/612db499a971.png"
  },
  {
-  "id": "2730:kitchener-jr-rangers-blue",
-  "name": "Kitchener Jr Rangers Blue",
+  "id": "2730:burlington-bulldogs-gold",
+  "name": "Burlington Bulldogs Gold",
   "divisionId": 2730,
   "division": "U16 BB",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2730:cambridge-hawks",
@@ -2192,6 +2192,14 @@
   "logo": "logos/e0787358df89.png"
  },
  {
+  "id": "2730:kitchener-jr-rangers-blue",
+  "name": "Kitchener Jr Rangers Blue",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
+ },
+ {
   "id": "2730:burlington-bulldogs-white",
   "name": "Burlington Bulldogs White",
   "divisionId": 2730,
@@ -2200,12 +2208,12 @@
   "logo": "logos/49dba036a6a8.png"
  },
  {
-  "id": "2730:burlington-bulldogs-gold",
-  "name": "Burlington Bulldogs Gold",
+  "id": "2730:lambeth-lancers",
+  "name": "Lambeth Lancers",
   "divisionId": 2730,
   "division": "U16 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
+  "association": "Greater London Hockey Association",
+  "logo": "logos/97ff93a72d6e.png"
  },
  {
   "id": "2730:woodstock-jr-navy-vets",
@@ -2214,14 +2222,6 @@
   "division": "U16 BB",
   "association": "Woodstock Minor Hockey",
   "logo": "logos/6c3aa7a1db2c.png"
- },
- {
-  "id": "2730:lambeth-lancers",
-  "name": "Lambeth Lancers",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/97ff93a72d6e.png"
  },
  {
   "id": "2730:west-london-hawks",

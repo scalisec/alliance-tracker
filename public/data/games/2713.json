@@ -488,14 +488,17 @@
   "start": "2026-10-30T19:00:00-04:00",
   "away": "Kitchener Jr Rangers",
   "home": "Huron-Perth Lakers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Rotary Complex (Rink A)",
   "code": "U11P16",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3115539
+  }
  },
  {
   "id": 2373767,

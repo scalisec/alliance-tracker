@@ -1,38 +1,38 @@
 {
  "divisionId": 2713,
- "updatedAt": "2026-10-26T10:16:44.142Z",
+ "updatedAt": "2026-10-31T01:06:44.653Z",
  "regular": [
   {
    "name": "East Division",
    "rows": [
     {
-     "team": "Huron-Perth Lakers",
-     "teamId": "odb-96951",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 5,
-     "w": 3,
-     "l": 1,
-     "t": 1,
-     "pts": 7,
-     "gf": 24,
-     "ga": 17,
-     "diff": 7,
-     "l10": "3-1-1",
-     "strk": "W3"
-    },
-    {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-96952",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 4,
-     "w": 3,
+     "gp": 5,
+     "w": 4,
      "l": 1,
      "t": 0,
-     "pts": 6,
-     "gf": 21,
-     "ga": 12,
-     "diff": 9,
-     "l10": "3-1",
+     "pts": 8,
+     "gf": 26,
+     "ga": 15,
+     "diff": 11,
+     "l10": "4-1",
+     "strk": "W1"
+    },
+    {
+     "team": "Huron-Perth Lakers",
+     "teamId": "odb-96951",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
+     "gp": 6,
+     "w": 3,
+     "l": 2,
+     "t": 1,
+     "pts": 7,
+     "gf": 27,
+     "ga": 22,
+     "diff": 5,
+     "l10": "3-2-1",
      "strk": "L1"
     },
     {
