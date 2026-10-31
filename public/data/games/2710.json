@@ -500,14 +500,17 @@
   "start": "2026-10-31T13:00:00-04:00",
   "away": "Huron-Perth Lakers",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U10P113",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3117184
+  }
  },
  {
   "id": 2373970,

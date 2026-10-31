@@ -1,6 +1,6 @@
 {
  "divisionId": 2710,
- "updatedAt": "2026-10-31T17:42:59.604Z",
+ "updatedAt": "2026-10-31T18:43:14.337Z",
  "regular": [
   {
    "name": "East Division",
@@ -69,16 +69,16 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96941",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 3,
+     "gp": 4,
      "w": 0,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 0,
-     "gf": 8,
-     "ga": 19,
-     "diff": -11,
-     "l10": "0-3",
-     "strk": "L3"
+     "gf": 11,
+     "ga": 25,
+     "diff": -14,
+     "l10": "0-4",
+     "strk": "L4"
     }
    ]
   },
@@ -101,6 +101,21 @@
      "strk": "W1"
     },
     {
+     "team": "London Jr Knights",
+     "teamId": "odb-96944",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 4,
+     "w": 4,
+     "l": 0,
+     "t": 0,
+     "pts": 8,
+     "gf": 22,
+     "ga": 10,
+     "diff": 12,
+     "l10": "4-0",
+     "strk": "W4"
+    },
+    {
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-96943",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
@@ -113,21 +128,6 @@
      "ga": 14,
      "diff": 26,
      "l10": "3-1-1",
-     "strk": "W3"
-    },
-    {
-     "team": "London Jr Knights",
-     "teamId": "odb-96944",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 3,
-     "w": 3,
-     "l": 0,
-     "t": 0,
-     "pts": 6,
-     "gf": 16,
-     "ga": 7,
-     "diff": 9,
-     "l10": "3-0",
      "strk": "W3"
     },
     {

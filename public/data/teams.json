@@ -48,20 +48,20 @@
   "logo": "logos/8998f15cb7f8.png"
  },
  {
-  "id": "2710:sarnia-lambton-jr-sting",
-  "name": "Sarnia-Lambton Jr Sting",
-  "divisionId": 2710,
-  "division": "U10 AAA",
-  "association": "Lambton Jr Sting",
-  "logo": "logos/bcc449715362.png"
- },
- {
   "id": "2710:london-jr-knights",
   "name": "London Jr Knights",
   "divisionId": 2710,
   "division": "U10 AAA",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
+ },
+ {
+  "id": "2710:sarnia-lambton-jr-sting",
+  "name": "Sarnia-Lambton Jr Sting",
+  "divisionId": 2710,
+  "division": "U10 AAA",
+  "association": "Lambton Jr Sting",
+  "logo": "logos/bcc449715362.png"
  },
  {
   "id": "2710:elgin-middlesex-canucks",
@@ -120,6 +120,14 @@
   "logo": "logos/0f4ddfdee820.png"
  },
  {
+  "id": "2711:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2711,
+  "division": "U10 AA-A",
+  "association": "Waterloo Minor Hockey",
+  "logo": "logos/1953df906ca9.png"
+ },
+ {
   "id": "2711:london-jr-knights-green",
   "name": "London Jr Knights Green",
   "divisionId": 2711,
@@ -134,14 +142,6 @@
   "division": "U10 AA-A",
   "association": "Sarnia Minor Hockey",
   "logo": "logos/704c833c6aca.png"
- },
- {
-  "id": "2711:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2711,
-  "division": "U10 AA-A",
-  "association": "Waterloo Minor Hockey",
-  "logo": "logos/1953df906ca9.png"
  },
  {
   "id": "2711:kitchener-jr-rangers-red",
