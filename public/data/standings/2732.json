@@ -1,6 +1,6 @@
 {
  "divisionId": 2732,
- "updatedAt": "2026-10-26T02:15:06.190Z",
+ "updatedAt": "2026-10-31T02:08:21.149Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "London Jr Knights Green",
      "teamId": "odb-97115",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 7,
-     "w": 5,
+     "gp": 8,
+     "w": 6,
      "l": 0,
      "t": 2,
-     "pts": 12,
-     "gf": 29,
-     "ga": 12,
-     "diff": 17,
-     "l10": "5-0-2",
-     "strk": "W1"
+     "pts": 14,
+     "gf": 34,
+     "ga": 15,
+     "diff": 19,
+     "l10": "6-0-2",
+     "strk": "W2"
     },
     {
      "team": "Woodstock Jr Navy Vets",
@@ -84,16 +84,16 @@
      "team": "Mt. Brydges Cougars",
      "teamId": "odb-97292",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-     "gp": 7,
+     "gp": 8,
      "w": 2,
-     "l": 4,
+     "l": 5,
      "t": 1,
      "pts": 5,
-     "gf": 19,
-     "ga": 23,
-     "diff": -4,
-     "l10": "2-4-1",
-     "strk": "W1"
+     "gf": 22,
+     "ga": 28,
+     "diff": -6,
+     "l10": "2-5-1",
+     "strk": "L1"
     },
     {
      "team": "London Jr Knights White",

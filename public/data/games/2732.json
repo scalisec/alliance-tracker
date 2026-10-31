@@ -575,14 +575,17 @@
   "start": "2026-10-30T20:00:00-04:00",
   "away": "London Jr Knights Green",
   "home": "Mt. Brydges Cougars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Tri-Township (Tri-Township)",
   "code": "U18S110",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3115524
+  }
  },
  {
   "id": 2376062,

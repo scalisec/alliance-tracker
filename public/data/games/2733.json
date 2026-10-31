@@ -788,14 +788,17 @@
   "start": "2026-10-30T20:00:00-04:00",
   "away": "Cambridge Hawks",
   "home": "Burlington Bulldogs Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Appleby (3)",
   "code": "U18BR87",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-10-30/20:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3115560
+  }
  },
  {
   "id": 2379135,
@@ -803,14 +806,17 @@
   "start": "2026-10-30T20:00:00-04:00",
   "away": "Oakridge Aeros",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 6,
+  "status": "final",
   "venue": "The Aud (Kinsmen)",
   "code": "U18BR17",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3115559
+  }
  },
  {
   "id": 2379223,
