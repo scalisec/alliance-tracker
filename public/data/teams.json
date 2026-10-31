@@ -1368,20 +1368,20 @@
   "logo": "logos/e0787358df89.png"
  },
  {
-  "id": "2722:chatham-kent-cyclones",
-  "name": "Chatham-Kent Cyclones",
-  "divisionId": 2722,
-  "division": "U14 AAA",
-  "association": "Chatham-Kent Cyclones",
-  "logo": "logos/b0bd0d065caa.png"
- },
- {
   "id": "2722:sault-major-jr-greyhounds",
   "name": "Sault Major Jr Greyhounds",
   "divisionId": 2722,
   "division": "U14 AAA",
   "association": null,
   "logo": "logos/91cb455aba29.png"
+ },
+ {
+  "id": "2722:chatham-kent-cyclones",
+  "name": "Chatham-Kent Cyclones",
+  "divisionId": 2722,
+  "division": "U14 AAA",
+  "association": "Chatham-Kent Cyclones",
+  "logo": "logos/b0bd0d065caa.png"
  },
  {
   "id": "2723:london-jr-knights-green",
@@ -1952,20 +1952,20 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
-  "id": "2728:cambridge-jr-redhawks",
-  "name": "Cambridge Jr RedHawks",
-  "divisionId": 2728,
-  "division": "U16 AAA",
-  "association": "Cambridge Minor Hockey",
-  "logo": "logos/e0787358df89.png"
- },
- {
   "id": "2728:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2728,
   "division": "U16 AAA",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
+ },
+ {
+  "id": "2728:cambridge-jr-redhawks",
+  "name": "Cambridge Jr RedHawks",
+  "divisionId": 2728,
+  "division": "U16 AAA",
+  "association": "Cambridge Minor Hockey",
+  "logo": "logos/e0787358df89.png"
  },
  {
   "id": "2728:elgin-middlesex-canucks",

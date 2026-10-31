@@ -437,14 +437,17 @@
   "start": "2026-10-31T08:00:00-04:00",
   "away": "Kitchener Jr Rangers",
   "home": "Sarnia-Lambton Jr Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U16P109",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-10-31/08:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3116391
+  }
  },
  {
   "id": 2449331,
@@ -452,14 +455,17 @@
   "start": "2026-10-31T08:15:00-04:00",
   "away": "Chatham-Kent Cyclones",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Komoka CW&RC (2 - Coors)",
   "code": "U16P25",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2946/2026-10-31/08:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3116392
+  }
  },
  {
   "id": 2377426,
