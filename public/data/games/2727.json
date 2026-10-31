@@ -770,14 +770,17 @@
   "start": "2026-10-31T14:45:00-04:00",
   "away": "Waterloo Wolves",
   "home": "West London Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Bostwick (B)",
   "code": "U15BR79",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5026/2026-10-31/14:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3117162
+  }
  },
  {
   "id": 2378848,

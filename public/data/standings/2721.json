@@ -1,6 +1,6 @@
 {
  "divisionId": 2721,
- "updatedAt": "2026-10-31T18:05:05.620Z",
+ "updatedAt": "2026-10-31T19:56:43.280Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-97234",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 6,
-     "w": 6,
+     "gp": 7,
+     "w": 7,
      "l": 0,
      "t": 0,
-     "pts": 12,
-     "gf": 38,
+     "pts": 14,
+     "gf": 46,
      "ga": 4,
-     "diff": 34,
-     "l10": "6-0",
-     "strk": "W6"
+     "diff": 42,
+     "l10": "7-0",
+     "strk": "W7"
     },
     {
      "team": "Burlington Raiders",
@@ -69,16 +69,16 @@
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97230",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 7,
+     "gp": 8,
      "w": 4,
-     "l": 2,
+     "l": 3,
      "t": 1,
      "pts": 9,
      "gf": 27,
-     "ga": 19,
-     "diff": 8,
-     "l10": "4-2-1",
-     "strk": "W1"
+     "ga": 27,
+     "diff": 0,
+     "l10": "4-3-1",
+     "strk": "L1"
     },
     {
      "team": "West London Hawks",

@@ -1,6 +1,6 @@
 {
  "divisionId": 2720,
- "updatedAt": "2026-10-31T18:55:46.203Z",
+ "updatedAt": "2026-10-31T19:56:13.277Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "London Jr Knights Green",
      "teamId": "odb-97069",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 5,
-     "w": 5,
+     "gp": 6,
+     "w": 6,
      "l": 0,
      "t": 0,
-     "pts": 10,
-     "gf": 28,
-     "ga": 3,
-     "diff": 25,
-     "l10": "5-0",
-     "strk": "W5"
+     "pts": 12,
+     "gf": 32,
+     "ga": 4,
+     "diff": 28,
+     "l10": "6-0",
+     "strk": "W6"
     },
     {
      "team": "Stratford Warriors",
@@ -99,16 +99,16 @@
      "team": "Mt. Brydges Cougars",
      "teamId": "odb-97288",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-     "gp": 5,
+     "gp": 6,
      "w": 3,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "pts": 6,
-     "gf": 14,
-     "ga": 11,
-     "diff": 3,
-     "l10": "3-2",
-     "strk": "W2"
+     "gf": 15,
+     "ga": 15,
+     "diff": 0,
+     "l10": "3-3",
+     "strk": "L1"
     },
     {
      "team": "Sarnia Jr. Sting",
