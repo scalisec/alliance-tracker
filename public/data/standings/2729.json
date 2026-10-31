@@ -1,6 +1,6 @@
 {
  "divisionId": 2729,
- "updatedAt": "2026-10-28T01:41:31.120Z",
+ "updatedAt": "2026-10-31T20:44:41.382Z",
  "regular": [
   {
    "name": "",
@@ -81,6 +81,21 @@
      "strk": "L1"
     },
     {
+     "team": "Cambridge Hawks",
+     "teamId": "odb-97103",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "gp": 8,
+     "w": 3,
+     "l": 3,
+     "t": 2,
+     "pts": 8,
+     "gf": 26,
+     "ga": 26,
+     "diff": 0,
+     "l10": "3-3-2",
+     "strk": "W1"
+    },
+    {
      "team": "Kitchener Jr Rangers Red",
      "teamId": "odb-97104",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -94,21 +109,6 @@
      "diff": 2,
      "l10": "3-2-1",
      "strk": "W2"
-    },
-    {
-     "team": "Cambridge Hawks",
-     "teamId": "odb-97103",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 7,
-     "w": 2,
-     "l": 3,
-     "t": 2,
-     "pts": 6,
-     "gf": 22,
-     "ga": 23,
-     "diff": -1,
-     "l10": "2-3-2",
-     "strk": "T2"
     },
     {
      "team": "Sarnia Jr. Sting",
@@ -144,16 +144,16 @@
      "team": "London Jr Knights White",
      "teamId": "odb-97106",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 6,
+     "gp": 7,
      "w": 1,
-     "l": 4,
+     "l": 5,
      "t": 1,
      "pts": 3,
-     "gf": 19,
-     "ga": 30,
-     "diff": -11,
-     "l10": "1-4-1",
-     "strk": "T1"
+     "gf": 22,
+     "ga": 34,
+     "diff": -12,
+     "l10": "1-5-1",
+     "strk": "L1"
     },
     {
      "team": "Kitchener Jr Rangers Blue",

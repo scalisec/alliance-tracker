@@ -1,6 +1,6 @@
 {
  "divisionId": 2716,
- "updatedAt": "2026-10-31T18:14:27.775Z",
+ "updatedAt": "2026-10-31T20:42:31.248Z",
  "regular": [
   {
    "name": "",
@@ -114,16 +114,31 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-96966",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 4,
+     "gp": 5,
      "w": 1,
-     "l": 2,
+     "l": 3,
      "t": 1,
      "pts": 3,
-     "gf": 11,
-     "ga": 12,
-     "diff": -1,
-     "l10": "1-2-1",
-     "strk": "T1"
+     "gf": 14,
+     "ga": 18,
+     "diff": -4,
+     "l10": "1-3-1",
+     "strk": "L1"
+    },
+    {
+     "team": "Sault Major Jr Greyhounds",
+     "teamId": "odb-96968",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png",
+     "gp": 2,
+     "w": 1,
+     "l": 1,
+     "t": 0,
+     "pts": 2,
+     "gf": 7,
+     "ga": 9,
+     "diff": -2,
+     "l10": "1-1",
+     "strk": "W1"
     },
     {
      "team": "Sun County Panthers",
@@ -139,21 +154,6 @@
      "diff": -32,
      "l10": "0-6",
      "strk": "L6"
-    },
-    {
-     "team": "Sault Major Jr Greyhounds",
-     "teamId": "odb-96968",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png",
-     "gp": 1,
-     "w": 0,
-     "l": 1,
-     "t": 0,
-     "pts": 0,
-     "gf": 1,
-     "ga": 6,
-     "diff": -5,
-     "l10": "0-1",
-     "strk": "L1"
     }
    ]
   }
