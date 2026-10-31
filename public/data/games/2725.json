@@ -833,14 +833,17 @@
   "start": "2026-10-31T16:30:00-04:00",
   "away": "Sun County Panthers",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 0,
+  "status": "final",
   "venue": "RIM Park (Pillers)",
   "code": "U15P77",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3117250
+  }
  },
  {
   "id": 2375084,

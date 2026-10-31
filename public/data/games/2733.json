@@ -842,14 +842,17 @@
   "start": "2026-10-31T15:30:00-04:00",
   "away": "Cambridge Hawks",
   "home": "Waterloo Wolves White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Rec Complex (Rec Complex)",
   "code": "U18BR231",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4592/2026-10-31/15:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3117052
+  }
  },
  {
   "id": 2379300,
@@ -857,14 +860,17 @@
   "start": "2026-10-31T16:15:00-04:00",
   "away": "Waterloo Wolves Gold",
   "home": "West London Hawks Black",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Bostwick (B)",
   "code": "U18BR33",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5026/2026-10-31/16:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3117053
+  }
  },
  {
   "id": 2379186,

@@ -1664,20 +1664,20 @@
   "logo": "logos/e85b73e63ae2.png"
  },
  {
-  "id": "2725:sault-major-jr-greyhounds",
-  "name": "Sault Major Jr Greyhounds",
-  "divisionId": 2725,
-  "division": "U15 AAA",
-  "association": null,
-  "logo": "logos/91cb455aba29.png"
- },
- {
   "id": "2725:sun-county-panthers",
   "name": "Sun County Panthers",
   "divisionId": 2725,
   "division": "U15 AAA",
   "association": "Sun County Panthers",
   "logo": "logos/8998f15cb7f8.png"
+ },
+ {
+  "id": "2725:sault-major-jr-greyhounds",
+  "name": "Sault Major Jr Greyhounds",
+  "divisionId": 2725,
+  "division": "U15 AAA",
+  "association": null,
+  "logo": "logos/91cb455aba29.png"
  },
  {
   "id": "2725:london-jr-knights",
@@ -2408,20 +2408,20 @@
   "logo": "logos/e0787358df89.png"
  },
  {
-  "id": "2733:kitchener-jr-rangers",
-  "name": "Kitchener Jr Rangers",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
- },
- {
   "id": "2733:waterloo-wolves-white",
   "name": "Waterloo Wolves White",
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
+ },
+ {
+  "id": "2733:kitchener-jr-rangers",
+  "name": "Kitchener Jr Rangers",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2733:west-london-hawks-gold",
@@ -2448,6 +2448,14 @@
   "logo": "logos/612db499a971.png"
  },
  {
+  "id": "2733:west-london-hawks-black",
+  "name": "West London Hawks Black",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/2237c5fc46ea.png"
+ },
+ {
   "id": "2733:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2733,
@@ -2462,14 +2470,6 @@
   "division": "U18 BB",
   "association": "Burlington Raiders Hockey Club",
   "logo": "logos/8845e5146a9b.png"
- },
- {
-  "id": "2733:west-london-hawks-black",
-  "name": "West London Hawks Black",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/2237c5fc46ea.png"
  },
  {
   "id": "2733:burlington-bulldogs-blue",
