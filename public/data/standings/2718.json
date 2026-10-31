@@ -1,10 +1,25 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-10-31T16:54:30.326Z",
+ "updatedAt": "2026-10-31T17:14:40.888Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Woodstock Jr Navy Vets",
+     "teamId": "odb-98138",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+     "gp": 9,
+     "w": 7,
+     "l": 0,
+     "t": 2,
+     "pts": 16,
+     "gf": 42,
+     "ga": 16,
+     "diff": 26,
+     "l10": "7-0-2",
+     "strk": "W1"
+    },
     {
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97220",
@@ -34,21 +49,6 @@
      "diff": 32,
      "l10": "7-0",
      "strk": "W7"
-    },
-    {
-     "team": "Woodstock Jr Navy Vets",
-     "teamId": "odb-98138",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 8,
-     "w": 6,
-     "l": 0,
-     "t": 2,
-     "pts": 14,
-     "gf": 38,
-     "ga": 13,
-     "diff": 25,
-     "l10": "6-0-2",
-     "strk": "T1"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -204,16 +204,16 @@
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97218",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 7,
+     "gp": 8,
      "w": 1,
-     "l": 5,
+     "l": 6,
      "t": 1,
      "pts": 3,
-     "gf": 26,
-     "ga": 34,
-     "diff": -8,
-     "l10": "1-5-1",
-     "strk": "T1"
+     "gf": 29,
+     "ga": 38,
+     "diff": -9,
+     "l10": "1-6-1",
+     "strk": "L1"
     },
     {
      "team": "Cambridge Hawks",

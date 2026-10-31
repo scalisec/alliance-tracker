@@ -1064,14 +1064,17 @@
   "start": "2026-10-31T12:00:00-04:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "Burlington Bulldogs Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Central (Central)",
   "code": "U12BR85",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4335/2026-10-31/12:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3116352
+  }
  },
  {
   "id": 2377968,

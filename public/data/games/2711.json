@@ -617,14 +617,17 @@
   "start": "2026-10-31T12:00:00-04:00",
   "away": "Stratford Warriors",
   "home": "Mt. Brydges Cougars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Tri-Township (Tri-Township)",
   "code": "U10S68",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3116299
+  }
  },
  {
   "id": 2376132,
