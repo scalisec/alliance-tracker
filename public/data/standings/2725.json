@@ -1,6 +1,6 @@
 {
  "divisionId": 2725,
- "updatedAt": "2026-10-31T03:07:11.268Z",
+ "updatedAt": "2026-10-31T19:06:45.651Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-96993",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 8,
-     "w": 8,
+     "gp": 9,
+     "w": 9,
      "l": 0,
      "t": 0,
-     "pts": 16,
-     "gf": 33,
-     "ga": 10,
-     "diff": 23,
-     "l10": "8-0",
-     "strk": "W8"
+     "pts": 18,
+     "gf": 39,
+     "ga": 11,
+     "diff": 28,
+     "l10": "9-0",
+     "strk": "W9"
     },
     {
      "team": "Chatham-Kent Cyclones",
@@ -144,16 +144,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-96994",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 8,
+     "gp": 9,
      "w": 1,
-     "l": 6,
+     "l": 7,
      "t": 1,
      "pts": 3,
-     "gf": 15,
-     "ga": 39,
-     "diff": -24,
-     "l10": "1-6-1",
-     "strk": "L2"
+     "gf": 16,
+     "ga": 45,
+     "diff": -29,
+     "l10": "1-7-1",
+     "strk": "L3"
     },
     {
      "team": "Waterloo Wolves",

@@ -506,14 +506,17 @@
   "start": "2026-10-31T13:20:00-04:00",
   "away": "Waterloo Wolves",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Nichols (C)",
   "code": "U11P130",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3117038
+  }
  },
  {
   "id": 2373718,
@@ -521,14 +524,17 @@
   "start": "2026-10-31T13:30:00-04:00",
   "away": "Chatham-Kent Cyclones",
   "home": "Sarnia-Lambton Jr Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Sarnia PASA (Rink 1)",
   "code": "U11P79",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-10-31/13:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3117039
+  }
  },
  {
   "id": 2373650,
