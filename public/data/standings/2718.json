@@ -1,10 +1,25 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-10-31T00:48:52.179Z",
+ "updatedAt": "2026-10-31T16:54:30.326Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "St. Thomas Jr Stars",
+     "teamId": "odb-97220",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "gp": 10,
+     "w": 7,
+     "l": 1,
+     "t": 2,
+     "pts": 16,
+     "gf": 51,
+     "ga": 30,
+     "diff": 21,
+     "l10": "7-1-2",
+     "strk": "W1"
+    },
     {
      "team": "Waterloo Wolves",
      "teamId": "odb-97210",
@@ -33,21 +48,6 @@
      "ga": 13,
      "diff": 25,
      "l10": "6-0-2",
-     "strk": "T1"
-    },
-    {
-     "team": "St. Thomas Jr Stars",
-     "teamId": "odb-97220",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 9,
-     "w": 6,
-     "l": 1,
-     "t": 2,
-     "pts": 14,
-     "gf": 45,
-     "ga": 28,
-     "diff": 17,
-     "l10": "6-1-2",
      "strk": "T1"
     },
     {
@@ -234,16 +234,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-97217",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 8,
+     "gp": 9,
      "w": 0,
-     "l": 7,
+     "l": 8,
      "t": 1,
      "pts": 1,
-     "gf": 13,
-     "ga": 42,
-     "diff": -29,
-     "l10": "0-7-1",
-     "strk": "L3"
+     "gf": 15,
+     "ga": 48,
+     "diff": -33,
+     "l10": "0-8-1",
+     "strk": "L4"
     }
    ]
   }
