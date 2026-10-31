@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-10-31T18:36:25.358Z",
+ "updatedAt": "2026-10-31T22:52:49.312Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96985",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 8,
+     "gp": 9,
      "w": 7,
-     "l": 0,
+     "l": 1,
      "t": 1,
      "pts": 15,
-     "gf": 44,
-     "ga": 12,
-     "diff": 32,
-     "l10": "7-0-1",
-     "strk": "W7"
+     "gf": 45,
+     "ga": 14,
+     "diff": 31,
+     "l10": "7-1-1",
+     "strk": "L1"
     },
     {
      "team": "Windsor Jr Spitfires",
@@ -49,6 +49,21 @@
      "diff": 21,
      "l10": "6-1",
      "strk": "W4"
+    },
+    {
+     "team": "Sun County Panthers",
+     "teamId": "odb-96989",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
+     "gp": 9,
+     "w": 5,
+     "l": 4,
+     "t": 0,
+     "pts": 10,
+     "gf": 33,
+     "ga": 26,
+     "diff": 7,
+     "l10": "5-4",
+     "strk": "W2"
     },
     {
      "team": "Elgin-Middlesex Canucks",
@@ -79,21 +94,6 @@
      "diff": 9,
      "l10": "4-3",
      "strk": "L2"
-    },
-    {
-     "team": "Sun County Panthers",
-     "teamId": "odb-96989",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 8,
-     "w": 4,
-     "l": 4,
-     "t": 0,
-     "pts": 8,
-     "gf": 31,
-     "ga": 25,
-     "diff": 6,
-     "l10": "4-4",
-     "strk": "W1"
     },
     {
      "team": "London Jr Knights",
