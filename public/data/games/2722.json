@@ -812,14 +812,17 @@
   "start": "2026-10-31T13:00:00-04:00",
   "away": "Waterloo Wolves",
   "home": "Sault Major Jr Greyhounds",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 0,
+  "status": "final",
   "venue": "RIM Park (Pillers)",
   "code": "U14P126",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3117308
+  }
  },
  {
   "id": 2374788,

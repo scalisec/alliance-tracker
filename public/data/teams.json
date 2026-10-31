@@ -216,6 +216,14 @@
   "logo": "logos/8845e5146a9b.png"
  },
  {
+  "id": "2712:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2712,
+  "division": "U10 BB",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
+ },
+ {
   "id": "2712:cambridge-hawks",
   "name": "Cambridge Hawks",
   "divisionId": 2712,
@@ -230,14 +238,6 @@
   "division": "U10 BB",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
- },
- {
-  "id": "2712:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2712,
-  "division": "U10 BB",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2712:burlington-bulldogs-white",
@@ -1288,20 +1288,20 @@
   "logo": "logos/41275c8a7241.png"
  },
  {
-  "id": "2722:huron-perth-lakers",
-  "name": "Huron-Perth Lakers",
-  "divisionId": 2722,
-  "division": "U14 AAA",
-  "association": "Huron-Perth Lakers",
-  "logo": "logos/e85b73e63ae2.png"
- },
- {
   "id": "2722:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2722,
   "division": "U14 AAA",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
+ },
+ {
+  "id": "2722:huron-perth-lakers",
+  "name": "Huron-Perth Lakers",
+  "divisionId": 2722,
+  "division": "U14 AAA",
+  "association": "Huron-Perth Lakers",
+  "logo": "logos/e85b73e63ae2.png"
  },
  {
   "id": "2722:windsor-jr-spitfires",

@@ -1,10 +1,25 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-10-31T14:36:25.767Z",
+ "updatedAt": "2026-10-31T18:36:25.358Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-96990",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 8,
+     "w": 8,
+     "l": 0,
+     "t": 0,
+     "pts": 16,
+     "gf": 47,
+     "ga": 3,
+     "diff": 44,
+     "l10": "8-0",
+     "strk": "W8"
+    },
     {
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96985",
@@ -18,21 +33,6 @@
      "ga": 12,
      "diff": 32,
      "l10": "7-0-1",
-     "strk": "W7"
-    },
-    {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-96990",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 7,
-     "w": 7,
-     "l": 0,
-     "t": 0,
-     "pts": 14,
-     "gf": 42,
-     "ga": 3,
-     "diff": 39,
-     "l10": "7-0",
      "strk": "W7"
     },
     {
@@ -159,16 +159,16 @@
      "team": "Sault Major Jr Greyhounds",
      "teamId": "odb-96992",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png",
-     "gp": 5,
+     "gp": 6,
      "w": 1,
-     "l": 3,
+     "l": 4,
      "t": 1,
      "pts": 3,
      "gf": 12,
-     "ga": 16,
-     "diff": -4,
-     "l10": "1-3-1",
-     "strk": "W1"
+     "ga": 21,
+     "diff": -9,
+     "l10": "1-4-1",
+     "strk": "L1"
     },
     {
      "team": "Chatham-Kent Cyclones",

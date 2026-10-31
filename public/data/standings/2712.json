@@ -1,6 +1,6 @@
 {
  "divisionId": 2712,
- "updatedAt": "2026-10-31T17:23:36.446Z",
+ "updatedAt": "2026-10-31T18:33:55.107Z",
  "regular": [
   {
    "name": "East Division",
@@ -9,16 +9,16 @@
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97184",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 7,
+     "gp": 8,
      "w": 6,
-     "l": 0,
+     "l": 1,
      "t": 1,
      "pts": 13,
-     "gf": 28,
-     "ga": 10,
-     "diff": 18,
-     "l10": "6-0-1",
-     "strk": "W3"
+     "gf": 30,
+     "ga": 14,
+     "diff": 16,
+     "l10": "6-1-1",
+     "strk": "L1"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -51,6 +51,21 @@
      "strk": "T1"
     },
     {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97181",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 6,
+     "w": 3,
+     "l": 3,
+     "t": 0,
+     "pts": 6,
+     "gf": 19,
+     "ga": 18,
+     "diff": 1,
+     "l10": "3-3",
+     "strk": "W1"
+    },
+    {
      "team": "Cambridge Hawks",
      "teamId": "odb-97188",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
@@ -79,21 +94,6 @@
      "diff": 6,
      "l10": "2-2-1",
      "strk": "T1"
-    },
-    {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97181",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 5,
-     "w": 2,
-     "l": 3,
-     "t": 0,
-     "pts": 4,
-     "gf": 15,
-     "ga": 16,
-     "diff": -1,
-     "l10": "2-3",
-     "strk": "L1"
     },
     {
      "team": "Burlington Bulldogs White",

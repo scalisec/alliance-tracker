@@ -881,14 +881,17 @@
   "start": "2026-10-31T13:15:00-04:00",
   "away": "Brantford 99ers",
   "home": "Burlington Bulldogs Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Appleby (3)",
   "code": "U10BE111",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-10-31/13:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3117395
+  }
  },
  {
   "id": 2408489,
