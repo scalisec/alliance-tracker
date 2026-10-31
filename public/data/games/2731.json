@@ -632,14 +632,17 @@
   "start": "2026-10-31T11:00:00-04:00",
   "away": "Windsor Jr Spitfires",
   "home": "Huron-Perth Lakers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Rotary Complex (Rink A)",
   "code": "U18P55",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3116209
+  }
  },
  {
   "id": 2373347,
