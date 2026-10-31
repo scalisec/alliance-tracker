@@ -1,6 +1,6 @@
 {
  "divisionId": 2710,
- "updatedAt": "2026-10-31T18:43:14.337Z",
+ "updatedAt": "2026-10-31T21:10:50.638Z",
  "regular": [
   {
    "name": "East Division",
@@ -149,31 +149,31 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-96946",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 5,
+     "gp": 6,
      "w": 2,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 4,
-     "gf": 21,
-     "ga": 32,
-     "diff": -11,
-     "l10": "2-3",
-     "strk": "L2"
+     "gf": 24,
+     "ga": 36,
+     "diff": -12,
+     "l10": "2-4",
+     "strk": "L3"
     },
     {
      "team": "Chatham-Kent Cyclones",
      "teamId": "odb-96939",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
-     "gp": 7,
-     "w": 0,
+     "gp": 8,
+     "w": 1,
      "l": 7,
      "t": 0,
-     "pts": 0,
-     "gf": 10,
-     "ga": 67,
-     "diff": -57,
-     "l10": "0-7",
-     "strk": "L7"
+     "pts": 2,
+     "gf": 14,
+     "ga": 70,
+     "diff": -56,
+     "l10": "1-7",
+     "strk": "W1"
     }
    ]
   }
