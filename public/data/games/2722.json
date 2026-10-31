@@ -797,14 +797,17 @@
   "start": "2026-10-31T13:00:00-04:00",
   "away": "Huron-Perth Lakers",
   "home": "Sun County Panthers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Essex (Libro)",
   "code": "U14P168",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4370/2026-10-31/13:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3117309
+  }
  },
  {
   "id": 2381545,
