@@ -863,14 +863,17 @@
   "start": "2026-10-31T11:45:00-04:00",
   "away": "Burlington Raiders",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Sports Park (2)",
   "code": "U10BE59",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3116307
+  }
  },
  {
   "id": 2379424,
