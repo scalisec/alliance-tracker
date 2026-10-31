@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-10-31T22:52:49.312Z",
+ "updatedAt": "2026-10-31T23:40:30.999Z",
  "regular": [
   {
    "name": "",
@@ -48,6 +48,21 @@
      "ga": 10,
      "diff": 21,
      "l10": "6-1",
+     "strk": "W4"
+    },
+    {
+     "team": "Kitchener Jr Rangers",
+     "teamId": "odb-96986",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 11,
+     "w": 5,
+     "l": 6,
+     "t": 0,
+     "pts": 10,
+     "gf": 24,
+     "ga": 35,
+     "diff": -11,
+     "l10": "5-5",
      "strk": "W4"
     },
     {
@@ -111,21 +126,6 @@
      "strk": "L1"
     },
     {
-     "team": "Kitchener Jr Rangers",
-     "teamId": "odb-96986",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 10,
-     "w": 4,
-     "l": 6,
-     "t": 0,
-     "pts": 8,
-     "gf": 22,
-     "ga": 34,
-     "diff": -12,
-     "l10": "4-6",
-     "strk": "W3"
-    },
-    {
      "team": "Brantford 99ers",
      "teamId": "odb-96981",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
@@ -159,16 +159,16 @@
      "team": "Sault Major Jr Greyhounds",
      "teamId": "odb-96992",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png",
-     "gp": 6,
+     "gp": 7,
      "w": 1,
-     "l": 4,
+     "l": 5,
      "t": 1,
      "pts": 3,
-     "gf": 12,
-     "ga": 21,
-     "diff": -9,
-     "l10": "1-4-1",
-     "strk": "L1"
+     "gf": 13,
+     "ga": 23,
+     "diff": -10,
+     "l10": "1-5-1",
+     "strk": "L2"
     },
     {
      "team": "Chatham-Kent Cyclones",

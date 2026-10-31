@@ -848,14 +848,17 @@
   "start": "2026-10-31T18:00:00-04:00",
   "away": "Kitchener Jr Rangers",
   "home": "Sault Major Jr Greyhounds",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U14P20",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-10-31/18:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3117828
+  }
  },
  {
   "id": 2374805,

@@ -1312,6 +1312,14 @@
   "logo": "logos/1d06ddd6cd32.png"
  },
  {
+  "id": "2722:kitchener-jr-rangers",
+  "name": "Kitchener Jr Rangers",
+  "divisionId": 2722,
+  "division": "U14 AAA",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
+ },
+ {
   "id": "2722:sun-county-panthers",
   "name": "Sun County Panthers",
   "divisionId": 2722,
@@ -1342,14 +1350,6 @@
   "division": "U14 AAA",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
- },
- {
-  "id": "2722:kitchener-jr-rangers",
-  "name": "Kitchener Jr Rangers",
-  "divisionId": 2722,
-  "division": "U14 AAA",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2722:brantford-99ers",
