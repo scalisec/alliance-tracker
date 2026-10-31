@@ -1,10 +1,25 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-10-31T20:26:28.798Z",
+ "updatedAt": "2026-10-31T21:24:56.196Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Sarnia Jr. Sting",
+     "teamId": "odb-97274",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
+     "gp": 7,
+     "w": 6,
+     "l": 0,
+     "t": 1,
+     "pts": 13,
+     "gf": 32,
+     "ga": 10,
+     "diff": 22,
+     "l10": "6-0-1",
+     "strk": "W5"
+    },
     {
      "team": "Oakridge Aeros",
      "teamId": "odb-97276",
@@ -34,21 +49,6 @@
      "diff": 25,
      "l10": "5-0-2",
      "strk": "W1"
-    },
-    {
-     "team": "Sarnia Jr. Sting",
-     "teamId": "odb-97274",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 6,
-     "w": 5,
-     "l": 0,
-     "t": 1,
-     "pts": 11,
-     "gf": 27,
-     "ga": 9,
-     "diff": 18,
-     "l10": "5-0-1",
-     "strk": "W4"
     },
     {
      "team": "Waterloo Wolves",
@@ -174,16 +174,16 @@
      "team": "Lambeth Lancers",
      "teamId": "odb-97283",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-     "gp": 8,
+     "gp": 9,
      "w": 2,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 4,
-     "gf": 13,
-     "ga": 25,
-     "diff": -12,
-     "l10": "2-6",
-     "strk": "L4"
+     "gf": 14,
+     "ga": 30,
+     "diff": -16,
+     "l10": "2-7",
+     "strk": "L5"
     },
     {
      "team": "Woodstock Jr Navy Vets",

@@ -563,14 +563,17 @@
   "start": "2026-10-31T15:30:00-04:00",
   "away": "Sarnia-Lambton Jr Sting",
   "home": "NOHA Red",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U16PE207",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-10-31/15:30",
   "type": "exhibition",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3117435
+  }
  },
  {
   "id": 2375144,
