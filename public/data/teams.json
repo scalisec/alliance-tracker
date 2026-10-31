@@ -1880,20 +1880,20 @@
   "logo": "logos/8845e5146a9b.png"
  },
  {
-  "id": "2727:london-bandits",
-  "name": "London Bandits",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/973902eb1015.png"
- },
- {
   "id": "2727:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
+ },
+ {
+  "id": "2727:london-bandits",
+  "name": "London Bandits",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/973902eb1015.png"
  },
  {
   "id": "2727:burlington-bulldogs-blue",

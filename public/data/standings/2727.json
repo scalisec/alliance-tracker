@@ -1,6 +1,6 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-10-29T02:14:32.804Z",
+ "updatedAt": "2026-10-31T02:27:53.142Z",
  "regular": [
   {
    "name": "",
@@ -126,6 +126,21 @@
      "strk": "L2"
     },
     {
+     "team": "Kitchener Jr Rangers",
+     "teamId": "odb-97252",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 7,
+     "w": 3,
+     "l": 4,
+     "t": 0,
+     "pts": 6,
+     "gf": 20,
+     "ga": 22,
+     "diff": -2,
+     "l10": "3-4",
+     "strk": "W1"
+    },
+    {
      "team": "London Bandits",
      "teamId": "odb-97255",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
@@ -138,21 +153,6 @@
      "ga": 34,
      "diff": -19,
      "l10": "2-4-1",
-     "strk": "L2"
-    },
-    {
-     "team": "Kitchener Jr Rangers",
-     "teamId": "odb-97252",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 6,
-     "w": 2,
-     "l": 4,
-     "t": 0,
-     "pts": 4,
-     "gf": 14,
-     "ga": 20,
-     "diff": -6,
-     "l10": "2-4",
      "strk": "L2"
     },
     {
@@ -189,16 +189,16 @@
      "team": "Lambeth Lancers",
      "teamId": "odb-97267",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-     "gp": 5,
+     "gp": 6,
      "w": 0,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 0,
-     "gf": 10,
-     "ga": 24,
-     "diff": -14,
-     "l10": "0-5",
-     "strk": "L5"
+     "gf": 12,
+     "ga": 30,
+     "diff": -18,
+     "l10": "0-6",
+     "strk": "L6"
     },
     {
      "team": "Cambridge Hawks",

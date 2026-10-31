@@ -737,14 +737,17 @@
   "start": "2026-10-30T20:45:00-04:00",
   "away": "Lambeth Lancers",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Activa (Tom Graham)",
   "code": "U15BR53",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4200/2026-10-30/20:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3115545
+  }
  },
  {
   "id": 2378902,

@@ -671,14 +671,17 @@
   "start": "2026-10-30T20:15:00-04:00",
   "away": "Mt. Brydges Cougars",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Sarnia PASA (Rink 2)",
   "code": "U15S60",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-10-30/20:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3115541
+  }
  },
  {
   "id": 2375730,
