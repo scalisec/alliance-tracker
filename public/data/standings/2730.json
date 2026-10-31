@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-10-31T21:24:56.196Z",
+ "updatedAt": "2026-10-31T22:23:33.947Z",
  "regular": [
   {
    "name": "",
@@ -51,6 +51,21 @@
      "strk": "W1"
     },
     {
+     "team": "Kitchener Jr Rangers Red",
+     "teamId": "odb-98141",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 6,
+     "w": 5,
+     "l": 0,
+     "t": 1,
+     "pts": 11,
+     "gf": 26,
+     "ga": 11,
+     "diff": 15,
+     "l10": "5-0-1",
+     "strk": "W3"
+    },
+    {
      "team": "Waterloo Wolves",
      "teamId": "odb-97275",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
@@ -79,21 +94,6 @@
      "diff": 21,
      "l10": "4-1-1",
      "strk": "T1"
-    },
-    {
-     "team": "Kitchener Jr Rangers Red",
-     "teamId": "odb-98141",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 5,
-     "w": 4,
-     "l": 0,
-     "t": 1,
-     "pts": 9,
-     "gf": 21,
-     "ga": 8,
-     "diff": 13,
-     "l10": "4-0-1",
-     "strk": "W2"
     },
     {
      "team": "St. Thomas Jr Stars",
@@ -219,16 +219,16 @@
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97278",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 8,
+     "gp": 9,
      "w": 0,
-     "l": 6,
+     "l": 7,
      "t": 2,
      "pts": 2,
-     "gf": 17,
-     "ga": 43,
-     "diff": -26,
-     "l10": "0-6-2",
-     "strk": "L2"
+     "gf": 20,
+     "ga": 48,
+     "diff": -28,
+     "l10": "0-7-2",
+     "strk": "L3"
     },
     {
      "team": "Burlington Raiders",

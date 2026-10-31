@@ -968,14 +968,17 @@
   "start": "2026-10-31T16:45:00-04:00",
   "away": "Burlington Bulldogs Blue",
   "home": "Kitchener Jr Rangers Red",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Sportsworld (Prac)",
   "code": "U16BR86",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4168/2026-10-31/16:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3117078
+  }
  },
  {
   "id": 2379037,

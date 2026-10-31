@@ -581,14 +581,17 @@
   "start": "2026-10-31T16:15:00-04:00",
   "away": "Cambridge Jr RedHawks",
   "home": "Huron-Perth Lakers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Komoka CW&RC (2 - Coors)",
   "code": "U16P34",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2946/2026-10-31/16:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3117436
+  }
  },
  {
   "id": 2377427,

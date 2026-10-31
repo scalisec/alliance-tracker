@@ -2144,6 +2144,14 @@
   "logo": "logos/41275c8a7241.png"
  },
  {
+  "id": "2730:kitchener-jr-rangers-red",
+  "name": "Kitchener Jr Rangers Red",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
+ },
+ {
   "id": "2730:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2730,
@@ -2158,14 +2166,6 @@
   "division": "U16 BB",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
- },
- {
-  "id": "2730:kitchener-jr-rangers-red",
-  "name": "Kitchener Jr Rangers Red",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2730:st-thomas-jr-stars",
