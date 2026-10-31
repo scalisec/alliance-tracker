@@ -1720,20 +1720,20 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
-  "id": "2726:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2726,
-  "division": "U15 AA-A",
-  "association": null,
-  "logo": "logos/612db499a971.png"
- },
- {
   "id": "2726:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2726,
   "division": "U15 AA-A",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
+ },
+ {
+  "id": "2726:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2726,
+  "division": "U15 AA-A",
+  "association": null,
+  "logo": "logos/612db499a971.png"
  },
  {
   "id": "2726:mt-brydges-cougars",

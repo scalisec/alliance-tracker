@@ -653,14 +653,17 @@
   "start": "2026-10-30T19:45:00-04:00",
   "away": "Waterloo Wolves",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Gretzky Center (#3)",
   "code": "U15S23",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4551/2026-10-30/19:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3115540
+  }
  },
  {
   "id": 2375726,
