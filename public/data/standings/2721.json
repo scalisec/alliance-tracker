@@ -1,6 +1,6 @@
 {
  "divisionId": 2721,
- "updatedAt": "2026-10-28T15:10:41.074Z",
+ "updatedAt": "2026-10-31T00:49:52.313Z",
  "regular": [
   {
    "name": "",
@@ -111,6 +111,21 @@
      "strk": "L1"
     },
     {
+     "team": "West London Hawks",
+     "teamId": "odb-97229",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
+     "gp": 5,
+     "w": 3,
+     "l": 2,
+     "t": 0,
+     "pts": 6,
+     "gf": 20,
+     "ga": 16,
+     "diff": 4,
+     "l10": "3-2",
+     "strk": "W3"
+    },
+    {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97222",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -124,21 +139,6 @@
      "diff": 1,
      "l10": "3-4",
      "strk": "L2"
-    },
-    {
-     "team": "West London Hawks",
-     "teamId": "odb-97229",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 4,
-     "w": 2,
-     "l": 2,
-     "t": 0,
-     "pts": 4,
-     "gf": 10,
-     "ga": 14,
-     "diff": -4,
-     "l10": "2-2",
-     "strk": "W2"
     },
     {
      "team": "Cambridge Hawks",
@@ -159,16 +159,16 @@
      "team": "London Bandits",
      "teamId": "odb-97225",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 6,
+     "gp": 7,
      "w": 1,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 2,
-     "gf": 11,
-     "ga": 29,
-     "diff": -18,
-     "l10": "1-5",
-     "strk": "L2"
+     "gf": 13,
+     "ga": 39,
+     "diff": -26,
+     "l10": "1-6",
+     "strk": "L3"
     },
     {
      "team": "Burlington Bulldogs White",

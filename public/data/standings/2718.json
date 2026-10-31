@@ -1,6 +1,6 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-10-25T22:00:35.382Z",
+ "updatedAt": "2026-10-31T00:48:52.179Z",
  "regular": [
   {
    "name": "",
@@ -99,16 +99,16 @@
      "team": "Burlington Bulldogs White",
      "teamId": "odb-97207",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 7,
-     "w": 3,
+     "gp": 8,
+     "w": 4,
      "l": 4,
      "t": 0,
-     "pts": 6,
-     "gf": 29,
-     "ga": 31,
-     "diff": -2,
-     "l10": "3-4",
-     "strk": "W1"
+     "pts": 8,
+     "gf": 36,
+     "ga": 33,
+     "diff": 3,
+     "l10": "4-4",
+     "strk": "W2"
     },
     {
      "team": "Oakridge Aeros",
@@ -234,16 +234,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-97217",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 7,
+     "gp": 8,
      "w": 0,
-     "l": 6,
+     "l": 7,
      "t": 1,
      "pts": 1,
-     "gf": 11,
-     "ga": 35,
-     "diff": -24,
-     "l10": "0-6-1",
-     "strk": "L2"
+     "gf": 13,
+     "ga": 42,
+     "diff": -29,
+     "l10": "0-7-1",
+     "strk": "L3"
     }
    ]
   }

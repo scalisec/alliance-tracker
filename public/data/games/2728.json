@@ -329,14 +329,17 @@
   "start": "2026-10-30T14:00:00-04:00",
   "away": "Cambridge Jr RedHawks",
   "home": "Windsor Jr Spitfires",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 8,
+  "status": "final",
   "venue": "Komoka CW&RC (2 - Coors)",
   "code": "U16P108",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2946/2026-10-30/14:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3114095
+  }
  },
  {
   "id": 2377444,
@@ -344,14 +347,17 @@
   "start": "2026-10-30T14:15:00-04:00",
   "away": "Chatham-Kent Cyclones",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U16P155",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-10-30/14:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3114096
+  }
  },
  {
   "id": 2375249,
@@ -359,14 +365,17 @@
   "start": "2026-10-30T16:00:00-04:00",
   "away": "Huron-Perth Lakers",
   "home": "Sarnia-Lambton Jr Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Komoka CW&RC (2 - Coors)",
   "code": "U16P86",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2946/2026-10-30/16:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3115575
+  }
  },
  {
   "id": 2375273,
@@ -374,14 +383,17 @@
   "start": "2026-10-30T16:15:00-04:00",
   "away": "Elgin-Middlesex Canucks",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 10,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U16P2",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-10-30/16:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3115576
+  }
  },
  {
   "id": 2377425,
@@ -389,14 +401,17 @@
   "start": "2026-10-30T18:00:00-04:00",
   "away": "London Jr Knights",
   "home": "NOHA Red",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 8,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Komoka CW&RC (2 - Coors)",
   "code": "U16PE203",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2946/2026-10-30/18:00",
   "type": "exhibition",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3115577
+  }
  },
  {
   "id": 2377424,
@@ -404,14 +419,17 @@
   "start": "2026-10-30T18:15:00-04:00",
   "away": "Waterloo Wolves",
   "home": "NOHA Black",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U16PE202",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-10-30/18:15",
   "type": "exhibition",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3115578
+  }
  },
  {
   "id": 2375293,

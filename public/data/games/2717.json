@@ -569,14 +569,17 @@
   "start": "2026-10-30T18:15:00-04:00",
   "away": "London Jr Knights Green",
   "home": "St. Thomas Jr Stars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Joe Thornton CC (Presstran)",
   "code": "U12S36",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4356/2026-10-30/18:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3115519
+  }
  },
  {
   "id": 2375474,
@@ -584,14 +587,17 @@
   "start": "2026-10-30T19:30:00-04:00",
   "away": "Mt. Brydges Cougars",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 1,
+  "status": "final",
   "venue": "RIM Park (Lions)",
   "code": "U12S52",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3115520
+  }
  },
  {
   "id": 2375410,

@@ -758,14 +758,17 @@
   "start": "2026-10-30T19:00:00-04:00",
   "away": "London Jr Knights",
   "home": "Sun County Panthers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Essex (Shaheen)",
   "code": "U14P154",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4371/2026-10-30/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3115593
+  }
  },
  {
   "id": 2381547,

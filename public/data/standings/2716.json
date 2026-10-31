@@ -1,6 +1,6 @@
 {
  "divisionId": 2716,
- "updatedAt": "2026-10-30T15:04:27.387Z",
+ "updatedAt": "2026-10-31T00:47:32.116Z",
  "regular": [
   {
    "name": "",
@@ -21,6 +21,21 @@
      "strk": "W2"
     },
     {
+     "team": "Elgin-Middlesex Canucks",
+     "teamId": "odb-96960",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+     "gp": 7,
+     "w": 5,
+     "l": 0,
+     "t": 2,
+     "pts": 12,
+     "gf": 30,
+     "ga": 6,
+     "diff": 24,
+     "l10": "5-0-2",
+     "strk": "W3"
+    },
+    {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-96962",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -34,21 +49,6 @@
      "diff": 18,
      "l10": "5-0-2",
      "strk": "T1"
-    },
-    {
-     "team": "Elgin-Middlesex Canucks",
-     "teamId": "odb-96960",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 6,
-     "w": 4,
-     "l": 0,
-     "t": 2,
-     "pts": 10,
-     "gf": 26,
-     "ga": 6,
-     "diff": 20,
-     "l10": "4-0-2",
-     "strk": "W2"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",
@@ -69,15 +69,30 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-96967",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 4,
+     "gp": 5,
      "w": 2,
-     "l": 1,
+     "l": 2,
      "t": 1,
      "pts": 5,
      "gf": 15,
-     "ga": 8,
-     "diff": 7,
-     "l10": "2-1-1",
+     "ga": 12,
+     "diff": 3,
+     "l10": "2-2-1",
+     "strk": "L1"
+    },
+    {
+     "team": "Brantford 99ers",
+     "teamId": "odb-96957",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 7,
+     "w": 2,
+     "l": 5,
+     "t": 0,
+     "pts": 4,
+     "gf": 12,
+     "ga": 33,
+     "diff": -21,
+     "l10": "2-5",
      "strk": "W1"
     },
     {
@@ -99,31 +114,16 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96961",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 8,
+     "gp": 9,
      "w": 1,
-     "l": 6,
+     "l": 7,
      "t": 1,
      "pts": 3,
      "gf": 15,
-     "ga": 33,
-     "diff": -18,
-     "l10": "1-6-1",
-     "strk": "L1"
-    },
-    {
-     "team": "Brantford 99ers",
-     "teamId": "odb-96957",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 6,
-     "w": 1,
-     "l": 5,
-     "t": 0,
-     "pts": 2,
-     "gf": 8,
-     "ga": 33,
-     "diff": -25,
-     "l10": "1-5",
-     "strk": "L3"
+     "ga": 37,
+     "diff": -22,
+     "l10": "1-7-1",
+     "strk": "L2"
     },
     {
      "team": "Sun County Panthers",

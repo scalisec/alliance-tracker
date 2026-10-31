@@ -644,14 +644,17 @@
   "start": "2026-10-30T19:00:00-04:00",
   "away": "London Jr Knights",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Sportsworld (Spectator)",
   "code": "U13P11",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4167/2026-10-30/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3115598
+  }
  },
  {
   "id": 2374532,
