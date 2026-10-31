@@ -704,6 +704,14 @@
   "logo": "logos/1d06ddd6cd32.png"
  },
  {
+  "id": "2716:huron-perth-lakers",
+  "name": "Huron-Perth Lakers",
+  "divisionId": 2716,
+  "division": "U12 AAA",
+  "association": "Huron-Perth Lakers",
+  "logo": "logos/e85b73e63ae2.png"
+ },
+ {
   "id": "2716:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2716,
@@ -718,14 +726,6 @@
   "division": "U12 AAA",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
- },
- {
-  "id": "2716:huron-perth-lakers",
-  "name": "Huron-Perth Lakers",
-  "divisionId": 2716,
-  "division": "U12 AAA",
-  "association": "Huron-Perth Lakers",
-  "logo": "logos/e85b73e63ae2.png"
  },
  {
   "id": "2716:sun-county-panthers",
