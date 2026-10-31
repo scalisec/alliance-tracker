@@ -1216,6 +1216,14 @@
   "logo": "logos/49dba036a6a8.png"
  },
  {
+  "id": "2721:west-london-hawks",
+  "name": "West London Hawks",
+  "divisionId": 2721,
+  "division": "U13 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/2237c5fc46ea.png"
+ },
+ {
   "id": "2721:oakridge-aeros",
   "name": "Oakridge Aeros",
   "divisionId": 2721,
@@ -1230,14 +1238,6 @@
   "division": "U13 BB",
   "association": "Sarnia Minor Hockey",
   "logo": "logos/704c833c6aca.png"
- },
- {
-  "id": "2721:west-london-hawks",
-  "name": "West London Hawks",
-  "divisionId": 2721,
-  "division": "U13 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/2237c5fc46ea.png"
  },
  {
   "id": "2721:kitchener-jr-rangers",
