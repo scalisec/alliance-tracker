@@ -779,14 +779,17 @@
   "start": "2026-10-30T20:00:00-04:00",
   "away": "Cambridge Hawks",
   "home": "Sault Major Jr Greyhounds",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Sports Park (1)",
   "code": "U14P77",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3115594
+  }
  },
  {
   "id": 2374768,

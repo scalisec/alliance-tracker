@@ -1,6 +1,6 @@
 {
  "divisionId": 2723,
- "updatedAt": "2026-10-28T00:40:14.229Z",
+ "updatedAt": "2026-10-31T01:37:21.304Z",
  "regular": [
   {
    "name": "",
@@ -9,31 +9,31 @@
      "team": "London Jr Knights Green",
      "teamId": "odb-97082",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 6,
-     "w": 6,
+     "gp": 7,
+     "w": 7,
      "l": 0,
      "t": 0,
-     "pts": 12,
-     "gf": 36,
-     "ga": 8,
-     "diff": 28,
-     "l10": "6-0",
-     "strk": "W6"
+     "pts": 14,
+     "gf": 44,
+     "ga": 10,
+     "diff": 34,
+     "l10": "7-0",
+     "strk": "W7"
     },
     {
      "team": "Brantford 99ers",
      "teamId": "odb-97077",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 6,
+     "gp": 7,
      "w": 4,
-     "l": 0,
+     "l": 1,
      "t": 2,
      "pts": 10,
-     "gf": 18,
-     "ga": 9,
-     "diff": 9,
-     "l10": "4-0-2",
-     "strk": "W2"
+     "gf": 20,
+     "ga": 17,
+     "diff": 3,
+     "l10": "4-1-2",
+     "strk": "L1"
     },
     {
      "team": "London Jr Knights White",
