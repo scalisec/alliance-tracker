@@ -1,6 +1,6 @@
 {
  "divisionId": 2725,
- "updatedAt": "2026-10-31T02:37:11.507Z",
+ "updatedAt": "2026-10-31T03:07:11.268Z",
  "regular": [
   {
    "name": "",
@@ -24,31 +24,16 @@
      "team": "Chatham-Kent Cyclones",
      "teamId": "odb-96995",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
-     "gp": 8,
-     "w": 6,
+     "gp": 9,
+     "w": 7,
      "l": 1,
      "t": 1,
-     "pts": 13,
-     "gf": 28,
+     "pts": 15,
+     "gf": 33,
      "ga": 8,
-     "diff": 20,
-     "l10": "6-1-1",
-     "strk": "W6"
-    },
-    {
-     "team": "Elgin-Middlesex Canucks",
-     "teamId": "odb-96996",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 9,
-     "w": 6,
-     "l": 2,
-     "t": 1,
-     "pts": 13,
-     "gf": 41,
-     "ga": 15,
-     "diff": 26,
-     "l10": "6-2-1",
-     "strk": "W4"
+     "diff": 25,
+     "l10": "7-1-1",
+     "strk": "W7"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -64,6 +49,21 @@
      "diff": 20,
      "l10": "6-2-1",
      "strk": "W3"
+    },
+    {
+     "team": "Elgin-Middlesex Canucks",
+     "teamId": "odb-96996",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+     "gp": 9,
+     "w": 6,
+     "l": 2,
+     "t": 1,
+     "pts": 13,
+     "gf": 41,
+     "ga": 15,
+     "diff": 26,
+     "l10": "6-2-1",
+     "strk": "W4"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",
@@ -84,16 +84,16 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96997",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 9,
+     "gp": 10,
      "w": 4,
-     "l": 4,
+     "l": 5,
      "t": 1,
      "pts": 9,
      "gf": 27,
-     "ga": 19,
-     "diff": 8,
-     "l10": "4-4-1",
-     "strk": "T1"
+     "ga": 24,
+     "diff": 3,
+     "l10": "4-5-1",
+     "strk": "L1"
     },
     {
      "team": "Sault Major Jr Greyhounds",
