@@ -1,6 +1,6 @@
 {
  "divisionId": 2728,
- "updatedAt": "2026-10-31T18:27:28.589Z",
+ "updatedAt": "2026-10-31T19:26:33.777Z",
  "regular": [
   {
    "name": "East Division",
@@ -9,16 +9,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97014",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 5,
-     "w": 5,
+     "gp": 6,
+     "w": 6,
      "l": 0,
      "t": 0,
-     "pts": 10,
-     "gf": 25,
-     "ga": 11,
-     "diff": 14,
-     "l10": "5-0",
-     "strk": "W5"
+     "pts": 12,
+     "gf": 35,
+     "ga": 12,
+     "diff": 23,
+     "l10": "6-0",
+     "strk": "W6"
     },
     {
      "team": "Huron-Perth Lakers",
@@ -134,16 +134,16 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-97015",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 6,
+     "gp": 7,
      "w": 2,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 4,
-     "gf": 23,
-     "ga": 29,
-     "diff": -6,
-     "l10": "2-4",
-     "strk": "W1"
+     "gf": 24,
+     "ga": 39,
+     "diff": -15,
+     "l10": "2-5",
+     "strk": "L1"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",
