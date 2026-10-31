@@ -509,14 +509,17 @@
   "start": "2026-10-31T12:15:00-04:00",
   "away": "Elgin-Middlesex Canucks",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Komoka CW&RC (2 - Coors)",
   "code": "U16P128",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2946/2026-10-31/12:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3116395
+  }
  },
  {
   "id": 2375284,
