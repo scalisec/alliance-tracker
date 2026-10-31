@@ -587,14 +587,17 @@
   "start": "2026-10-31T11:00:00-04:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Gretzky Center (#1)",
   "code": "U10S55",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-10-31/11:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3116298
+  }
  },
  {
   "id": 2376143,
@@ -653,14 +656,17 @@
   "start": "2026-10-31T14:30:00-04:00",
   "away": "Sarnia Jr. Sting",
   "home": "London Jr Knights Green",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U10S2",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3117133
+  }
  },
  {
   "id": 2376142,

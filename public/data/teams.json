@@ -112,6 +112,14 @@
   "logo": "logos/6c3aa7a1db2c.png"
  },
  {
+  "id": "2711:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2711,
+  "division": "U10 AA-A",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
+ },
+ {
   "id": "2711:mt-brydges-cougars",
   "name": "Mt. Brydges Cougars",
   "divisionId": 2711,
@@ -136,12 +144,12 @@
   "logo": "logos/08d490425be3.png"
  },
  {
-  "id": "2711:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
+  "id": "2711:brantford-99ers",
+  "name": "Brantford 99ers",
   "divisionId": 2711,
   "division": "U10 AA-A",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2711:kitchener-jr-rangers-red",
@@ -150,14 +158,6 @@
   "division": "U10 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
- },
- {
-  "id": "2711:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2711,
-  "division": "U10 AA-A",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2711:cambridge-hawks",
@@ -1400,20 +1400,20 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
-  "id": "2723:london-jr-knights-white",
-  "name": "London Jr Knights White",
-  "divisionId": 2723,
-  "division": "U14 AA-A",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
- },
- {
   "id": "2723:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": null,
   "logo": "logos/612db499a971.png"
+ },
+ {
+  "id": "2723:london-jr-knights-white",
+  "name": "London Jr Knights White",
+  "divisionId": 2723,
+  "division": "U14 AA-A",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2723:woodstock-jr-navy-vets",
