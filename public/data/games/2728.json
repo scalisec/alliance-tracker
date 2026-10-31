@@ -473,14 +473,17 @@
   "start": "2026-10-31T10:00:00-04:00",
   "away": "NOHA Red",
   "home": "Cambridge Jr RedHawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U16PE204",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-10-31/10:00",
   "type": "exhibition",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3116393
+  }
  },
  {
   "id": 2377428,
@@ -488,14 +491,17 @@
   "start": "2026-10-31T10:15:00-04:00",
   "away": "Huron-Perth Lakers",
   "home": "NOHA Black",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Komoka CW&RC (2 - Coors)",
   "code": "U16PE206",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2946/2026-10-31/10:15",
   "type": "exhibition",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3116394
+  }
  },
  {
   "id": 2375188,

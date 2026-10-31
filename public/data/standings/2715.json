@@ -1,6 +1,6 @@
 {
  "divisionId": 2715,
- "updatedAt": "2026-10-27T14:30:04.672Z",
+ "updatedAt": "2026-10-31T16:03:35.619Z",
  "regular": [
   {
    "name": "",
@@ -171,19 +171,34 @@
      "strk": "L3"
     },
     {
-     "team": "West London Hawks",
-     "teamId": "odb-97197",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
+     "team": "London Bandits",
+     "teamId": "odb-97200",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
      "gp": 6,
      "w": 1,
      "l": 5,
      "t": 0,
      "pts": 2,
-     "gf": 6,
-     "ga": 18,
-     "diff": -12,
+     "gf": 17,
+     "ga": 36,
+     "diff": -19,
      "l10": "1-5",
-     "strk": "L1"
+     "strk": "W1"
+    },
+    {
+     "team": "West London Hawks",
+     "teamId": "odb-97197",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
+     "gp": 7,
+     "w": 1,
+     "l": 6,
+     "t": 0,
+     "pts": 2,
+     "gf": 6,
+     "ga": 22,
+     "diff": -16,
+     "l10": "1-6",
+     "strk": "L2"
     },
     {
      "team": "Oakridge Aeros",
@@ -199,21 +214,6 @@
      "diff": -25,
      "l10": "0-6-1",
      "strk": "L2"
-    },
-    {
-     "team": "London Bandits",
-     "teamId": "odb-97200",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 5,
-     "w": 0,
-     "l": 5,
-     "t": 0,
-     "pts": 0,
-     "gf": 13,
-     "ga": 36,
-     "diff": -23,
-     "l10": "0-5",
-     "strk": "L5"
     }
    ]
   }

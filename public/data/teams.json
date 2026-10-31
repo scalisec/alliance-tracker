@@ -272,20 +272,20 @@
   "logo": "logos/ae847321ae88.png"
  },
  {
-  "id": "2712:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2712,
-  "division": "U10 BB",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
- },
- {
   "id": "2712:west-london-hawks",
   "name": "West London Hawks",
   "divisionId": 2712,
   "division": "U10 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/2237c5fc46ea.png"
+ },
+ {
+  "id": "2712:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2712,
+  "division": "U10 BB",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2712:london-bandits",
@@ -640,6 +640,14 @@
   "logo": "logos/1953df906ca9.png"
  },
  {
+  "id": "2715:london-bandits",
+  "name": "London Bandits",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/973902eb1015.png"
+ },
+ {
   "id": "2715:west-london-hawks",
   "name": "West London Hawks",
   "divisionId": 2715,
@@ -656,12 +664,12 @@
   "logo": "logos/ae847321ae88.png"
  },
  {
-  "id": "2715:london-bandits",
-  "name": "London Bandits",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/973902eb1015.png"
+  "id": "2716:kitchener-jr-rangers",
+  "name": "Kitchener Jr Rangers",
+  "divisionId": 2716,
+  "division": "U12 AAA",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2716:london-jr-knights",
@@ -678,14 +686,6 @@
   "division": "U12 AAA",
   "association": "Elgin-Middlesex Canucks",
   "logo": "logos/2573db2f4749.png"
- },
- {
-  "id": "2716:kitchener-jr-rangers",
-  "name": "Kitchener Jr Rangers",
-  "divisionId": 2716,
-  "division": "U12 AAA",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2716:sarnia-lambton-jr-sting",

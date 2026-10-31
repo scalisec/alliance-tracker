@@ -506,14 +506,17 @@
   "start": "2026-10-31T10:00:00-04:00",
   "away": "Sault Major Jr Greyhounds",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Sportsworld (Spectator)",
   "code": "U12P74",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4167/2026-10-31/10:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3116353
+  }
  },
  {
   "id": 2374259,
