@@ -845,14 +845,17 @@
   "start": "2026-10-31T11:10:00-04:00",
   "away": "Sarnia Jr. Sting",
   "home": "Dresden Jr. Kings",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Ken Houston (Ken Houston)",
   "code": "U10BRS-107",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15516,
+   "game": 3116259
+  }
  },
  {
   "id": 2379476,

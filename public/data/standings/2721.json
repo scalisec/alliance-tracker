@@ -1,6 +1,6 @@
 {
  "divisionId": 2721,
- "updatedAt": "2026-10-31T00:49:52.313Z",
+ "updatedAt": "2026-10-31T16:43:58.518Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97224",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 8,
-     "w": 6,
+     "gp": 9,
+     "w": 7,
      "l": 1,
      "t": 1,
-     "pts": 13,
-     "gf": 27,
+     "pts": 15,
+     "gf": 28,
      "ga": 19,
-     "diff": 8,
-     "l10": "6-1-1",
-     "strk": "W1"
+     "diff": 9,
+     "l10": "7-1-1",
+     "strk": "W2"
     },
     {
      "team": "Stratford Warriors",
@@ -54,16 +54,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-97231",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 7,
+     "gp": 8,
      "w": 5,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "pts": 10,
      "gf": 30,
-     "ga": 16,
-     "diff": 14,
-     "l10": "5-2",
-     "strk": "W4"
+     "ga": 17,
+     "diff": 13,
+     "l10": "5-3",
+     "strk": "L1"
     },
     {
      "team": "Burlington Bulldogs Blue",
