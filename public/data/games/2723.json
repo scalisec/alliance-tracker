@@ -710,14 +710,17 @@
   "start": "2026-10-31T16:15:00-04:00",
   "away": "Burlington Raiders",
   "home": "Kitchener Jr Rangers Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 10,
+  "status": "final",
   "venue": "Activa (Tom Graham)",
   "code": "U14S62",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4200/2026-10-31/16:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3117460
+  }
  },
  {
   "id": 2375619,
@@ -725,14 +728,17 @@
   "start": "2026-10-31T16:30:00-04:00",
   "away": "Waterloo Wolves",
   "home": "Kitchener Jr Rangers Red",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U14S46",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-10-31/16:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3117461
+  }
  },
  {
   "id": 2375597,
