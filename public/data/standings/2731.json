@@ -1,6 +1,6 @@
 {
  "divisionId": 2731,
- "updatedAt": "2026-10-31T21:25:26.112Z",
+ "updatedAt": "2026-10-31T23:14:33.288Z",
  "regular": [
   {
    "name": "",
@@ -39,16 +39,16 @@
      "team": "Elgin-Middlesex Canucks",
      "teamId": "odb-97019",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 11,
+     "gp": 12,
      "w": 6,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 13,
-     "gf": 47,
-     "ga": 40,
-     "diff": 7,
-     "l10": "5-4-1",
-     "strk": "L1"
+     "gf": 50,
+     "ga": 45,
+     "diff": 5,
+     "l10": "4-5-1",
+     "strk": "L2"
     },
     {
      "team": "Waterloo Wolves",
@@ -69,16 +69,16 @@
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-97022",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 12,
-     "w": 4,
+     "gp": 13,
+     "w": 5,
      "l": 8,
      "t": 0,
-     "pts": 8,
-     "gf": 39,
-     "ga": 52,
-     "diff": -13,
-     "l10": "4-6-0",
-     "strk": "L1"
+     "pts": 10,
+     "gf": 44,
+     "ga": 55,
+     "diff": -11,
+     "l10": "5-5-0",
+     "strk": "W1"
     },
     {
      "team": "Brantford 99ers",
