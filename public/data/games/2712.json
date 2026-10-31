@@ -899,14 +899,17 @@
   "start": "2026-10-31T13:30:00-04:00",
   "away": "Mooretown Jr. Flags",
   "home": "London Bandits",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 13,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Argyle (B)",
   "code": "U10BRS-137",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3117396
+  }
  },
  {
   "id": 2408501,

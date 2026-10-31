@@ -1,6 +1,6 @@
 {
  "divisionId": 2712,
- "updatedAt": "2026-10-31T18:33:55.107Z",
+ "updatedAt": "2026-10-31T18:53:36.113Z",
  "regular": [
   {
    "name": "East Division",
@@ -194,16 +194,16 @@
      "team": "London Bandits",
      "teamId": "odb-97182",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 4,
+     "gp": 5,
      "w": 1,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 2,
-     "gf": 21,
-     "ga": 22,
-     "diff": -1,
-     "l10": "1-3",
-     "strk": "L3"
+     "gf": 23,
+     "ga": 35,
+     "diff": -12,
+     "l10": "1-4",
+     "strk": "L4"
     }
    ]
   }

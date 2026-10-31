@@ -659,14 +659,17 @@
   "start": "2026-10-31T13:15:00-04:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "Mt. Brydges Cougars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Tri-Township (Tri-Township)",
   "code": "U12S16",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3117295
+  }
  },
  {
   "id": 2375424,
@@ -674,14 +677,17 @@
   "start": "2026-10-31T13:45:00-04:00",
   "away": "Kitchener Jr Rangers Red",
   "home": "Kitchener Jr Rangers Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Sportsworld (Prac)",
   "code": "U12S4",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4168/2026-10-31/13:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3117296
+  }
  },
  {
   "id": 2375429,

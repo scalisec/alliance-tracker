@@ -1,6 +1,6 @@
 {
  "divisionId": 2720,
- "updatedAt": "2026-10-26T10:20:05.085Z",
+ "updatedAt": "2026-10-31T18:55:46.203Z",
  "regular": [
   {
    "name": "",
@@ -66,6 +66,21 @@
      "strk": "W1"
     },
     {
+     "team": "St. Thomas Jr Stars",
+     "teamId": "odb-97076",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "gp": 6,
+     "w": 3,
+     "l": 2,
+     "t": 1,
+     "pts": 7,
+     "gf": 20,
+     "ga": 17,
+     "diff": 3,
+     "l10": "3-2-1",
+     "strk": "W1"
+    },
+    {
      "team": "Kitchener Jr Rangers Red",
      "teamId": "odb-97068",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -109,21 +124,6 @@
      "diff": 8,
      "l10": "2-2-1",
      "strk": "W1"
-    },
-    {
-     "team": "St. Thomas Jr Stars",
-     "teamId": "odb-97076",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 5,
-     "w": 2,
-     "l": 2,
-     "t": 1,
-     "pts": 5,
-     "gf": 15,
-     "ga": 16,
-     "diff": -1,
-     "l10": "2-2-1",
-     "strk": "L1"
     },
     {
      "team": "Woodstock Jr Navy Vets",
@@ -189,16 +189,16 @@
      "team": "Kitchener Jr Rangers Blue",
      "teamId": "odb-97299",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 8,
+     "gp": 9,
      "w": 0,
-     "l": 6,
+     "l": 7,
      "t": 2,
      "pts": 2,
-     "gf": 11,
-     "ga": 27,
-     "diff": -16,
-     "l10": "0-6-2",
-     "strk": "L2"
+     "gf": 12,
+     "ga": 32,
+     "diff": -20,
+     "l10": "0-7-2",
+     "strk": "L3"
     }
    ]
   }

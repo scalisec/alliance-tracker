@@ -1010,14 +1010,17 @@
   "start": "2026-10-31T12:15:00-04:00",
   "away": "Oakridge Aeros",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Rec Complex (Rec Complex)",
   "code": "U14BR109",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4592/2026-10-31/12:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3116345
+  }
  },
  {
   "id": 2378195,
@@ -1025,14 +1028,17 @@
   "start": "2026-10-31T13:15:00-04:00",
   "away": "Burlington Bulldogs Blue",
   "home": "West London Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Bostwick (B)",
   "code": "U14BR11",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5026/2026-10-31/13:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3117017
+  }
  },
  {
   "id": 2378176,
@@ -1040,14 +1046,17 @@
   "start": "2026-10-31T13:30:00-04:00",
   "away": "London Bandits",
   "home": "St. Thomas Jr Stars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Joe Thornton CC (Presstran)",
   "code": "U14BR33",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4356/2026-10-31/13:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3117018
+  }
  },
  {
   "id": 2378213,
@@ -1055,14 +1064,17 @@
   "start": "2026-10-31T13:30:00-04:00",
   "away": "Lambeth Lancers",
   "home": "Burlington Bulldogs White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 12,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Central (Central)",
   "code": "U14BR52",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4335/2026-10-31/13:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3117019
+  }
  },
  {
   "id": 2378209,
