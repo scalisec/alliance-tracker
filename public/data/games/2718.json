@@ -1046,14 +1046,17 @@
   "start": "2026-10-31T10:45:00-04:00",
   "away": "Stratford Warriors",
   "home": "St. Thomas Jr Stars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Joe Thornton CC (STMHA)",
   "code": "U12BR2",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4355/2026-10-31/10:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3116351
+  }
  },
  {
   "id": 2377905,
