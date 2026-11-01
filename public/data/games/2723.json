@@ -746,14 +746,17 @@
   "start": "2026-11-01T13:00:00-05:00",
   "away": "Cambridge Hawks",
   "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Mr Lube + Tires (Black)",
   "code": "U14S21",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/242/2026-11-01/13:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3119969
+  }
  },
  {
   "id": 2375659,

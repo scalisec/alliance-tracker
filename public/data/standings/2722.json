@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-11-01T18:38:48.438Z",
+ "updatedAt": "2026-11-01T19:39:03.121Z",
  "regular": [
   {
    "name": "",
@@ -129,16 +129,31 @@
      "team": "Brantford 99ers",
      "teamId": "odb-96981",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 11,
+     "gp": 12,
      "w": 2,
      "l": 8,
-     "t": 1,
-     "pts": 5,
-     "gf": 17,
-     "ga": 50,
+     "t": 2,
+     "pts": 6,
+     "gf": 19,
+     "ga": 52,
      "diff": -33,
-     "l10": "1-8-1",
-     "strk": "L1"
+     "l10": "1-7-2",
+     "strk": "T1"
+    },
+    {
+     "team": "Sault Major Jr Greyhounds",
+     "teamId": "odb-96992",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png",
+     "gp": 8,
+     "w": 1,
+     "l": 5,
+     "t": 2,
+     "pts": 4,
+     "gf": 15,
+     "ga": 25,
+     "diff": -10,
+     "l10": "1-5-2",
+     "strk": "T1"
     },
     {
      "team": "Cambridge Hawks",
@@ -154,21 +169,6 @@
      "diff": -40,
      "l10": "2-8",
      "strk": "L4"
-    },
-    {
-     "team": "Sault Major Jr Greyhounds",
-     "teamId": "odb-96992",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100559.png",
-     "gp": 7,
-     "w": 1,
-     "l": 5,
-     "t": 1,
-     "pts": 3,
-     "gf": 13,
-     "ga": 23,
-     "diff": -10,
-     "l10": "1-5-1",
-     "strk": "L2"
     },
     {
      "team": "Chatham-Kent Cyclones",

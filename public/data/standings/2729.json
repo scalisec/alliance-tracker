@@ -1,6 +1,6 @@
 {
  "divisionId": 2729,
- "updatedAt": "2026-11-01T01:10:59.201Z",
+ "updatedAt": "2026-11-01T19:40:23.241Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97109",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 7,
-     "w": 7,
+     "gp": 8,
+     "w": 8,
      "l": 0,
      "t": 0,
-     "pts": 14,
-     "gf": 37,
-     "ga": 7,
-     "diff": 30,
-     "l10": "7-0",
-     "strk": "W7"
+     "pts": 16,
+     "gf": 47,
+     "ga": 9,
+     "diff": 38,
+     "l10": "8-0",
+     "strk": "W8"
     },
     {
      "team": "Mt. Brydges Cougars",
@@ -39,16 +39,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-97108",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 10,
+     "gp": 11,
      "w": 4,
-     "l": 4,
+     "l": 5,
      "t": 2,
      "pts": 10,
-     "gf": 29,
-     "ga": 33,
-     "diff": -4,
-     "l10": "4-4-2",
-     "strk": "L1"
+     "gf": 31,
+     "ga": 43,
+     "diff": -12,
+     "l10": "3-5-2",
+     "strk": "L2"
     },
     {
      "team": "Brantford 99ers",

@@ -1,6 +1,6 @@
 {
  "divisionId": 2723,
- "updatedAt": "2026-10-31T21:52:37.033Z",
+ "updatedAt": "2026-11-01T19:39:33.112Z",
  "regular": [
   {
    "name": "",
@@ -141,6 +141,21 @@
      "strk": "W1"
     },
     {
+     "team": "Cambridge Hawks",
+     "teamId": "odb-97078",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "gp": 6,
+     "w": 2,
+     "l": 4,
+     "t": 0,
+     "pts": 4,
+     "gf": 17,
+     "ga": 18,
+     "diff": -1,
+     "l10": "2-4",
+     "strk": "W1"
+    },
+    {
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97084",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
@@ -153,21 +168,6 @@
      "ga": 21,
      "diff": -6,
      "l10": "1-4-1",
-     "strk": "L1"
-    },
-    {
-     "team": "Cambridge Hawks",
-     "teamId": "odb-97078",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 5,
-     "w": 1,
-     "l": 4,
-     "t": 0,
-     "pts": 2,
-     "gf": 11,
-     "ga": 18,
-     "diff": -7,
-     "l10": "1-4",
      "strk": "L1"
     },
     {
@@ -189,16 +189,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97089",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 6,
+     "gp": 7,
      "w": 0,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 0,
      "gf": 4,
-     "ga": 59,
-     "diff": -55,
-     "l10": "0-6",
-     "strk": "L6"
+     "ga": 65,
+     "diff": -61,
+     "l10": "0-7",
+     "strk": "L7"
     }
    ]
   }
