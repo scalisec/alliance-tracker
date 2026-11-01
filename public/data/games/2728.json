@@ -653,14 +653,17 @@
   "start": "2026-11-01T08:00:00-05:00",
   "away": "Elgin-Middlesex Canucks",
   "home": "Cambridge Jr RedHawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 12,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Komoka CW&RC (2 - Coors)",
   "code": "U16P23",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2946/2026-11-01/08:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3118445
+  }
  },
  {
   "id": 2377423,
@@ -668,14 +671,17 @@
   "start": "2026-11-01T08:15:00-05:00",
   "away": "Windsor Jr Spitfires",
   "home": "NOHA Red",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U16PE201",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-11-01/08:15",
+  "type": "exhibition",
+  "gamesheet": {
+   "season": 15447,
+   "game": 3118446
+  }
  },
  {
   "id": 2377422,
@@ -688,8 +694,8 @@
   "status": "scheduled",
   "venue": "Komoka CW&RC (2 - Coors)",
   "code": "U16PE200",
-  "liveBarn": null,
-  "type": "regular",
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2946/2026-11-01/10:00",
+  "type": "exhibition",
   "gamesheet": null
  },
  {
@@ -703,7 +709,7 @@
   "status": "scheduled",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U16P83",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-11-01/10:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -718,7 +724,7 @@
   "status": "scheduled",
   "venue": "Komoka CW&RC (2 - Coors)",
   "code": "U16P51",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2946/2026-11-01/12:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -733,7 +739,7 @@
   "status": "scheduled",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U16P30",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-11-01/12:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -746,9 +752,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Memorial",
+  "venue": "Memorial (Memorial)",
   "code": "U16P136",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-11-05/18:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -763,7 +769,7 @@
   "status": "scheduled",
   "venue": "Central Park (North)",
   "code": "U16P118",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4434/2026-11-06/20:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -776,9 +782,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Memorial",
+  "venue": "Memorial (Memorial)",
   "code": "U16P85",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-11-07/15:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -793,7 +799,7 @@
   "status": "scheduled",
   "venue": "Gretzky Center (#1)",
   "code": "U16P63",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-11-07/20:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -806,9 +812,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Memorial",
+  "venue": "Memorial (Memorial)",
   "code": "U16P93",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-11-08/16:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -823,7 +829,7 @@
   "status": "scheduled",
   "venue": "Western Fair (Major Appliances)",
   "code": "U16P107",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4442/2026-11-09/20:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -838,7 +844,7 @@
   "status": "scheduled",
   "venue": "Sarnia PASA (Rink 2)",
   "code": "U16P117",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-11-10/20:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -853,7 +859,7 @@
   "status": "scheduled",
   "venue": "Gretzky Center (#1)",
   "code": "U16P10",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-11-11/20:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -868,7 +874,7 @@
   "status": "scheduled",
   "venue": "Activa (PJD)",
   "code": "U16P43",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-11-13/20:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -883,7 +889,7 @@
   "status": "scheduled",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U16P131",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-11-14/15:45",
   "type": "regular",
   "gamesheet": null
  },
@@ -898,7 +904,7 @@
   "status": "scheduled",
   "venue": "Sarnia PASA (Rink 1)",
   "code": "U16P154",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-11-14/17:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -913,7 +919,7 @@
   "status": "scheduled",
   "venue": "Gretzky Center (#1)",
   "code": "U16P39",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-11-14/20:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -928,7 +934,7 @@
   "status": "scheduled",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U16P141",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-11-15/12:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -941,9 +947,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Galt Arena",
+  "venue": "Galt Arena (Galt Arena)",
   "code": "U16P58",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2608/2026-11-15/14:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -956,9 +962,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Memorial",
+  "venue": "Memorial (Memorial)",
   "code": "U16P153",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-11-15/15:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -973,7 +979,7 @@
   "status": "scheduled",
   "venue": "Western Fair (Major Appliances)",
   "code": "U16P110",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4442/2026-11-16/20:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -988,7 +994,7 @@
   "status": "scheduled",
   "venue": "Central Park (North)",
   "code": "U16P88",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4434/2026-11-18/20:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -1003,7 +1009,7 @@
   "status": "scheduled",
   "venue": "Gretzky Center (#1)",
   "code": "U16P29",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-11-19/20:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1018,7 +1024,7 @@
   "status": "scheduled",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U16P127",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-11-21/14:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1033,7 +1039,7 @@
   "status": "scheduled",
   "venue": "Central Park (North)",
   "code": "U16P104",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4434/2026-11-21/16:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1048,7 +1054,7 @@
   "status": "scheduled",
   "venue": "Sarnia PASA (Rink 1)",
   "code": "U16P142",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-11-21/18:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1076,9 +1082,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Galt Arena",
+  "venue": "Galt Arena (Galt Arena)",
   "code": "U16P7",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2608/2026-11-22/13:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -1091,9 +1097,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Memorial",
+  "venue": "Memorial (Memorial)",
   "code": "U16P125",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-11-22/15:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1138,7 +1144,7 @@
   "status": "scheduled",
   "venue": "Western Fair (Major Appliances)",
   "code": "U16P82",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4442/2026-11-23/20:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1153,7 +1159,7 @@
   "status": "scheduled",
   "venue": "Activa (PJD)",
   "code": "U16P59",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-11-25/20:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1168,7 +1174,7 @@
   "status": "scheduled",
   "venue": "Activa (PJD)",
   "code": "U16P66",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-11-28/20:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1181,9 +1187,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Galt Arena",
+  "venue": "Galt Arena (Galt Arena)",
   "code": "U16P9",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2608/2026-11-29/13:30",
   "type": "regular",
   "gamesheet": null
  },

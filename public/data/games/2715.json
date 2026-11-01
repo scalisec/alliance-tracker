@@ -745,7 +745,7 @@
   "status": "scheduled",
   "venue": "Gretzky Center (#3)",
   "code": "U11BR26",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4551/2026-11-01/13:45",
   "type": "regular",
   "gamesheet": null
  },
@@ -758,9 +758,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Mountainside",
+  "venue": "Mountainside (Mountainside)",
   "code": "U11BR11",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4336/2026-11-01/14:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -775,7 +775,7 @@
   "status": "scheduled",
   "venue": "Preston Aud (1)",
   "code": "U11BR84",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2624/2026-11-01/14:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -803,9 +803,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Mountainside",
+  "venue": "Mountainside (Mountainside)",
   "code": "U11BR1",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4336/2026-11-01/15:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -820,7 +820,7 @@
   "status": "scheduled",
   "venue": "AMC (West)",
   "code": "U11BR66",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4627/2026-11-01/15:45",
   "type": "regular",
   "gamesheet": null
  },
@@ -833,9 +833,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Grand River",
+  "venue": "Grand River (Grand River)",
   "code": "U11BR25",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4191/2026-11-03/19:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -865,7 +865,7 @@
   "status": "scheduled",
   "venue": "Reeves CC (Green)",
   "code": "U11BR48",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4268/2026-11-07/11:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -880,7 +880,7 @@
   "status": "scheduled",
   "venue": "Appleby (3)",
   "code": "U11BR70",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-11-07/12:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -925,7 +925,7 @@
   "status": "scheduled",
   "venue": "Preston Aud (1)",
   "code": "U11BR76",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2624/2026-11-08/14:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -938,9 +938,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Mountainside",
+  "venue": "Mountainside (Mountainside)",
   "code": "U11BR35",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4336/2026-11-08/15:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -955,7 +955,7 @@
   "status": "scheduled",
   "venue": "Bostwick (B)",
   "code": "U11BR56",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5026/2026-11-08/15:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -1000,7 +1000,7 @@
   "status": "scheduled",
   "venue": "Appleby (3)",
   "code": "U11BR64",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-11-14/12:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1013,9 +1013,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Grand River",
+  "venue": "Grand River (Grand River)",
   "code": "U11BR77",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4191/2026-11-14/13:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1030,7 +1030,7 @@
   "status": "scheduled",
   "venue": "Bostwick (A)",
   "code": "U11BR32",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5025/2026-11-14/14:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1045,7 +1045,7 @@
   "status": "scheduled",
   "venue": "Gretzky Center (#4)",
   "code": "U11BR74",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4548/2026-11-14/14:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1075,7 +1075,7 @@
   "status": "scheduled",
   "venue": "Mr Lube + Tires (Black)",
   "code": "U11BR17",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/242/2026-11-15/13:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1090,7 +1090,7 @@
   "status": "scheduled",
   "venue": "Preston Aud (1)",
   "code": "U11BR83",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2624/2026-11-15/14:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1105,7 +1105,7 @@
   "status": "scheduled",
   "venue": "AMC (West)",
   "code": "U11BR85",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4627/2026-11-15/14:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -1118,9 +1118,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Mountainside",
+  "venue": "Mountainside (Mountainside)",
   "code": "U11BR43",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4336/2026-11-15/15:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1150,7 +1150,7 @@
   "status": "scheduled",
   "venue": "Carling (A)",
   "code": "U11BR87",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5027/2026-11-15/16:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1165,7 +1165,7 @@
   "status": "scheduled",
   "venue": "Appleby (3)",
   "code": "U11BR3",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-11-21/13:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1180,7 +1180,7 @@
   "status": "scheduled",
   "venue": "AMC (West)",
   "code": "U11BR27",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4627/2026-11-21/17:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1195,7 +1195,7 @@
   "status": "scheduled",
   "venue": "Mr Lube + Tires (Red)",
   "code": "U11BR61",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/241/2026-11-21/18:45",
   "type": "regular",
   "gamesheet": null
  },
@@ -1210,7 +1210,7 @@
   "status": "scheduled",
   "venue": "Mr Lube + Tires (Black)",
   "code": "U11BR12",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/242/2026-11-22/13:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1240,7 +1240,7 @@
   "status": "scheduled",
   "venue": "Appleby (3)",
   "code": "U11BR82",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-11-22/14:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1253,9 +1253,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Mountainside",
+  "venue": "Mountainside (Mountainside)",
   "code": "U11BR71",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4336/2026-11-22/15:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1283,9 +1283,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Grand River",
+  "venue": "Grand River (Grand River)",
   "code": "U11BR15",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4191/2026-11-28/12:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1313,9 +1313,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Oakridge",
+  "venue": "Oakridge (Oakridge)",
   "code": "U11BR44",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5029/2026-11-28/16:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1330,7 +1330,7 @@
   "status": "scheduled",
   "venue": "Preston Aud (1)",
   "code": "U11BR49",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2624/2026-11-29/13:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1345,7 +1345,7 @@
   "status": "scheduled",
   "venue": "Gretzky Center (#1)",
   "code": "U11BR21",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-11-29/15:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1360,7 +1360,7 @@
   "status": "scheduled",
   "venue": "Carling (A)",
   "code": "U11BR24",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5027/2026-11-29/16:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1375,7 +1375,7 @@
   "status": "scheduled",
   "venue": "Bostwick (A)",
   "code": "U11BR53",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5025/2026-11-29/17:00",
   "type": "regular",
   "gamesheet": null
  },

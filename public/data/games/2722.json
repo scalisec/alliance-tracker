@@ -872,9 +872,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Blenheim",
+  "venue": "Blenheim (Blenheim)",
   "code": "U14P101",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4518/2026-11-01/12:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -889,7 +889,7 @@
   "status": "scheduled",
   "venue": "Gretzky Center (#1)",
   "code": "U14P109",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-11-01/12:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -904,7 +904,7 @@
   "status": "scheduled",
   "venue": "Western Fair (Chik-fil-a)",
   "code": "U14P52",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4445/2026-11-01/18:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -919,7 +919,7 @@
   "status": "scheduled",
   "venue": "Activa (PJD)",
   "code": "U14P125",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-11-03/19:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -934,7 +934,7 @@
   "status": "scheduled",
   "venue": "Central Park (North)",
   "code": "U14P87",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4434/2026-11-03/19:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -949,7 +949,7 @@
   "status": "scheduled",
   "venue": "Sarnia PASA (Rink 2)",
   "code": "U14P50",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-11-04/18:45",
   "type": "regular",
   "gamesheet": null
  },
@@ -964,7 +964,7 @@
   "status": "scheduled",
   "venue": "Central Park (North)",
   "code": "U14P133",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4434/2026-11-07/19:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -977,9 +977,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Rec Complex",
+  "venue": "Rec Complex (Rec Complex)",
   "code": "U14P98",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4592/2026-11-08/14:45",
   "type": "regular",
   "gamesheet": null
  },
@@ -994,7 +994,7 @@
   "status": "scheduled",
   "venue": "Western Fair (Chik-fil-a)",
   "code": "U14P13",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4445/2026-11-08/18:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1009,7 +1009,7 @@
   "status": "scheduled",
   "venue": "Sarnia PASA (Rink 2)",
   "code": "U14P116",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-11-11/18:45",
   "type": "regular",
   "gamesheet": null
  },
@@ -1039,7 +1039,7 @@
   "status": "scheduled",
   "venue": "Central Park (North)",
   "code": "U14P68",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4434/2026-11-13/19:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1067,9 +1067,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Memorial",
+  "venue": "Memorial (Memorial)",
   "code": "U14P134",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-11-14/13:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -1084,7 +1084,7 @@
   "status": "scheduled",
   "venue": "Sarnia PASA (Rink 1)",
   "code": "U14P143",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-11-14/13:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -1099,7 +1099,7 @@
   "status": "scheduled",
   "venue": "Gretzky Center (#1)",
   "code": "U14P46",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-11-14/13:45",
   "type": "regular",
   "gamesheet": null
  },
@@ -1114,7 +1114,7 @@
   "status": "scheduled",
   "venue": "Activa (PJD)",
   "code": "U14P100",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-11-15/12:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1129,7 +1129,7 @@
   "status": "scheduled",
   "venue": "Central Park (North)",
   "code": "U14P160",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4434/2026-11-15/12:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1144,7 +1144,7 @@
   "status": "scheduled",
   "venue": "Gretzky Center (#1)",
   "code": "U14P7",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-11-15/14:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1159,7 +1159,7 @@
   "status": "scheduled",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U14P71",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-11-15/14:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1172,9 +1172,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Galt Arena",
+  "venue": "Galt Arena (Galt Arena)",
   "code": "U14P19",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2608/2026-11-15/17:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -1219,7 +1219,7 @@
   "status": "scheduled",
   "venue": "Essex (Shaheen)",
   "code": "U14P130",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4371/2026-11-20/20:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1247,9 +1247,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Memorial",
+  "venue": "Memorial (Memorial)",
   "code": "U14P8",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-11-21/13:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -1279,7 +1279,7 @@
   "status": "scheduled",
   "venue": "Komoka CW&RC (2 - Coors)",
   "code": "U14P157",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2946/2026-11-21/16:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -1294,7 +1294,7 @@
   "status": "scheduled",
   "venue": "Central Park (North)",
   "code": "U14P74",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4434/2026-11-21/19:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1307,9 +1307,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Blenheim",
+  "venue": "Blenheim (Blenheim)",
   "code": "U14P93",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4518/2026-11-22/12:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1339,7 +1339,7 @@
   "status": "scheduled",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U14P102",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-11-22/15:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1369,7 +1369,7 @@
   "status": "scheduled",
   "venue": "Western Fair (Chik-fil-a)",
   "code": "U14P132",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4445/2026-11-22/20:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1384,7 +1384,7 @@
   "status": "scheduled",
   "venue": "Essex (Libro)",
   "code": "U14P70",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4370/2026-11-28/13:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -1399,7 +1399,7 @@
   "status": "scheduled",
   "venue": "Sarnia PASA (Rink 1)",
   "code": "U14P146",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-11-28/15:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1414,7 +1414,7 @@
   "status": "scheduled",
   "venue": "Activa (PJD)",
   "code": "U14P64",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-11-28/16:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1429,7 +1429,7 @@
   "status": "scheduled",
   "venue": "Central Park (North)",
   "code": "U14P149",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4434/2026-11-29/13:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -1444,7 +1444,7 @@
   "status": "scheduled",
   "venue": "Essex (Shaheen)",
   "code": "U14P53",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4371/2026-11-29/17:00",
   "type": "regular",
   "gamesheet": null
  },

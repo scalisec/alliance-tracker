@@ -889,7 +889,7 @@
   "status": "scheduled",
   "venue": "Sportsworld (Prac)",
   "code": "U13BR54",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4168/2026-11-01/12:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -904,7 +904,7 @@
   "status": "scheduled",
   "venue": "Preston Aud (1)",
   "code": "U13BR69",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2624/2026-11-01/15:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -934,7 +934,7 @@
   "status": "scheduled",
   "venue": "Appleby (3)",
   "code": "U13BR42",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-11-01/16:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -949,7 +949,7 @@
   "status": "scheduled",
   "venue": "Reeves CC (Red)",
   "code": "U13BR60",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4269/2026-11-07/11:45",
   "type": "regular",
   "gamesheet": null
  },
@@ -962,9 +962,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Pat Stapleton Arena",
+  "venue": "Pat Stapleton Arena (Pat Stapleton Arena)",
   "code": "U13BR37",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4699/2026-11-07/12:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -979,7 +979,7 @@
   "status": "scheduled",
   "venue": "Bostwick (B)",
   "code": "U13BR78",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5026/2026-11-07/12:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -1039,7 +1039,7 @@
   "status": "scheduled",
   "venue": "Carling (A)",
   "code": "U13BR73",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5027/2026-11-08/17:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -1052,9 +1052,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Pat Stapleton Arena",
+  "venue": "Pat Stapleton Arena (Pat Stapleton Arena)",
   "code": "U13BR8",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4699/2026-11-14/12:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1069,7 +1069,7 @@
   "status": "scheduled",
   "venue": "Bostwick (A)",
   "code": "U13BR35",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5025/2026-11-14/15:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1099,7 +1099,7 @@
   "status": "scheduled",
   "venue": "Gretzky Center (#4)",
   "code": "U13BR12",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4548/2026-11-14/16:45",
   "type": "regular",
   "gamesheet": null
  },
@@ -1114,7 +1114,7 @@
   "status": "scheduled",
   "venue": "Sportsworld (Prac)",
   "code": "U13BR81",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4168/2026-11-15/11:45",
   "type": "regular",
   "gamesheet": null
  },
@@ -1129,7 +1129,7 @@
   "status": "scheduled",
   "venue": "Appleby (3)",
   "code": "U13BR11",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-11-15/14:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1144,7 +1144,7 @@
   "status": "scheduled",
   "venue": "Mr Lube + Tires (Black)",
   "code": "U13BR4",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/242/2026-11-15/14:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1159,7 +1159,7 @@
   "status": "scheduled",
   "venue": "Carling (A)",
   "code": "U13BR77",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5027/2026-11-15/17:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -1189,7 +1189,7 @@
   "status": "scheduled",
   "venue": "Reeves CC (Red)",
   "code": "U13BR57",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4269/2026-11-21/11:45",
   "type": "regular",
   "gamesheet": null
  },
@@ -1202,9 +1202,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Pat Stapleton Arena",
+  "venue": "Pat Stapleton Arena (Pat Stapleton Arena)",
   "code": "U13BR1",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4699/2026-11-21/12:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1217,9 +1217,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Central",
+  "venue": "Central (Central)",
   "code": "U13BR75",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4335/2026-11-21/13:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -1234,7 +1234,7 @@
   "status": "scheduled",
   "venue": "Appleby (3)",
   "code": "U13BR30",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-11-22/15:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -1249,7 +1249,7 @@
   "status": "scheduled",
   "venue": "Preston Aud (1)",
   "code": "U13BR65",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2624/2026-11-22/16:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1264,7 +1264,7 @@
   "status": "scheduled",
   "venue": "Appleby (3)",
   "code": "U13BR5",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-11-22/17:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1279,7 +1279,7 @@
   "status": "scheduled",
   "venue": "Appleby (2)",
   "code": "U13BR71",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4333/2026-11-24/20:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1307,7 +1307,7 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Civic Centre",
+  "venue": "Civic Centre (Civic Centre)",
   "code": "U13BR32",
   "liveBarn": null,
   "type": "regular",
@@ -1339,7 +1339,7 @@
   "status": "scheduled",
   "venue": "Carling (A)",
   "code": "U13BR55",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5027/2026-11-29/17:30",
   "type": "regular",
   "gamesheet": null
  },

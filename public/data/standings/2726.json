@@ -1,6 +1,6 @@
 {
  "divisionId": 2726,
- "updatedAt": "2026-10-31T21:23:36.113Z",
+ "updatedAt": "2026-11-01T15:11:45.503Z",
  "regular": [
   {
    "name": "",
@@ -81,6 +81,21 @@
      "strk": "T1"
     },
     {
+     "team": "London Jr Knights White",
+     "teamId": "odb-97096",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 7,
+     "w": 3,
+     "l": 3,
+     "t": 1,
+     "pts": 7,
+     "gf": 24,
+     "ga": 19,
+     "diff": 5,
+     "l10": "3-3-1",
+     "strk": "W2"
+    },
+    {
      "team": "Brantford 99ers",
      "teamId": "odb-97090",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
@@ -124,21 +139,6 @@
      "diff": 0,
      "l10": "2-2-2",
      "strk": "T2"
-    },
-    {
-     "team": "London Jr Knights White",
-     "teamId": "odb-97096",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 6,
-     "w": 2,
-     "l": 3,
-     "t": 1,
-     "pts": 5,
-     "gf": 21,
-     "ga": 17,
-     "diff": 4,
-     "l10": "2-3-1",
-     "strk": "W1"
     },
     {
      "team": "Kitchener Jr Rangers Blue",
@@ -189,16 +189,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-97098",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 5,
+     "gp": 6,
      "w": 0,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 0,
-     "gf": 7,
-     "ga": 24,
-     "diff": -17,
-     "l10": "0-5",
-     "strk": "L5"
+     "gf": 9,
+     "ga": 27,
+     "diff": -18,
+     "l10": "0-6",
+     "strk": "L6"
     }
    ]
   }

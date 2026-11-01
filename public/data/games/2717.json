@@ -700,7 +700,7 @@
   "status": "scheduled",
   "venue": "Sportsworld (Spectator)",
   "code": "U12S8",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4167/2026-11-01/12:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -715,7 +715,7 @@
   "status": "scheduled",
   "venue": "Gretzky Center (#1)",
   "code": "U12S3",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-11-01/14:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -730,7 +730,7 @@
   "status": "scheduled",
   "venue": "Activa (Tom Graham)",
   "code": "U12S29",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4200/2026-11-01/14:45",
   "type": "regular",
   "gamesheet": null
  },
@@ -745,7 +745,7 @@
   "status": "scheduled",
   "venue": "Western Fair (Chik-fil-a)",
   "code": "U12S75",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4445/2026-11-01/15:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -775,7 +775,7 @@
   "status": "scheduled",
   "venue": "Joe Thornton CC (STMHA)",
   "code": "U12S12",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4355/2026-11-07/12:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -788,7 +788,7 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Tri-Township",
+  "venue": "Tri-Township (Tri-Township)",
   "code": "U12S48",
   "liveBarn": null,
   "type": "regular",
@@ -820,7 +820,7 @@
   "status": "scheduled",
   "venue": "Gretzky Center (#1)",
   "code": "U12S11",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-11-08/12:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -835,7 +835,7 @@
   "status": "scheduled",
   "venue": "Reeves CC (Red)",
   "code": "U12S63",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4269/2026-11-08/13:45",
   "type": "regular",
   "gamesheet": null
  },
@@ -850,7 +850,7 @@
   "status": "scheduled",
   "venue": "Mr Lube + Tires (Black)",
   "code": "U12S62",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/242/2026-11-08/14:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -880,7 +880,7 @@
   "status": "scheduled",
   "venue": "Activa (PJD)",
   "code": "U12S2",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-11-13/19:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -910,7 +910,7 @@
   "status": "scheduled",
   "venue": "Gretzky Center (#2)",
   "code": "U12S66",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4549/2026-11-14/16:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -925,7 +925,7 @@
   "status": "scheduled",
   "venue": "Activa (Tom Graham)",
   "code": "U12S37",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4200/2026-11-14/16:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -940,7 +940,7 @@
   "status": "scheduled",
   "venue": "Sportsworld (Spectator)",
   "code": "U12S68",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4167/2026-11-15/13:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -955,7 +955,7 @@
   "status": "scheduled",
   "venue": "Activa (PJD)",
   "code": "U12S34",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-11-15/15:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -985,7 +985,7 @@
   "status": "scheduled",
   "venue": "Western Fair (Chik-fil-a)",
   "code": "U12S51",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4445/2026-11-19/18:45",
   "type": "regular",
   "gamesheet": null
  },
@@ -998,7 +998,7 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Tri-Township",
+  "venue": "Tri-Township (Tri-Township)",
   "code": "U12S59",
   "liveBarn": null,
   "type": "regular",
@@ -1030,7 +1030,7 @@
   "status": "scheduled",
   "venue": "Reeves CC (Red)",
   "code": "U12S57",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4269/2026-11-21/14:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -1045,7 +1045,7 @@
   "status": "scheduled",
   "venue": "AMC (West)",
   "code": "U12S54",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4627/2026-11-21/15:45",
   "type": "regular",
   "gamesheet": null
  },
@@ -1075,7 +1075,7 @@
   "status": "scheduled",
   "venue": "Reeves CC (Red)",
   "code": "U12S64",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4269/2026-11-22/11:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1090,7 +1090,7 @@
   "status": "scheduled",
   "venue": "Mr Lube + Tires (Black)",
   "code": "U12S5",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/242/2026-11-22/14:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -1118,7 +1118,7 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Dufferin",
+  "venue": "Dufferin (Dufferin)",
   "code": "U12S74",
   "liveBarn": null,
   "type": "regular",
@@ -1133,9 +1133,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Galt Arena",
+  "venue": "Galt Arena (Galt Arena)",
   "code": "U12S17",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2608/2026-11-24/19:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -1210,7 +1210,7 @@
   "status": "scheduled",
   "venue": "Gretzky Center (#1)",
   "code": "U12S53",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-11-29/12:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1223,9 +1223,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Rec Complex",
+  "venue": "Rec Complex (Rec Complex)",
   "code": "U12S73",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4592/2026-11-29/13:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1240,7 +1240,7 @@
   "status": "scheduled",
   "venue": "Western Fair (Chik-fil-a)",
   "code": "U12S45",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4445/2026-11-29/15:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -1255,7 +1255,7 @@
   "status": "scheduled",
   "venue": "Western Fair (Chik-fil-a)",
   "code": "U12S77",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4445/2026-11-29/16:45",
   "type": "regular",
   "gamesheet": null
  }
