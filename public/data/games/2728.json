@@ -635,14 +635,17 @@
   "start": "2026-10-31T20:15:00-04:00",
   "away": "London Jr Knights",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Komoka CW&RC (2 - Coors)",
   "code": "U16P45",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2946/2026-10-31/20:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3117834
+  }
  },
  {
   "id": 2375276,
