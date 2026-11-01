@@ -1000,6 +1000,14 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
+  "id": "2719:london-jr-knights",
+  "name": "London Jr Knights",
+  "divisionId": 2719,
+  "division": "U13 AAA",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
+ },
+ {
   "id": "2719:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2719,
@@ -1014,14 +1022,6 @@
   "division": "U13 AAA",
   "association": "Sun County Panthers",
   "logo": "logos/8998f15cb7f8.png"
- },
- {
-  "id": "2719:london-jr-knights",
-  "name": "London Jr Knights",
-  "divisionId": 2719,
-  "division": "U13 AAA",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2719:windsor-jr-spitfires",
@@ -2024,20 +2024,20 @@
   "logo": null
  },
  {
-  "id": "2729:mt-brydges-cougars",
-  "name": "Mt. Brydges Cougars",
-  "divisionId": 2729,
-  "division": "U16 AA-A",
-  "association": null,
-  "logo": "logos/0f4ddfdee820.png"
- },
- {
   "id": "2729:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
+ },
+ {
+  "id": "2729:mt-brydges-cougars",
+  "name": "Mt. Brydges Cougars",
+  "divisionId": 2729,
+  "division": "U16 AA-A",
+  "association": null,
+  "logo": "logos/0f4ddfdee820.png"
  },
  {
   "id": "2729:stratford-warriors",

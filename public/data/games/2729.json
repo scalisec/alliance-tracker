@@ -692,14 +692,17 @@
   "start": "2026-10-31T18:00:00-04:00",
   "away": "Waterloo Wolves",
   "home": "Stratford Warriors",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Rotary Complex (Rink A)",
   "code": "U16S70",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3117816
+  }
  },
  {
   "id": 2375793,

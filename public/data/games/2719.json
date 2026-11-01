@@ -662,14 +662,17 @@
   "start": "2026-10-31T13:30:00-04:00",
   "away": "London Jr Knights",
   "home": "Chatham-Kent Cyclones",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Memorial (Memorial)",
   "code": "U13P22",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-10-31/13:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3117288
+  }
  },
  {
   "id": 2374558,

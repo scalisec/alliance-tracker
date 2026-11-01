@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-10-31T23:40:30.999Z",
+ "updatedAt": "2026-11-01T00:10:48.352Z",
  "regular": [
   {
    "name": "",
@@ -24,31 +24,31 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96985",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 9,
+     "gp": 10,
      "w": 7,
      "l": 1,
-     "t": 1,
-     "pts": 15,
-     "gf": 45,
-     "ga": 14,
+     "t": 2,
+     "pts": 16,
+     "gf": 48,
+     "ga": 17,
      "diff": 31,
-     "l10": "7-1-1",
-     "strk": "L1"
+     "l10": "7-1-2",
+     "strk": "T1"
     },
     {
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-96991",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 7,
+     "gp": 8,
      "w": 6,
      "l": 1,
-     "t": 0,
-     "pts": 12,
-     "gf": 31,
-     "ga": 10,
+     "t": 1,
+     "pts": 13,
+     "gf": 34,
+     "ga": 13,
      "diff": 21,
-     "l10": "6-1",
-     "strk": "W4"
+     "l10": "6-1-1",
+     "strk": "T1"
     },
     {
      "team": "Kitchener Jr Rangers",
