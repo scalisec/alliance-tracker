@@ -746,14 +746,17 @@
   "start": "2026-11-01T16:00:00-05:00",
   "away": "Mt. Brydges Cougars",
   "home": "London Jr Knights White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U16S100",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3120302
+  }
  },
  {
   "id": 2375830,

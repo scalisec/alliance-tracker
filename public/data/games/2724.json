@@ -1136,14 +1136,17 @@
   "start": "2026-11-01T16:30:00-05:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "London Bandits",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Argyle (B)",
   "code": "U14BR86",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3120018
+  }
  },
  {
   "id": 2378212,

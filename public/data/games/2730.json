@@ -1055,14 +1055,17 @@
   "start": "2026-11-01T16:30:00-05:00",
   "away": "Burlington Raiders",
   "home": "Kitchener Jr Rangers Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U16BR93",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-11-01/16:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3120074
+  }
  },
  {
   "id": 2378986,
@@ -1070,14 +1073,17 @@
   "start": "2026-11-01T16:30:00-05:00",
   "away": "West London Hawks",
   "home": "Kitchener Jr Rangers Red",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Sportsworld (Spectator)",
   "code": "U16BR60",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4167/2026-11-01/16:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3120075
+  }
  },
  {
   "id": 2378952,
