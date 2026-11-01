@@ -432,20 +432,20 @@
   "logo": "logos/1d06ddd6cd32.png"
  },
  {
-  "id": "2713:london-jr-knights",
-  "name": "London Jr Knights",
-  "divisionId": 2713,
-  "division": "U11 AAA",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
- },
- {
   "id": "2713:sarnia-lambton-jr-sting",
   "name": "Sarnia-Lambton Jr Sting",
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "Lambton Jr Sting",
   "logo": "logos/bcc449715362.png"
+ },
+ {
+  "id": "2713:london-jr-knights",
+  "name": "London Jr Knights",
+  "divisionId": 2713,
+  "division": "U11 AAA",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2713:sun-county-panthers",

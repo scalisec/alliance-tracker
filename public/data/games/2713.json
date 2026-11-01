@@ -578,14 +578,17 @@
   "start": "2026-11-01T12:45:00-05:00",
   "away": "Cambridge Hawks",
   "home": "Sarnia-Lambton Jr Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Clearwater (Red)",
   "code": "U11P110",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3119963
+  }
  },
  {
   "id": 2373752,
