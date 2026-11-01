@@ -1,6 +1,6 @@
 {
  "divisionId": 2729,
- "updatedAt": "2026-11-01T00:11:38.515Z",
+ "updatedAt": "2026-11-01T01:10:59.201Z",
  "regular": [
   {
    "name": "",
@@ -99,16 +99,31 @@
      "team": "Kitchener Jr Rangers Red",
      "teamId": "odb-97104",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 6,
+     "gp": 7,
      "w": 3,
-     "l": 2,
+     "l": 3,
      "t": 1,
      "pts": 7,
-     "gf": 20,
-     "ga": 18,
-     "diff": 2,
-     "l10": "3-2-1",
-     "strk": "W2"
+     "gf": 22,
+     "ga": 23,
+     "diff": -1,
+     "l10": "3-3-1",
+     "strk": "L1"
+    },
+    {
+     "team": "St. Thomas Jr Stars",
+     "teamId": "odb-97111",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "gp": 5,
+     "w": 2,
+     "l": 2,
+     "t": 1,
+     "pts": 5,
+     "gf": 18,
+     "ga": 17,
+     "diff": 1,
+     "l10": "2-2-1",
+     "strk": "W1"
     },
     {
      "team": "Sarnia Jr. Sting",
@@ -126,19 +141,19 @@
      "strk": "L2"
     },
     {
-     "team": "St. Thomas Jr Stars",
-     "teamId": "odb-97111",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 4,
+     "team": "Kitchener Jr Rangers Blue",
+     "teamId": "odb-97302",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 9,
      "w": 1,
-     "l": 2,
+     "l": 7,
      "t": 1,
      "pts": 3,
-     "gf": 13,
-     "ga": 15,
-     "diff": -2,
-     "l10": "1-2-1",
-     "strk": "L1"
+     "gf": 18,
+     "ga": 45,
+     "diff": -27,
+     "l10": "1-7-1",
+     "strk": "L2"
     },
     {
      "team": "London Jr Knights White",
@@ -154,21 +169,6 @@
      "diff": -12,
      "l10": "1-5-1",
      "strk": "L1"
-    },
-    {
-     "team": "Kitchener Jr Rangers Blue",
-     "teamId": "odb-97302",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 9,
-     "w": 1,
-     "l": 7,
-     "t": 1,
-     "pts": 3,
-     "gf": 18,
-     "ga": 45,
-     "diff": -27,
-     "l10": "1-7-1",
-     "strk": "L2"
     },
     {
      "team": "Woodstock Jr Navy Vets",

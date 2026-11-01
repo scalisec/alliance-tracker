@@ -710,14 +710,17 @@
   "start": "2026-10-31T19:15:00-04:00",
   "away": "St. Thomas Jr Stars",
   "home": "Kitchener Jr Rangers Red",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Activa (Tom Graham)",
   "code": "U16S120",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4200/2026-10-31/19:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3117817
+  }
  },
  {
   "id": 2375940,

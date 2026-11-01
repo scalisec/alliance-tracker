@@ -2080,14 +2080,6 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
-  "id": "2729:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2729,
-  "division": "U16 AA-A",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
- },
- {
   "id": "2729:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2729,
@@ -2096,12 +2088,12 @@
   "logo": "logos/612db499a971.png"
  },
  {
-  "id": "2729:london-jr-knights-white",
-  "name": "London Jr Knights White",
+  "id": "2729:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
   "divisionId": 2729,
   "division": "U16 AA-A",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2729:kitchener-jr-rangers-blue",
@@ -2110,6 +2102,14 @@
   "division": "U16 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
+ },
+ {
+  "id": "2729:london-jr-knights-white",
+  "name": "London Jr Knights White",
+  "divisionId": 2729,
+  "division": "U16 AA-A",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2729:woodstock-jr-navy-vets",
