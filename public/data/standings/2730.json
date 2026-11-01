@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-11-01T23:09:43.938Z",
+ "updatedAt": "2026-11-01T23:40:10.304Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97274",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 7,
-     "w": 6,
+     "gp": 8,
+     "w": 7,
      "l": 0,
      "t": 1,
-     "pts": 13,
-     "gf": 32,
-     "ga": 10,
-     "diff": 22,
-     "l10": "6-0-1",
-     "strk": "W5"
+     "pts": 15,
+     "gf": 37,
+     "ga": 12,
+     "diff": 25,
+     "l10": "7-0-1",
+     "strk": "W6"
     },
     {
      "team": "Kitchener Jr Rangers Red",
@@ -84,16 +84,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-97268",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 6,
+     "gp": 7,
      "w": 4,
-     "l": 1,
+     "l": 2,
      "t": 1,
      "pts": 9,
-     "gf": 29,
-     "ga": 8,
-     "diff": 21,
-     "l10": "4-1-1",
-     "strk": "T1"
+     "gf": 31,
+     "ga": 13,
+     "diff": 18,
+     "l10": "4-2-1",
+     "strk": "L1"
     },
     {
      "team": "St. Thomas Jr Stars",
