@@ -40,6 +40,14 @@
   "logo": "logos/e85b73e63ae2.png"
  },
  {
+  "id": "2710:elgin-middlesex-canucks",
+  "name": "Elgin-Middlesex Canucks",
+  "divisionId": 2710,
+  "division": "U10 AAA",
+  "association": "Elgin-Middlesex Canucks",
+  "logo": "logos/2573db2f4749.png"
+ },
+ {
   "id": "2710:sun-county-panthers",
   "name": "Sun County Panthers",
   "divisionId": 2710,
@@ -62,14 +70,6 @@
   "division": "U10 AAA",
   "association": "Lambton Jr Sting",
   "logo": "logos/bcc449715362.png"
- },
- {
-  "id": "2710:elgin-middlesex-canucks",
-  "name": "Elgin-Middlesex Canucks",
-  "divisionId": 2710,
-  "division": "U10 AAA",
-  "association": "Elgin-Middlesex Canucks",
-  "logo": "logos/2573db2f4749.png"
  },
  {
   "id": "2710:windsor-jr-spitfires",

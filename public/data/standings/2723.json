@@ -1,6 +1,6 @@
 {
  "divisionId": 2723,
- "updatedAt": "2026-11-01T19:39:33.112Z",
+ "updatedAt": "2026-11-01T20:08:46.744Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "London Jr Knights Green",
      "teamId": "odb-97082",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 7,
-     "w": 7,
+     "gp": 8,
+     "w": 8,
      "l": 0,
      "t": 0,
-     "pts": 14,
-     "gf": 44,
-     "ga": 10,
-     "diff": 34,
-     "l10": "7-0",
-     "strk": "W7"
+     "pts": 16,
+     "gf": 47,
+     "ga": 11,
+     "diff": 36,
+     "l10": "8-0",
+     "strk": "W8"
     },
     {
      "team": "Kitchener Jr Rangers Red",
@@ -174,16 +174,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97086",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 8,
+     "gp": 9,
      "w": 0,
-     "l": 8,
+     "l": 9,
      "t": 0,
      "pts": 0,
-     "gf": 10,
-     "ga": 33,
-     "diff": -23,
-     "l10": "0-8",
-     "strk": "L8"
+     "gf": 11,
+     "ga": 36,
+     "diff": -25,
+     "l10": "0-9",
+     "strk": "L9"
     },
     {
      "team": "Burlington Raiders",

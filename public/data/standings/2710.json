@@ -1,6 +1,6 @@
 {
  "divisionId": 2710,
- "updatedAt": "2026-11-01T17:36:14.657Z",
+ "updatedAt": "2026-11-01T20:06:37.963Z",
  "regular": [
   {
    "name": "East Division",
@@ -54,16 +54,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-96938",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 6,
+     "gp": 7,
      "w": 1,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 2,
      "gf": 14,
-     "ga": 37,
-     "diff": -23,
-     "l10": "1-5",
-     "strk": "L3"
+     "ga": 51,
+     "diff": -37,
+     "l10": "1-6",
+     "strk": "L4"
     },
     {
      "team": "Huron-Perth Lakers",
@@ -85,6 +85,21 @@
   {
    "name": "West Division",
    "rows": [
+    {
+     "team": "Elgin-Middlesex Canucks",
+     "teamId": "odb-96940",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+     "gp": 5,
+     "w": 4,
+     "l": 1,
+     "t": 0,
+     "pts": 8,
+     "gf": 45,
+     "ga": 7,
+     "diff": 38,
+     "l10": "4-1",
+     "strk": "W1"
+    },
     {
      "team": "Sun County Panthers",
      "teamId": "odb-97285",
@@ -129,21 +144,6 @@
      "diff": 26,
      "l10": "3-1-1",
      "strk": "W3"
-    },
-    {
-     "team": "Elgin-Middlesex Canucks",
-     "teamId": "odb-96940",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 4,
-     "w": 3,
-     "l": 1,
-     "t": 0,
-     "pts": 6,
-     "gf": 31,
-     "ga": 7,
-     "diff": 24,
-     "l10": "3-1",
-     "strk": "L1"
     },
     {
      "team": "Windsor Jr Spitfires",
