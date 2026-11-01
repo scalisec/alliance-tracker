@@ -764,14 +764,17 @@
   "start": "2026-11-01T16:30:00-05:00",
   "away": "London Jr Knights White",
   "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Mr Lube + Tires (Red)",
   "code": "U10S52",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/241/2026-11-01/16:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3120519
+  }
  },
  {
   "id": 2376150,
