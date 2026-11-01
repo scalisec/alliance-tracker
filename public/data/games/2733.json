@@ -896,14 +896,17 @@
   "start": "2026-11-01T14:45:00-05:00",
   "away": "Oakridge Aeros",
   "home": "Waterloo Wolves White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Rec Complex (Rec Complex)",
   "code": "U18BR133",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4592/2026-11-01/14:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3120114
+  }
  },
  {
   "id": 2379062,
@@ -926,14 +929,17 @@
   "start": "2026-11-01T15:00:00-05:00",
   "away": "West London Hawks Black",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Galt Arena (Galt Arena)",
   "code": "U18BR120",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2608/2026-11-01/15:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3120115
+  }
  },
  {
   "id": 2379261,

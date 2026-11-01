@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-11-01T20:40:26.666Z",
+ "updatedAt": "2026-11-01T21:37:26.338Z",
  "regular": [
   {
    "name": "",
@@ -9,31 +9,31 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-97123",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 9,
-     "w": 7,
+     "gp": 10,
+     "w": 8,
      "l": 2,
      "t": 0,
-     "pts": 14,
-     "gf": 40,
-     "ga": 22,
-     "diff": 18,
-     "l10": "7-2",
-     "strk": "L2"
+     "pts": 16,
+     "gf": 46,
+     "ga": 23,
+     "diff": 23,
+     "l10": "8-2",
+     "strk": "W1"
     },
     {
      "team": "Waterloo Wolves White",
      "teamId": "odb-97133",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 8,
-     "w": 6,
+     "gp": 9,
+     "w": 7,
      "l": 1,
      "t": 1,
-     "pts": 13,
-     "gf": 28,
-     "ga": 13,
-     "diff": 15,
-     "l10": "6-1-1",
-     "strk": "W1"
+     "pts": 15,
+     "gf": 33,
+     "ga": 14,
+     "diff": 19,
+     "l10": "7-1-1",
+     "strk": "W2"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -96,21 +96,6 @@
      "strk": "T1"
     },
     {
-     "team": "West London Hawks Black",
-     "teamId": "odb-97129",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 5,
-     "w": 2,
-     "l": 1,
-     "t": 2,
-     "pts": 6,
-     "gf": 21,
-     "ga": 11,
-     "diff": 10,
-     "l10": "2-1-2",
-     "strk": "T1"
-    },
-    {
      "team": "Brantford 99ers",
      "teamId": "odb-97128",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
@@ -124,6 +109,21 @@
      "diff": 7,
      "l10": "2-1-2",
      "strk": "T2"
+    },
+    {
+     "team": "West London Hawks Black",
+     "teamId": "odb-97129",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
+     "gp": 6,
+     "w": 2,
+     "l": 2,
+     "t": 2,
+     "pts": 6,
+     "gf": 22,
+     "ga": 17,
+     "diff": 5,
+     "l10": "2-2-2",
+     "strk": "L1"
     },
     {
      "team": "Burlington Raiders",
@@ -174,16 +174,16 @@
      "team": "Oakridge Aeros",
      "teamId": "odb-97125",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 6,
+     "gp": 7,
      "w": 1,
-     "l": 4,
+     "l": 5,
      "t": 1,
      "pts": 3,
-     "gf": 15,
-     "ga": 26,
-     "diff": -11,
-     "l10": "1-4-1",
-     "strk": "L1"
+     "gf": 16,
+     "ga": 31,
+     "diff": -15,
+     "l10": "1-5-1",
+     "strk": "L2"
     },
     {
      "team": "Burlington Bulldogs White",
