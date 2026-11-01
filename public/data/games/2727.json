@@ -842,14 +842,17 @@
   "start": "2026-11-01T17:00:00-05:00",
   "away": "St. Thomas Jr Stars",
   "home": "North London Nationals",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Stronach (B)",
   "code": "U15BR87",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3120097
+  }
  },
  {
   "id": 2378838,

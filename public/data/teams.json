@@ -584,6 +584,14 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
+  "id": "2715:north-london-nationals",
+  "name": "North London Nationals",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/41275c8a7241.png"
+ },
+ {
   "id": "2715:burlington-bulldogs-white",
   "name": "Burlington Bulldogs White",
   "divisionId": 2715,
@@ -598,14 +606,6 @@
   "division": "U11 BB",
   "association": "Woodstock Minor Hockey",
   "logo": "logos/6c3aa7a1db2c.png"
- },
- {
-  "id": "2715:north-london-nationals",
-  "name": "North London Nationals",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/41275c8a7241.png"
  },
  {
   "id": "2715:burlington-bulldogs-blue",
@@ -1816,6 +1816,14 @@
   "logo": "logos/51ff29ef905f.png"
  },
  {
+  "id": "2727:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": null,
+  "logo": "logos/612db499a971.png"
+ },
+ {
   "id": "2727:oakridge-aeros",
   "name": "Oakridge Aeros",
   "divisionId": 2727,
@@ -1830,14 +1838,6 @@
   "division": "U15 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/2237c5fc46ea.png"
- },
- {
-  "id": "2727:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": null,
-  "logo": "logos/612db499a971.png"
  },
  {
   "id": "2727:sarnia-jr-sting",
