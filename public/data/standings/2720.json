@@ -1,6 +1,6 @@
 {
  "divisionId": 2720,
- "updatedAt": "2026-11-01T15:09:11.201Z",
+ "updatedAt": "2026-11-01T17:07:41.611Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-97072",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 6,
-     "w": 5,
+     "gp": 7,
+     "w": 6,
      "l": 1,
      "t": 0,
-     "pts": 10,
-     "gf": 26,
-     "ga": 20,
-     "diff": 6,
-     "l10": "5-1",
-     "strk": "L1"
+     "pts": 12,
+     "gf": 29,
+     "ga": 22,
+     "diff": 7,
+     "l10": "6-1",
+     "strk": "W1"
     },
     {
      "team": "Brantford 99ers",
@@ -84,16 +84,16 @@
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97076",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 6,
+     "gp": 7,
      "w": 3,
-     "l": 2,
+     "l": 3,
      "t": 1,
      "pts": 7,
-     "gf": 20,
-     "ga": 17,
-     "diff": 3,
-     "l10": "3-2-1",
-     "strk": "W1"
+     "gf": 22,
+     "ga": 20,
+     "diff": 2,
+     "l10": "3-3-1",
+     "strk": "L1"
     },
     {
      "team": "Mt. Brydges Cougars",

@@ -689,14 +689,17 @@
   "start": "2026-11-01T10:00:00-05:00",
   "away": "NOHA Black",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Komoka CW&RC (2 - Coors)",
   "code": "U16PE200",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2946/2026-11-01/10:00",
   "type": "exhibition",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3118447
+  }
  },
  {
   "id": 2375294,
@@ -704,14 +707,17 @@
   "start": "2026-11-01T10:15:00-05:00",
   "away": "Waterloo Wolves",
   "home": "Sarnia-Lambton Jr Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U16P83",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-11-01/10:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3118448
+  }
  },
  {
   "id": 2375282,

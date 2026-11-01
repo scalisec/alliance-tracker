@@ -719,14 +719,17 @@
   "start": "2026-11-01T10:00:00-05:00",
   "away": "St. Thomas Jr Stars",
   "home": "Stratford Warriors",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Allman (Allman)",
   "code": "U13S41",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4857/2026-11-01/10:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3118291
+  }
  },
  {
   "id": 2375508,
