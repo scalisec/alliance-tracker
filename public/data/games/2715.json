@@ -755,14 +755,17 @@
   "start": "2026-11-01T14:00:00-05:00",
   "away": "London Bandits",
   "home": "Burlington Bulldogs White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Mountainside (Mountainside)",
   "code": "U11BR11",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4336/2026-11-01/14:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3120384
+  }
  },
  {
   "id": 2379355,
@@ -770,14 +773,17 @@
   "start": "2026-11-01T14:15:00-05:00",
   "away": "Oakridge Aeros",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Preston Aud (1)",
   "code": "U11BR84",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2624/2026-11-01/14:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3120385
+  }
  },
  {
   "id": 2379388,

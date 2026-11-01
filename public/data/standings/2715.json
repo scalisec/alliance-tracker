@@ -1,10 +1,25 @@
 {
  "divisionId": 2715,
- "updatedAt": "2026-11-01T19:38:23.046Z",
+ "updatedAt": "2026-11-01T20:27:03.917Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Cambridge Hawks",
+     "teamId": "odb-97203",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "gp": 7,
+     "w": 5,
+     "l": 1,
+     "t": 1,
+     "pts": 11,
+     "gf": 22,
+     "ga": 14,
+     "diff": 8,
+     "l10": "5-1-1",
+     "strk": "W4"
+    },
     {
      "team": "Burlington Bulldogs Gold",
      "teamId": "odb-97204",
@@ -51,17 +66,17 @@
      "strk": "W4"
     },
     {
-     "team": "Cambridge Hawks",
-     "teamId": "odb-97203",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "team": "Burlington Bulldogs White",
+     "teamId": "odb-97198",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
      "gp": 6,
      "w": 4,
      "l": 1,
      "t": 1,
      "pts": 9,
-     "gf": 20,
+     "gf": 16,
      "ga": 13,
-     "diff": 7,
+     "diff": 3,
      "l10": "4-1-1",
      "strk": "W3"
     },
@@ -96,21 +111,6 @@
      "strk": "W1"
     },
     {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97190",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 6,
-     "w": 3,
-     "l": 2,
-     "t": 1,
-     "pts": 7,
-     "gf": 14,
-     "ga": 9,
-     "diff": 5,
-     "l10": "3-2-1",
-     "strk": "W1"
-    },
-    {
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97191",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
@@ -126,19 +126,19 @@
      "strk": "L3"
     },
     {
-     "team": "Burlington Bulldogs White",
-     "teamId": "odb-97198",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 5,
+     "team": "Brantford 99ers",
+     "teamId": "odb-97190",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 6,
      "w": 3,
-     "l": 1,
+     "l": 2,
      "t": 1,
      "pts": 7,
-     "gf": 12,
-     "ga": 12,
-     "diff": 0,
-     "l10": "3-1-1",
-     "strk": "W2"
+     "gf": 14,
+     "ga": 9,
+     "diff": 5,
+     "l10": "3-2-1",
+     "strk": "W1"
     },
     {
      "team": "Burlington Raiders",
@@ -174,16 +174,16 @@
      "team": "London Bandits",
      "teamId": "odb-97200",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 6,
+     "gp": 7,
      "w": 1,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 2,
-     "gf": 17,
-     "ga": 36,
-     "diff": -19,
-     "l10": "1-5",
-     "strk": "W1"
+     "gf": 18,
+     "ga": 40,
+     "diff": -22,
+     "l10": "1-6",
+     "strk": "L1"
     },
     {
      "team": "West London Hawks",
@@ -204,16 +204,16 @@
      "team": "Oakridge Aeros",
      "teamId": "odb-97195",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 7,
+     "gp": 8,
      "w": 0,
-     "l": 6,
+     "l": 7,
      "t": 1,
      "pts": 1,
-     "gf": 7,
-     "ga": 32,
-     "diff": -25,
-     "l10": "0-6-1",
-     "strk": "L2"
+     "gf": 8,
+     "ga": 34,
+     "diff": -26,
+     "l10": "0-7-1",
+     "strk": "L3"
     }
    ]
   }
