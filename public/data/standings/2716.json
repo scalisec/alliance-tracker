@@ -1,6 +1,6 @@
 {
  "divisionId": 2716,
- "updatedAt": "2026-11-01T20:37:26.401Z",
+ "updatedAt": "2026-11-01T21:08:31.488Z",
  "regular": [
   {
    "name": "",
@@ -21,6 +21,21 @@
      "strk": "W2"
     },
     {
+     "team": "London Jr Knights",
+     "teamId": "odb-96964",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 9,
+     "w": 7,
+     "l": 1,
+     "t": 1,
+     "pts": 15,
+     "gf": 46,
+     "ga": 16,
+     "diff": 30,
+     "l10": "7-1-1",
+     "strk": "W3"
+    },
+    {
      "team": "Elgin-Middlesex Canucks",
      "teamId": "odb-96960",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
@@ -34,21 +49,6 @@
      "diff": 32,
      "l10": "6-0-2",
      "strk": "W4"
-    },
-    {
-     "team": "London Jr Knights",
-     "teamId": "odb-96964",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 8,
-     "w": 6,
-     "l": 1,
-     "t": 1,
-     "pts": 13,
-     "gf": 43,
-     "ga": 16,
-     "diff": 27,
-     "l10": "6-1-1",
-     "strk": "W2"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",
@@ -114,16 +114,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-96966",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 5,
+     "gp": 6,
      "w": 1,
-     "l": 3,
+     "l": 4,
      "t": 1,
      "pts": 3,
      "gf": 14,
-     "ga": 18,
-     "diff": -4,
-     "l10": "1-3-1",
-     "strk": "L1"
+     "ga": 21,
+     "diff": -7,
+     "l10": "1-4-1",
+     "strk": "L2"
     },
     {
      "team": "Sault Major Jr Greyhounds",

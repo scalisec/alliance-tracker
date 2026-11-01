@@ -1,6 +1,6 @@
 {
  "divisionId": 2724,
- "updatedAt": "2026-11-01T20:00:05.161Z",
+ "updatedAt": "2026-11-01T21:10:01.447Z",
  "regular": [
   {
    "name": "",
@@ -19,6 +19,21 @@
      "diff": 59,
      "l10": "9-0",
      "strk": "W9"
+    },
+    {
+     "team": "Kitchener Jr Rangers",
+     "teamId": "odb-97238",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 8,
+     "w": 7,
+     "l": 0,
+     "t": 1,
+     "pts": 15,
+     "gf": 54,
+     "ga": 5,
+     "diff": 49,
+     "l10": "7-0-1",
+     "strk": "W4"
     },
     {
      "team": "St. Thomas Jr Stars",
@@ -51,21 +66,6 @@
      "strk": "T1"
     },
     {
-     "team": "Kitchener Jr Rangers",
-     "teamId": "odb-97238",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 7,
-     "w": 6,
-     "l": 0,
-     "t": 1,
-     "pts": 13,
-     "gf": 51,
-     "ga": 5,
-     "diff": 46,
-     "l10": "6-0-1",
-     "strk": "W3"
-    },
-    {
      "team": "Waterloo Wolves",
      "teamId": "odb-97240",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
@@ -84,16 +84,16 @@
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97243",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 6,
+     "gp": 7,
      "w": 4,
-     "l": 1,
+     "l": 2,
      "t": 1,
      "pts": 9,
      "gf": 40,
-     "ga": 12,
-     "diff": 28,
-     "l10": "4-1-1",
-     "strk": "W1"
+     "ga": 15,
+     "diff": 25,
+     "l10": "4-2-1",
+     "strk": "L1"
     },
     {
      "team": "Cambridge Hawks",
@@ -186,6 +186,21 @@
      "strk": "L1"
     },
     {
+     "team": "Burlington Raiders",
+     "teamId": "odb-97247",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
+     "gp": 9,
+     "w": 2,
+     "l": 6,
+     "t": 1,
+     "pts": 5,
+     "gf": 17,
+     "ga": 41,
+     "diff": -24,
+     "l10": "2-6-1",
+     "strk": "W2"
+    },
+    {
      "team": "West London Hawks",
      "teamId": "odb-97244",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
@@ -201,34 +216,19 @@
      "strk": "W1"
     },
     {
-     "team": "Burlington Raiders",
-     "teamId": "odb-97247",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 8,
-     "w": 1,
-     "l": 6,
-     "t": 1,
-     "pts": 3,
-     "gf": 12,
-     "ga": 39,
-     "diff": -27,
-     "l10": "1-6-1",
-     "strk": "W1"
-    },
-    {
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97245",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 10,
+     "gp": 11,
      "w": 0,
-     "l": 10,
+     "l": 11,
      "t": 0,
      "pts": 0,
-     "gf": 10,
-     "ga": 65,
-     "diff": -55,
+     "gf": 12,
+     "ga": 70,
+     "diff": -58,
      "l10": "0-10",
-     "strk": "L10"
+     "strk": "L11"
     },
     {
      "team": "Burlington Bulldogs White",

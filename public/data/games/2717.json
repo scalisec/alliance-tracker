@@ -713,14 +713,17 @@
   "start": "2026-11-01T14:00:00-05:00",
   "away": "Mt. Brydges Cougars",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Gretzky Center (#1)",
   "code": "U12S3",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-11-01/14:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3120472
+  }
  },
  {
   "id": 2375427,
@@ -728,14 +731,17 @@
   "start": "2026-11-01T14:45:00-05:00",
   "away": "Waterloo Wolves",
   "home": "Kitchener Jr Rangers Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Activa (Tom Graham)",
   "code": "U12S29",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4200/2026-11-01/14:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3120473
+  }
  },
  {
   "id": 2375436,

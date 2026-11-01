@@ -746,14 +746,17 @@
   "start": "2026-11-01T14:30:00-05:00",
   "away": "Brantford 99ers",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 4,
+  "status": "final",
   "venue": "AMC (West)",
   "code": "U10S3",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4627/2026-11-01/14:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3120518
+  }
  },
  {
   "id": 2376126,
