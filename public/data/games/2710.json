@@ -536,14 +536,17 @@
   "start": "2026-11-01T11:00:00-05:00",
   "away": "London Jr Knights",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 5,
+  "status": "final",
   "venue": "RIM Park (Pillers)",
   "code": "U10P18",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3118374
+  }
  },
  {
   "id": 2373928,

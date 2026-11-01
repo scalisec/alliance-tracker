@@ -674,14 +674,17 @@
   "start": "2026-11-01T11:00:00-05:00",
   "away": "Mt. Brydges Cougars",
   "home": "Kitchener Jr Rangers Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Sportsworld (Spectator)",
   "code": "U10S19",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4167/2026-11-01/11:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3118357
+  }
  },
  {
   "id": 2376178,
@@ -689,14 +692,17 @@
   "start": "2026-11-01T11:15:00-05:00",
   "away": "Stratford Warriors",
   "home": "St. Thomas Jr Stars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Joe Thornton CC (STMHA)",
   "code": "U10S78",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4355/2026-11-01/11:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3118358
+  }
  },
  {
   "id": 2376168,
