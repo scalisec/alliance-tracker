@@ -869,14 +869,17 @@
   "start": "2026-11-01T12:00:00-05:00",
   "away": "Sarnia Jr. Sting",
   "home": "London Bandits",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U13BR24",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3118303
+  }
  },
  {
   "id": 2378045,
