@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-11-01T21:37:26.338Z",
+ "updatedAt": "2026-11-01T22:09:34.988Z",
  "regular": [
   {
    "name": "",
@@ -54,16 +54,16 @@
      "team": "West London Hawks Gold",
      "teamId": "odb-97126",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 6,
-     "w": 4,
+     "gp": 7,
+     "w": 5,
      "l": 1,
      "t": 1,
-     "pts": 9,
-     "gf": 34,
-     "ga": 19,
-     "diff": 15,
-     "l10": "4-1-1",
-     "strk": "W3"
+     "pts": 11,
+     "gf": 38,
+     "ga": 20,
+     "diff": 18,
+     "l10": "5-1-1",
+     "strk": "W4"
     },
     {
      "team": "Waterloo Wolves Gold",
@@ -96,21 +96,6 @@
      "strk": "T1"
     },
     {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97128",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 5,
-     "w": 2,
-     "l": 1,
-     "t": 2,
-     "pts": 6,
-     "gf": 17,
-     "ga": 10,
-     "diff": 7,
-     "l10": "2-1-2",
-     "strk": "T2"
-    },
-    {
      "team": "West London Hawks Black",
      "teamId": "odb-97129",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
@@ -122,6 +107,21 @@
      "gf": 22,
      "ga": 17,
      "diff": 5,
+     "l10": "2-2-2",
+     "strk": "L1"
+    },
+    {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97128",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 6,
+     "w": 2,
+     "l": 2,
+     "t": 2,
+     "pts": 6,
+     "gf": 18,
+     "ga": 14,
+     "diff": 4,
      "l10": "2-2-2",
      "strk": "L1"
     },

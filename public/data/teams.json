@@ -1176,20 +1176,20 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
-  "id": "2721:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2721,
-  "division": "U13 BB",
-  "association": "Waterloo Minor Hockey",
-  "logo": "logos/1953df906ca9.png"
- },
- {
   "id": "2721:stratford-warriors",
   "name": "Stratford Warriors",
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Stratford Minor Hockey",
   "logo": "logos/51ff29ef905f.png"
+ },
+ {
+  "id": "2721:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2721,
+  "division": "U13 BB",
+  "association": "Waterloo Minor Hockey",
+  "logo": "logos/1953df906ca9.png"
  },
  {
   "id": "2721:burlington-raiders",
@@ -1216,6 +1216,14 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
+  "id": "2721:oakridge-aeros",
+  "name": "Oakridge Aeros",
+  "divisionId": 2721,
+  "division": "U13 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/ae847321ae88.png"
+ },
+ {
   "id": "2721:burlington-bulldogs-blue",
   "name": "Burlington Bulldogs Blue",
   "divisionId": 2721,
@@ -1230,14 +1238,6 @@
   "division": "U13 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/2237c5fc46ea.png"
- },
- {
-  "id": "2721:oakridge-aeros",
-  "name": "Oakridge Aeros",
-  "divisionId": 2721,
-  "division": "U13 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/ae847321ae88.png"
  },
  {
   "id": "2721:kitchener-jr-rangers",
@@ -2136,6 +2136,14 @@
   "logo": "logos/ae847321ae88.png"
  },
  {
+  "id": "2730:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Waterloo Minor Hockey",
+  "logo": "logos/1953df906ca9.png"
+ },
+ {
   "id": "2730:north-london-nationals",
   "name": "North London Nationals",
   "divisionId": 2730,
@@ -2150,14 +2158,6 @@
   "division": "U16 BB",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
- },
- {
-  "id": "2730:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Waterloo Minor Hockey",
-  "logo": "logos/1953df906ca9.png"
  },
  {
   "id": "2730:brantford-99ers",
@@ -2448,20 +2448,20 @@
   "logo": "logos/612db499a971.png"
  },
  {
-  "id": "2733:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
- },
- {
   "id": "2733:west-london-hawks-black",
   "name": "West London Hawks Black",
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/2237c5fc46ea.png"
+ },
+ {
+  "id": "2733:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2733:burlington-raiders",

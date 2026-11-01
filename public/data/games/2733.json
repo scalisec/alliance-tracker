@@ -914,14 +914,17 @@
   "start": "2026-11-01T15:00:00-05:00",
   "away": "West London Hawks Gold",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Civic Centre (Civic Centre)",
   "code": "U18BR85",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3120116
+  }
  },
  {
   "id": 2379125,
