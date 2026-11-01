@@ -710,14 +710,17 @@
   "start": "2026-11-01T12:00:00-05:00",
   "away": "Cambridge Hawks",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 15,
+  "status": "final",
   "venue": "Clearwater (Blue)",
   "code": "U10S30",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3118359
+  }
  },
  {
   "id": 2376149,

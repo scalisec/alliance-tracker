@@ -1,6 +1,6 @@
 {
  "divisionId": 2721,
- "updatedAt": "2026-11-01T18:07:42.029Z",
+ "updatedAt": "2026-11-01T18:38:18.312Z",
  "regular": [
   {
    "name": "",
@@ -84,16 +84,16 @@
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97230",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 8,
+     "gp": 9,
      "w": 4,
-     "l": 3,
+     "l": 4,
      "t": 1,
      "pts": 9,
      "gf": 27,
-     "ga": 27,
-     "diff": 0,
-     "l10": "4-3-1",
-     "strk": "L1"
+     "ga": 29,
+     "diff": -2,
+     "l10": "4-4-1",
+     "strk": "L2"
     },
     {
      "team": "West London Hawks",
@@ -129,16 +129,16 @@
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97222",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 7,
-     "w": 3,
+     "gp": 8,
+     "w": 4,
      "l": 4,
      "t": 0,
-     "pts": 6,
-     "gf": 16,
+     "pts": 8,
+     "gf": 18,
      "ga": 15,
-     "diff": 1,
-     "l10": "3-4",
-     "strk": "L2"
+     "diff": 3,
+     "l10": "4-4",
+     "strk": "W1"
     },
     {
      "team": "Cambridge Hawks",

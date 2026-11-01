@@ -887,14 +887,17 @@
   "start": "2026-11-01T12:15:00-05:00",
   "away": "Burlington Bulldogs Blue",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Sportsworld (Prac)",
   "code": "U13BR54",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4168/2026-11-01/12:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3118304
+  }
  },
  {
   "id": 2378042,

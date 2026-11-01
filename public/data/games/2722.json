@@ -869,14 +869,17 @@
   "start": "2026-11-01T12:00:00-05:00",
   "away": "Huron-Perth Lakers",
   "home": "Chatham-Kent Cyclones",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Blenheim (Blenheim)",
   "code": "U14P101",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4518/2026-11-01/12:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3118340
+  }
  },
  {
   "id": 2381544,
