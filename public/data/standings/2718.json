@@ -1,10 +1,25 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-11-01T22:57:17.789Z",
+ "updatedAt": "2026-11-01T23:46:21.147Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-97210",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 8,
+     "w": 8,
+     "l": 0,
+     "t": 0,
+     "pts": 16,
+     "gf": 54,
+     "ga": 13,
+     "diff": 41,
+     "l10": "8-0",
+     "strk": "W8"
+    },
     {
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-98138",
@@ -34,21 +49,6 @@
      "diff": 21,
      "l10": "7-1-2",
      "strk": "W1"
-    },
-    {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-97210",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 7,
-     "w": 7,
-     "l": 0,
-     "t": 0,
-     "pts": 14,
-     "gf": 43,
-     "ga": 11,
-     "diff": 32,
-     "l10": "7-0",
-     "strk": "W7"
     },
     {
      "team": "Sarnia Jr. Sting",
@@ -156,6 +156,21 @@
      "strk": "L1"
     },
     {
+     "team": "Burlington Bulldogs Blue",
+     "teamId": "odb-97218",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 9,
+     "w": 2,
+     "l": 6,
+     "t": 1,
+     "pts": 5,
+     "gf": 34,
+     "ga": 39,
+     "diff": -5,
+     "l10": "2-6-1",
+     "strk": "W1"
+    },
+    {
      "team": "West London Hawks",
      "teamId": "odb-97215",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
@@ -189,46 +204,31 @@
      "team": "London Bandits",
      "teamId": "odb-97211",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 9,
+     "gp": 10,
      "w": 2,
-     "l": 7,
+     "l": 8,
      "t": 0,
      "pts": 4,
-     "gf": 25,
-     "ga": 43,
-     "diff": -18,
-     "l10": "2-7",
-     "strk": "L4"
-    },
-    {
-     "team": "Burlington Bulldogs Blue",
-     "teamId": "odb-97218",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 8,
-     "w": 1,
-     "l": 6,
-     "t": 1,
-     "pts": 3,
-     "gf": 29,
-     "ga": 38,
-     "diff": -9,
-     "l10": "1-6-1",
-     "strk": "L1"
+     "gf": 27,
+     "ga": 54,
+     "diff": -27,
+     "l10": "2-8",
+     "strk": "L5"
     },
     {
      "team": "Cambridge Hawks",
      "teamId": "odb-97219",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 7,
+     "gp": 8,
      "w": 1,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 2,
-     "gf": 10,
-     "ga": 33,
-     "diff": -23,
-     "l10": "1-6",
-     "strk": "L2"
+     "gf": 11,
+     "ga": 38,
+     "diff": -27,
+     "l10": "1-7",
+     "strk": "L3"
     },
     {
      "team": "Stratford Warriors",
