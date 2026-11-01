@@ -144,20 +144,20 @@
   "logo": "logos/08d490425be3.png"
  },
  {
-  "id": "2711:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2711,
-  "division": "U10 AA-A",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
- },
- {
   "id": "2711:kitchener-jr-rangers-red",
   "name": "Kitchener Jr Rangers Red",
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
+ },
+ {
+  "id": "2711:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2711,
+  "division": "U10 AA-A",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2711:cambridge-hawks",
@@ -464,14 +464,6 @@
   "logo": "logos/08d490425be3.png"
  },
  {
-  "id": "2714:mt-brydges-cougars",
-  "name": "Mt. Brydges Cougars",
-  "divisionId": 2714,
-  "division": "U11 AA-A",
-  "association": null,
-  "logo": "logos/0f4ddfdee820.png"
- },
- {
   "id": "2714:kitchener-jr-rangers-red",
   "name": "Kitchener Jr Rangers Red",
   "divisionId": 2714,
@@ -480,12 +472,12 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
-  "id": "2714:london-jr-knights-white",
-  "name": "London Jr Knights White",
+  "id": "2714:mt-brydges-cougars",
+  "name": "Mt. Brydges Cougars",
   "divisionId": 2714,
   "division": "U11 AA-A",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
+  "association": null,
+  "logo": "logos/0f4ddfdee820.png"
  },
  {
   "id": "2714:waterloo-wolves",
@@ -494,6 +486,14 @@
   "division": "U11 AA-A",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
+ },
+ {
+  "id": "2714:london-jr-knights-white",
+  "name": "London Jr Knights White",
+  "divisionId": 2714,
+  "division": "U11 AA-A",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2714:brantford-99ers",
@@ -1496,6 +1496,14 @@
   "logo": "logos/51ff29ef905f.png"
  },
  {
+  "id": "2724:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2724,
+  "division": "U14 BB",
+  "association": null,
+  "logo": "logos/612db499a971.png"
+ },
+ {
   "id": "2724:london-bandits",
   "name": "London Bandits",
   "divisionId": 2724,
@@ -1510,14 +1518,6 @@
   "division": "U14 BB",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
- },
- {
-  "id": "2724:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2724,
-  "division": "U14 BB",
-  "association": null,
-  "logo": "logos/612db499a971.png"
  },
  {
   "id": "2724:waterloo-wolves",

@@ -647,14 +647,17 @@
   "start": "2026-11-01T13:15:00-05:00",
   "away": "Waterloo Wolves",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Clearwater (Blue)",
   "code": "U11S49",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3120076
+  }
  },
  {
   "id": 2375339,

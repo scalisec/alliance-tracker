@@ -1,6 +1,6 @@
 {
  "divisionId": 2711,
- "updatedAt": "2026-11-01T18:36:18.413Z",
+ "updatedAt": "2026-11-01T19:56:55.277Z",
  "regular": [
   {
    "name": "",
@@ -69,16 +69,16 @@
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-97035",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 6,
+     "gp": 7,
      "w": 4,
-     "l": 1,
+     "l": 2,
      "t": 1,
      "pts": 9,
-     "gf": 27,
-     "ga": 16,
-     "diff": 11,
-     "l10": "4-1-1",
-     "strk": "T1"
+     "gf": 28,
+     "ga": 23,
+     "diff": 5,
+     "l10": "4-2-1",
+     "strk": "L1"
     },
     {
      "team": "Waterloo Wolves",
@@ -111,6 +111,21 @@
      "strk": "L2"
     },
     {
+     "team": "Kitchener Jr Rangers Red",
+     "teamId": "odb-97029",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 6,
+     "w": 3,
+     "l": 3,
+     "t": 0,
+     "pts": 6,
+     "gf": 27,
+     "ga": 25,
+     "diff": 2,
+     "l10": "3-3",
+     "strk": "W1"
+    },
+    {
      "team": "Brantford 99ers",
      "teamId": "odb-97026",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
@@ -124,21 +139,6 @@
      "diff": -10,
      "l10": "2-3-1",
      "strk": "T1"
-    },
-    {
-     "team": "Kitchener Jr Rangers Red",
-     "teamId": "odb-97029",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 5,
-     "w": 2,
-     "l": 3,
-     "t": 0,
-     "pts": 4,
-     "gf": 20,
-     "ga": 24,
-     "diff": -4,
-     "l10": "2-3",
-     "strk": "L2"
     },
     {
      "team": "Cambridge Hawks",
