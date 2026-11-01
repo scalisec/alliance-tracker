@@ -1,6 +1,6 @@
 {
  "divisionId": 2719,
- "updatedAt": "2026-11-01T00:09:58.326Z",
+ "updatedAt": "2026-11-01T19:08:20.267Z",
  "regular": [
   {
    "name": "",
@@ -96,6 +96,21 @@
      "strk": "W1"
     },
     {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-96978",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 7,
+     "w": 3,
+     "l": 3,
+     "t": 1,
+     "pts": 7,
+     "gf": 13,
+     "ga": 30,
+     "diff": -17,
+     "l10": "3-3-1",
+     "strk": "W1"
+    },
+    {
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-96979",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
@@ -109,21 +124,6 @@
      "diff": 7,
      "l10": "3-2",
      "strk": "W3"
-    },
-    {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-96978",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 6,
-     "w": 2,
-     "l": 3,
-     "t": 1,
-     "pts": 5,
-     "gf": 10,
-     "ga": 28,
-     "diff": -18,
-     "l10": "2-3-1",
-     "strk": "L1"
     },
     {
      "team": "Sault Major Jr Greyhounds",
@@ -174,16 +174,16 @@
      "team": "Elgin-Middlesex Canucks",
      "teamId": "odb-96972",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 7,
+     "gp": 8,
      "w": 0,
-     "l": 6,
+     "l": 7,
      "t": 1,
      "pts": 1,
-     "gf": 11,
-     "ga": 34,
-     "diff": -23,
-     "l10": "0-6-1",
-     "strk": "L3"
+     "gf": 13,
+     "ga": 37,
+     "diff": -24,
+     "l10": "0-7-1",
+     "strk": "L4"
     }
    ]
   }
