@@ -665,14 +665,17 @@
   "start": "2026-11-01T15:15:00-05:00",
   "away": "London Jr Knights Green",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 9,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Gretzky Center (#1)",
   "code": "U11S58",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-11-01/15:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3120077
+  }
  },
  {
   "id": 2375392,
@@ -698,14 +701,17 @@
   "start": "2026-11-01T16:45:00-05:00",
   "away": "Mt. Brydges Cougars",
   "home": "London Jr Knights White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Western Fair (Chik-fil-a)",
   "code": "U11S13",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4445/2026-11-01/16:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3120079
+  }
  },
  {
   "id": 2375338,

@@ -464,20 +464,20 @@
   "logo": "logos/08d490425be3.png"
  },
  {
-  "id": "2714:kitchener-jr-rangers-red",
-  "name": "Kitchener Jr Rangers Red",
-  "divisionId": 2714,
-  "division": "U11 AA-A",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
- },
- {
   "id": "2714:mt-brydges-cougars",
   "name": "Mt. Brydges Cougars",
   "divisionId": 2714,
   "division": "U11 AA-A",
   "association": null,
   "logo": "logos/0f4ddfdee820.png"
+ },
+ {
+  "id": "2714:kitchener-jr-rangers-red",
+  "name": "Kitchener Jr Rangers Red",
+  "divisionId": 2714,
+  "division": "U11 AA-A",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2714:waterloo-wolves",
@@ -904,20 +904,20 @@
   "logo": "logos/49dba036a6a8.png"
  },
  {
-  "id": "2718:north-london-nationals",
-  "name": "North London Nationals",
-  "divisionId": 2718,
-  "division": "U12 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/41275c8a7241.png"
- },
- {
   "id": "2718:oakridge-aeros",
   "name": "Oakridge Aeros",
   "divisionId": 2718,
   "division": "U12 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/ae847321ae88.png"
+ },
+ {
+  "id": "2718:north-london-nationals",
+  "name": "North London Nationals",
+  "divisionId": 2718,
+  "division": "U12 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/41275c8a7241.png"
  },
  {
   "id": "2718:brantford-99ers",
@@ -1088,6 +1088,14 @@
   "logo": "logos/51ff29ef905f.png"
  },
  {
+  "id": "2720:kitchener-jr-rangers-red",
+  "name": "Kitchener Jr Rangers Red",
+  "divisionId": 2720,
+  "division": "U13 AA-A",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
+ },
+ {
   "id": "2720:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2720,
@@ -1102,14 +1110,6 @@
   "division": "U13 AA-A",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
- },
- {
-  "id": "2720:kitchener-jr-rangers-red",
-  "name": "Kitchener Jr Rangers Red",
-  "divisionId": 2720,
-  "division": "U13 AA-A",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2720:st-thomas-jr-stars",
