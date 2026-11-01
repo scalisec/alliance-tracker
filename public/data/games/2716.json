@@ -578,14 +578,17 @@
   "start": "2026-11-01T14:00:00-05:00",
   "away": "Sarnia-Lambton Jr Sting",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Sportsworld (Spectator)",
   "code": "U12P129",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4167/2026-11-01/14:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3120303
+  }
  },
  {
   "id": 2374245,
@@ -593,14 +596,17 @@
   "start": "2026-11-01T14:15:00-05:00",
   "away": "Windsor Jr Spitfires",
   "home": "Elgin-Middlesex Canucks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 8,
+  "status": "final",
   "venue": "Komoka CW&RC (1 - Molson)",
   "code": "U12P135",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-11-01/14:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3120304
+  }
  },
  {
   "id": 2374346,

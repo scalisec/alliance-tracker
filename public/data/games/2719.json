@@ -716,14 +716,17 @@
   "start": "2026-11-01T12:00:00-05:00",
   "away": "Sarnia-Lambton Jr Sting",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Galt Arena (Galt Arena)",
   "code": "U13P68",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2608/2026-11-01/12:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3118239
+  }
  },
  {
   "id": 2374600,

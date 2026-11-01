@@ -1,6 +1,6 @@
 {
  "divisionId": 2719,
- "updatedAt": "2026-11-01T19:08:20.267Z",
+ "updatedAt": "2026-11-01T20:38:46.339Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-96975",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 6,
+     "gp": 7,
      "w": 4,
      "l": 0,
-     "t": 2,
-     "pts": 10,
-     "gf": 20,
-     "ga": 9,
+     "t": 3,
+     "pts": 11,
+     "gf": 21,
+     "ga": 10,
      "diff": 11,
-     "l10": "4-0-2",
-     "strk": "W2"
+     "l10": "4-0-3",
+     "strk": "T1"
     },
     {
      "team": "Brantford 99ers",
@@ -144,16 +144,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-96970",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 6,
+     "gp": 7,
      "w": 1,
      "l": 4,
-     "t": 1,
-     "pts": 3,
-     "gf": 9,
-     "ga": 15,
+     "t": 2,
+     "pts": 4,
+     "gf": 10,
+     "ga": 16,
      "diff": -6,
-     "l10": "1-4-1",
-     "strk": "L2"
+     "l10": "1-4-2",
+     "strk": "T1"
     },
     {
      "team": "Chatham-Kent Cyclones",

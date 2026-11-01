@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-10-31T22:14:54.035Z",
+ "updatedAt": "2026-11-01T20:40:26.666Z",
  "regular": [
   {
    "name": "",
@@ -204,16 +204,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-98278",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 8,
+     "gp": 9,
      "w": 1,
-     "l": 6,
+     "l": 7,
      "t": 1,
      "pts": 3,
      "gf": 19,
-     "ga": 45,
-     "diff": -26,
-     "l10": "1-6-1",
-     "strk": "L4"
+     "ga": 49,
+     "diff": -30,
+     "l10": "1-7-1",
+     "strk": "L5"
     },
     {
      "team": "Lambeth Lancers",
@@ -234,16 +234,16 @@
      "team": "North London Nationals",
      "teamId": "odb-98277",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 6,
-     "w": 0,
+     "gp": 7,
+     "w": 1,
      "l": 6,
      "t": 0,
-     "pts": 0,
-     "gf": 5,
+     "pts": 2,
+     "gf": 9,
      "ga": 26,
-     "diff": -21,
-     "l10": "0-6",
-     "strk": "L6"
+     "diff": -17,
+     "l10": "1-6",
+     "strk": "W1"
     }
    ]
   }

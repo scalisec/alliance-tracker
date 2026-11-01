@@ -809,14 +809,17 @@
   "start": "2026-11-01T14:00:00-05:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "London Bandits",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U15BR26",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3120095
+  }
  },
  {
   "id": 2378852,
