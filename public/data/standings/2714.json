@@ -1,6 +1,6 @@
 {
  "divisionId": 2714,
- "updatedAt": "2026-11-01T19:57:55.189Z",
+ "updatedAt": "2026-11-01T22:25:29.469Z",
  "regular": [
   {
    "name": "",
@@ -126,6 +126,21 @@
      "strk": "L2"
     },
     {
+     "team": "Woodstock Jr Navy Vets",
+     "teamId": "odb-97048",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+     "gp": 6,
+     "w": 2,
+     "l": 4,
+     "t": 0,
+     "pts": 4,
+     "gf": 20,
+     "ga": 29,
+     "diff": -9,
+     "l10": "2-4",
+     "strk": "W1"
+    },
+    {
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97045",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
@@ -139,21 +154,6 @@
      "diff": -29,
      "l10": "1-6-1",
      "strk": "L3"
-    },
-    {
-     "team": "Woodstock Jr Navy Vets",
-     "teamId": "odb-97048",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 5,
-     "w": 1,
-     "l": 4,
-     "t": 0,
-     "pts": 2,
-     "gf": 12,
-     "ga": 25,
-     "diff": -13,
-     "l10": "1-4",
-     "strk": "L2"
     },
     {
      "team": "Kitchener Jr Rangers Blue",
@@ -174,16 +174,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-97046",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 5,
+     "gp": 6,
      "w": 0,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 0,
-     "gf": 8,
-     "ga": 30,
-     "diff": -22,
-     "l10": "0-5",
-     "strk": "L5"
+     "gf": 12,
+     "ga": 38,
+     "diff": -26,
+     "l10": "0-6",
+     "strk": "L6"
     }
    ]
   }
