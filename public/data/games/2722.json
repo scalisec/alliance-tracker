@@ -905,14 +905,17 @@
   "start": "2026-11-01T18:15:00-05:00",
   "away": "Cambridge Hawks",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Western Fair (Chik-fil-a)",
   "code": "U14P52",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4445/2026-11-01/18:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3121253
+  }
  },
  {
   "id": 2374822,
