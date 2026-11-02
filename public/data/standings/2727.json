@@ -1,10 +1,25 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-11-02T01:30:28.644Z",
+ "updatedAt": "2026-11-02T02:50:18.644Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "West London Hawks",
+     "teamId": "odb-97257",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
+     "gp": 8,
+     "w": 7,
+     "l": 1,
+     "t": 0,
+     "pts": 14,
+     "gf": 36,
+     "ga": 16,
+     "diff": 20,
+     "l10": "7-1",
+     "strk": "W5"
+    },
     {
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97262",
@@ -34,21 +49,6 @@
      "diff": 21,
      "l10": "6-2-1",
      "strk": "L1"
-    },
-    {
-     "team": "West London Hawks",
-     "teamId": "odb-97257",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 7,
-     "w": 6,
-     "l": 1,
-     "t": 0,
-     "pts": 12,
-     "gf": 31,
-     "ga": 15,
-     "diff": 16,
-     "l10": "6-1",
-     "strk": "W4"
     },
     {
      "team": "Sarnia Jr. Sting",
@@ -114,16 +114,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-97250",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 5,
+     "gp": 6,
      "w": 3,
-     "l": 1,
+     "l": 2,
      "t": 1,
      "pts": 7,
-     "gf": 19,
-     "ga": 9,
-     "diff": 10,
-     "l10": "3-1-1",
-     "strk": "W2"
+     "gf": 20,
+     "ga": 14,
+     "diff": 6,
+     "l10": "3-2-1",
+     "strk": "L1"
     },
     {
      "team": "Kitchener Jr Rangers",
