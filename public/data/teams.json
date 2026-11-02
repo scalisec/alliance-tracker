@@ -2048,20 +2048,20 @@
   "logo": "logos/51ff29ef905f.png"
  },
  {
-  "id": "2729:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2729,
-  "division": "U16 AA-A",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
- },
- {
   "id": "2729:london-jr-knights-green",
   "name": "London Jr Knights Green",
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
+ },
+ {
+  "id": "2729:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2729,
+  "division": "U16 AA-A",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2729:cambridge-hawks",
