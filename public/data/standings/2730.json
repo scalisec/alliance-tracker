@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-11-01T23:40:10.304Z",
+ "updatedAt": "2026-11-02T00:47:45.035Z",
  "regular": [
   {
    "name": "",
@@ -19,6 +19,21 @@
      "diff": 25,
      "l10": "7-0-1",
      "strk": "W6"
+    },
+    {
+     "team": "North London Nationals",
+     "teamId": "odb-97273",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
+     "gp": 8,
+     "w": 5,
+     "l": 0,
+     "t": 3,
+     "pts": 13,
+     "gf": 40,
+     "ga": 15,
+     "diff": 25,
+     "l10": "5-0-3",
+     "strk": "T1"
     },
     {
      "team": "Kitchener Jr Rangers Red",
@@ -64,21 +79,6 @@
      "diff": 14,
      "l10": "6-2",
      "strk": "W3"
-    },
-    {
-     "team": "North London Nationals",
-     "teamId": "odb-97273",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 7,
-     "w": 5,
-     "l": 0,
-     "t": 2,
-     "pts": 12,
-     "gf": 36,
-     "ga": 11,
-     "diff": 25,
-     "l10": "5-0-2",
-     "strk": "W1"
     },
     {
      "team": "Brantford 99ers",
@@ -156,6 +156,21 @@
      "strk": "L1"
     },
     {
+     "team": "Burlington Bulldogs White",
+     "teamId": "odb-97269",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 10,
+     "w": 1,
+     "l": 5,
+     "t": 4,
+     "pts": 6,
+     "gf": 25,
+     "ga": 33,
+     "diff": -8,
+     "l10": "1-5-4",
+     "strk": "T1"
+    },
+    {
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-98142",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
@@ -169,21 +184,6 @@
      "diff": -8,
      "l10": "2-3-2",
      "strk": "W1"
-    },
-    {
-     "team": "Burlington Bulldogs White",
-     "teamId": "odb-97269",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 9,
-     "w": 1,
-     "l": 5,
-     "t": 3,
-     "pts": 5,
-     "gf": 21,
-     "ga": 29,
-     "diff": -8,
-     "l10": "1-5-3",
-     "strk": "L1"
     },
     {
      "team": "Lambeth Lancers",

@@ -2128,6 +2128,14 @@
   "logo": "logos/704c833c6aca.png"
  },
  {
+  "id": "2730:north-london-nationals",
+  "name": "North London Nationals",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/41275c8a7241.png"
+ },
+ {
   "id": "2730:kitchener-jr-rangers-red",
   "name": "Kitchener Jr Rangers Red",
   "divisionId": 2730,
@@ -2150,14 +2158,6 @@
   "division": "U16 BB",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
- },
- {
-  "id": "2730:north-london-nationals",
-  "name": "North London Nationals",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/41275c8a7241.png"
  },
  {
   "id": "2730:brantford-99ers",
@@ -2200,20 +2200,20 @@
   "logo": "logos/49dba036a6a8.png"
  },
  {
-  "id": "2730:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Woodstock Minor Hockey",
-  "logo": "logos/6c3aa7a1db2c.png"
- },
- {
   "id": "2730:burlington-bulldogs-white",
   "name": "Burlington Bulldogs White",
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "logos/49dba036a6a8.png"
+ },
+ {
+  "id": "2730:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Woodstock Minor Hockey",
+  "logo": "logos/6c3aa7a1db2c.png"
  },
  {
   "id": "2730:lambeth-lancers",
