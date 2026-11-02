@@ -1912,20 +1912,20 @@
   "logo": "logos/49dba036a6a8.png"
  },
  {
-  "id": "2727:lambeth-lancers",
-  "name": "Lambeth Lancers",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/97ff93a72d6e.png"
- },
- {
   "id": "2727:cambridge-hawks",
   "name": "Cambridge Hawks",
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Cambridge Minor Hockey",
   "logo": "logos/e0787358df89.png"
+ },
+ {
+  "id": "2727:lambeth-lancers",
+  "name": "Lambeth Lancers",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/97ff93a72d6e.png"
  },
  {
   "id": "2728:waterloo-wolves",
