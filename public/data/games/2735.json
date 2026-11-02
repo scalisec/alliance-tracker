@@ -265,7 +265,7 @@
   "status": "scheduled",
   "venue": "Activa (Tom Graham)",
   "code": "U8EC93",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4200/2026-11-01/11:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -280,7 +280,7 @@
   "status": "scheduled",
   "venue": "Activa (Tom Graham)",
   "code": "U8EC21",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4200/2026-11-01/12:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -308,9 +308,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Aldershot",
+  "venue": "Aldershot (Aldershot)",
   "code": "U8EC11",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4568/2026-11-01/15:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -323,9 +323,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Oakridge",
+  "venue": "Oakridge (Oakridge)",
   "code": "U8MDW132",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5029/2026-11-04/19:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -340,7 +340,7 @@
   "status": "scheduled",
   "venue": "Bostwick (B)",
   "code": "U8MDW110",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5026/2026-11-07/11:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -355,7 +355,7 @@
   "status": "scheduled",
   "venue": "Reeves CC (Green)",
   "code": "U8EC29",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4268/2026-11-07/12:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -400,7 +400,7 @@
   "status": "scheduled",
   "venue": "Gretzky Center (#3)",
   "code": "U8EC66",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4551/2026-11-07/15:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -413,9 +413,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Aldershot",
+  "venue": "Aldershot (Aldershot)",
   "code": "U8EC41",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4568/2026-11-08/14:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -430,22 +430,7 @@
   "status": "scheduled",
   "venue": "Carling (B)",
   "code": "U8MDW148",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
-  "id": 2411391,
-  "divisionId": 2735,
-  "start": "2026-11-14T11:00:00-05:00",
-  "away": "Burlington Bulldogs Blue",
-  "home": "Kitchener Jr Rangers Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Sportsworld (Spectator)",
-  "code": "U8EC70",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5028/2026-11-08/16:45",
   "type": "regular",
   "gamesheet": null
  },
@@ -458,9 +443,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Oakridge",
+  "venue": "Oakridge (Oakridge)",
   "code": "U8MDW103",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5029/2026-11-14/12:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -490,7 +475,7 @@
   "status": "scheduled",
   "venue": "Bostwick (B)",
   "code": "U8MDW100",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5026/2026-11-14/12:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -505,7 +490,7 @@
   "status": "scheduled",
   "venue": "Gretzky Center (#3)",
   "code": "U8EC100",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4551/2026-11-14/13:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -535,7 +520,7 @@
   "status": "scheduled",
   "venue": "Activa (Tom Graham)",
   "code": "U8EC13",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4200/2026-11-15/11:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -550,7 +535,7 @@
   "status": "scheduled",
   "venue": "Activa (Tom Graham)",
   "code": "U8EC39",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4200/2026-11-15/12:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -563,9 +548,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Aldershot",
+  "venue": "Aldershot (Aldershot)",
   "code": "U8EC74",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4568/2026-11-15/14:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -593,9 +578,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Aldershot",
+  "venue": "Aldershot (Aldershot)",
   "code": "U8EC81",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4568/2026-11-22/15:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -610,7 +595,7 @@
   "status": "scheduled",
   "venue": "Mr Lube + Tires (Red)",
   "code": "U8EC68",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/241/2026-11-22/16:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -625,7 +610,7 @@
   "status": "scheduled",
   "venue": "Mr Lube + Tires (Red)",
   "code": "U8EC79",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/241/2026-11-22/17:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -640,7 +625,7 @@
   "status": "scheduled",
   "venue": "AMC (West)",
   "code": "U8EC75",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4627/2026-11-28/11:30",
   "type": "regular",
   "gamesheet": null
  },
@@ -670,7 +655,7 @@
   "status": "scheduled",
   "venue": "Carling (A)",
   "code": "U8MDW144",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5027/2026-11-28/12:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -685,7 +670,7 @@
   "status": "scheduled",
   "venue": "Mr Lube + Tires (Black)",
   "code": "U8EC54",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/242/2026-11-28/14:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -715,7 +700,7 @@
   "status": "scheduled",
   "venue": "Mr Lube + Tires (Red)",
   "code": "U8EC38",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/241/2026-11-29/11:15",
   "type": "regular",
   "gamesheet": null
  },
@@ -728,9 +713,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Aldershot",
+  "venue": "Aldershot (Aldershot)",
   "code": "U8EC80",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4568/2026-11-29/14:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -743,9 +728,9 @@
   "awayScore": null,
   "homeScore": null,
   "status": "scheduled",
-  "venue": "Oakridge",
+  "venue": "Oakridge (Oakridge)",
   "code": "U8MDW130",
-  "liveBarn": null,
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5029/2026-11-29/16:00",
   "type": "regular",
   "gamesheet": null
  },
@@ -925,6 +910,21 @@
   "status": "scheduled",
   "venue": "Rotary Complex (Rink B)",
   "code": "U8MDW112",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
+  "id": 2411391,
+  "divisionId": 2735,
+  "start": "2026-12-12T13:15:00-05:00",
+  "away": "Burlington Bulldogs Blue",
+  "home": "Kitchener Jr Rangers Blue",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Activa (Tom Graham)",
+  "code": "U8EC70",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null
@@ -1157,7 +1157,7 @@
  {
   "id": 2411510,
   "divisionId": 2735,
-  "start": "2026-12-20T15:30:00-05:00",
+  "start": "2026-12-20T16:30:00-05:00",
   "away": "Stratford Warriors",
   "home": "West London Hawks",
   "awayScore": null,
@@ -1860,6 +1860,21 @@
   "gamesheet": null
  },
  {
+  "id": 2411462,
+  "divisionId": 2735,
+  "start": "2027-02-07T13:00:00-05:00",
+  "away": "Oakridge Aeros",
+  "home": "London Bandits",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Nichols (A)",
+  "code": "U8MDW96",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
   "id": 2411354,
   "divisionId": 2735,
   "start": "2027-02-07T14:00:00-05:00",
@@ -1870,21 +1885,6 @@
   "status": "scheduled",
   "venue": "Aldershot",
   "code": "U8EC22",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
-  "id": 2411462,
-  "divisionId": 2735,
-  "start": "2027-02-07T14:00:00-05:00",
-  "away": "Oakridge Aeros",
-  "home": "London Bandits",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Nichols (A)",
-  "code": "U8MDW96",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null
@@ -1967,7 +1967,7 @@
  {
   "id": 2411506,
   "divisionId": 2735,
-  "start": "2027-02-20T10:30:00-05:00",
+  "start": "2027-02-20T11:30:00-05:00",
   "away": "London Bandits",
   "home": "West London Hawks",
   "awayScore": null,
@@ -1997,7 +1997,7 @@
  {
   "id": 2411472,
   "divisionId": 2735,
-  "start": "2027-02-20T12:00:00-05:00",
+  "start": "2027-02-20T13:00:00-05:00",
   "away": "Oakridge Aeros",
   "home": "North London Nationals",
   "awayScore": null,
