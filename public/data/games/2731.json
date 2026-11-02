@@ -704,14 +704,17 @@
   "start": "2026-11-01T19:30:00-05:00",
   "away": "Brantford 99ers",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Western Fair (Major Appliances)",
   "code": "U18P131",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4442/2026-11-01/19:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3121161
+  }
  },
  {
   "id": 2373336,

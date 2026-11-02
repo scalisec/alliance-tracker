@@ -1,6 +1,6 @@
 {
  "divisionId": 2731,
- "updatedAt": "2026-11-02T00:10:18.380Z",
+ "updatedAt": "2026-11-02T03:10:51.384Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "London Jr Knights",
      "teamId": "odb-97023",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 11,
-     "w": 6,
+     "gp": 12,
+     "w": 7,
      "l": 4,
      "t": 0,
-     "pts": 13,
-     "gf": 32,
-     "ga": 31,
-     "diff": 1,
+     "pts": 15,
+     "gf": 37,
+     "ga": 35,
+     "diff": 2,
      "l10": "6-3-1",
-     "strk": "W1"
+     "strk": "W2"
     },
     {
      "team": "Elgin-Middlesex Canucks",
@@ -99,16 +99,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-97018",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 8,
+     "gp": 9,
      "w": 3,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 6,
-     "gf": 29,
-     "ga": 43,
-     "diff": -14,
-     "l10": "3-5-0",
-     "strk": "L3"
+     "gf": 33,
+     "ga": 48,
+     "diff": -15,
+     "l10": "3-6-0",
+     "strk": "L4"
     },
     {
      "team": "Huron-Perth Lakers",
