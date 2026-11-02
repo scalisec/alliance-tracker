@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-11-02T00:47:45.035Z",
+ "updatedAt": "2026-11-02T18:26:44.854Z",
  "regular": [
   {
    "name": "",
@@ -81,6 +81,21 @@
      "strk": "W3"
     },
     {
+     "team": "St. Thomas Jr Stars",
+     "teamId": "odb-97280",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "gp": 9,
+     "w": 5,
+     "l": 4,
+     "t": 0,
+     "pts": 10,
+     "gf": 30,
+     "ga": 19,
+     "diff": 11,
+     "l10": "5-4",
+     "strk": "W1"
+    },
+    {
      "team": "Brantford 99ers",
      "teamId": "odb-97268",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
@@ -96,36 +111,6 @@
      "strk": "L1"
     },
     {
-     "team": "St. Thomas Jr Stars",
-     "teamId": "odb-97280",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 8,
-     "w": 4,
-     "l": 4,
-     "t": 0,
-     "pts": 8,
-     "gf": 29,
-     "ga": 19,
-     "diff": 10,
-     "l10": "4-4",
-     "strk": "L2"
-    },
-    {
-     "team": "Cambridge Hawks",
-     "teamId": "odb-97270",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 7,
-     "w": 3,
-     "l": 2,
-     "t": 2,
-     "pts": 8,
-     "gf": 18,
-     "ga": 16,
-     "diff": 2,
-     "l10": "3-2-2",
-     "strk": "W1"
-    },
-    {
      "team": "Kitchener Jr Rangers Blue",
      "teamId": "odb-97271",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -139,6 +124,21 @@
      "diff": -6,
      "l10": "4-3",
      "strk": "W1"
+    },
+    {
+     "team": "Cambridge Hawks",
+     "teamId": "odb-97270",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "gp": 8,
+     "w": 3,
+     "l": 3,
+     "t": 2,
+     "pts": 8,
+     "gf": 18,
+     "ga": 17,
+     "diff": 1,
+     "l10": "3-3-2",
+     "strk": "L1"
     },
     {
      "team": "Burlington Bulldogs Gold",

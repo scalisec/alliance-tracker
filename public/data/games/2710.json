@@ -633,6 +633,21 @@
   "gamesheet": null
  },
  {
+  "id": 2374026,
+  "divisionId": 2710,
+  "start": "2026-11-07T12:00:00-05:00",
+  "away": "Cambridge Hawks",
+  "home": "Chatham-Kent Cyclones",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Ridgetown (Ridgetown)",
+  "code": "U10P78",
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-11-07/13:30",
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
   "id": 2373993,
   "divisionId": 2710,
   "start": "2026-11-07T13:00:00-05:00",
@@ -644,21 +659,6 @@
   "venue": "Nichols (A)",
   "code": "U10P72",
   "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
-  "id": 2374026,
-  "divisionId": 2710,
-  "start": "2026-11-07T13:30:00-05:00",
-  "away": "Cambridge Hawks",
-  "home": "Chatham-Kent Cyclones",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Ridgetown (Ridgetown)",
-  "code": "U10P78",
-  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-11-07/13:30",
   "type": "regular",
   "gamesheet": null
  },

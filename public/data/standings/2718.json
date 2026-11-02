@@ -1,10 +1,25 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-11-01T23:46:21.147Z",
+ "updatedAt": "2026-11-02T18:21:34.738Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Woodstock Jr Navy Vets",
+     "teamId": "odb-98138",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+     "gp": 10,
+     "w": 8,
+     "l": 0,
+     "t": 2,
+     "pts": 18,
+     "gf": 49,
+     "ga": 19,
+     "diff": 30,
+     "l10": "8-0-2",
+     "strk": "W2"
+    },
     {
      "team": "Waterloo Wolves",
      "teamId": "odb-97210",
@@ -19,21 +34,6 @@
      "diff": 41,
      "l10": "8-0",
      "strk": "W8"
-    },
-    {
-     "team": "Woodstock Jr Navy Vets",
-     "teamId": "odb-98138",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 9,
-     "w": 7,
-     "l": 0,
-     "t": 2,
-     "pts": 16,
-     "gf": 42,
-     "ga": 16,
-     "diff": 26,
-     "l10": "7-0-2",
-     "strk": "W1"
     },
     {
      "team": "St. Thomas Jr Stars",
@@ -174,16 +174,16 @@
      "team": "West London Hawks",
      "teamId": "odb-97215",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 7,
+     "gp": 8,
      "w": 2,
-     "l": 4,
+     "l": 5,
      "t": 1,
      "pts": 5,
-     "gf": 15,
-     "ga": 32,
-     "diff": -17,
-     "l10": "2-4-1",
-     "strk": "T1"
+     "gf": 18,
+     "ga": 39,
+     "diff": -21,
+     "l10": "2-5-1",
+     "strk": "L1"
     },
     {
      "team": "Burlington Raiders",
