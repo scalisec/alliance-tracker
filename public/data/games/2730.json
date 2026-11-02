@@ -1112,14 +1112,17 @@
   "start": "2026-11-01T19:15:00-05:00",
   "away": "Cambridge Hawks",
   "home": "St. Thomas Jr Stars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Joe Thornton CC (Presstran)",
   "code": "U16BR50",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4356/2026-11-01/19:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3121304
+  }
  },
  {
   "id": 2378935,
