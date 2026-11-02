@@ -950,14 +950,17 @@
   "start": "2026-11-01T17:45:00-05:00",
   "away": "Lambeth Lancers",
   "home": "Waterloo Wolves Gold",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 3,
+  "status": "final",
   "venue": "RIM Park (Optimists)",
   "code": "U18BR78",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3121234
+  }
  },
  {
   "id": 2379158,

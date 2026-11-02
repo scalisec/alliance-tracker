@@ -2488,6 +2488,14 @@
   "logo": "logos/704c833c6aca.png"
  },
  {
+  "id": "2733:lambeth-lancers",
+  "name": "Lambeth Lancers",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/97ff93a72d6e.png"
+ },
+ {
   "id": "2733:oakridge-aeros",
   "name": "Oakridge Aeros",
   "divisionId": 2733,
@@ -2510,14 +2518,6 @@
   "division": "U18 BB",
   "association": "Stratford Minor Hockey",
   "logo": "logos/51ff29ef905f.png"
- },
- {
-  "id": "2733:lambeth-lancers",
-  "name": "Lambeth Lancers",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/97ff93a72d6e.png"
  },
  {
   "id": "2733:north-london-nationals",

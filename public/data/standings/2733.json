@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-11-01T22:09:34.988Z",
+ "updatedAt": "2026-11-02T00:27:43.068Z",
  "regular": [
   {
    "name": "",
@@ -69,16 +69,16 @@
      "team": "Waterloo Wolves Gold",
      "teamId": "odb-97130",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 8,
+     "gp": 9,
      "w": 4,
      "l": 3,
-     "t": 1,
-     "pts": 9,
-     "gf": 18,
-     "ga": 19,
+     "t": 2,
+     "pts": 10,
+     "gf": 21,
+     "ga": 22,
      "diff": -1,
-     "l10": "4-3-1",
-     "strk": "T1"
+     "l10": "4-3-2",
+     "strk": "T2"
     },
     {
      "team": "St. Thomas Jr Stars",
@@ -171,6 +171,21 @@
      "strk": "L3"
     },
     {
+     "team": "Lambeth Lancers",
+     "teamId": "odb-98279",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
+     "gp": 6,
+     "w": 1,
+     "l": 3,
+     "t": 2,
+     "pts": 4,
+     "gf": 12,
+     "ga": 28,
+     "diff": -16,
+     "l10": "1-3-2",
+     "strk": "T1"
+    },
+    {
      "team": "Oakridge Aeros",
      "teamId": "odb-97125",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
@@ -214,21 +229,6 @@
      "diff": -30,
      "l10": "1-7-1",
      "strk": "L5"
-    },
-    {
-     "team": "Lambeth Lancers",
-     "teamId": "odb-98279",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-     "gp": 5,
-     "w": 1,
-     "l": 3,
-     "t": 1,
-     "pts": 3,
-     "gf": 9,
-     "ga": 25,
-     "diff": -16,
-     "l10": "1-3-1",
-     "strk": "L1"
     },
     {
      "team": "North London Nationals",
