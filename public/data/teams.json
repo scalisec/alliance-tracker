@@ -1568,20 +1568,20 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
-  "id": "2724:north-london-nationals",
-  "name": "North London Nationals",
-  "divisionId": 2724,
-  "division": "U14 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/41275c8a7241.png"
- },
- {
   "id": "2724:oakridge-aeros",
   "name": "Oakridge Aeros",
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/ae847321ae88.png"
+ },
+ {
+  "id": "2724:north-london-nationals",
+  "name": "North London Nationals",
+  "divisionId": 2724,
+  "division": "U14 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/41275c8a7241.png"
  },
  {
   "id": "2724:burlington-raiders",
@@ -1688,20 +1688,20 @@
   "logo": "logos/08d490425be3.png"
  },
  {
-  "id": "2725:cambridge-hawks",
-  "name": "Cambridge Hawks",
-  "divisionId": 2725,
-  "division": "U15 AAA",
-  "association": "Cambridge Minor Hockey",
-  "logo": "logos/e0787358df89.png"
- },
- {
   "id": "2725:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2725,
   "division": "U15 AAA",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
+ },
+ {
+  "id": "2725:cambridge-hawks",
+  "name": "Cambridge Hawks",
+  "divisionId": 2725,
+  "division": "U15 AAA",
+  "association": "Cambridge Minor Hockey",
+  "logo": "logos/e0787358df89.png"
  },
  {
   "id": "2725:windsor-jr-spitfires",
@@ -1736,6 +1736,14 @@
   "logo": "logos/1953df906ca9.png"
  },
  {
+  "id": "2726:london-jr-knights-white",
+  "name": "London Jr Knights White",
+  "divisionId": 2726,
+  "division": "U15 AA-A",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
+ },
+ {
   "id": "2726:mt-brydges-cougars",
   "name": "Mt. Brydges Cougars",
   "divisionId": 2726,
@@ -1754,14 +1762,6 @@
  {
   "id": "2726:london-jr-knights-green",
   "name": "London Jr Knights Green",
-  "divisionId": 2726,
-  "division": "U15 AA-A",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
- },
- {
-  "id": "2726:london-jr-knights-white",
-  "name": "London Jr Knights White",
   "divisionId": 2726,
   "division": "U15 AA-A",
   "association": "London Jr Knights",
@@ -2288,20 +2288,20 @@
   "logo": "logos/bcc449715362.png"
  },
  {
-  "id": "2731:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2731,
-  "division": "U18 AAA",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
- },
- {
   "id": "2731:windsor-jr-spitfires",
   "name": "Windsor Jr Spitfires",
   "divisionId": 2731,
   "division": "U18 AAA",
   "association": "Windsor AAA Zone",
   "logo": "logos/1d06ddd6cd32.png"
+ },
+ {
+  "id": "2731:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2731,
+  "division": "U18 AAA",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2731:huron-perth-lakers",

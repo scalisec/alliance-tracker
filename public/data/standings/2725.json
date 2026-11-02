@@ -1,6 +1,6 @@
 {
  "divisionId": 2725,
- "updatedAt": "2026-11-01T21:10:41.519Z",
+ "updatedAt": "2026-11-02T00:08:18.321Z",
  "regular": [
   {
    "name": "",
@@ -141,34 +141,34 @@
      "strk": "W1"
     },
     {
-     "team": "Cambridge Hawks",
-     "teamId": "odb-96994",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 9,
-     "w": 1,
-     "l": 7,
-     "t": 1,
-     "pts": 3,
-     "gf": 16,
-     "ga": 45,
-     "diff": -29,
-     "l10": "1-7-1",
-     "strk": "L3"
-    },
-    {
      "team": "Waterloo Wolves",
      "teamId": "odb-97002",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 8,
-     "w": 1,
+     "gp": 9,
+     "w": 2,
      "l": 7,
      "t": 0,
-     "pts": 2,
-     "gf": 12,
-     "ga": 31,
-     "diff": -19,
-     "l10": "1-7",
-     "strk": "L5"
+     "pts": 4,
+     "gf": 14,
+     "ga": 32,
+     "diff": -18,
+     "l10": "2-7",
+     "strk": "W1"
+    },
+    {
+     "team": "Cambridge Hawks",
+     "teamId": "odb-96994",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "gp": 10,
+     "w": 1,
+     "l": 8,
+     "t": 1,
+     "pts": 3,
+     "gf": 17,
+     "ga": 47,
+     "diff": -30,
+     "l10": "1-8-1",
+     "strk": "L4"
     },
     {
      "team": "Windsor Jr Spitfires",

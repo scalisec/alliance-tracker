@@ -782,14 +782,17 @@
   "start": "2026-11-01T16:30:00-05:00",
   "away": "London Jr Knights White",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Gretzky Center (#1)",
   "code": "U14S39",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-11-01/16:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3119971
+  }
  },
  {
   "id": 2375617,
@@ -812,14 +815,17 @@
   "start": "2026-11-01T17:45:00-05:00",
   "away": "Sarnia Jr. Sting",
   "home": "Stratford Warriors",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Rotary Complex (Rink B)",
   "code": "U14S74",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3121230
+  }
  },
  {
   "id": 2375602,
