@@ -1,6 +1,6 @@
 {
  "divisionId": 2731,
- "updatedAt": "2026-11-02T03:10:51.384Z",
+ "updatedAt": "2026-11-03T03:14:05.849Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,31 @@
      "team": "London Jr Knights",
      "teamId": "odb-97023",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 12,
+     "gp": 13,
      "w": 7,
      "l": 4,
      "t": 0,
-     "pts": 15,
-     "gf": 37,
-     "ga": 35,
-     "diff": 2,
-     "l10": "6-3-1",
-     "strk": "W2"
+     "pts": 16,
+     "gf": 41,
+     "ga": 40,
+     "diff": 1,
+     "l10": "5-3-2",
+     "strk": "OT1"
+    },
+    {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-97024",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 10,
+     "w": 7,
+     "l": 3,
+     "t": 0,
+     "pts": 14,
+     "gf": 39,
+     "ga": 26,
+     "diff": 13,
+     "l10": "7-3-0",
+     "strk": "W1"
     },
     {
      "team": "Elgin-Middlesex Canucks",
@@ -51,34 +66,19 @@
      "strk": "L2"
     },
     {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-97024",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 9,
-     "w": 6,
-     "l": 3,
-     "t": 0,
-     "pts": 12,
-     "gf": 33,
-     "ga": 26,
-     "diff": 7,
-     "l10": "6-3-0",
-     "strk": "L1"
-    },
-    {
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-97022",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 13,
-     "w": 5,
+     "gp": 14,
+     "w": 6,
      "l": 8,
      "t": 0,
-     "pts": 10,
-     "gf": 44,
-     "ga": 55,
-     "diff": -11,
-     "l10": "5-5-0",
-     "strk": "W1"
+     "pts": 12,
+     "gf": 49,
+     "ga": 59,
+     "diff": -10,
+     "l10": "6-4-0",
+     "strk": "W2"
     },
     {
      "team": "Windsor Jr Spitfires",
@@ -99,16 +99,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-97018",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 9,
+     "gp": 10,
      "w": 3,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 6,
      "gf": 33,
-     "ga": 48,
-     "diff": -15,
-     "l10": "3-6-0",
-     "strk": "L4"
+     "ga": 54,
+     "diff": -21,
+     "l10": "3-7-0",
+     "strk": "L5"
     },
     {
      "team": "Huron-Perth Lakers",
