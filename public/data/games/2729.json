@@ -1005,21 +1005,6 @@
   "gamesheet": null
  },
  {
-  "id": 2375824,
-  "divisionId": 2729,
-  "start": "2026-11-15T18:45:00-05:00",
-  "away": "London Jr Knights White",
-  "home": "Mt. Brydges Cougars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Komoka CW&RC (1 - Molson)",
-  "code": "U16S7",
-  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-11-15/18:45",
-  "type": "regular",
-  "gamesheet": null
- },
- {
   "id": 2375767,
   "divisionId": 2729,
   "start": "2026-11-15T19:30:00-05:00",
@@ -1031,6 +1016,21 @@
   "venue": "Galt Arena (Galt Arena)",
   "code": "U16S88",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2608/2026-11-15/19:30",
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
+  "id": 2375824,
+  "divisionId": 2729,
+  "start": "2026-11-15T20:15:00-05:00",
+  "away": "London Jr Knights White",
+  "home": "Mt. Brydges Cougars",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Komoka CW&RC (1 - Molson)",
+  "code": "U16S7",
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2947/2026-11-15/20:15",
   "type": "regular",
   "gamesheet": null
  },

@@ -665,14 +665,17 @@
   "start": "2026-11-01T19:00:00-05:00",
   "away": "Stratford Warriors",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Galt Arena (Galt Arena)",
   "code": "U18S158",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2608/2026-11-01/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3121270
+  }
  },
  {
   "id": 2376097,

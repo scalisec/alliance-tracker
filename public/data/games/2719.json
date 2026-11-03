@@ -752,14 +752,17 @@
   "start": "2026-11-01T15:00:00-05:00",
   "away": "Sun County Panthers",
   "home": "Chatham-Kent Cyclones",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 9,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Memorial (Memorial)",
   "code": "U13P8",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-11-01/15:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3120175
+  }
  },
  {
   "id": 2374650,
