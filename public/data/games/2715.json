@@ -845,14 +845,17 @@
   "start": "2026-11-03T19:00:00-05:00",
   "away": "Cambridge Hawks",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Grand River (Grand River)",
   "code": "U11BR25",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4191/2026-11-03/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3135845
+  }
  },
  {
   "id": 2379368,
