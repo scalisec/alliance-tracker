@@ -968,14 +968,17 @@
   "start": "2026-11-03T20:00:00-05:00",
   "away": "West London Hawks Gold",
   "home": "Lambeth Lancers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Bostwick (A)",
   "code": "U18BR112",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5025/2026-11-03/20:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3135794
+  }
  },
  {
   "id": 2379113,

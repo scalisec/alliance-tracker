@@ -2416,20 +2416,20 @@
   "logo": "logos/1953df906ca9.png"
  },
  {
-  "id": "2733:kitchener-jr-rangers",
-  "name": "Kitchener Jr Rangers",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
- },
- {
   "id": "2733:west-london-hawks-gold",
   "name": "West London Hawks Gold",
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/2237c5fc46ea.png"
+ },
+ {
+  "id": "2733:kitchener-jr-rangers",
+  "name": "Kitchener Jr Rangers",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2733:waterloo-wolves-gold",

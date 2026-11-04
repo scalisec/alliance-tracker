@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-11-02T00:27:43.068Z",
+ "updatedAt": "2026-11-04T03:10:00.756Z",
  "regular": [
   {
    "name": "",
@@ -36,6 +36,21 @@
      "strk": "W2"
     },
     {
+     "team": "West London Hawks Gold",
+     "teamId": "odb-97126",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
+     "gp": 8,
+     "w": 6,
+     "l": 1,
+     "t": 1,
+     "pts": 13,
+     "gf": 43,
+     "ga": 21,
+     "diff": 22,
+     "l10": "6-1-1",
+     "strk": "W5"
+    },
+    {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97124",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -49,21 +64,6 @@
      "diff": 29,
      "l10": "6-0",
      "strk": "W6"
-    },
-    {
-     "team": "West London Hawks Gold",
-     "teamId": "odb-97126",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 7,
-     "w": 5,
-     "l": 1,
-     "t": 1,
-     "pts": 11,
-     "gf": 38,
-     "ga": 20,
-     "diff": 18,
-     "l10": "5-1-1",
-     "strk": "W4"
     },
     {
      "team": "Waterloo Wolves Gold",
@@ -174,16 +174,16 @@
      "team": "Lambeth Lancers",
      "teamId": "odb-98279",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-     "gp": 6,
+     "gp": 7,
      "w": 1,
-     "l": 3,
+     "l": 4,
      "t": 2,
      "pts": 4,
-     "gf": 12,
-     "ga": 28,
-     "diff": -16,
-     "l10": "1-3-2",
-     "strk": "T1"
+     "gf": 13,
+     "ga": 33,
+     "diff": -20,
+     "l10": "1-4-2",
+     "strk": "L1"
     },
     {
      "team": "Oakridge Aeros",
