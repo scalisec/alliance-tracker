@@ -1288,20 +1288,20 @@
   "logo": "logos/41275c8a7241.png"
  },
  {
-  "id": "2722:huron-perth-lakers",
-  "name": "Huron-Perth Lakers",
-  "divisionId": 2722,
-  "division": "U14 AAA",
-  "association": "Huron-Perth Lakers",
-  "logo": "logos/e85b73e63ae2.png"
- },
- {
   "id": "2722:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2722,
   "division": "U14 AAA",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
+ },
+ {
+  "id": "2722:huron-perth-lakers",
+  "name": "Huron-Perth Lakers",
+  "divisionId": 2722,
+  "division": "U14 AAA",
+  "association": "Huron-Perth Lakers",
+  "logo": "logos/e85b73e63ae2.png"
  },
  {
   "id": "2722:windsor-jr-spitfires",
