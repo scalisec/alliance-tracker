@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-11-02T18:26:44.854Z",
+ "updatedAt": "2026-11-04T02:59:57.950Z",
  "regular": [
   {
    "name": "",
@@ -186,6 +186,21 @@
      "strk": "W1"
     },
     {
+     "team": "Burlington Bulldogs Blue",
+     "teamId": "odb-97278",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 10,
+     "w": 1,
+     "l": 7,
+     "t": 2,
+     "pts": 4,
+     "gf": 27,
+     "ga": 48,
+     "diff": -21,
+     "l10": "1-7-2",
+     "strk": "W1"
+    },
+    {
      "team": "Lambeth Lancers",
      "teamId": "odb-97283",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
@@ -216,34 +231,19 @@
      "strk": "L1"
     },
     {
-     "team": "Burlington Bulldogs Blue",
-     "teamId": "odb-97278",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 9,
-     "w": 0,
-     "l": 7,
-     "t": 2,
-     "pts": 2,
-     "gf": 20,
-     "ga": 48,
-     "diff": -28,
-     "l10": "0-7-2",
-     "strk": "L3"
-    },
-    {
      "team": "Burlington Raiders",
      "teamId": "odb-97279",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 7,
+     "gp": 8,
      "w": 0,
-     "l": 6,
+     "l": 7,
      "t": 1,
      "pts": 1,
      "gf": 12,
-     "ga": 43,
-     "diff": -31,
-     "l10": "0-6-1",
-     "strk": "L3"
+     "ga": 50,
+     "diff": -38,
+     "l10": "0-7-1",
+     "strk": "L4"
     }
    ]
   }

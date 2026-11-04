@@ -2216,6 +2216,14 @@
   "logo": "logos/6c3aa7a1db2c.png"
  },
  {
+  "id": "2730:burlington-bulldogs-blue",
+  "name": "Burlington Bulldogs Blue",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
+ },
+ {
   "id": "2730:lambeth-lancers",
   "name": "Lambeth Lancers",
   "divisionId": 2730,
@@ -2230,14 +2238,6 @@
   "division": "U16 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/2237c5fc46ea.png"
- },
- {
-  "id": "2730:burlington-bulldogs-blue",
-  "name": "Burlington Bulldogs Blue",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2730:burlington-raiders",
