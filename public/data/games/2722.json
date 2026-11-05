@@ -959,14 +959,17 @@
   "start": "2026-11-04T18:45:00-05:00",
   "away": "Elgin-Middlesex Canucks",
   "home": "Sarnia-Lambton Jr Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Sarnia PASA (Rink 2)",
   "code": "U14P50",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4681/2026-11-04/18:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3139314
+  }
  },
  {
   "id": 2374787,
