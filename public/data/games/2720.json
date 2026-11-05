@@ -791,14 +791,17 @@
   "start": "2026-11-04T18:30:00-05:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "London Jr Knights Green",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Western Fair (Collins Clothiers)",
   "code": "U13S36",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4444/2026-11-04/18:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3139279
+  }
  },
  {
   "id": 2375540,

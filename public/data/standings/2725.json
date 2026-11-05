@@ -1,6 +1,6 @@
 {
  "divisionId": 2725,
- "updatedAt": "2026-11-02T00:08:18.321Z",
+ "updatedAt": "2026-11-05T01:27:48.133Z",
  "regular": [
   {
    "name": "",
@@ -99,16 +99,16 @@
      "team": "Sun County Panthers",
      "teamId": "odb-97001",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 10,
+     "gp": 11,
      "w": 3,
      "l": 5,
-     "t": 2,
-     "pts": 8,
+     "t": 3,
+     "pts": 9,
      "gf": 23,
      "ga": 40,
      "diff": -17,
-     "l10": "3-5-2",
-     "strk": "L1"
+     "l10": "2-5-3",
+     "strk": "T1"
     },
     {
      "team": "Sault Major Jr Greyhounds",
@@ -174,16 +174,16 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-97003",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 8,
+     "gp": 9,
      "w": 0,
      "l": 8,
-     "t": 0,
-     "pts": 0,
+     "t": 1,
+     "pts": 1,
      "gf": 9,
      "ga": 51,
      "diff": -42,
-     "l10": "0-8",
-     "strk": "L8"
+     "l10": "0-8-1",
+     "strk": "T1"
     }
    ]
   }
