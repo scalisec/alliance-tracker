@@ -1,6 +1,6 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-11-02T02:50:18.644Z",
+ "updatedAt": "2026-11-06T16:01:23.309Z",
  "regular": [
   {
    "name": "",
@@ -54,16 +54,16 @@
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97258",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 5,
-     "w": 5,
+     "gp": 6,
+     "w": 6,
      "l": 0,
      "t": 0,
-     "pts": 10,
-     "gf": 33,
-     "ga": 8,
-     "diff": 25,
-     "l10": "5-0",
-     "strk": "W5"
+     "pts": 12,
+     "gf": 41,
+     "ga": 10,
+     "diff": 31,
+     "l10": "6-0",
+     "strk": "W6"
     },
     {
      "team": "Waterloo Wolves",
@@ -99,16 +99,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97260",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 7,
+     "gp": 8,
      "w": 4,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 8,
-     "gf": 24,
-     "ga": 20,
-     "diff": 4,
-     "l10": "4-3",
-     "strk": "W1"
+     "gf": 26,
+     "ga": 28,
+     "diff": -2,
+     "l10": "4-4",
+     "strk": "L1"
     },
     {
      "team": "Brantford 99ers",

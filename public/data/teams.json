@@ -136,20 +136,20 @@
   "logo": "logos/6c3aa7a1db2c.png"
  },
  {
-  "id": "2711:london-jr-knights-green",
-  "name": "London Jr Knights Green",
-  "divisionId": 2711,
-  "division": "U10 AA-A",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
- },
- {
   "id": "2711:kitchener-jr-rangers-red",
   "name": "Kitchener Jr Rangers Red",
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
+ },
+ {
+  "id": "2711:london-jr-knights-green",
+  "name": "London Jr Knights Green",
+  "divisionId": 2711,
+  "division": "U10 AA-A",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2711:brantford-99ers",
