@@ -761,14 +761,17 @@
   "start": "2026-11-05T18:00:00-05:00",
   "away": "Windsor Jr Spitfires",
   "home": "Chatham-Kent Cyclones",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Memorial (Memorial)",
   "code": "U16P136",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-11-05/18:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3141237
+  }
  },
  {
   "id": 2375204,
