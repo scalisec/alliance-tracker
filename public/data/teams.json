@@ -2320,6 +2320,14 @@
   "logo": "logos/08d490425be3.png"
  },
  {
+  "id": "2732:kitchener-jr-rangers",
+  "name": "Kitchener Jr Rangers",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
+ },
+ {
   "id": "2732:woodstock-jr-navy-vets",
   "name": "Woodstock Jr Navy Vets",
   "divisionId": 2732,
@@ -2336,12 +2344,12 @@
   "logo": "logos/704c833c6aca.png"
  },
  {
-  "id": "2732:kitchener-jr-rangers",
-  "name": "Kitchener Jr Rangers",
+  "id": "2732:stratford-warriors",
+  "name": "Stratford Warriors",
   "divisionId": 2732,
   "division": "U18 AA-A",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
+  "association": "Stratford Minor Hockey",
+  "logo": "logos/51ff29ef905f.png"
  },
  {
   "id": "2732:waterloo-wolves",
@@ -2350,14 +2358,6 @@
   "division": "U18 AA-A",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
- },
- {
-  "id": "2732:stratford-warriors",
-  "name": "Stratford Warriors",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": "Stratford Minor Hockey",
-  "logo": "logos/51ff29ef905f.png"
  },
  {
   "id": "2732:st-thomas-jr-stars",

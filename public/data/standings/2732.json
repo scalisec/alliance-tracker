@@ -1,6 +1,6 @@
 {
  "divisionId": 2732,
- "updatedAt": "2026-11-03T16:22:19.427Z",
+ "updatedAt": "2026-11-06T03:42:22.170Z",
  "regular": [
   {
    "name": "",
@@ -21,19 +21,34 @@
      "strk": "W3"
     },
     {
+     "team": "Kitchener Jr Rangers",
+     "teamId": "odb-97114",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 8,
+     "w": 5,
+     "l": 3,
+     "t": 0,
+     "pts": 10,
+     "gf": 34,
+     "ga": 14,
+     "diff": 20,
+     "l10": "5-3",
+     "strk": "W3"
+    },
+    {
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-97118",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 7,
+     "gp": 8,
      "w": 4,
-     "l": 2,
+     "l": 3,
      "t": 1,
      "pts": 9,
-     "gf": 20,
-     "ga": 23,
-     "diff": -3,
-     "l10": "4-2-1",
-     "strk": "T1"
+     "gf": 21,
+     "ga": 28,
+     "diff": -7,
+     "l10": "4-3-1",
+     "strk": "L1"
     },
     {
      "team": "Sarnia Jr. Sting",
@@ -51,19 +66,19 @@
      "strk": "T3"
     },
     {
-     "team": "Kitchener Jr Rangers",
-     "teamId": "odb-97114",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 7,
+     "team": "Stratford Warriors",
+     "teamId": "odb-97116",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
+     "gp": 8,
      "w": 4,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 8,
-     "gf": 29,
-     "ga": 13,
-     "diff": 16,
-     "l10": "4-3",
-     "strk": "W2"
+     "gf": 31,
+     "ga": 24,
+     "diff": 7,
+     "l10": "4-4",
+     "strk": "W1"
     },
     {
      "team": "Waterloo Wolves",
@@ -79,21 +94,6 @@
      "diff": 5,
      "l10": "3-2-2",
      "strk": "W2"
-    },
-    {
-     "team": "Stratford Warriors",
-     "teamId": "odb-97116",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 8,
-     "w": 4,
-     "l": 4,
-     "t": 0,
-     "pts": 8,
-     "gf": 31,
-     "ga": 24,
-     "diff": 7,
-     "l10": "4-4",
-     "strk": "W1"
     },
     {
      "team": "St. Thomas Jr Stars",

@@ -719,14 +719,17 @@
   "start": "2026-11-05T20:30:00-05:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U18S111",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-11-05/20:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3141250
+  }
  },
  {
   "id": 2375983,
