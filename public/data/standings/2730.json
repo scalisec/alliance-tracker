@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-11-04T02:59:57.950Z",
+ "updatedAt": "2026-11-06T01:41:53.755Z",
  "regular": [
   {
    "name": "",
@@ -111,18 +111,18 @@
      "strk": "L1"
     },
     {
-     "team": "Kitchener Jr Rangers Blue",
-     "teamId": "odb-97271",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 7,
-     "w": 4,
-     "l": 3,
-     "t": 0,
+     "team": "Burlington Bulldogs Gold",
+     "teamId": "odb-97434",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 9,
+     "w": 3,
+     "l": 4,
+     "t": 2,
      "pts": 8,
-     "gf": 14,
-     "ga": 20,
-     "diff": -6,
-     "l10": "4-3",
+     "gf": 29,
+     "ga": 27,
+     "diff": 2,
+     "l10": "3-4-2",
      "strk": "W1"
     },
     {
@@ -141,17 +141,32 @@
      "strk": "L1"
     },
     {
-     "team": "Burlington Bulldogs Gold",
-     "teamId": "odb-97434",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "team": "Kitchener Jr Rangers Blue",
+     "teamId": "odb-97271",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 7,
+     "w": 4,
+     "l": 3,
+     "t": 0,
+     "pts": 8,
+     "gf": 14,
+     "ga": 20,
+     "diff": -6,
+     "l10": "4-3",
+     "strk": "W1"
+    },
+    {
+     "team": "Woodstock Jr Navy Vets",
+     "teamId": "odb-98142",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
      "gp": 8,
      "w": 2,
      "l": 4,
      "t": 2,
      "pts": 6,
-     "gf": 25,
-     "ga": 25,
-     "diff": 0,
+     "gf": 23,
+     "ga": 33,
+     "diff": -10,
      "l10": "2-4-2",
      "strk": "L1"
     },
@@ -169,21 +184,6 @@
      "diff": -8,
      "l10": "1-5-4",
      "strk": "T1"
-    },
-    {
-     "team": "Woodstock Jr Navy Vets",
-     "teamId": "odb-98142",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 7,
-     "w": 2,
-     "l": 3,
-     "t": 2,
-     "pts": 6,
-     "gf": 21,
-     "ga": 29,
-     "diff": -8,
-     "l10": "2-3-2",
-     "strk": "W1"
     },
     {
      "team": "Burlington Bulldogs Blue",

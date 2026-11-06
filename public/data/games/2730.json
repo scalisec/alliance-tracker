@@ -1148,14 +1148,17 @@
   "start": "2026-11-05T19:00:00-05:00",
   "away": "Burlington Bulldogs Gold",
   "home": "Woodstock Jr Navy Vets",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Reeves CC (Green)",
   "code": "U16BR77",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4268/2026-11-05/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3141260
+  }
  },
  {
   "id": 2378945,
