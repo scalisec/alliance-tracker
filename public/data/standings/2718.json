@@ -1,6 +1,6 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-11-04T01:20:02.603Z",
+ "updatedAt": "2026-11-07T17:50:44.835Z",
  "regular": [
   {
    "name": "",
@@ -21,6 +21,21 @@
      "strk": "W2"
     },
     {
+     "team": "St. Thomas Jr Stars",
+     "teamId": "odb-97220",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "gp": 11,
+     "w": 8,
+     "l": 1,
+     "t": 2,
+     "pts": 18,
+     "gf": 54,
+     "ga": 32,
+     "diff": 22,
+     "l10": "7-1-2",
+     "strk": "W2"
+    },
+    {
      "team": "Waterloo Wolves",
      "teamId": "odb-97210",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
@@ -34,21 +49,6 @@
      "diff": 41,
      "l10": "8-0",
      "strk": "W8"
-    },
-    {
-     "team": "St. Thomas Jr Stars",
-     "teamId": "odb-97220",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 10,
-     "w": 7,
-     "l": 1,
-     "t": 2,
-     "pts": 16,
-     "gf": 51,
-     "ga": 30,
-     "diff": 21,
-     "l10": "7-1-2",
-     "strk": "W1"
     },
     {
      "team": "Sarnia Jr. Sting",
@@ -84,16 +84,16 @@
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97208",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 7,
+     "gp": 8,
      "w": 5,
-     "l": 0,
+     "l": 1,
      "t": 2,
      "pts": 12,
-     "gf": 31,
-     "ga": 10,
-     "diff": 21,
-     "l10": "5-0-2",
-     "strk": "T1"
+     "gf": 33,
+     "ga": 13,
+     "diff": 20,
+     "l10": "5-1-2",
+     "strk": "L1"
     },
     {
      "team": "Burlington Bulldogs White",

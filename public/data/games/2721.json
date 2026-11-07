@@ -959,14 +959,17 @@
   "start": "2026-11-07T11:45:00-05:00",
   "away": "London Bandits",
   "home": "Woodstock Jr Navy Vets",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Reeves CC (Red)",
   "code": "U13BR60",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4269/2026-11-07/11:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3144341
+  }
  },
  {
   "id": 2378073,
