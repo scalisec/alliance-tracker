@@ -1022,14 +1022,17 @@
   "start": "2026-11-06T20:45:00-05:00",
   "away": "Waterloo Wolves Gold",
   "home": "St. Thomas Jr Stars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Joe Thornton CC (Presstran)",
   "code": "U18BR131",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4356/2026-11-06/20:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3143723
+  }
  },
  {
   "id": 2379146,
