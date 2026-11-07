@@ -1,6 +1,6 @@
 {
  "divisionId": 2715,
- "updatedAt": "2026-11-04T01:19:32.734Z",
+ "updatedAt": "2026-11-07T14:55:35.633Z",
  "regular": [
   {
    "name": "",
@@ -66,6 +66,21 @@
      "strk": "L1"
     },
     {
+     "team": "Woodstock Jr Navy Vets",
+     "teamId": "odb-97205",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+     "gp": 7,
+     "w": 5,
+     "l": 2,
+     "t": 0,
+     "pts": 10,
+     "gf": 22,
+     "ga": 18,
+     "diff": 4,
+     "l10": "5-2",
+     "strk": "W1"
+    },
+    {
      "team": "North London Nationals",
      "teamId": "odb-97194",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
@@ -94,21 +109,6 @@
      "diff": 3,
      "l10": "4-1-1",
      "strk": "W3"
-    },
-    {
-     "team": "Woodstock Jr Navy Vets",
-     "teamId": "odb-97205",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 6,
-     "w": 4,
-     "l": 2,
-     "t": 0,
-     "pts": 8,
-     "gf": 18,
-     "ga": 15,
-     "diff": 3,
-     "l10": "4-2",
-     "strk": "L1"
     },
     {
      "team": "Burlington Bulldogs Blue",
@@ -159,16 +159,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97201",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 5,
+     "gp": 6,
      "w": 1,
-     "l": 4,
+     "l": 5,
      "t": 0,
      "pts": 2,
-     "gf": 8,
-     "ga": 15,
-     "diff": -7,
-     "l10": "1-4",
-     "strk": "L3"
+     "gf": 11,
+     "ga": 19,
+     "diff": -8,
+     "l10": "1-5",
+     "strk": "L4"
     },
     {
      "team": "London Bandits",

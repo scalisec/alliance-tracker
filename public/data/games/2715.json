@@ -830,14 +830,17 @@
   "start": "2026-11-01T15:45:00-05:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 3,
+  "status": "final",
   "venue": "AMC (West)",
   "code": "U11BR66",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4627/2026-11-01/15:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3120388
+  }
  },
  {
   "id": 2379359,
