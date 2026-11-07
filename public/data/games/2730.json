@@ -1202,14 +1202,17 @@
   "start": "2026-11-07T14:30:00-05:00",
   "away": "Burlington Bulldogs Blue",
   "home": "Burlington Bulldogs Gold",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Appleby (3)",
   "code": "U16BR87",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-11-07/14:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3145092
+  }
  },
  {
   "id": 2379023,

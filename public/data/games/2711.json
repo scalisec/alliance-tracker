@@ -800,14 +800,17 @@
   "start": "2026-11-07T14:50:00-05:00",
   "away": "Cambridge Hawks",
   "home": "London Jr Knights White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 11,
+  "status": "final",
   "venue": "Nichols (C)",
   "code": "U10S57",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3145232
+  }
  },
  {
   "id": 2376127,
@@ -815,14 +818,17 @@
   "start": "2026-11-07T15:00:00-05:00",
   "away": "Sarnia Jr. Sting",
   "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Mr Lube + Tires (Red)",
   "code": "U10S53",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/241/2026-11-07/15:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3145233
+  }
  },
  {
   "id": 2376121,

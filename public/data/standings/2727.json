@@ -1,6 +1,6 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-11-07T20:11:55.521Z",
+ "updatedAt": "2026-11-07T21:10:02.115Z",
  "regular": [
   {
    "name": "",
@@ -21,21 +21,6 @@
      "strk": "W5"
     },
     {
-     "team": "St. Thomas Jr Stars",
-     "teamId": "odb-97262",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 7,
-     "w": 6,
-     "l": 0,
-     "t": 1,
-     "pts": 13,
-     "gf": 27,
-     "ga": 9,
-     "diff": 18,
-     "l10": "6-0-1",
-     "strk": "W5"
-    },
-    {
      "team": "Oakridge Aeros",
      "teamId": "odb-97266",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
@@ -48,6 +33,21 @@
      "ga": 14,
      "diff": 21,
      "l10": "6-2-1",
+     "strk": "L1"
+    },
+    {
+     "team": "St. Thomas Jr Stars",
+     "teamId": "odb-97262",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "gp": 8,
+     "w": 6,
+     "l": 1,
+     "t": 1,
+     "pts": 13,
+     "gf": 30,
+     "ga": 13,
+     "diff": 17,
+     "l10": "6-1-1",
      "strk": "L1"
     },
     {
@@ -69,16 +69,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97254",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 8,
-     "w": 4,
+     "gp": 9,
+     "w": 5,
      "l": 3,
      "t": 1,
-     "pts": 9,
-     "gf": 21,
-     "ga": 24,
-     "diff": -3,
-     "l10": "4-3-1",
-     "strk": "W1"
+     "pts": 11,
+     "gf": 25,
+     "ga": 27,
+     "diff": -2,
+     "l10": "5-3-1",
+     "strk": "W2"
     },
     {
      "team": "North London Nationals",

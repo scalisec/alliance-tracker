@@ -1824,20 +1824,20 @@
   "logo": "logos/2237c5fc46ea.png"
  },
  {
-  "id": "2727:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": null,
-  "logo": "logos/612db499a971.png"
- },
- {
   "id": "2727:oakridge-aeros",
   "name": "Oakridge Aeros",
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/ae847321ae88.png"
+ },
+ {
+  "id": "2727:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": null,
+  "logo": "logos/612db499a971.png"
  },
  {
   "id": "2727:sarnia-jr-sting",
@@ -2168,20 +2168,20 @@
   "logo": "logos/612db499a971.png"
  },
  {
-  "id": "2730:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
- },
- {
   "id": "2730:burlington-bulldogs-gold",
   "name": "Burlington Bulldogs Gold",
   "divisionId": 2730,
   "division": "U16 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "logos/49dba036a6a8.png"
+ },
+ {
+  "id": "2730:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2730:kitchener-jr-rangers-blue",
