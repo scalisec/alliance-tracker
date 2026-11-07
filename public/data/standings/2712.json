@@ -1,6 +1,6 @@
 {
  "divisionId": 2712,
- "updatedAt": "2026-11-07T16:49:30.781Z",
+ "updatedAt": "2026-11-07T18:30:32.106Z",
  "regular": [
   {
    "name": "East Division",
@@ -51,6 +51,21 @@
      "strk": "L1"
     },
     {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97181",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 8,
+     "w": 5,
+     "l": 3,
+     "t": 0,
+     "pts": 10,
+     "gf": 26,
+     "ga": 23,
+     "diff": 3,
+     "l10": "5-3",
+     "strk": "W3"
+    },
+    {
      "team": "Waterloo Wolves",
      "teamId": "odb-97183",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
@@ -66,34 +81,19 @@
      "strk": "W2"
     },
     {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97181",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 7,
-     "w": 4,
-     "l": 3,
-     "t": 0,
-     "pts": 8,
-     "gf": 22,
-     "ga": 20,
-     "diff": 2,
-     "l10": "4-3",
-     "strk": "W2"
-    },
-    {
      "team": "Cambridge Hawks",
      "teamId": "odb-97188",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 8,
+     "gp": 9,
      "w": 2,
-     "l": 4,
+     "l": 5,
      "t": 2,
      "pts": 6,
-     "gf": 25,
-     "ga": 42,
-     "diff": -17,
-     "l10": "2-4-2",
-     "strk": "L1"
+     "gf": 28,
+     "ga": 46,
+     "diff": -18,
+     "l10": "2-5-2",
+     "strk": "L2"
     },
     {
      "team": "Burlington Bulldogs White",
