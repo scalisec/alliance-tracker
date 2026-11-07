@@ -1,6 +1,6 @@
 {
  "divisionId": 2721,
- "updatedAt": "2026-11-07T18:01:29.075Z",
+ "updatedAt": "2026-11-07T19:00:57.938Z",
  "regular": [
   {
    "name": "",
@@ -81,6 +81,21 @@
      "strk": "L1"
     },
     {
+     "team": "West London Hawks",
+     "teamId": "odb-97229",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
+     "gp": 7,
+     "w": 5,
+     "l": 2,
+     "t": 0,
+     "pts": 10,
+     "gf": 28,
+     "ga": 18,
+     "diff": 10,
+     "l10": "5-2",
+     "strk": "W5"
+    },
+    {
      "team": "Oakridge Aeros",
      "teamId": "odb-97227",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
@@ -109,21 +124,6 @@
      "diff": -2,
      "l10": "4-4-1",
      "strk": "L2"
-    },
-    {
-     "team": "West London Hawks",
-     "teamId": "odb-97229",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 6,
-     "w": 4,
-     "l": 2,
-     "t": 0,
-     "pts": 8,
-     "gf": 23,
-     "ga": 16,
-     "diff": 7,
-     "l10": "4-2",
-     "strk": "W4"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -189,16 +189,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-97235",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 9,
+     "gp": 10,
      "w": 1,
-     "l": 8,
+     "l": 9,
      "t": 0,
      "pts": 2,
-     "gf": 18,
-     "ga": 36,
-     "diff": -18,
-     "l10": "1-8",
-     "strk": "L2"
+     "gf": 20,
+     "ga": 41,
+     "diff": -21,
+     "l10": "1-9",
+     "strk": "L3"
     },
     {
      "team": "North London Nationals",
