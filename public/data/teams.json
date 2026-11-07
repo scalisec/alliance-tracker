@@ -1248,20 +1248,20 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
-  "id": "2721:burlington-bulldogs-white",
-  "name": "Burlington Bulldogs White",
-  "divisionId": 2721,
-  "division": "U13 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
- },
- {
   "id": "2721:woodstock-jr-navy-vets",
   "name": "Woodstock Jr Navy Vets",
   "divisionId": 2721,
   "division": "U13 BB",
   "association": "Woodstock Minor Hockey",
   "logo": "logos/6c3aa7a1db2c.png"
+ },
+ {
+  "id": "2721:burlington-bulldogs-white",
+  "name": "Burlington Bulldogs White",
+  "divisionId": 2721,
+  "division": "U13 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2721:london-bandits",
