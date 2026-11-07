@@ -659,14 +659,17 @@
   "start": "2026-11-07T13:00:00-05:00",
   "away": "Sarnia-Lambton Jr Sting",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U10P72",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3144915
+  }
  },
  {
   "id": 2374039,

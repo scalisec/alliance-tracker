@@ -504,6 +504,14 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
+  "id": "2714:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2714,
+  "division": "U11 AA-A",
+  "association": "Woodstock Minor Hockey",
+  "logo": "logos/6c3aa7a1db2c.png"
+ },
+ {
   "id": "2714:cambridge-hawks",
   "name": "Cambridge Hawks",
   "divisionId": 2714,
@@ -518,14 +526,6 @@
   "division": "U11 AA-A",
   "association": null,
   "logo": "logos/612db499a971.png"
- },
- {
-  "id": "2714:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2714,
-  "division": "U11 AA-A",
-  "association": "Woodstock Minor Hockey",
-  "logo": "logos/6c3aa7a1db2c.png"
  },
  {
   "id": "2714:sarnia-jr-sting",
@@ -640,20 +640,20 @@
   "logo": "logos/8845e5146a9b.png"
  },
  {
-  "id": "2715:london-bandits",
-  "name": "London Bandits",
-  "divisionId": 2715,
-  "division": "U11 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/973902eb1015.png"
- },
- {
   "id": "2715:west-london-hawks",
   "name": "West London Hawks",
   "divisionId": 2715,
   "division": "U11 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/2237c5fc46ea.png"
+ },
+ {
+  "id": "2715:london-bandits",
+  "name": "London Bandits",
+  "divisionId": 2715,
+  "division": "U11 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/973902eb1015.png"
  },
  {
   "id": "2715:oakridge-aeros",

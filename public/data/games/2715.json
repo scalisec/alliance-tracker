@@ -902,14 +902,17 @@
   "start": "2026-11-07T12:00:00-05:00",
   "away": "West London Hawks",
   "home": "Burlington Bulldogs Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Appleby (3)",
   "code": "U11BR70",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-11-07/12:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3144403
+  }
  },
  {
   "id": 2379385,

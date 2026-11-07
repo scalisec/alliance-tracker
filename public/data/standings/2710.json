@@ -1,6 +1,6 @@
 {
  "divisionId": 2710,
- "updatedAt": "2026-11-07T01:44:55.602Z",
+ "updatedAt": "2026-11-07T19:10:08.614Z",
  "regular": [
   {
    "name": "East Division",
@@ -89,16 +89,16 @@
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-96943",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 7,
-     "w": 5,
+     "gp": 8,
+     "w": 6,
      "l": 1,
      "t": 1,
-     "pts": 11,
-     "gf": 52,
-     "ga": 20,
-     "diff": 32,
-     "l10": "5-1-1",
-     "strk": "W5"
+     "pts": 13,
+     "gf": 58,
+     "ga": 22,
+     "diff": 36,
+     "l10": "6-1-1",
+     "strk": "W6"
     },
     {
      "team": "Sun County Panthers",
@@ -119,16 +119,16 @@
      "team": "London Jr Knights",
      "teamId": "odb-96944",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 6,
+     "gp": 7,
      "w": 5,
-     "l": 1,
+     "l": 2,
      "t": 0,
      "pts": 10,
-     "gf": 27,
-     "ga": 16,
-     "diff": 11,
-     "l10": "5-1",
-     "strk": "W1"
+     "gf": 29,
+     "ga": 22,
+     "diff": 7,
+     "l10": "5-2",
+     "strk": "L1"
     },
     {
      "team": "Elgin-Middlesex Canucks",
