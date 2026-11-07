@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-11-07T02:36:11.962Z",
+ "updatedAt": "2026-11-07T03:45:40.885Z",
  "regular": [
   {
    "name": "",
@@ -69,31 +69,31 @@
      "team": "Waterloo Wolves Gold",
      "teamId": "odb-97130",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 9,
+     "gp": 10,
      "w": 4,
-     "l": 3,
+     "l": 4,
      "t": 2,
      "pts": 10,
-     "gf": 21,
-     "ga": 22,
-     "diff": -1,
-     "l10": "4-3-2",
-     "strk": "T2"
+     "gf": 23,
+     "ga": 25,
+     "diff": -2,
+     "l10": "4-4-2",
+     "strk": "L1"
     },
     {
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97132",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 6,
-     "w": 3,
+     "gp": 7,
+     "w": 4,
      "l": 2,
      "t": 1,
-     "pts": 7,
-     "gf": 23,
-     "ga": 13,
-     "diff": 10,
-     "l10": "3-2-1",
-     "strk": "T1"
+     "pts": 9,
+     "gf": 26,
+     "ga": 15,
+     "diff": 11,
+     "l10": "4-2-1",
+     "strk": "W1"
     },
     {
      "team": "West London Hawks Black",
