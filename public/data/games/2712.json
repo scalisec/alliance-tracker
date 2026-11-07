@@ -1022,14 +1022,17 @@
   "start": "2026-11-06T18:00:00-05:00",
   "away": "South Kent Lightning",
   "home": "West London Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Bostwick (A)",
   "code": "U10BRS-156",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5025/2026-11-06/18:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3143656
+  }
  },
  {
   "id": 2408479,
