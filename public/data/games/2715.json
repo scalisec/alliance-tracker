@@ -920,14 +920,17 @@
   "start": "2026-11-07T14:45:00-05:00",
   "away": "Kitchener Jr Rangers",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Clearwater (Red)",
   "code": "U11BR73",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3145352
+  }
  },
  {
   "id": 2379365,
