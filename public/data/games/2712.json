@@ -1058,14 +1058,17 @@
   "start": "2026-11-07T12:10:00-05:00",
   "away": "Oakridge Aeros",
   "home": "South Kent Lightning",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Blenheim (Blenheim)",
   "code": "U10BRS-31",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4518/2026-11-07/12:10",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15516,
+   "game": 3144454
+  }
  },
  {
   "id": 2379420,
