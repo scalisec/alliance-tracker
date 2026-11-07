@@ -986,14 +986,17 @@
   "start": "2026-11-07T15:45:00-05:00",
   "away": "North London Nationals",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Clearwater (Blue)",
   "code": "U15BR56",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3145241
+  }
  },
  {
   "id": 2401112,

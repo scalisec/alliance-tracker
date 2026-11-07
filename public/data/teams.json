@@ -1816,6 +1816,14 @@
   "logo": "logos/51ff29ef905f.png"
  },
  {
+  "id": "2727:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
+ },
+ {
   "id": "2727:west-london-hawks",
   "name": "West London Hawks",
   "divisionId": 2727,
@@ -1838,14 +1846,6 @@
   "division": "U15 BB",
   "association": null,
   "logo": "logos/612db499a971.png"
- },
- {
-  "id": "2727:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2727:waterloo-wolves",

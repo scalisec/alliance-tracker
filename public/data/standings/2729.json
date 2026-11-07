@@ -1,6 +1,6 @@
 {
  "divisionId": 2729,
- "updatedAt": "2026-11-02T18:26:19.099Z",
+ "updatedAt": "2026-11-07T22:41:42.496Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97109",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 8,
+     "gp": 9,
      "w": 8,
      "l": 0,
-     "t": 0,
-     "pts": 16,
-     "gf": 47,
-     "ga": 9,
+     "t": 1,
+     "pts": 17,
+     "gf": 49,
+     "ga": 11,
      "diff": 38,
-     "l10": "8-0",
-     "strk": "W8"
+     "l10": "8-0-1",
+     "strk": "T1"
     },
     {
      "team": "Mt. Brydges Cougars",
@@ -114,16 +114,16 @@
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97111",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 5,
+     "gp": 6,
      "w": 2,
      "l": 2,
-     "t": 1,
-     "pts": 5,
-     "gf": 18,
-     "ga": 17,
+     "t": 2,
+     "pts": 6,
+     "gf": 20,
+     "ga": 19,
      "diff": 1,
-     "l10": "2-2-1",
-     "strk": "W1"
+     "l10": "2-2-2",
+     "strk": "T1"
     },
     {
      "team": "Sarnia Jr. Sting",
