@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-11-06T01:41:53.755Z",
+ "updatedAt": "2026-11-07T01:15:32.426Z",
  "regular": [
   {
    "name": "",
@@ -21,34 +21,19 @@
      "strk": "W6"
     },
     {
-     "team": "North London Nationals",
-     "teamId": "odb-97273",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 8,
-     "w": 5,
-     "l": 0,
-     "t": 3,
-     "pts": 13,
-     "gf": 40,
-     "ga": 15,
-     "diff": 25,
-     "l10": "5-0-3",
-     "strk": "T1"
-    },
-    {
      "team": "Kitchener Jr Rangers Red",
      "teamId": "odb-98141",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 7,
+     "gp": 8,
      "w": 6,
      "l": 0,
-     "t": 1,
-     "pts": 13,
-     "gf": 31,
-     "ga": 13,
+     "t": 2,
+     "pts": 14,
+     "gf": 33,
+     "ga": 15,
      "diff": 18,
-     "l10": "6-0-1",
-     "strk": "W4"
+     "l10": "6-0-2",
+     "strk": "T1"
     },
     {
      "team": "Oakridge Aeros",
@@ -64,6 +49,21 @@
      "diff": 8,
      "l10": "6-2-1",
      "strk": "L1"
+    },
+    {
+     "team": "North London Nationals",
+     "teamId": "odb-97273",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
+     "gp": 8,
+     "w": 5,
+     "l": 0,
+     "t": 3,
+     "pts": 13,
+     "gf": 40,
+     "ga": 15,
+     "diff": 25,
+     "l10": "5-0-3",
+     "strk": "T1"
     },
     {
      "team": "Waterloo Wolves",
@@ -114,15 +114,30 @@
      "team": "Burlington Bulldogs Gold",
      "teamId": "odb-97434",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 9,
+     "gp": 10,
      "w": 3,
      "l": 4,
-     "t": 2,
-     "pts": 8,
-     "gf": 29,
-     "ga": 27,
+     "t": 3,
+     "pts": 9,
+     "gf": 31,
+     "ga": 29,
      "diff": 2,
-     "l10": "3-4-2",
+     "l10": "3-4-3",
+     "strk": "T1"
+    },
+    {
+     "team": "Kitchener Jr Rangers Blue",
+     "teamId": "odb-97271",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 7,
+     "w": 4,
+     "l": 3,
+     "t": 0,
+     "pts": 8,
+     "gf": 14,
+     "ga": 20,
+     "diff": -6,
+     "l10": "4-3",
      "strk": "W1"
     },
     {
@@ -139,21 +154,6 @@
      "diff": 1,
      "l10": "3-3-2",
      "strk": "L1"
-    },
-    {
-     "team": "Kitchener Jr Rangers Blue",
-     "teamId": "odb-97271",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 7,
-     "w": 4,
-     "l": 3,
-     "t": 0,
-     "pts": 8,
-     "gf": 14,
-     "ga": 20,
-     "diff": -6,
-     "l10": "4-3",
-     "strk": "W1"
     },
     {
      "team": "Woodstock Jr Navy Vets",

@@ -608,14 +608,17 @@
   "start": "2026-11-06T18:30:00-05:00",
   "away": "Elgin-Middlesex Canucks",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U10P109",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3143730
+  }
  },
  {
   "id": 2374019,
