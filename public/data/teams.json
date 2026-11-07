@@ -1528,20 +1528,20 @@
   "logo": "logos/1953df906ca9.png"
  },
  {
-  "id": "2724:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2724,
-  "division": "U14 BB",
-  "association": "Woodstock Minor Hockey",
-  "logo": "logos/6c3aa7a1db2c.png"
- },
- {
   "id": "2724:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Sarnia Minor Hockey",
   "logo": "logos/704c833c6aca.png"
+ },
+ {
+  "id": "2724:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2724,
+  "division": "U14 BB",
+  "association": "Woodstock Minor Hockey",
+  "logo": "logos/6c3aa7a1db2c.png"
  },
  {
   "id": "2724:cambridge-hawks",
@@ -1584,14 +1584,6 @@
   "logo": "logos/41275c8a7241.png"
  },
  {
-  "id": "2724:burlington-raiders",
-  "name": "Burlington Raiders",
-  "divisionId": 2724,
-  "division": "U14 BB",
-  "association": "Burlington Raiders Hockey Club",
-  "logo": "logos/8845e5146a9b.png"
- },
- {
   "id": "2724:west-london-hawks",
   "name": "West London Hawks",
   "divisionId": 2724,
@@ -1600,16 +1592,24 @@
   "logo": "logos/2237c5fc46ea.png"
  },
  {
-  "id": "2724:burlington-bulldogs-blue",
-  "name": "Burlington Bulldogs Blue",
+  "id": "2724:burlington-raiders",
+  "name": "Burlington Raiders",
+  "divisionId": 2724,
+  "division": "U14 BB",
+  "association": "Burlington Raiders Hockey Club",
+  "logo": "logos/8845e5146a9b.png"
+ },
+ {
+  "id": "2724:burlington-bulldogs-white",
+  "name": "Burlington Bulldogs White",
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "logos/49dba036a6a8.png"
  },
  {
-  "id": "2724:burlington-bulldogs-white",
-  "name": "Burlington Bulldogs White",
+  "id": "2724:burlington-bulldogs-blue",
+  "name": "Burlington Bulldogs Blue",
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
@@ -1896,20 +1896,20 @@
   "logo": "logos/973902eb1015.png"
  },
  {
-  "id": "2727:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Woodstock Minor Hockey",
-  "logo": "logos/6c3aa7a1db2c.png"
- },
- {
   "id": "2727:burlington-bulldogs-blue",
   "name": "Burlington Bulldogs Blue",
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "logos/49dba036a6a8.png"
+ },
+ {
+  "id": "2727:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Woodstock Minor Hockey",
+  "logo": "logos/6c3aa7a1db2c.png"
  },
  {
   "id": "2727:cambridge-hawks",

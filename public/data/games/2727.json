@@ -932,14 +932,17 @@
   "start": "2026-11-07T13:30:00-05:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "Burlington Bulldogs Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Central (Central)",
   "code": "U15BR24",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4335/2026-11-07/13:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3145238
+  }
  },
  {
   "id": 2378905,

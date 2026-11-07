@@ -1208,14 +1208,17 @@
   "start": "2026-11-07T13:30:00-05:00",
   "away": "Waterloo Wolves",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Pat Stapleton Arena (Pat Stapleton Arena)",
   "code": "U14BR14",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4699/2026-11-07/13:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3145016
+  }
  },
  {
   "id": 2378196,
@@ -1223,14 +1226,17 @@
   "start": "2026-11-07T13:45:00-05:00",
   "away": "Burlington Bulldogs White",
   "home": "West London Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Bostwick (B)",
   "code": "U14BR26",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5026/2026-11-07/13:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3145017
+  }
  },
  {
   "id": 2378205,
