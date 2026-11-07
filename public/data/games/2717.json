@@ -803,14 +803,17 @@
   "start": "2026-11-07T14:30:00-05:00",
   "away": "Kitchener Jr Rangers Red",
   "home": "Mt. Brydges Cougars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Tri-Township (Tri-Township)",
   "code": "U12S48",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3145096
+  }
  },
  {
   "id": 2375440,

@@ -644,14 +644,17 @@
   "start": "2026-11-07T12:00:00-05:00",
   "away": "Cambridge Hawks",
   "home": "Chatham-Kent Cyclones",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Ridgetown (Ridgetown)",
   "code": "U10P78",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-11-07/13:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3144916
+  }
  },
  {
   "id": 2373993,

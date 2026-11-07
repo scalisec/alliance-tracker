@@ -136,20 +136,20 @@
   "logo": "logos/6c3aa7a1db2c.png"
  },
  {
-  "id": "2711:kitchener-jr-rangers-red",
-  "name": "Kitchener Jr Rangers Red",
-  "divisionId": 2711,
-  "division": "U10 AA-A",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
- },
- {
   "id": "2711:london-jr-knights-green",
   "name": "London Jr Knights Green",
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
+ },
+ {
+  "id": "2711:kitchener-jr-rangers-red",
+  "name": "Kitchener Jr Rangers Red",
+  "divisionId": 2711,
+  "division": "U10 AA-A",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2711:brantford-99ers",
@@ -1496,6 +1496,14 @@
   "logo": "logos/51ff29ef905f.png"
  },
  {
+  "id": "2724:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2724,
+  "division": "U14 BB",
+  "association": null,
+  "logo": "logos/612db499a971.png"
+ },
+ {
   "id": "2724:london-bandits",
   "name": "London Bandits",
   "divisionId": 2724,
@@ -1510,14 +1518,6 @@
   "division": "U14 BB",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
- },
- {
-  "id": "2724:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2724,
-  "division": "U14 BB",
-  "association": null,
-  "logo": "logos/612db499a971.png"
  },
  {
   "id": "2724:waterloo-wolves",
