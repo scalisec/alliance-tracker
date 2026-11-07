@@ -1,10 +1,25 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-11-07T18:40:56.391Z",
+ "updatedAt": "2026-11-07T23:10:51.136Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-97210",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 9,
+     "w": 9,
+     "l": 0,
+     "t": 0,
+     "pts": 18,
+     "gf": 61,
+     "ga": 14,
+     "diff": 47,
+     "l10": "9-0",
+     "strk": "W9"
+    },
     {
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-98138",
@@ -36,34 +51,19 @@
      "strk": "W2"
     },
     {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-97210",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 8,
-     "w": 8,
-     "l": 0,
-     "t": 0,
-     "pts": 16,
-     "gf": 54,
-     "ga": 13,
-     "diff": 41,
-     "l10": "8-0",
-     "strk": "W8"
-    },
-    {
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97214",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 8,
+     "gp": 9,
      "w": 6,
-     "l": 0,
+     "l": 1,
      "t": 2,
      "pts": 14,
-     "gf": 41,
-     "ga": 10,
-     "diff": 31,
-     "l10": "6-0-2",
-     "strk": "T1"
+     "gf": 42,
+     "ga": 17,
+     "diff": 25,
+     "l10": "6-1-2",
+     "strk": "L1"
     },
     {
      "team": "Burlington Bulldogs Gold",
