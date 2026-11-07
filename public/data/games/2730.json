@@ -1166,14 +1166,17 @@
   "start": "2026-11-06T18:00:00-05:00",
   "away": "Kitchener Jr Rangers Red",
   "home": "Burlington Bulldogs Gold",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Appleby (3)",
   "code": "U16BR102",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-11-06/18:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3143692
+  }
  },
  {
   "id": 2379019,
