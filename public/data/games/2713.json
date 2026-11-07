@@ -632,14 +632,17 @@
   "start": "2026-11-07T13:20:00-05:00",
   "away": "Kitchener Jr Rangers",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Nichols (C)",
   "code": "U11P134",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3145025
+  }
  },
  {
   "id": 2373638,
