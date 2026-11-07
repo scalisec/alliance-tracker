@@ -1244,14 +1244,17 @@
   "start": "2026-11-07T10:45:00-05:00",
   "away": "Kitchener Jr Rangers",
   "home": "St. Thomas Jr Stars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Joe Thornton CC (STMHA)",
   "code": "U12BR64",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4355/2026-11-07/10:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3144318
+  }
  },
  {
   "id": 2377926,
