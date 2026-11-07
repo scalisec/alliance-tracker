@@ -626,14 +626,17 @@
   "start": "2026-11-06T19:00:00-05:00",
   "away": "Sarnia-Lambton Jr Sting",
   "home": "Windsor Jr Spitfires",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Central Park (North)",
   "code": "U10P82",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4434/2026-11-06/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3143731
+  }
  },
  {
   "id": 2374026,

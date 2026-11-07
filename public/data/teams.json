@@ -40,6 +40,14 @@
   "logo": "logos/e85b73e63ae2.png"
  },
  {
+  "id": "2710:sarnia-lambton-jr-sting",
+  "name": "Sarnia-Lambton Jr Sting",
+  "divisionId": 2710,
+  "division": "U10 AAA",
+  "association": "Lambton Jr Sting",
+  "logo": "logos/bcc449715362.png"
+ },
+ {
   "id": "2710:sun-county-panthers",
   "name": "Sun County Panthers",
   "divisionId": 2710,
@@ -54,14 +62,6 @@
   "division": "U10 AAA",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
- },
- {
-  "id": "2710:sarnia-lambton-jr-sting",
-  "name": "Sarnia-Lambton Jr Sting",
-  "divisionId": 2710,
-  "division": "U10 AAA",
-  "association": "Lambton Jr Sting",
-  "logo": "logos/bcc449715362.png"
  },
  {
   "id": "2710:elgin-middlesex-canucks",
