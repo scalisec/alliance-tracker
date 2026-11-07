@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-11-05T16:37:21.622Z",
+ "updatedAt": "2026-11-07T02:36:11.962Z",
  "regular": [
   {
    "name": "",
@@ -141,6 +141,21 @@
      "strk": "T1"
     },
     {
+     "team": "Burlington Bulldogs White",
+     "teamId": "odb-97127",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 7,
+     "w": 2,
+     "l": 4,
+     "t": 1,
+     "pts": 5,
+     "gf": 17,
+     "ga": 34,
+     "diff": -17,
+     "l10": "2-4-1",
+     "strk": "W1"
+    },
+    {
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97122",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
@@ -204,31 +219,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-98278",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 9,
+     "gp": 10,
      "w": 1,
-     "l": 7,
+     "l": 8,
      "t": 1,
      "pts": 3,
      "gf": 19,
-     "ga": 49,
-     "diff": -30,
-     "l10": "1-7-1",
-     "strk": "L5"
-    },
-    {
-     "team": "Burlington Bulldogs White",
-     "teamId": "odb-97127",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 6,
-     "w": 1,
-     "l": 4,
-     "t": 1,
-     "pts": 3,
-     "gf": 12,
-     "ga": 34,
-     "diff": -22,
-     "l10": "1-4-1",
-     "strk": "L3"
+     "ga": 54,
+     "diff": -35,
+     "l10": "1-8-1",
+     "strk": "L6"
     },
     {
      "team": "North London Nationals",

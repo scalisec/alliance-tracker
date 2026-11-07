@@ -2472,6 +2472,14 @@
   "logo": "logos/8845e5146a9b.png"
  },
  {
+  "id": "2733:burlington-bulldogs-white",
+  "name": "Burlington Bulldogs White",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
+ },
+ {
   "id": "2733:burlington-bulldogs-blue",
   "name": "Burlington Bulldogs Blue",
   "divisionId": 2733,
@@ -2510,14 +2518,6 @@
   "division": "U18 BB",
   "association": "Stratford Minor Hockey",
   "logo": "logos/51ff29ef905f.png"
- },
- {
-  "id": "2733:burlington-bulldogs-white",
-  "name": "Burlington Bulldogs White",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2733:north-london-nationals",

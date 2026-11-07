@@ -737,14 +737,17 @@
   "start": "2026-11-06T20:00:00-05:00",
   "away": "Cambridge Hawks",
   "home": "London Jr Knights Green",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 8,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U18S122",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3143708
+  }
  },
  {
   "id": 2375967,

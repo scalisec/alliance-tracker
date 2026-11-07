@@ -1,6 +1,6 @@
 {
  "divisionId": 2732,
- "updatedAt": "2026-11-06T03:42:22.170Z",
+ "updatedAt": "2026-11-07T02:35:42.122Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "London Jr Knights Green",
      "teamId": "odb-97115",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 9,
-     "w": 7,
+     "gp": 10,
+     "w": 8,
      "l": 0,
      "t": 2,
-     "pts": 16,
-     "gf": 41,
-     "ga": 17,
-     "diff": 24,
-     "l10": "7-0-2",
-     "strk": "W3"
+     "pts": 18,
+     "gf": 49,
+     "ga": 18,
+     "diff": 31,
+     "l10": "8-0-2",
+     "strk": "W4"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -159,16 +159,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-97113",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 9,
+     "gp": 10,
      "w": 1,
-     "l": 7,
+     "l": 8,
      "t": 1,
      "pts": 3,
-     "gf": 21,
-     "ga": 33,
-     "diff": -12,
-     "l10": "1-7-1",
-     "strk": "L2"
+     "gf": 22,
+     "ga": 41,
+     "diff": -19,
+     "l10": "1-8-1",
+     "strk": "L3"
     }
    ]
   }
