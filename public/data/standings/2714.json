@@ -1,6 +1,6 @@
 {
  "divisionId": 2714,
- "updatedAt": "2026-11-01T22:55:57.602Z",
+ "updatedAt": "2026-11-07T17:39:48.331Z",
  "regular": [
   {
    "name": "",
@@ -84,31 +84,31 @@
      "team": "Brantford 99ers",
      "teamId": "odb-97038",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 7,
-     "w": 3,
+     "gp": 8,
+     "w": 4,
      "l": 4,
      "t": 0,
-     "pts": 6,
-     "gf": 27,
-     "ga": 30,
-     "diff": -3,
-     "l10": "3-4",
-     "strk": "L1"
+     "pts": 8,
+     "gf": 29,
+     "ga": 31,
+     "diff": -2,
+     "l10": "4-4",
+     "strk": "W1"
     },
     {
      "team": "Cambridge Hawks",
      "teamId": "odb-97049",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 6,
+     "gp": 7,
      "w": 2,
-     "l": 2,
+     "l": 3,
      "t": 2,
      "pts": 6,
-     "gf": 20,
-     "ga": 29,
-     "diff": -9,
-     "l10": "2-2-2",
-     "strk": "T1"
+     "gf": 21,
+     "ga": 31,
+     "diff": -10,
+     "l10": "2-3-2",
+     "strk": "L1"
     },
     {
      "team": "St. Thomas Jr Stars",

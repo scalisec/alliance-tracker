@@ -1,6 +1,6 @@
 {
  "divisionId": 2715,
- "updatedAt": "2026-11-07T17:09:58.205Z",
+ "updatedAt": "2026-11-07T17:40:17.570Z",
  "regular": [
   {
    "name": "",
@@ -51,6 +51,21 @@
      "strk": "W5"
     },
     {
+     "team": "Burlington Bulldogs White",
+     "teamId": "odb-97198",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 7,
+     "w": 5,
+     "l": 1,
+     "t": 1,
+     "pts": 11,
+     "gf": 20,
+     "ga": 15,
+     "diff": 5,
+     "l10": "5-1-1",
+     "strk": "W4"
+    },
+    {
      "team": "Cambridge Hawks",
      "teamId": "odb-97203",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
@@ -69,16 +84,16 @@
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-97205",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 7,
+     "gp": 8,
      "w": 5,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "pts": 10,
-     "gf": 22,
-     "ga": 18,
-     "diff": 4,
-     "l10": "5-2",
-     "strk": "W1"
+     "gf": 24,
+     "ga": 22,
+     "diff": 2,
+     "l10": "5-3",
+     "strk": "L1"
     },
     {
      "team": "North London Nationals",
@@ -94,21 +109,6 @@
      "diff": 5,
      "l10": "4-2-2",
      "strk": "W2"
-    },
-    {
-     "team": "Burlington Bulldogs White",
-     "teamId": "odb-97198",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 6,
-     "w": 4,
-     "l": 1,
-     "t": 1,
-     "pts": 9,
-     "gf": 16,
-     "ga": 13,
-     "diff": 3,
-     "l10": "4-1-1",
-     "strk": "W3"
     },
     {
      "team": "Burlington Bulldogs Blue",
