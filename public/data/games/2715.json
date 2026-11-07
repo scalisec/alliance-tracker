@@ -866,14 +866,17 @@
   "start": "2026-11-07T11:00:00-05:00",
   "away": "Waterloo Wolves",
   "home": "London Bandits",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U11BR39",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3144401
+  }
  },
  {
   "id": 2379405,

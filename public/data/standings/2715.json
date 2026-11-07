@@ -1,6 +1,6 @@
 {
  "divisionId": 2715,
- "updatedAt": "2026-11-07T14:55:35.633Z",
+ "updatedAt": "2026-11-07T17:09:58.205Z",
  "regular": [
   {
    "name": "",
@@ -141,6 +141,21 @@
      "strk": "L1"
     },
     {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-97201",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 7,
+     "w": 2,
+     "l": 5,
+     "t": 0,
+     "pts": 4,
+     "gf": 17,
+     "ga": 22,
+     "diff": -5,
+     "l10": "2-5",
+     "strk": "W1"
+    },
+    {
      "team": "Burlington Raiders",
      "teamId": "odb-97199",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
@@ -156,34 +171,19 @@
      "strk": "L2"
     },
     {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-97201",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 6,
-     "w": 1,
-     "l": 5,
-     "t": 0,
-     "pts": 2,
-     "gf": 11,
-     "ga": 19,
-     "diff": -8,
-     "l10": "1-5",
-     "strk": "L4"
-    },
-    {
      "team": "London Bandits",
      "teamId": "odb-97200",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 7,
+     "gp": 8,
      "w": 1,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 2,
-     "gf": 18,
-     "ga": 40,
-     "diff": -22,
-     "l10": "1-6",
-     "strk": "L1"
+     "gf": 21,
+     "ga": 46,
+     "diff": -25,
+     "l10": "1-7",
+     "strk": "L2"
     },
     {
      "team": "West London Hawks",
