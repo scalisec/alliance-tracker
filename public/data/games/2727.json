@@ -968,14 +968,17 @@
   "start": "2026-11-07T15:30:00-05:00",
   "away": "Kitchener Jr Rangers",
   "home": "London Bandits",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Argyle (B)",
   "code": "U15BR13",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3145240
+  }
  },
  {
   "id": 2378898,
