@@ -665,14 +665,17 @@
   "start": "2026-11-07T17:00:00-05:00",
   "away": "Waterloo Wolves",
   "home": "Sun County Panthers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Essex (Libro)",
   "code": "U11P77",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4370/2026-11-07/17:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3145027
+  }
  },
  {
   "id": 2373645,

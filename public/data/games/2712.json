@@ -1112,14 +1112,17 @@
   "start": "2026-11-07T17:00:00-05:00",
   "away": "North London Nationals",
   "home": "Lambeth Lancers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Lambeth (Lambeth)",
   "code": "U10BRS-115",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15516,
+   "game": 3145386
+  }
  },
  {
   "id": 2408535,
@@ -1127,14 +1130,17 @@
   "start": "2026-11-07T17:30:00-05:00",
   "away": "St. Thomas Jr Stars",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Clearwater (Red)",
   "code": "U10BRS-160",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3145377
+  }
  },
  {
   "id": 2379436,

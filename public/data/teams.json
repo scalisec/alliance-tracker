@@ -272,20 +272,20 @@
   "logo": "logos/2237c5fc46ea.png"
  },
  {
-  "id": "2712:oakridge-aeros",
-  "name": "Oakridge Aeros",
-  "divisionId": 2712,
-  "division": "U10 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/ae847321ae88.png"
- },
- {
   "id": "2712:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2712,
   "division": "U10 BB",
   "association": "Sarnia Minor Hockey",
   "logo": "logos/704c833c6aca.png"
+ },
+ {
+  "id": "2712:oakridge-aeros",
+  "name": "Oakridge Aeros",
+  "divisionId": 2712,
+  "division": "U10 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/ae847321ae88.png"
  },
  {
   "id": "2712:london-bandits",
@@ -384,20 +384,20 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
-  "id": "2713:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2713,
-  "division": "U11 AAA",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
- },
- {
   "id": "2713:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2713,
   "division": "U11 AAA",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
+ },
+ {
+  "id": "2713:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2713,
+  "division": "U11 AAA",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2713:cambridge-hawks",
@@ -2472,6 +2472,14 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
+  "id": "2733:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
+ },
+ {
   "id": "2733:burlington-bulldogs-white",
   "name": "Burlington Bulldogs White",
   "divisionId": 2733,
@@ -2494,14 +2502,6 @@
   "division": "U18 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "logos/49dba036a6a8.png"
- },
- {
-  "id": "2733:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2733:oakridge-aeros",
