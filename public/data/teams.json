@@ -2448,6 +2448,14 @@
   "logo": "logos/612db499a971.png"
  },
  {
+  "id": "2733:burlington-raiders",
+  "name": "Burlington Raiders",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Burlington Raiders Hockey Club",
+  "logo": "logos/8845e5146a9b.png"
+ },
+ {
   "id": "2733:west-london-hawks-black",
   "name": "West London Hawks Black",
   "divisionId": 2733,
@@ -2464,20 +2472,20 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
-  "id": "2733:burlington-raiders",
-  "name": "Burlington Raiders",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Burlington Raiders Hockey Club",
-  "logo": "logos/8845e5146a9b.png"
- },
- {
   "id": "2733:burlington-bulldogs-white",
   "name": "Burlington Bulldogs White",
   "divisionId": 2733,
   "division": "U18 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "logos/49dba036a6a8.png"
+ },
+ {
+  "id": "2733:lambeth-lancers",
+  "name": "Lambeth Lancers",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/97ff93a72d6e.png"
  },
  {
   "id": "2733:burlington-bulldogs-blue",
@@ -2494,14 +2502,6 @@
   "division": "U18 BB",
   "association": "Sarnia Minor Hockey",
   "logo": "logos/704c833c6aca.png"
- },
- {
-  "id": "2733:lambeth-lancers",
-  "name": "Lambeth Lancers",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/97ff93a72d6e.png"
  },
  {
   "id": "2733:oakridge-aeros",

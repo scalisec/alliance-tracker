@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-11-07T03:45:40.885Z",
+ "updatedAt": "2026-11-07T04:25:46.055Z",
  "regular": [
   {
    "name": "",
@@ -96,6 +96,21 @@
      "strk": "W1"
     },
     {
+     "team": "Burlington Raiders",
+     "teamId": "odb-98275",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
+     "gp": 6,
+     "w": 2,
+     "l": 1,
+     "t": 3,
+     "pts": 7,
+     "gf": 17,
+     "ga": 18,
+     "diff": -1,
+     "l10": "2-1-3",
+     "strk": "T2"
+    },
+    {
      "team": "West London Hawks Black",
      "teamId": "odb-97129",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
@@ -126,21 +141,6 @@
      "strk": "L1"
     },
     {
-     "team": "Burlington Raiders",
-     "teamId": "odb-98275",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 5,
-     "w": 2,
-     "l": 1,
-     "t": 2,
-     "pts": 6,
-     "gf": 14,
-     "ga": 15,
-     "diff": -1,
-     "l10": "2-1-2",
-     "strk": "T1"
-    },
-    {
      "team": "Burlington Bulldogs White",
      "teamId": "odb-97127",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
@@ -154,6 +154,21 @@
      "diff": -17,
      "l10": "2-4-1",
      "strk": "W1"
+    },
+    {
+     "team": "Lambeth Lancers",
+     "teamId": "odb-98279",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
+     "gp": 8,
+     "w": 1,
+     "l": 4,
+     "t": 3,
+     "pts": 5,
+     "gf": 16,
+     "ga": 36,
+     "diff": -20,
+     "l10": "1-4-3",
+     "strk": "T1"
     },
     {
      "team": "Burlington Bulldogs Blue",
@@ -184,21 +199,6 @@
      "diff": -16,
      "l10": "1-4-2",
      "strk": "L3"
-    },
-    {
-     "team": "Lambeth Lancers",
-     "teamId": "odb-98279",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-     "gp": 7,
-     "w": 1,
-     "l": 4,
-     "t": 2,
-     "pts": 4,
-     "gf": 13,
-     "ga": 33,
-     "diff": -20,
-     "l10": "1-4-2",
-     "strk": "L1"
     },
     {
      "team": "Oakridge Aeros",
