@@ -1040,14 +1040,17 @@
   "start": "2026-11-07T10:00:00-05:00",
   "away": "Lambton Shores Predators",
   "home": "London Bandits",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U10BRS-132",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3144439
+  }
  },
  {
   "id": 2408522,
