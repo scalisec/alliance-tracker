@@ -1,6 +1,6 @@
 {
  "divisionId": 2710,
- "updatedAt": "2026-11-07T19:10:08.614Z",
+ "updatedAt": "2026-11-07T21:49:32.123Z",
  "regular": [
   {
    "name": "East Division",
@@ -54,16 +54,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-96938",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 7,
+     "gp": 8,
      "w": 1,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 2,
-     "gf": 14,
-     "ga": 51,
-     "diff": -37,
-     "l10": "1-6",
-     "strk": "L4"
+     "gf": 15,
+     "ga": 55,
+     "diff": -40,
+     "l10": "1-7",
+     "strk": "L5"
     },
     {
      "team": "Huron-Perth Lakers",
@@ -146,6 +146,21 @@
      "strk": "L1"
     },
     {
+     "team": "Chatham-Kent Cyclones",
+     "teamId": "odb-96939",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
+     "gp": 10,
+     "w": 2,
+     "l": 8,
+     "t": 0,
+     "pts": 4,
+     "gf": 20,
+     "ga": 83,
+     "diff": -63,
+     "l10": "2-8",
+     "strk": "W1"
+    },
+    {
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-96946",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
@@ -159,21 +174,6 @@
      "diff": -15,
      "l10": "2-5",
      "strk": "L4"
-    },
-    {
-     "team": "Chatham-Kent Cyclones",
-     "teamId": "odb-96939",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
-     "gp": 9,
-     "w": 1,
-     "l": 8,
-     "t": 0,
-     "pts": 2,
-     "gf": 16,
-     "ga": 82,
-     "diff": -66,
-     "l10": "1-8",
-     "strk": "L1"
     }
    ]
   }

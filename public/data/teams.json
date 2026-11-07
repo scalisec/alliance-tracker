@@ -72,20 +72,20 @@
   "logo": "logos/2573db2f4749.png"
  },
  {
-  "id": "2710:windsor-jr-spitfires",
-  "name": "Windsor Jr Spitfires",
-  "divisionId": 2710,
-  "division": "U10 AAA",
-  "association": "Windsor AAA Zone",
-  "logo": "logos/1d06ddd6cd32.png"
- },
- {
   "id": "2710:chatham-kent-cyclones",
   "name": "Chatham-Kent Cyclones",
   "divisionId": 2710,
   "division": "U10 AAA",
   "association": "Chatham-Kent Cyclones",
   "logo": "logos/b0bd0d065caa.png"
+ },
+ {
+  "id": "2710:windsor-jr-spitfires",
+  "name": "Windsor Jr Spitfires",
+  "divisionId": 2710,
+  "division": "U10 AAA",
+  "association": "Windsor AAA Zone",
+  "logo": "logos/1d06ddd6cd32.png"
  },
  {
   "id": "2711:st-thomas-jr-stars",
