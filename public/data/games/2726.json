@@ -830,14 +830,17 @@
   "start": "2026-11-07T16:00:00-05:00",
   "away": "Sarnia Jr. Sting",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Preston Aud (1)",
   "code": "U15S8",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2624/2026-11-07/16:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3144964
+  }
  },
  {
   "id": 2375679,

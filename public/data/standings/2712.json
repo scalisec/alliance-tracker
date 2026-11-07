@@ -1,6 +1,6 @@
 {
  "divisionId": 2712,
- "updatedAt": "2026-11-07T18:30:32.106Z",
+ "updatedAt": "2026-11-07T22:49:44.926Z",
  "regular": [
   {
    "name": "East Division",
@@ -9,16 +9,16 @@
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97184",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 8,
-     "w": 6,
+     "gp": 9,
+     "w": 7,
      "l": 1,
      "t": 1,
-     "pts": 13,
-     "gf": 30,
+     "pts": 15,
+     "gf": 34,
      "ga": 14,
-     "diff": 16,
-     "l10": "6-1-1",
-     "strk": "L1"
+     "diff": 20,
+     "l10": "7-1-1",
+     "strk": "W1"
     },
     {
      "team": "Burlington Raiders",
@@ -114,16 +114,16 @@
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-98280",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 7,
+     "gp": 8,
      "w": 0,
-     "l": 6,
+     "l": 7,
      "t": 1,
      "pts": 1,
      "gf": 9,
-     "ga": 27,
-     "diff": -18,
-     "l10": "0-6-1",
-     "strk": "L4"
+     "ga": 31,
+     "diff": -22,
+     "l10": "0-7-1",
+     "strk": "L5"
     }
    ]
   },
