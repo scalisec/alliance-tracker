@@ -1,6 +1,6 @@
 {
  "divisionId": 2719,
- "updatedAt": "2026-11-06T01:31:44.638Z",
+ "updatedAt": "2026-11-07T02:14:57.746Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,31 @@
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-96975",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 8,
+     "gp": 9,
      "w": 4,
-     "l": 0,
+     "l": 1,
      "t": 4,
      "pts": 12,
-     "gf": 22,
-     "ga": 11,
-     "diff": 11,
-     "l10": "4-0-4",
-     "strk": "T2"
+     "gf": 25,
+     "ga": 16,
+     "diff": 9,
+     "l10": "4-1-4",
+     "strk": "L1"
+    },
+    {
+     "team": "Sun County Panthers",
+     "teamId": "odb-96977",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
+     "gp": 7,
+     "w": 5,
+     "l": 1,
+     "t": 1,
+     "pts": 11,
+     "gf": 36,
+     "ga": 14,
+     "diff": 22,
+     "l10": "5-1-1",
+     "strk": "W3"
     },
     {
      "team": "Brantford 99ers",
@@ -49,21 +64,6 @@
      "diff": 9,
      "l10": "5-3",
      "strk": "L1"
-    },
-    {
-     "team": "Sun County Panthers",
-     "teamId": "odb-96977",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 6,
-     "w": 4,
-     "l": 1,
-     "t": 1,
-     "pts": 9,
-     "gf": 31,
-     "ga": 11,
-     "diff": 20,
-     "l10": "4-1-1",
-     "strk": "W2"
     },
     {
      "team": "London Jr Knights",

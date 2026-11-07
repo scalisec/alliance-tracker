@@ -992,20 +992,20 @@
   "logo": "logos/bcc449715362.png"
  },
  {
-  "id": "2719:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2719,
-  "division": "U13 AAA",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
- },
- {
   "id": "2719:sun-county-panthers",
   "name": "Sun County Panthers",
   "divisionId": 2719,
   "division": "U13 AAA",
   "association": "Sun County Panthers",
   "logo": "logos/8998f15cb7f8.png"
+ },
+ {
+  "id": "2719:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2719,
+  "division": "U13 AAA",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2719:london-jr-knights",
