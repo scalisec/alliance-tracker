@@ -1262,14 +1262,17 @@
   "start": "2026-11-07T12:00:00-05:00",
   "away": "West London Hawks",
   "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Mr Lube + Tires (Red)",
   "code": "U12BR63",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/241/2026-11-07/12:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3099124
+  }
  },
  {
   "id": 2377916,

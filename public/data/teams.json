@@ -920,6 +920,14 @@
   "logo": "logos/41275c8a7241.png"
  },
  {
+  "id": "2718:west-london-hawks",
+  "name": "West London Hawks",
+  "divisionId": 2718,
+  "division": "U12 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/2237c5fc46ea.png"
+ },
+ {
   "id": "2718:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2718,
@@ -934,14 +942,6 @@
   "division": "U12 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "logos/49dba036a6a8.png"
- },
- {
-  "id": "2718:west-london-hawks",
-  "name": "West London Hawks",
-  "divisionId": 2718,
-  "division": "U12 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/2237c5fc46ea.png"
  },
  {
   "id": "2718:burlington-raiders",
