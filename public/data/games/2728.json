@@ -833,14 +833,17 @@
   "start": "2026-11-08T16:15:00-05:00",
   "away": "Elgin-Middlesex Canucks",
   "home": "Chatham-Kent Cyclones",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Memorial (Memorial)",
   "code": "U16P93",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-11-08/16:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3150463
+  }
  },
  {
   "id": 2375246,
