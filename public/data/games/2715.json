@@ -992,14 +992,17 @@
   "start": "2026-11-08T15:30:00-05:00",
   "away": "Waterloo Wolves",
   "home": "West London Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 8,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Bostwick (B)",
   "code": "U11BR56",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5026/2026-11-08/15:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3148235
+  }
  },
  {
   "id": 2379375,
