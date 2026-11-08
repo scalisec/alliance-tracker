@@ -1,6 +1,6 @@
 {
  "divisionId": 2713,
- "updatedAt": "2026-11-08T00:25:36.002Z",
+ "updatedAt": "2026-11-08T18:41:28.406Z",
  "regular": [
   {
    "name": "East Division",
@@ -54,31 +54,31 @@
      "team": "Brantford 99ers",
      "teamId": "odb-96947",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 7,
+     "gp": 8,
      "w": 2,
-     "l": 4,
+     "l": 5,
      "t": 1,
      "pts": 5,
-     "gf": 18,
-     "ga": 28,
-     "diff": -10,
-     "l10": "2-4-1",
-     "strk": "L1"
+     "gf": 19,
+     "ga": 32,
+     "diff": -13,
+     "l10": "2-5-1",
+     "strk": "L2"
     },
     {
      "team": "Cambridge Hawks",
      "teamId": "odb-96948",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 6,
-     "w": 1,
+     "gp": 7,
+     "w": 2,
      "l": 5,
      "t": 0,
-     "pts": 2,
-     "gf": 10,
-     "ga": 26,
-     "diff": -16,
-     "l10": "1-5",
-     "strk": "L3"
+     "pts": 4,
+     "gf": 14,
+     "ga": 27,
+     "diff": -13,
+     "l10": "2-5",
+     "strk": "W1"
     }
    ]
   },
