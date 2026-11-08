@@ -112,6 +112,14 @@
   "logo": "logos/704c833c6aca.png"
  },
  {
+  "id": "2711:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2711,
+  "division": "U10 AA-A",
+  "association": "Woodstock Minor Hockey",
+  "logo": "logos/6c3aa7a1db2c.png"
+ },
+ {
   "id": "2711:mt-brydges-cougars",
   "name": "Mt. Brydges Cougars",
   "divisionId": 2711,
@@ -126,14 +134,6 @@
   "division": "U10 AA-A",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
- },
- {
-  "id": "2711:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2711,
-  "division": "U10 AA-A",
-  "association": "Woodstock Minor Hockey",
-  "logo": "logos/6c3aa7a1db2c.png"
  },
  {
   "id": "2711:london-jr-knights-green",
@@ -920,6 +920,14 @@
   "logo": "logos/41275c8a7241.png"
  },
  {
+  "id": "2718:burlington-raiders",
+  "name": "Burlington Raiders",
+  "divisionId": 2718,
+  "division": "U12 BB",
+  "association": "Burlington Raiders Hockey Club",
+  "logo": "logos/8845e5146a9b.png"
+ },
+ {
   "id": "2718:west-london-hawks",
   "name": "West London Hawks",
   "divisionId": 2718,
@@ -942,14 +950,6 @@
   "division": "U12 BB",
   "association": "Burlington Lions Optimist Minor Hockey",
   "logo": "logos/49dba036a6a8.png"
- },
- {
-  "id": "2718:burlington-raiders",
-  "name": "Burlington Raiders",
-  "divisionId": 2718,
-  "division": "U12 BB",
-  "association": "Burlington Raiders Hockey Club",
-  "logo": "logos/8845e5146a9b.png"
  },
  {
   "id": "2718:london-bandits",

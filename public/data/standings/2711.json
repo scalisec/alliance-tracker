@@ -1,6 +1,6 @@
 {
  "divisionId": 2711,
- "updatedAt": "2026-11-08T19:41:31.858Z",
+ "updatedAt": "2026-11-08T22:46:47.134Z",
  "regular": [
   {
    "name": "",
@@ -51,6 +51,21 @@
      "strk": "T1"
     },
     {
+     "team": "Woodstock Jr Navy Vets",
+     "teamId": "odb-97035",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+     "gp": 8,
+     "w": 5,
+     "l": 2,
+     "t": 1,
+     "pts": 11,
+     "gf": 31,
+     "ga": 24,
+     "diff": 7,
+     "l10": "5-2-1",
+     "strk": "W1"
+    },
+    {
      "team": "Mt. Brydges Cougars",
      "teamId": "odb-97293",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
@@ -81,34 +96,19 @@
      "strk": "W4"
     },
     {
-     "team": "Woodstock Jr Navy Vets",
-     "teamId": "odb-97035",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 7,
-     "w": 4,
-     "l": 2,
-     "t": 1,
-     "pts": 9,
-     "gf": 28,
-     "ga": 23,
-     "diff": 5,
-     "l10": "4-2-1",
-     "strk": "L1"
-    },
-    {
      "team": "London Jr Knights Green",
      "teamId": "odb-97030",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 6,
+     "gp": 7,
      "w": 4,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "pts": 8,
-     "gf": 30,
-     "ga": 15,
-     "diff": 15,
-     "l10": "4-2",
-     "strk": "W1"
+     "gf": 31,
+     "ga": 18,
+     "diff": 13,
+     "l10": "4-3",
+     "strk": "L1"
     },
     {
      "team": "Kitchener Jr Rangers Red",

@@ -1,6 +1,6 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-11-08T22:08:36.566Z",
+ "updatedAt": "2026-11-08T22:47:36.875Z",
  "regular": [
   {
    "name": "",
@@ -141,6 +141,21 @@
      "strk": "L1"
     },
     {
+     "team": "Burlington Raiders",
+     "teamId": "odb-97216",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
+     "gp": 9,
+     "w": 2,
+     "l": 4,
+     "t": 3,
+     "pts": 7,
+     "gf": 19,
+     "ga": 30,
+     "diff": -11,
+     "l10": "2-4-3",
+     "strk": "W1"
+    },
+    {
      "team": "West London Hawks",
      "teamId": "odb-97215",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
@@ -186,21 +201,6 @@
      "strk": "L1"
     },
     {
-     "team": "Burlington Raiders",
-     "teamId": "odb-97216",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 8,
-     "w": 1,
-     "l": 4,
-     "t": 3,
-     "pts": 5,
-     "gf": 13,
-     "ga": 29,
-     "diff": -16,
-     "l10": "1-4-3",
-     "strk": "T1"
-    },
-    {
      "team": "London Bandits",
      "teamId": "odb-97211",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
@@ -219,16 +219,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-97219",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 8,
+     "gp": 9,
      "w": 1,
-     "l": 7,
+     "l": 8,
      "t": 0,
      "pts": 2,
-     "gf": 11,
-     "ga": 38,
-     "diff": -27,
-     "l10": "1-7",
-     "strk": "L3"
+     "gf": 12,
+     "ga": 44,
+     "diff": -32,
+     "l10": "1-8",
+     "strk": "L4"
     },
     {
      "team": "Stratford Warriors",
