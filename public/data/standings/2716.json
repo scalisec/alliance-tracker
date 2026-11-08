@@ -1,6 +1,6 @@
 {
  "divisionId": 2716,
- "updatedAt": "2026-11-01T21:08:31.488Z",
+ "updatedAt": "2026-11-08T15:11:54.175Z",
  "regular": [
   {
    "name": "",
@@ -54,16 +54,16 @@
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-96963",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
-     "gp": 7,
-     "w": 3,
+     "gp": 8,
+     "w": 4,
      "l": 4,
      "t": 0,
-     "pts": 6,
-     "gf": 21,
-     "ga": 26,
-     "diff": -5,
-     "l10": "3-4",
-     "strk": "L4"
+     "pts": 8,
+     "gf": 30,
+     "ga": 27,
+     "diff": 3,
+     "l10": "4-4",
+     "strk": "W1"
     },
     {
      "team": "Brantford 99ers",
@@ -144,16 +144,16 @@
      "team": "Sun County Panthers",
      "teamId": "odb-96965",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 6,
+     "gp": 7,
      "w": 0,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 0,
-     "gf": 9,
-     "ga": 41,
-     "diff": -32,
-     "l10": "0-6",
-     "strk": "L6"
+     "gf": 10,
+     "ga": 50,
+     "diff": -40,
+     "l10": "0-7",
+     "strk": "L7"
     }
    ]
   }

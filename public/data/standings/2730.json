@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-11-08T02:09:12.149Z",
+ "updatedAt": "2026-11-08T15:17:54.654Z",
  "regular": [
   {
    "name": "",
@@ -126,21 +126,6 @@
      "strk": "W1"
     },
     {
-     "team": "Kitchener Jr Rangers Blue",
-     "teamId": "odb-97271",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 7,
-     "w": 4,
-     "l": 3,
-     "t": 0,
-     "pts": 8,
-     "gf": 14,
-     "ga": 20,
-     "diff": -6,
-     "l10": "4-3",
-     "strk": "W1"
-    },
-    {
      "team": "Cambridge Hawks",
      "teamId": "odb-97270",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
@@ -156,6 +141,36 @@
      "strk": "L1"
     },
     {
+     "team": "Burlington Bulldogs White",
+     "teamId": "odb-97269",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 11,
+     "w": 2,
+     "l": 5,
+     "t": 4,
+     "pts": 8,
+     "gf": 28,
+     "ga": 34,
+     "diff": -6,
+     "l10": "2-4-4",
+     "strk": "W1"
+    },
+    {
+     "team": "Kitchener Jr Rangers Blue",
+     "teamId": "odb-97271",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 7,
+     "w": 4,
+     "l": 3,
+     "t": 0,
+     "pts": 8,
+     "gf": 14,
+     "ga": 20,
+     "diff": -6,
+     "l10": "4-3",
+     "strk": "W1"
+    },
+    {
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-98142",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
@@ -169,21 +184,6 @@
      "diff": -11,
      "l10": "2-5-2",
      "strk": "L2"
-    },
-    {
-     "team": "Burlington Bulldogs White",
-     "teamId": "odb-97269",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 10,
-     "w": 1,
-     "l": 5,
-     "t": 4,
-     "pts": 6,
-     "gf": 25,
-     "ga": 33,
-     "diff": -8,
-     "l10": "1-5-4",
-     "strk": "T1"
     },
     {
      "team": "Burlington Bulldogs Blue",
@@ -204,16 +204,16 @@
      "team": "Lambeth Lancers",
      "teamId": "odb-97283",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100088.png",
-     "gp": 9,
+     "gp": 10,
      "w": 2,
-     "l": 7,
+     "l": 8,
      "t": 0,
      "pts": 4,
-     "gf": 14,
-     "ga": 30,
-     "diff": -16,
-     "l10": "2-7",
-     "strk": "L5"
+     "gf": 15,
+     "ga": 33,
+     "diff": -18,
+     "l10": "2-8",
+     "strk": "L6"
     },
     {
      "team": "West London Hawks",

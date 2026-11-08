@@ -1,6 +1,6 @@
 {
  "divisionId": 2728,
- "updatedAt": "2026-11-07T21:40:08.217Z",
+ "updatedAt": "2026-11-08T15:17:03.383Z",
  "regular": [
   {
    "name": "East Division",
@@ -39,16 +39,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-97005",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 7,
+     "gp": 8,
      "w": 2,
-     "l": 3,
+     "l": 4,
      "t": 2,
      "pts": 6,
      "gf": 19,
-     "ga": 25,
-     "diff": -6,
-     "l10": "2-3-2",
-     "strk": "L1"
+     "ga": 30,
+     "diff": -11,
+     "l10": "2-4-2",
+     "strk": "L2"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -104,16 +104,16 @@
      "team": "London Jr Knights",
      "teamId": "odb-97012",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 6,
-     "w": 5,
+     "gp": 7,
+     "w": 6,
      "l": 0,
      "t": 1,
-     "pts": 11,
-     "gf": 22,
+     "pts": 13,
+     "gf": 27,
      "ga": 12,
-     "diff": 10,
-     "l10": "5-0-1",
-     "strk": "W2"
+     "diff": 15,
+     "l10": "6-0-1",
+     "strk": "W3"
     },
     {
      "team": "Chatham-Kent Cyclones",

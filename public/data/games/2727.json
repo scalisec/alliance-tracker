@@ -917,14 +917,17 @@
   "start": "2026-11-06T20:15:00-05:00",
   "away": "Brantford 99ers",
   "home": "Lambeth Lancers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 8,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Lambeth (Lambeth)",
   "code": "U15BR51",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3143703
+  }
  },
  {
   "id": 2378847,
