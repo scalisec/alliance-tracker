@@ -1,6 +1,6 @@
 {
  "divisionId": 2726,
- "updatedAt": "2026-11-07T23:00:47.825Z",
+ "updatedAt": "2026-11-08T01:57:44.984Z",
  "regular": [
   {
    "name": "",
@@ -96,21 +96,6 @@
      "strk": "W1"
     },
     {
-     "team": "Cambridge Hawks",
-     "teamId": "odb-97091",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 8,
-     "w": 4,
-     "l": 4,
-     "t": 0,
-     "pts": 8,
-     "gf": 22,
-     "ga": 28,
-     "diff": -6,
-     "l10": "4-4",
-     "strk": "W1"
-    },
-    {
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97097",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
@@ -126,6 +111,36 @@
      "strk": "L1"
     },
     {
+     "team": "Cambridge Hawks",
+     "teamId": "odb-97091",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "gp": 8,
+     "w": 4,
+     "l": 4,
+     "t": 0,
+     "pts": 8,
+     "gf": 22,
+     "ga": 28,
+     "diff": -6,
+     "l10": "4-4",
+     "strk": "W1"
+    },
+    {
+     "team": "Kitchener Jr Rangers Blue",
+     "teamId": "odb-97301",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 9,
+     "w": 4,
+     "l": 5,
+     "t": 0,
+     "pts": 8,
+     "gf": 23,
+     "ga": 36,
+     "diff": -13,
+     "l10": "4-5",
+     "strk": "W2"
+    },
+    {
      "team": "London Jr Knights Green",
      "teamId": "odb-97095",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
@@ -139,21 +154,6 @@
      "diff": 8,
      "l10": "3-2-1",
      "strk": "T1"
-    },
-    {
-     "team": "Kitchener Jr Rangers Blue",
-     "teamId": "odb-97301",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 8,
-     "w": 3,
-     "l": 5,
-     "t": 0,
-     "pts": 6,
-     "gf": 18,
-     "ga": 33,
-     "diff": -15,
-     "l10": "3-5",
-     "strk": "W1"
     },
     {
      "team": "Woodstock Jr Navy Vets",
@@ -174,16 +174,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97327",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 6,
+     "gp": 7,
      "w": 1,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 2,
-     "gf": 10,
-     "ga": 18,
-     "diff": -8,
-     "l10": "1-5",
-     "strk": "L4"
+     "gf": 13,
+     "ga": 23,
+     "diff": -10,
+     "l10": "1-6",
+     "strk": "L5"
     },
     {
      "team": "Stratford Warriors",
