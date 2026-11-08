@@ -842,14 +842,17 @@
   "start": "2026-11-08T16:15:00-05:00",
   "away": "Sarnia Jr. Sting",
   "home": "Woodstock Jr Navy Vets",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Reeves CC (Red)",
   "code": "U13S1",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4269/2026-11-08/16:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3148278
+  }
  },
  {
   "id": 2375496,
