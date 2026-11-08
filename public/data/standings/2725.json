@@ -1,6 +1,6 @@
 {
  "divisionId": 2725,
- "updatedAt": "2026-11-05T01:27:48.133Z",
+ "updatedAt": "2026-11-08T00:17:10.080Z",
  "regular": [
   {
    "name": "",
@@ -36,21 +36,6 @@
      "strk": "W7"
     },
     {
-     "team": "Kitchener Jr Rangers",
-     "teamId": "odb-96998",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 9,
-     "w": 6,
-     "l": 2,
-     "t": 1,
-     "pts": 13,
-     "gf": 34,
-     "ga": 14,
-     "diff": 20,
-     "l10": "6-2-1",
-     "strk": "W3"
-    },
-    {
      "team": "Elgin-Middlesex Canucks",
      "teamId": "odb-96996",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
@@ -66,19 +51,34 @@
      "strk": "W4"
     },
     {
+     "team": "Kitchener Jr Rangers",
+     "teamId": "odb-96998",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 9,
+     "w": 6,
+     "l": 2,
+     "t": 1,
+     "pts": 13,
+     "gf": 34,
+     "ga": 14,
+     "diff": 20,
+     "l10": "6-2-1",
+     "strk": "W3"
+    },
+    {
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96997",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 11,
-     "w": 5,
+     "gp": 12,
+     "w": 6,
      "l": 5,
      "t": 1,
-     "pts": 11,
-     "gf": 33,
+     "pts": 13,
+     "gf": 35,
      "ga": 28,
-     "diff": 5,
-     "l10": "4-5-1",
-     "strk": "W1"
+     "diff": 7,
+     "l10": "5-4-1",
+     "strk": "W2"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",
@@ -174,16 +174,16 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-97003",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 9,
+     "gp": 10,
      "w": 0,
-     "l": 8,
+     "l": 9,
      "t": 1,
      "pts": 1,
      "gf": 9,
-     "ga": 51,
-     "diff": -42,
-     "l10": "0-8-1",
-     "strk": "T1"
+     "ga": 53,
+     "diff": -44,
+     "l10": "0-9-1",
+     "strk": "L1"
     }
    ]
   }
