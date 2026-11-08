@@ -701,14 +701,17 @@
   "start": "2026-11-08T15:00:00-05:00",
   "away": "Waterloo Wolves",
   "home": "Chatham-Kent Cyclones",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Memorial (Memorial)",
   "code": "U11P131",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4507/2026-11-08/15:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3148510
+  }
  },
  {
   "id": 2373724,
