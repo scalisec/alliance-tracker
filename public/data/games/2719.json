@@ -857,14 +857,17 @@
   "start": "2026-11-08T14:30:00-05:00",
   "away": "Elgin-Middlesex Canucks",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Civic Centre (Civic Centre)",
   "code": "U13P171",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3148427
+  }
  },
  {
   "id": 2374615,

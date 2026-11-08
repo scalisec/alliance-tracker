@@ -984,20 +984,20 @@
   "logo": "logos/e85b73e63ae2.png"
  },
  {
-  "id": "2719:sarnia-lambton-jr-sting",
-  "name": "Sarnia-Lambton Jr Sting",
-  "divisionId": 2719,
-  "division": "U13 AAA",
-  "association": "Lambton Jr Sting",
-  "logo": "logos/bcc449715362.png"
- },
- {
   "id": "2719:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2719,
   "division": "U13 AAA",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
+ },
+ {
+  "id": "2719:sarnia-lambton-jr-sting",
+  "name": "Sarnia-Lambton Jr Sting",
+  "divisionId": 2719,
+  "division": "U13 AAA",
+  "association": "Lambton Jr Sting",
+  "logo": "logos/bcc449715362.png"
  },
  {
   "id": "2719:sun-county-panthers",
