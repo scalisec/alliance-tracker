@@ -815,14 +815,17 @@
   "start": "2026-11-07T20:00:00-05:00",
   "away": "London Jr Knights",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Gretzky Center (#1)",
   "code": "U16P63",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-11-07/20:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3146674
+  }
  },
  {
   "id": 2375171,

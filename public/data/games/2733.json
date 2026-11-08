@@ -1094,14 +1094,17 @@
   "start": "2026-11-07T20:00:00-05:00",
   "away": "Kitchener Jr Rangers",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Civic Centre (Civic Centre)",
   "code": "U18BR57",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3146642
+  }
  },
  {
   "id": 2379096,

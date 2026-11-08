@@ -2448,6 +2448,14 @@
   "logo": "logos/612db499a971.png"
  },
  {
+  "id": "2733:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
+ },
+ {
   "id": "2733:burlington-raiders",
   "name": "Burlington Raiders",
   "divisionId": 2733,
@@ -2462,14 +2470,6 @@
   "division": "U18 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/2237c5fc46ea.png"
- },
- {
-  "id": "2733:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2733:sarnia-jr-sting",
