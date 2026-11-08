@@ -1,6 +1,6 @@
 {
  "divisionId": 2725,
- "updatedAt": "2026-11-08T00:17:10.080Z",
+ "updatedAt": "2026-11-08T02:46:54.636Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-96993",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 9,
-     "w": 9,
+     "gp": 10,
+     "w": 10,
      "l": 0,
      "t": 0,
-     "pts": 18,
-     "gf": 39,
+     "pts": 20,
+     "gf": 41,
      "ga": 11,
-     "diff": 28,
-     "l10": "9-0",
-     "strk": "W9"
+     "diff": 30,
+     "l10": "10-0",
+     "strk": "W10"
     },
     {
      "team": "Chatham-Kent Cyclones",
@@ -99,16 +99,16 @@
      "team": "Sun County Panthers",
      "teamId": "odb-97001",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 11,
+     "gp": 12,
      "w": 3,
-     "l": 5,
+     "l": 6,
      "t": 3,
      "pts": 9,
      "gf": 23,
-     "ga": 40,
-     "diff": -17,
-     "l10": "2-5-3",
-     "strk": "T1"
+     "ga": 42,
+     "diff": -19,
+     "l10": "1-6-3",
+     "strk": "L1"
     },
     {
      "team": "Sault Major Jr Greyhounds",
