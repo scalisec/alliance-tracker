@@ -836,14 +836,17 @@
   "start": "2026-11-07T17:45:00-05:00",
   "away": "Waterloo Wolves",
   "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Mr Lube + Tires (Red)",
   "code": "U14S36",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/241/2026-11-07/17:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3146648
+  }
  },
  {
   "id": 2375632,
@@ -851,14 +854,17 @@
   "start": "2026-11-07T17:50:00-05:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "London Jr Knights White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Nichols (C)",
   "code": "U14S34",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3146649
+  }
  },
  {
   "id": 2375643,

@@ -1,6 +1,6 @@
 {
  "divisionId": 2729,
- "updatedAt": "2026-11-07T22:41:42.496Z",
+ "updatedAt": "2026-11-08T00:28:05.407Z",
  "regular": [
   {
    "name": "",
@@ -144,16 +144,16 @@
      "team": "Kitchener Jr Rangers Blue",
      "teamId": "odb-97302",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 9,
+     "gp": 10,
      "w": 1,
-     "l": 7,
+     "l": 8,
      "t": 1,
      "pts": 3,
-     "gf": 18,
-     "ga": 45,
-     "diff": -27,
-     "l10": "1-7-1",
-     "strk": "L2"
+     "gf": 20,
+     "ga": 48,
+     "diff": -28,
+     "l10": "1-8-1",
+     "strk": "L3"
     },
     {
      "team": "London Jr Knights White",
@@ -174,16 +174,16 @@
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-97110",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 7,
-     "w": 0,
+     "gp": 8,
+     "w": 1,
      "l": 7,
      "t": 0,
-     "pts": 0,
-     "gf": 13,
-     "ga": 34,
-     "diff": -21,
-     "l10": "0-7",
-     "strk": "L7"
+     "pts": 2,
+     "gf": 16,
+     "ga": 36,
+     "diff": -20,
+     "l10": "1-7",
+     "strk": "W1"
     }
    ]
   }

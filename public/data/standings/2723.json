@@ -1,6 +1,6 @@
 {
  "divisionId": 2723,
- "updatedAt": "2026-11-02T00:46:35.140Z",
+ "updatedAt": "2026-11-08T00:27:07.327Z",
  "regular": [
   {
    "name": "",
@@ -51,6 +51,21 @@
      "strk": "W3"
     },
     {
+     "team": "Woodstock Jr Navy Vets",
+     "teamId": "odb-97087",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+     "gp": 7,
+     "w": 5,
+     "l": 2,
+     "t": 0,
+     "pts": 10,
+     "gf": 36,
+     "ga": 19,
+     "diff": 17,
+     "l10": "5-2",
+     "strk": "W1"
+    },
+    {
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97088",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
@@ -69,16 +84,16 @@
      "team": "London Jr Knights White",
      "teamId": "odb-97083",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 8,
+     "gp": 9,
      "w": 4,
-     "l": 3,
+     "l": 4,
      "t": 1,
      "pts": 9,
-     "gf": 26,
-     "ga": 21,
-     "diff": 5,
-     "l10": "4-3-1",
-     "strk": "L2"
+     "gf": 29,
+     "ga": 27,
+     "diff": 2,
+     "l10": "4-4-1",
+     "strk": "L3"
     },
     {
      "team": "Mt. Brydges Cougars",
@@ -94,21 +109,6 @@
      "diff": 6,
      "l10": "4-2",
      "strk": "W3"
-    },
-    {
-     "team": "Woodstock Jr Navy Vets",
-     "teamId": "odb-97087",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 6,
-     "w": 4,
-     "l": 2,
-     "t": 0,
-     "pts": 8,
-     "gf": 30,
-     "ga": 16,
-     "diff": 14,
-     "l10": "4-2",
-     "strk": "L1"
     },
     {
      "team": "Stratford Warriors",
@@ -174,31 +174,31 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97086",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 9,
-     "w": 0,
+     "gp": 10,
+     "w": 1,
      "l": 9,
      "t": 0,
-     "pts": 0,
-     "gf": 11,
-     "ga": 36,
-     "diff": -25,
-     "l10": "0-9",
-     "strk": "L9"
+     "pts": 2,
+     "gf": 17,
+     "ga": 37,
+     "diff": -20,
+     "l10": "1-9",
+     "strk": "W1"
     },
     {
      "team": "Burlington Raiders",
      "teamId": "odb-97089",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 7,
+     "gp": 8,
      "w": 0,
-     "l": 7,
+     "l": 8,
      "t": 0,
      "pts": 0,
-     "gf": 4,
-     "ga": 65,
-     "diff": -61,
-     "l10": "0-7",
-     "strk": "L7"
+     "gf": 5,
+     "ga": 71,
+     "diff": -66,
+     "l10": "0-8",
+     "strk": "L8"
     }
    ]
   }

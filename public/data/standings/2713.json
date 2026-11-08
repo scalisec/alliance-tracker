@@ -1,6 +1,6 @@
 {
  "divisionId": 2713,
- "updatedAt": "2026-11-07T23:41:01.387Z",
+ "updatedAt": "2026-11-08T00:25:36.002Z",
  "regular": [
   {
    "name": "East Division",
@@ -9,16 +9,16 @@
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96951",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 8,
-     "w": 5,
+     "gp": 9,
+     "w": 6,
      "l": 2,
      "t": 1,
-     "pts": 11,
-     "gf": 36,
-     "ga": 25,
-     "diff": 11,
-     "l10": "5-2-1",
-     "strk": "W2"
+     "pts": 13,
+     "gf": 39,
+     "ga": 27,
+     "diff": 12,
+     "l10": "6-2-1",
+     "strk": "W3"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -54,16 +54,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-96947",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 6,
+     "gp": 7,
      "w": 2,
-     "l": 3,
+     "l": 4,
      "t": 1,
      "pts": 5,
-     "gf": 16,
-     "ga": 25,
-     "diff": -9,
-     "l10": "2-3-1",
-     "strk": "W2"
+     "gf": 18,
+     "ga": 28,
+     "diff": -10,
+     "l10": "2-4-1",
+     "strk": "L1"
     },
     {
      "team": "Cambridge Hawks",

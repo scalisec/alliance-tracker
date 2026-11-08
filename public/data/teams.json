@@ -1408,6 +1408,14 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
+  "id": "2723:woodstock-jr-navy-vets",
+  "name": "Woodstock Jr Navy Vets",
+  "divisionId": 2723,
+  "division": "U14 AA-A",
+  "association": "Woodstock Minor Hockey",
+  "logo": "logos/6c3aa7a1db2c.png"
+ },
+ {
   "id": "2723:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2723,
@@ -1430,14 +1438,6 @@
   "division": "U14 AA-A",
   "association": null,
   "logo": "logos/0f4ddfdee820.png"
- },
- {
-  "id": "2723:woodstock-jr-navy-vets",
-  "name": "Woodstock Jr Navy Vets",
-  "divisionId": 2723,
-  "division": "U14 AA-A",
-  "association": "Woodstock Minor Hockey",
-  "logo": "logos/6c3aa7a1db2c.png"
  },
  {
   "id": "2723:stratford-warriors",
