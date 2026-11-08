@@ -875,14 +875,17 @@
   "start": "2026-11-08T14:30:00-05:00",
   "away": "St. Thomas Jr Stars",
   "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Mr Lube + Tires (Black)",
   "code": "U12S62",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/242/2026-11-08/14:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3148614
+  }
  },
  {
   "id": 2375443,

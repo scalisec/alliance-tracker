@@ -995,14 +995,17 @@
   "start": "2026-11-08T14:45:00-05:00",
   "away": "Huron-Perth Lakers",
   "home": "Waterloo Wolves",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Rec Complex (Rec Complex)",
   "code": "U14P98",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4592/2026-11-08/14:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3148215
+  }
  },
  {
   "id": 2374753,

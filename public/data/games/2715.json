@@ -974,14 +974,17 @@
   "start": "2026-11-08T15:15:00-05:00",
   "away": "Oakridge Aeros",
   "home": "Burlington Bulldogs White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Mountainside (Mountainside)",
   "code": "U11BR35",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4336/2026-11-08/15:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3148234
+  }
  },
  {
   "id": 2379402,

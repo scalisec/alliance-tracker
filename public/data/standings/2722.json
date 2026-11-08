@@ -1,39 +1,39 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-11-08T15:14:28.934Z",
+ "updatedAt": "2026-11-08T21:28:48.081Z",
  "regular": [
   {
    "name": "",
    "rows": [
     {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-96990",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 9,
-     "w": 9,
-     "l": 0,
-     "t": 0,
-     "pts": 18,
-     "gf": 54,
-     "ga": 4,
-     "diff": 50,
-     "l10": "9-0",
-     "strk": "W9"
-    },
-    {
      "team": "Huron-Perth Lakers",
      "teamId": "odb-96985",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 11,
-     "w": 8,
+     "gp": 12,
+     "w": 9,
      "l": 1,
      "t": 2,
+     "pts": 20,
+     "gf": 55,
+     "ga": 17,
+     "diff": 38,
+     "l10": "8-1-1",
+     "strk": "W2"
+    },
+    {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-96990",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 10,
+     "w": 9,
+     "l": 1,
+     "t": 0,
      "pts": 18,
      "gf": 54,
-     "ga": 17,
-     "diff": 37,
-     "l10": "8-1-1",
-     "strk": "W1"
+     "ga": 5,
+     "diff": 49,
+     "l10": "9-1",
+     "strk": "L1"
     },
     {
      "team": "Windsor Jr Spitfires",

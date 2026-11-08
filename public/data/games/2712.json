@@ -1184,14 +1184,17 @@
   "start": "2026-11-08T14:45:00-05:00",
   "away": "Sarnia Jr. Sting",
   "home": "Lambton Shores Predators",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Forest (Amtelecom) (Forest (Amtelecom))",
   "code": "U10BRS-12",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15516,
+   "game": 3148325
+  }
  },
  {
   "id": 2379456,
