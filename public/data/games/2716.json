@@ -632,14 +632,17 @@
   "start": "2026-11-07T18:30:00-05:00",
   "away": "Sun County Panthers",
   "home": "Sarnia-Lambton Jr Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 9,
+  "status": "final",
   "venue": "Clearwater (Blue)",
   "code": "U12P112",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3146632
+  }
  },
  {
   "id": 2374280,

@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-11-08T00:37:27.149Z",
+ "updatedAt": "2026-11-08T02:09:12.149Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97274",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 8,
-     "w": 7,
+     "gp": 9,
+     "w": 8,
      "l": 0,
      "t": 1,
-     "pts": 15,
-     "gf": 37,
+     "pts": 17,
+     "gf": 52,
      "ga": 12,
-     "diff": 25,
-     "l10": "7-0-1",
-     "strk": "W6"
+     "diff": 40,
+     "l10": "8-0-1",
+     "strk": "W7"
     },
     {
      "team": "Kitchener Jr Rangers Red",
@@ -234,16 +234,16 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97279",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 8,
+     "gp": 9,
      "w": 0,
-     "l": 7,
+     "l": 8,
      "t": 1,
      "pts": 1,
      "gf": 12,
-     "ga": 50,
-     "diff": -38,
-     "l10": "0-7-1",
-     "strk": "L4"
+     "ga": 65,
+     "diff": -53,
+     "l10": "0-8-1",
+     "strk": "L5"
     }
    ]
   }
