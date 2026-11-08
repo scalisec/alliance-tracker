@@ -1,6 +1,6 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-11-08T20:12:20.813Z",
+ "updatedAt": "2026-11-08T20:44:05.081Z",
  "regular": [
   {
    "name": "",
@@ -66,6 +66,21 @@
      "strk": "L1"
     },
     {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-97254",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 10,
+     "w": 6,
+     "l": 3,
+     "t": 1,
+     "pts": 13,
+     "gf": 28,
+     "ga": 28,
+     "diff": 0,
+     "l10": "6-3-1",
+     "strk": "W3"
+    },
+    {
      "team": "Brantford 99ers",
      "teamId": "odb-97250",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
@@ -81,34 +96,19 @@
      "strk": "W2"
     },
     {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-97254",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 9,
-     "w": 5,
-     "l": 3,
-     "t": 1,
-     "pts": 11,
-     "gf": 25,
-     "ga": 27,
-     "diff": -2,
-     "l10": "5-3-1",
-     "strk": "W2"
-    },
-    {
      "team": "North London Nationals",
      "teamId": "odb-97256",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 8,
+     "gp": 9,
      "w": 3,
-     "l": 2,
+     "l": 3,
      "t": 3,
      "pts": 9,
-     "gf": 35,
-     "ga": 23,
-     "diff": 12,
-     "l10": "3-2-3",
-     "strk": "L2"
+     "gf": 37,
+     "ga": 26,
+     "diff": 11,
+     "l10": "3-3-3",
+     "strk": "L3"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -141,34 +141,34 @@
      "strk": "L1"
     },
     {
-     "team": "London Bandits",
-     "teamId": "odb-97255",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 10,
-     "w": 2,
-     "l": 7,
-     "t": 1,
-     "pts": 5,
-     "gf": 18,
-     "ga": 51,
-     "diff": -33,
-     "l10": "2-7-1",
-     "strk": "L5"
-    },
-    {
      "team": "Burlington Bulldogs Blue",
      "teamId": "odb-97259",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 10,
-     "w": 2,
+     "gp": 11,
+     "w": 3,
      "l": 8,
      "t": 0,
-     "pts": 4,
-     "gf": 26,
-     "ga": 43,
-     "diff": -17,
-     "l10": "2-8",
-     "strk": "W1"
+     "pts": 6,
+     "gf": 29,
+     "ga": 45,
+     "diff": -16,
+     "l10": "3-7",
+     "strk": "W2"
+    },
+    {
+     "team": "London Bandits",
+     "teamId": "odb-97255",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
+     "gp": 11,
+     "w": 2,
+     "l": 8,
+     "t": 1,
+     "pts": 5,
+     "gf": 19,
+     "ga": 54,
+     "diff": -35,
+     "l10": "1-8-1",
+     "strk": "L6"
     },
     {
      "team": "Woodstock Jr Navy Vets",

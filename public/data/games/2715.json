@@ -956,14 +956,17 @@
   "start": "2026-11-08T14:30:00-05:00",
   "away": "Burlington Bulldogs Blue",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Preston Aud (1)",
   "code": "U11BR76",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2624/2026-11-08/14:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3148233
+  }
  },
  {
   "id": 2379343,

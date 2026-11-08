@@ -1,6 +1,6 @@
 {
  "divisionId": 2712,
- "updatedAt": "2026-11-07T23:40:20.907Z",
+ "updatedAt": "2026-11-08T20:41:25.280Z",
  "regular": [
   {
    "name": "East Division",
@@ -134,16 +134,16 @@
      "team": "North London Nationals",
      "teamId": "odb-97177",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 5,
-     "w": 4,
+     "gp": 6,
+     "w": 5,
      "l": 1,
      "t": 0,
-     "pts": 8,
-     "gf": 29,
-     "ga": 7,
-     "diff": 22,
-     "l10": "4-1",
-     "strk": "W1"
+     "pts": 10,
+     "gf": 35,
+     "ga": 9,
+     "diff": 26,
+     "l10": "5-1",
+     "strk": "W2"
     },
     {
      "team": "West London Hawks",
@@ -179,16 +179,16 @@
      "team": "Oakridge Aeros",
      "teamId": "odb-97178",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 5,
+     "gp": 6,
      "w": 2,
-     "l": 1,
+     "l": 2,
      "t": 2,
      "pts": 6,
-     "gf": 25,
-     "ga": 24,
-     "diff": 1,
-     "l10": "2-1-2",
-     "strk": "W2"
+     "gf": 27,
+     "ga": 30,
+     "diff": -3,
+     "l10": "2-2-2",
+     "strk": "L1"
     },
     {
      "team": "London Bandits",
