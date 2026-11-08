@@ -2080,20 +2080,20 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
-  "id": "2729:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2729,
-  "division": "U16 AA-A",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
- },
- {
   "id": "2729:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2729,
   "division": "U16 AA-A",
   "association": null,
   "logo": "logos/612db499a971.png"
+ },
+ {
+  "id": "2729:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2729,
+  "division": "U16 AA-A",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2729:kitchener-jr-rangers-blue",
@@ -2472,6 +2472,14 @@
   "logo": "logos/2237c5fc46ea.png"
  },
  {
+  "id": "2733:burlington-bulldogs-blue",
+  "name": "Burlington Bulldogs Blue",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
+ },
+ {
   "id": "2733:sarnia-jr-sting",
   "name": "Sarnia Jr. Sting",
   "divisionId": 2733,
@@ -2494,14 +2502,6 @@
   "division": "U18 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/97ff93a72d6e.png"
- },
- {
-  "id": "2733:burlington-bulldogs-blue",
-  "name": "Burlington Bulldogs Blue",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2733:oakridge-aeros",

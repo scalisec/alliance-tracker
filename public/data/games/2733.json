@@ -1112,14 +1112,17 @@
   "start": "2026-11-08T13:15:00-05:00",
   "away": "Burlington Bulldogs Blue",
   "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Mr Lube + Tires (Black)",
   "code": "U18BR40",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/242/2026-11-08/13:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3148495
+  }
  },
  {
   "id": 2379059,
