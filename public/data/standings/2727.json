@@ -1,6 +1,6 @@
 {
  "divisionId": 2727,
- "updatedAt": "2026-11-08T15:16:37.381Z",
+ "updatedAt": "2026-11-08T20:12:20.813Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97258",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 7,
+     "gp": 8,
      "w": 7,
-     "l": 0,
+     "l": 1,
      "t": 0,
      "pts": 14,
-     "gf": 46,
-     "ga": 14,
-     "diff": 32,
-     "l10": "7-0",
-     "strk": "W7"
+     "gf": 48,
+     "ga": 18,
+     "diff": 30,
+     "l10": "7-1",
+     "strk": "L1"
     },
     {
      "team": "West London Hawks",
@@ -66,6 +66,21 @@
      "strk": "L1"
     },
     {
+     "team": "Brantford 99ers",
+     "teamId": "odb-97250",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
+     "gp": 8,
+     "w": 5,
+     "l": 2,
+     "t": 1,
+     "pts": 11,
+     "gf": 32,
+     "ga": 17,
+     "diff": 15,
+     "l10": "5-2-1",
+     "strk": "W2"
+    },
+    {
      "team": "Waterloo Wolves",
      "teamId": "odb-97254",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
@@ -79,21 +94,6 @@
      "diff": -2,
      "l10": "5-3-1",
      "strk": "W2"
-    },
-    {
-     "team": "Brantford 99ers",
-     "teamId": "odb-97250",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 7,
-     "w": 4,
-     "l": 2,
-     "t": 1,
-     "pts": 9,
-     "gf": 28,
-     "ga": 15,
-     "diff": 13,
-     "l10": "4-2-1",
-     "strk": "W1"
     },
     {
      "team": "North London Nationals",

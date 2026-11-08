@@ -1848,20 +1848,20 @@
   "logo": "logos/612db499a971.png"
  },
  {
-  "id": "2727:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Waterloo Minor Hockey",
-  "logo": "logos/1953df906ca9.png"
- },
- {
   "id": "2727:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
+ },
+ {
+  "id": "2727:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Waterloo Minor Hockey",
+  "logo": "logos/1953df906ca9.png"
  },
  {
   "id": "2727:north-london-nationals",
