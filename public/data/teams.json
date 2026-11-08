@@ -88,20 +88,20 @@
   "logo": "logos/1d06ddd6cd32.png"
  },
  {
-  "id": "2711:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2711,
-  "division": "U10 AA-A",
-  "association": null,
-  "logo": "logos/612db499a971.png"
- },
- {
   "id": "2711:london-jr-knights-white",
   "name": "London Jr Knights White",
   "divisionId": 2711,
   "division": "U10 AA-A",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
+ },
+ {
+  "id": "2711:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2711,
+  "division": "U10 AA-A",
+  "association": null,
+  "logo": "logos/612db499a971.png"
  },
  {
   "id": "2711:sarnia-jr-sting",
