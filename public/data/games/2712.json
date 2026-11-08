@@ -1202,14 +1202,17 @@
   "start": "2026-11-08T15:15:00-05:00",
   "away": "Kitchener Jr Rangers",
   "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Mr Lube + Tires (Red)",
   "code": "U10BE47",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/241/2026-11-08/15:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3148173
+  }
  },
  {
   "id": 2408457,
@@ -1217,14 +1220,17 @@
   "start": "2026-11-08T16:00:00-05:00",
   "away": "Dresden Jr. Kings",
   "home": "West London Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Bostwick (A)",
   "code": "U10BRS-122",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5025/2026-11-08/16:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3148174
+  }
  },
  {
   "id": 2379515,

@@ -1364,14 +1364,17 @@
   "start": "2026-11-08T16:00:00-05:00",
   "away": "Burlington Bulldogs White",
   "home": "Oakridge Aeros",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Carling (A)",
   "code": "U12BR42",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5027/2026-11-08/16:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3148662
+  }
  },
  {
   "id": 2378001,
