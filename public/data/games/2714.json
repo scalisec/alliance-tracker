@@ -773,14 +773,17 @@
   "start": "2026-11-08T12:30:00-05:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "St. Thomas Jr Stars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Joe Thornton CC (STMHA)",
   "code": "U11S63",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4355/2026-11-08/12:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3148483
+  }
  },
  {
   "id": 2375346,
