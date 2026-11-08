@@ -1280,14 +1280,17 @@
   "start": "2026-11-08T15:00:00-05:00",
   "away": "Burlington Bulldogs White",
   "home": "Woodstock Jr Navy Vets",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Reeves CC (Red)",
   "code": "U14BR102",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4269/2026-11-08/15:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3148271
+  }
  },
  {
   "id": 2378168,
