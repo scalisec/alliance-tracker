@@ -1,6 +1,6 @@
 {
  "divisionId": 2711,
- "updatedAt": "2026-11-07T21:09:22.169Z",
+ "updatedAt": "2026-11-08T17:10:39.964Z",
  "regular": [
   {
    "name": "",
@@ -129,16 +129,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-97026",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 8,
-     "w": 2,
+     "gp": 9,
+     "w": 3,
      "l": 5,
      "t": 1,
-     "pts": 5,
-     "gf": 14,
+     "pts": 7,
+     "gf": 18,
      "ga": 34,
-     "diff": -20,
-     "l10": "2-5-1",
-     "strk": "L2"
+     "diff": -16,
+     "l10": "3-5-1",
+     "strk": "W1"
     },
     {
      "team": "Cambridge Hawks",
@@ -189,16 +189,16 @@
      "team": "Kitchener Jr Rangers Blue",
      "teamId": "odb-97303",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 7,
+     "gp": 8,
      "w": 0,
-     "l": 6,
+     "l": 7,
      "t": 1,
      "pts": 1,
      "gf": 9,
-     "ga": 36,
-     "diff": -27,
-     "l10": "0-6-1",
-     "strk": "L3"
+     "ga": 40,
+     "diff": -31,
+     "l10": "0-7-1",
+     "strk": "L4"
     }
    ]
   }
