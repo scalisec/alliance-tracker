@@ -1,6 +1,6 @@
 {
  "divisionId": 2721,
- "updatedAt": "2026-11-08T18:12:01.431Z",
+ "updatedAt": "2026-11-08T20:53:08.462Z",
  "regular": [
   {
    "name": "",
@@ -54,16 +54,16 @@
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97228",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 8,
-     "w": 6,
+     "gp": 9,
+     "w": 7,
      "l": 2,
      "t": 0,
-     "pts": 12,
-     "gf": 38,
-     "ga": 18,
-     "diff": 20,
-     "l10": "6-2",
-     "strk": "W3"
+     "pts": 14,
+     "gf": 43,
+     "ga": 20,
+     "diff": 23,
+     "l10": "7-2",
+     "strk": "W4"
     },
     {
      "team": "Brantford 99ers",
@@ -81,21 +81,6 @@
      "strk": "L1"
     },
     {
-     "team": "West London Hawks",
-     "teamId": "odb-97229",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 7,
-     "w": 5,
-     "l": 2,
-     "t": 0,
-     "pts": 10,
-     "gf": 28,
-     "ga": 18,
-     "diff": 10,
-     "l10": "5-2",
-     "strk": "W5"
-    },
-    {
      "team": "Oakridge Aeros",
      "teamId": "odb-97227",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
@@ -109,6 +94,21 @@
      "diff": 8,
      "l10": "5-1",
      "strk": "W2"
+    },
+    {
+     "team": "West London Hawks",
+     "teamId": "odb-97229",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
+     "gp": 8,
+     "w": 5,
+     "l": 3,
+     "t": 0,
+     "pts": 10,
+     "gf": 30,
+     "ga": 23,
+     "diff": 7,
+     "l10": "5-3",
+     "strk": "L1"
     },
     {
      "team": "Burlington Bulldogs Blue",

@@ -1031,14 +1031,17 @@
   "start": "2026-11-08T14:45:00-05:00",
   "away": "West London Hawks",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Clearwater (Blue)",
   "code": "U13BR46",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3148690
+  }
  },
  {
   "id": 2378062,
