@@ -869,14 +869,17 @@
   "start": "2026-11-08T11:00:00-05:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "Burlington Raiders",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Mr Lube + Tires (Red)",
   "code": "U15S6",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/241/2026-11-08/11:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3147476
+  }
  },
  {
   "id": 2375724,

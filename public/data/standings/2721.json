@@ -1,10 +1,25 @@
 {
  "divisionId": 2721,
- "updatedAt": "2026-11-08T15:14:03.106Z",
+ "updatedAt": "2026-11-08T18:12:01.431Z",
  "regular": [
   {
    "name": "",
    "rows": [
+    {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-97224",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 10,
+     "w": 8,
+     "l": 1,
+     "t": 1,
+     "pts": 17,
+     "gf": 31,
+     "ga": 20,
+     "diff": 11,
+     "l10": "8-1-1",
+     "strk": "W3"
+    },
     {
      "team": "Stratford Warriors",
      "teamId": "odb-97234",
@@ -19,21 +34,6 @@
      "diff": 45,
      "l10": "8-0",
      "strk": "W8"
-    },
-    {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-97224",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 9,
-     "w": 7,
-     "l": 1,
-     "t": 1,
-     "pts": 15,
-     "gf": 28,
-     "ga": 19,
-     "diff": 9,
-     "l10": "7-1-1",
-     "strk": "W2"
     },
     {
      "team": "Burlington Raiders",
@@ -174,16 +174,16 @@
      "team": "London Bandits",
      "teamId": "odb-97225",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 9,
+     "gp": 10,
      "w": 1,
-     "l": 8,
+     "l": 9,
      "t": 0,
      "pts": 2,
-     "gf": 13,
-     "ga": 52,
-     "diff": -39,
-     "l10": "1-8",
-     "strk": "L5"
+     "gf": 14,
+     "ga": 55,
+     "diff": -41,
+     "l10": "1-9",
+     "strk": "L6"
     },
     {
      "team": "Cambridge Hawks",

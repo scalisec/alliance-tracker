@@ -1,6 +1,6 @@
 {
  "divisionId": 2726,
- "updatedAt": "2026-11-08T03:16:33.927Z",
+ "updatedAt": "2026-11-08T18:12:31.555Z",
  "regular": [
   {
    "name": "",
@@ -159,31 +159,31 @@
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-97100",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 10,
-     "w": 2,
+     "gp": 11,
+     "w": 3,
      "l": 8,
      "t": 0,
-     "pts": 4,
-     "gf": 23,
-     "ga": 36,
-     "diff": -13,
+     "pts": 6,
+     "gf": 26,
+     "ga": 37,
+     "diff": -11,
      "l10": "2-8",
-     "strk": "L5"
+     "strk": "W1"
     },
     {
      "team": "Burlington Raiders",
      "teamId": "odb-97327",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 7,
+     "gp": 8,
      "w": 1,
-     "l": 6,
+     "l": 7,
      "t": 0,
      "pts": 2,
-     "gf": 13,
-     "ga": 23,
-     "diff": -10,
-     "l10": "1-6",
-     "strk": "L5"
+     "gf": 14,
+     "ga": 26,
+     "diff": -12,
+     "l10": "1-7",
+     "strk": "L6"
     },
     {
      "team": "Stratford Warriors",
