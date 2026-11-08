@@ -1016,6 +1016,14 @@
   "logo": "logos/08d490425be3.png"
  },
  {
+  "id": "2719:windsor-jr-spitfires",
+  "name": "Windsor Jr Spitfires",
+  "divisionId": 2719,
+  "division": "U13 AAA",
+  "association": "Windsor AAA Zone",
+  "logo": "logos/1d06ddd6cd32.png"
+ },
+ {
   "id": "2719:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2719,
@@ -1030,14 +1038,6 @@
   "division": "U13 AAA",
   "association": "Waterloo Minor Hockey",
   "logo": "logos/1953df906ca9.png"
- },
- {
-  "id": "2719:windsor-jr-spitfires",
-  "name": "Windsor Jr Spitfires",
-  "divisionId": 2719,
-  "division": "U13 AAA",
-  "association": "Windsor AAA Zone",
-  "logo": "logos/1d06ddd6cd32.png"
  },
  {
   "id": "2719:sault-major-jr-greyhounds",
