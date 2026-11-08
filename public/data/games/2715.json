@@ -1010,14 +1010,17 @@
   "start": "2026-11-08T15:45:00-05:00",
   "away": "Woodstock Jr Navy Vets",
   "home": "North London Nationals",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Stronach (B)",
   "code": "U11BR59",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3148236
+  }
  },
  {
   "id": 2379374,
