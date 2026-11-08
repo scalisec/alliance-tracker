@@ -1,6 +1,6 @@
 {
  "divisionId": 2725,
- "updatedAt": "2026-11-08T15:15:46.079Z",
+ "updatedAt": "2026-11-08T22:39:00.355Z",
  "regular": [
   {
    "name": "",
@@ -36,19 +36,19 @@
      "strk": "L1"
     },
     {
-     "team": "Elgin-Middlesex Canucks",
-     "teamId": "odb-96996",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 9,
-     "w": 6,
-     "l": 2,
+     "team": "Huron-Perth Lakers",
+     "teamId": "odb-96997",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
+     "gp": 13,
+     "w": 7,
+     "l": 5,
      "t": 1,
-     "pts": 13,
-     "gf": 41,
-     "ga": 15,
-     "diff": 26,
-     "l10": "6-2-1",
-     "strk": "W4"
+     "pts": 15,
+     "gf": 39,
+     "ga": 29,
+     "diff": 10,
+     "l10": "6-3-1",
+     "strk": "W3"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -66,19 +66,19 @@
      "strk": "W3"
     },
     {
-     "team": "Huron-Perth Lakers",
-     "teamId": "odb-96997",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100003.png",
-     "gp": 12,
+     "team": "Elgin-Middlesex Canucks",
+     "teamId": "odb-96996",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
+     "gp": 9,
      "w": 6,
-     "l": 5,
+     "l": 2,
      "t": 1,
      "pts": 13,
-     "gf": 35,
-     "ga": 28,
-     "diff": 7,
-     "l10": "5-4-1",
-     "strk": "W2"
+     "gf": 41,
+     "ga": 15,
+     "diff": 26,
+     "l10": "6-2-1",
+     "strk": "W4"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",
@@ -99,16 +99,16 @@
      "team": "Sun County Panthers",
      "teamId": "odb-97001",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 12,
+     "gp": 13,
      "w": 3,
-     "l": 6,
+     "l": 7,
      "t": 3,
      "pts": 9,
-     "gf": 23,
-     "ga": 42,
-     "diff": -19,
-     "l10": "1-6-3",
-     "strk": "L1"
+     "gf": 24,
+     "ga": 46,
+     "diff": -22,
+     "l10": "1-7-2",
+     "strk": "L2"
     },
     {
      "team": "London Jr Knights",

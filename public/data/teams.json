@@ -1632,12 +1632,12 @@
   "logo": "logos/b0bd0d065caa.png"
  },
  {
-  "id": "2725:elgin-middlesex-canucks",
-  "name": "Elgin-Middlesex Canucks",
+  "id": "2725:huron-perth-lakers",
+  "name": "Huron-Perth Lakers",
   "divisionId": 2725,
   "division": "U15 AAA",
-  "association": "Elgin-Middlesex Canucks",
-  "logo": "logos/2573db2f4749.png"
+  "association": "Huron-Perth Lakers",
+  "logo": "logos/e85b73e63ae2.png"
  },
  {
   "id": "2725:kitchener-jr-rangers",
@@ -1648,12 +1648,12 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
-  "id": "2725:huron-perth-lakers",
-  "name": "Huron-Perth Lakers",
+  "id": "2725:elgin-middlesex-canucks",
+  "name": "Elgin-Middlesex Canucks",
   "divisionId": 2725,
   "division": "U15 AAA",
-  "association": "Huron-Perth Lakers",
-  "logo": "logos/e85b73e63ae2.png"
+  "association": "Elgin-Middlesex Canucks",
+  "logo": "logos/2573db2f4749.png"
  },
  {
   "id": "2725:sarnia-lambton-jr-sting",
@@ -2432,6 +2432,14 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
+  "id": "2733:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
+ },
+ {
   "id": "2733:waterloo-wolves-gold",
   "name": "Waterloo Wolves Gold",
   "divisionId": 2733,
@@ -2446,14 +2454,6 @@
   "division": "U18 BB",
   "association": null,
   "logo": "logos/612db499a971.png"
- },
- {
-  "id": "2733:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2733:burlington-raiders",

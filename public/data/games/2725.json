@@ -974,14 +974,17 @@
   "start": "2026-11-08T15:30:00-05:00",
   "away": "Huron-Perth Lakers",
   "home": "Sun County Panthers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Essex (Shaheen)",
   "code": "U15P166",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4371/2026-11-08/15:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3148316
+  }
  },
  {
   "id": 2374929,
