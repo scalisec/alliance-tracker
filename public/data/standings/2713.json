@@ -1,6 +1,6 @@
 {
  "divisionId": 2713,
- "updatedAt": "2026-11-08T18:41:28.406Z",
+ "updatedAt": "2026-11-08T23:17:12.300Z",
  "regular": [
   {
    "name": "East Division",
@@ -39,16 +39,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-96955",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 8,
-     "w": 3,
+     "gp": 9,
+     "w": 4,
      "l": 5,
      "t": 0,
-     "pts": 6,
-     "gf": 24,
-     "ga": 24,
-     "diff": 0,
-     "l10": "3-5",
-     "strk": "W1"
+     "pts": 8,
+     "gf": 29,
+     "ga": 28,
+     "diff": 1,
+     "l10": "4-5",
+     "strk": "W2"
     },
     {
      "team": "Brantford 99ers",
@@ -89,16 +89,16 @@
      "team": "Chatham-Kent Cyclones",
      "teamId": "odb-96949",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100009.png",
-     "gp": 8,
+     "gp": 9,
      "w": 5,
-     "l": 3,
+     "l": 4,
      "t": 0,
      "pts": 10,
-     "gf": 31,
-     "ga": 32,
-     "diff": -1,
-     "l10": "5-3",
-     "strk": "W4"
+     "gf": 35,
+     "ga": 37,
+     "diff": -2,
+     "l10": "5-4",
+     "strk": "L1"
     },
     {
      "team": "Elgin-Middlesex Canucks",

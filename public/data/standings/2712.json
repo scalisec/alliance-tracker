@@ -1,6 +1,6 @@
 {
  "divisionId": 2712,
- "updatedAt": "2026-11-08T21:11:33.214Z",
+ "updatedAt": "2026-11-08T23:16:52.179Z",
  "regular": [
   {
    "name": "East Division",
@@ -24,31 +24,31 @@
      "team": "Burlington Raiders",
      "teamId": "odb-97187",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 9,
-     "w": 4,
+     "gp": 10,
+     "w": 5,
      "l": 2,
      "t": 3,
-     "pts": 11,
-     "gf": 30,
-     "ga": 18,
-     "diff": 12,
-     "l10": "4-2-3",
-     "strk": "W1"
+     "pts": 13,
+     "gf": 33,
+     "ga": 20,
+     "diff": 13,
+     "l10": "5-2-3",
+     "strk": "W2"
     },
     {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97175",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 7,
+     "gp": 8,
      "w": 5,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "pts": 10,
-     "gf": 24,
-     "ga": 12,
-     "diff": 12,
-     "l10": "5-2",
-     "strk": "L1"
+     "gf": 26,
+     "ga": 15,
+     "diff": 11,
+     "l10": "5-3",
+     "strk": "L2"
     },
     {
      "team": "Brantford 99ers",
@@ -149,16 +149,16 @@
      "team": "West London Hawks",
      "teamId": "odb-97180",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
-     "gp": 3,
+     "gp": 4,
      "w": 3,
      "l": 0,
-     "t": 0,
-     "pts": 6,
-     "gf": 8,
-     "ga": 5,
+     "t": 1,
+     "pts": 7,
+     "gf": 11,
+     "ga": 8,
      "diff": 3,
-     "l10": "3-0",
-     "strk": "W3"
+     "l10": "3-0-1",
+     "strk": "T1"
     },
     {
      "team": "Sarnia Jr. Sting",
