@@ -1,6 +1,6 @@
 {
  "divisionId": 2730,
- "updatedAt": "2026-11-08T22:10:46.494Z",
+ "updatedAt": "2026-11-08T23:40:27.029Z",
  "regular": [
   {
    "name": "",
@@ -51,6 +51,21 @@
      "strk": "L1"
     },
     {
+     "team": "St. Thomas Jr Stars",
+     "teamId": "odb-97280",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "gp": 12,
+     "w": 6,
+     "l": 5,
+     "t": 1,
+     "pts": 13,
+     "gf": 38,
+     "ga": 28,
+     "diff": 10,
+     "l10": "5-4-1",
+     "strk": "L1"
+    },
+    {
      "team": "Oakridge Aeros",
      "teamId": "odb-97276",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
@@ -66,19 +81,19 @@
      "strk": "L1"
     },
     {
-     "team": "St. Thomas Jr Stars",
-     "teamId": "odb-97280",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 11,
-     "w": 6,
+     "team": "Burlington Bulldogs Gold",
+     "teamId": "odb-97434",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 12,
+     "w": 5,
      "l": 4,
-     "t": 1,
+     "t": 3,
      "pts": 13,
-     "gf": 36,
-     "ga": 24,
-     "diff": 12,
-     "l10": "5-4-1",
-     "strk": "W1"
+     "gf": 38,
+     "ga": 31,
+     "diff": 7,
+     "l10": "5-3-2",
+     "strk": "W2"
     },
     {
      "team": "Waterloo Wolves",
@@ -108,21 +123,6 @@
      "ga": 15,
      "diff": 23,
      "l10": "5-2-1",
-     "strk": "W1"
-    },
-    {
-     "team": "Burlington Bulldogs Gold",
-     "teamId": "odb-97434",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 11,
-     "w": 4,
-     "l": 4,
-     "t": 3,
-     "pts": 11,
-     "gf": 34,
-     "ga": 29,
-     "diff": 5,
-     "l10": "4-4-2",
      "strk": "W1"
     },
     {

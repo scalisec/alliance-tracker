@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-11-08T22:40:30.389Z",
+ "updatedAt": "2026-11-08T23:41:17.029Z",
  "regular": [
   {
    "name": "",
@@ -54,16 +54,16 @@
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97124",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 7,
-     "w": 6,
+     "gp": 8,
+     "w": 7,
      "l": 1,
      "t": 0,
-     "pts": 12,
-     "gf": 39,
+     "pts": 14,
+     "gf": 43,
      "ga": 12,
-     "diff": 27,
-     "l10": "6-1",
-     "strk": "L1"
+     "diff": 31,
+     "l10": "7-1",
+     "strk": "W1"
     },
     {
      "team": "Brantford 99ers",
@@ -219,16 +219,16 @@
      "team": "Stratford Warriors",
      "teamId": "odb-98278",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100063.png",
-     "gp": 10,
+     "gp": 11,
      "w": 1,
-     "l": 8,
+     "l": 9,
      "t": 1,
      "pts": 3,
      "gf": 19,
-     "ga": 54,
-     "diff": -35,
+     "ga": 58,
+     "diff": -39,
      "l10": "1-8-1",
-     "strk": "L6"
+     "strk": "L7"
     },
     {
      "team": "North London Nationals",

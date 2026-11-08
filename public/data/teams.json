@@ -2144,6 +2144,14 @@
   "logo": "logos/27ddb8f454a5.png"
  },
  {
+  "id": "2730:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2730,
+  "division": "U16 BB",
+  "association": null,
+  "logo": "logos/612db499a971.png"
+ },
+ {
   "id": "2730:oakridge-aeros",
   "name": "Oakridge Aeros",
   "divisionId": 2730,
@@ -2152,12 +2160,12 @@
   "logo": "logos/ae847321ae88.png"
  },
  {
-  "id": "2730:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
+  "id": "2730:burlington-bulldogs-gold",
+  "name": "Burlington Bulldogs Gold",
   "divisionId": 2730,
   "division": "U16 BB",
-  "association": null,
-  "logo": "logos/612db499a971.png"
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2730:waterloo-wolves",
@@ -2174,14 +2182,6 @@
   "division": "U16 BB",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
- },
- {
-  "id": "2730:burlington-bulldogs-gold",
-  "name": "Burlington Bulldogs Gold",
-  "divisionId": 2730,
-  "division": "U16 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2730:burlington-bulldogs-white",
