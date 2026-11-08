@@ -1,6 +1,6 @@
 {
  "divisionId": 2726,
- "updatedAt": "2026-11-08T01:57:44.984Z",
+ "updatedAt": "2026-11-08T03:16:33.927Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Kitchener Jr Rangers Red",
      "teamId": "odb-97094",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 7,
-     "w": 6,
+     "gp": 8,
+     "w": 7,
      "l": 0,
      "t": 1,
-     "pts": 13,
-     "gf": 22,
+     "pts": 15,
+     "gf": 24,
      "ga": 8,
-     "diff": 14,
-     "l10": "6-0-1",
-     "strk": "W1"
+     "diff": 16,
+     "l10": "7-0-1",
+     "strk": "W2"
     },
     {
      "team": "St. Thomas Jr Stars",
@@ -159,16 +159,16 @@
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-97100",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 9,
+     "gp": 10,
      "w": 2,
-     "l": 7,
+     "l": 8,
      "t": 0,
      "pts": 4,
      "gf": 23,
-     "ga": 34,
-     "diff": -11,
-     "l10": "2-7",
-     "strk": "L4"
+     "ga": 36,
+     "diff": -13,
+     "l10": "2-8",
+     "strk": "L5"
     },
     {
      "team": "Burlington Raiders",
