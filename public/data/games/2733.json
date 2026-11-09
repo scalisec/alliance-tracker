@@ -1166,14 +1166,17 @@
   "start": "2026-11-08T18:30:00-05:00",
   "away": "West London Hawks Gold",
   "home": "Burlington Bulldogs White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Appleby (2)",
   "code": "U18BR165",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4333/2026-11-08/18:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3149995
+  }
  },
  {
   "id": 2379116,
@@ -1181,14 +1184,17 @@
   "start": "2026-11-08T19:00:00-05:00",
   "away": "Lambeth Lancers",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Galt Arena (Galt Arena)",
   "code": "U18BR114",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2608/2026-11-08/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3149996
+  }
  },
  {
   "id": 2379199,
