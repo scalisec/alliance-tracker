@@ -208,20 +208,20 @@
   "logo": "logos/8845e5146a9b.png"
  },
  {
-  "id": "2712:kitchener-jr-rangers",
-  "name": "Kitchener Jr Rangers",
-  "divisionId": 2712,
-  "division": "U10 BB",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
- },
- {
   "id": "2712:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2712,
   "division": "U10 BB",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
+ },
+ {
+  "id": "2712:kitchener-jr-rangers",
+  "name": "Kitchener Jr Rangers",
+  "divisionId": 2712,
+  "division": "U10 BB",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2712:waterloo-wolves",
