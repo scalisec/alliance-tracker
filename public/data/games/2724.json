@@ -1298,14 +1298,17 @@
   "start": "2026-11-08T16:15:00-05:00",
   "away": "London Bandits",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Clearwater (Blue)",
   "code": "U14BR54",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3148272
+  }
  },
  {
   "id": 2378219,

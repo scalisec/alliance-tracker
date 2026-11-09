@@ -1,6 +1,6 @@
 {
  "divisionId": 2724,
- "updatedAt": "2026-11-08T21:38:09.513Z",
+ "updatedAt": "2026-11-09T00:27:55.841Z",
  "regular": [
   {
    "name": "",
@@ -21,6 +21,21 @@
      "strk": "W9"
     },
     {
+     "team": "London Bandits",
+     "teamId": "odb-97241",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
+     "gp": 12,
+     "w": 8,
+     "l": 2,
+     "t": 2,
+     "pts": 18,
+     "gf": 53,
+     "ga": 18,
+     "diff": 35,
+     "l10": "6-2-2",
+     "strk": "W2"
+    },
+    {
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97246",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
@@ -34,21 +49,6 @@
      "diff": 37,
      "l10": "8-0-1",
      "strk": "W2"
-    },
-    {
-     "team": "London Bandits",
-     "teamId": "odb-97241",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100077.png",
-     "gp": 11,
-     "w": 7,
-     "l": 2,
-     "t": 2,
-     "pts": 16,
-     "gf": 48,
-     "ga": 16,
-     "diff": 32,
-     "l10": "6-2-2",
-     "strk": "W1"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -99,16 +99,16 @@
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97243",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 8,
+     "gp": 9,
      "w": 4,
-     "l": 2,
+     "l": 3,
      "t": 2,
      "pts": 10,
-     "gf": 44,
-     "ga": 19,
-     "diff": 25,
-     "l10": "4-2-2",
-     "strk": "T1"
+     "gf": 46,
+     "ga": 24,
+     "diff": 22,
+     "l10": "4-3-2",
+     "strk": "L1"
     },
     {
      "team": "Cambridge Hawks",

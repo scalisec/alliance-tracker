@@ -1440,6 +1440,14 @@
   "logo": "logos/0f4ddfdee820.png"
  },
  {
+  "id": "2723:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
+  "divisionId": 2723,
+  "division": "U14 AA-A",
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
+ },
+ {
   "id": "2723:stratford-warriors",
   "name": "Stratford Warriors",
   "divisionId": 2723,
@@ -1454,14 +1462,6 @@
   "division": "U14 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
- },
- {
-  "id": "2723:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2723,
-  "division": "U14 AA-A",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2723:cambridge-hawks",
@@ -1496,20 +1496,20 @@
   "logo": "logos/51ff29ef905f.png"
  },
  {
-  "id": "2724:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2724,
-  "division": "U14 BB",
-  "association": null,
-  "logo": "logos/612db499a971.png"
- },
- {
   "id": "2724:london-bandits",
   "name": "London Bandits",
   "divisionId": 2724,
   "division": "U14 BB",
   "association": "Greater London Hockey Association",
   "logo": "logos/973902eb1015.png"
+ },
+ {
+  "id": "2724:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2724,
+  "division": "U14 BB",
+  "association": null,
+  "logo": "logos/612db499a971.png"
  },
  {
   "id": "2724:kitchener-jr-rangers",
@@ -1816,14 +1816,6 @@
   "logo": "logos/51ff29ef905f.png"
  },
  {
-  "id": "2727:sarnia-jr-sting",
-  "name": "Sarnia Jr. Sting",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Sarnia Minor Hockey",
-  "logo": "logos/704c833c6aca.png"
- },
- {
   "id": "2727:west-london-hawks",
   "name": "West London Hawks",
   "divisionId": 2727,
@@ -1832,12 +1824,12 @@
   "logo": "logos/2237c5fc46ea.png"
  },
  {
-  "id": "2727:oakridge-aeros",
-  "name": "Oakridge Aeros",
+  "id": "2727:sarnia-jr-sting",
+  "name": "Sarnia Jr. Sting",
   "divisionId": 2727,
   "division": "U15 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/ae847321ae88.png"
+  "association": "Sarnia Minor Hockey",
+  "logo": "logos/704c833c6aca.png"
  },
  {
   "id": "2727:st-thomas-jr-stars",
@@ -1856,6 +1848,14 @@
   "logo": "logos/1953df906ca9.png"
  },
  {
+  "id": "2727:oakridge-aeros",
+  "name": "Oakridge Aeros",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/ae847321ae88.png"
+ },
+ {
   "id": "2727:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2727,
@@ -1864,20 +1864,20 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
-  "id": "2727:north-london-nationals",
-  "name": "North London Nationals",
-  "divisionId": 2727,
-  "division": "U15 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/41275c8a7241.png"
- },
- {
   "id": "2727:kitchener-jr-rangers",
   "name": "Kitchener Jr Rangers",
   "divisionId": 2727,
   "division": "U15 BB",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
+ },
+ {
+  "id": "2727:north-london-nationals",
+  "name": "North London Nationals",
+  "divisionId": 2727,
+  "division": "U15 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/41275c8a7241.png"
  },
  {
   "id": "2727:burlington-raiders",
