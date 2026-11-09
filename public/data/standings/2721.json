@@ -1,6 +1,6 @@
 {
  "divisionId": 2721,
- "updatedAt": "2026-11-08T23:08:31.044Z",
+ "updatedAt": "2026-11-09T00:08:46.227Z",
  "regular": [
   {
    "name": "",
@@ -81,21 +81,6 @@
      "strk": "L1"
     },
     {
-     "team": "Oakridge Aeros",
-     "teamId": "odb-97227",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 6,
-     "w": 5,
-     "l": 1,
-     "t": 0,
-     "pts": 10,
-     "gf": 24,
-     "ga": 16,
-     "diff": 8,
-     "l10": "5-1",
-     "strk": "W2"
-    },
-    {
      "team": "West London Hawks",
      "teamId": "odb-97229",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100065.png",
@@ -108,6 +93,36 @@
      "ga": 23,
      "diff": 7,
      "l10": "5-3",
+     "strk": "L1"
+    },
+    {
+     "team": "Kitchener Jr Rangers",
+     "teamId": "odb-97222",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 10,
+     "w": 5,
+     "l": 5,
+     "t": 0,
+     "pts": 10,
+     "gf": 26,
+     "ga": 20,
+     "diff": 6,
+     "l10": "5-5",
+     "strk": "W1"
+    },
+    {
+     "team": "Oakridge Aeros",
+     "teamId": "odb-97227",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
+     "gp": 7,
+     "w": 5,
+     "l": 2,
+     "t": 0,
+     "pts": 10,
+     "gf": 26,
+     "ga": 22,
+     "diff": 4,
+     "l10": "5-2",
      "strk": "L1"
     },
     {
@@ -124,21 +139,6 @@
      "diff": -2,
      "l10": "4-4-1",
      "strk": "L2"
-    },
-    {
-     "team": "Kitchener Jr Rangers",
-     "teamId": "odb-97222",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 9,
-     "w": 4,
-     "l": 5,
-     "t": 0,
-     "pts": 8,
-     "gf": 20,
-     "ga": 18,
-     "diff": 2,
-     "l10": "4-5",
-     "strk": "L1"
     },
     {
      "team": "Woodstock Jr Navy Vets",

@@ -791,14 +791,17 @@
   "start": "2026-11-08T17:30:00-05:00",
   "away": "London Jr Knights White",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 8,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Galt Arena (Galt Arena)",
   "code": "U11S51",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2608/2026-11-08/17:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3149178
+  }
  },
  {
   "id": 2375342,
