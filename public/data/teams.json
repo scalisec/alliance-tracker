@@ -2184,12 +2184,12 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
-  "id": "2730:burlington-bulldogs-white",
-  "name": "Burlington Bulldogs White",
+  "id": "2730:kitchener-jr-rangers-blue",
+  "name": "Kitchener Jr Rangers Blue",
   "divisionId": 2730,
   "division": "U16 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2730:cambridge-hawks",
@@ -2200,12 +2200,12 @@
   "logo": "logos/e0787358df89.png"
  },
  {
-  "id": "2730:kitchener-jr-rangers-blue",
-  "name": "Kitchener Jr Rangers Blue",
+  "id": "2730:burlington-bulldogs-white",
+  "name": "Burlington Bulldogs White",
   "divisionId": 2730,
   "division": "U16 BB",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2730:woodstock-jr-navy-vets",
@@ -2216,12 +2216,12 @@
   "logo": "logos/6c3aa7a1db2c.png"
  },
  {
-  "id": "2730:burlington-bulldogs-blue",
-  "name": "Burlington Bulldogs Blue",
+  "id": "2730:west-london-hawks",
+  "name": "West London Hawks",
   "divisionId": 2730,
   "division": "U16 BB",
-  "association": "Burlington Lions Optimist Minor Hockey",
-  "logo": "logos/49dba036a6a8.png"
+  "association": "Greater London Hockey Association",
+  "logo": "logos/2237c5fc46ea.png"
  },
  {
   "id": "2730:lambeth-lancers",
@@ -2232,12 +2232,12 @@
   "logo": "logos/97ff93a72d6e.png"
  },
  {
-  "id": "2730:west-london-hawks",
-  "name": "West London Hawks",
+  "id": "2730:burlington-bulldogs-blue",
+  "name": "Burlington Bulldogs Blue",
   "divisionId": 2730,
   "division": "U16 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/2237c5fc46ea.png"
+  "association": "Burlington Lions Optimist Minor Hockey",
+  "logo": "logos/49dba036a6a8.png"
  },
  {
   "id": "2730:burlington-raiders",
