@@ -1,6 +1,6 @@
 {
  "divisionId": 2725,
- "updatedAt": "2026-11-08T22:39:00.355Z",
+ "updatedAt": "2026-11-09T00:47:34.027Z",
  "regular": [
   {
    "name": "",
@@ -96,6 +96,21 @@
      "strk": "L1"
     },
     {
+     "team": "London Jr Knights",
+     "teamId": "odb-97000",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 10,
+     "w": 4,
+     "l": 5,
+     "t": 1,
+     "pts": 9,
+     "gf": 24,
+     "ga": 21,
+     "diff": 3,
+     "l10": "4-5-1",
+     "strk": "W3"
+    },
+    {
      "team": "Sun County Panthers",
      "teamId": "odb-97001",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
@@ -109,21 +124,6 @@
      "diff": -22,
      "l10": "1-7-2",
      "strk": "L2"
-    },
-    {
-     "team": "London Jr Knights",
-     "teamId": "odb-97000",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 9,
-     "w": 3,
-     "l": 5,
-     "t": 1,
-     "pts": 7,
-     "gf": 23,
-     "ga": 21,
-     "diff": 2,
-     "l10": "3-5-1",
-     "strk": "W2"
     },
     {
      "team": "Sault Major Jr Greyhounds",
@@ -174,16 +174,16 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-97003",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 10,
+     "gp": 11,
      "w": 0,
-     "l": 9,
+     "l": 10,
      "t": 1,
      "pts": 1,
      "gf": 9,
-     "ga": 53,
-     "diff": -44,
+     "ga": 54,
+     "diff": -45,
      "l10": "0-9-1",
-     "strk": "L1"
+     "strk": "L2"
     }
    ]
   }

@@ -1664,20 +1664,20 @@
   "logo": "logos/bcc449715362.png"
  },
  {
-  "id": "2725:sun-county-panthers",
-  "name": "Sun County Panthers",
-  "divisionId": 2725,
-  "division": "U15 AAA",
-  "association": "Sun County Panthers",
-  "logo": "logos/8998f15cb7f8.png"
- },
- {
   "id": "2725:london-jr-knights",
   "name": "London Jr Knights",
   "divisionId": 2725,
   "division": "U15 AAA",
   "association": "London Jr Knights",
   "logo": "logos/08d490425be3.png"
+ },
+ {
+  "id": "2725:sun-county-panthers",
+  "name": "Sun County Panthers",
+  "divisionId": 2725,
+  "division": "U15 AAA",
+  "association": "Sun County Panthers",
+  "logo": "logos/8998f15cb7f8.png"
  },
  {
   "id": "2725:sault-major-jr-greyhounds",
