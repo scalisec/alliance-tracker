@@ -1,6 +1,6 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-11-08T23:08:01.159Z",
+ "updatedAt": "2026-11-09T18:48:07.918Z",
  "regular": [
   {
    "name": "",
@@ -114,15 +114,15 @@
      "team": "Oakridge Aeros",
      "teamId": "odb-97213",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 12,
+     "gp": 13,
      "w": 4,
      "l": 7,
-     "t": 1,
-     "pts": 9,
-     "gf": 32,
-     "ga": 48,
+     "t": 2,
+     "pts": 10,
+     "gf": 34,
+     "ga": 50,
      "diff": -16,
-     "l10": "3-6-1",
+     "l10": "3-5-2",
      "strk": "L1"
     },
     {
@@ -141,6 +141,21 @@
      "strk": "W1"
     },
     {
+     "team": "Burlington Raiders",
+     "teamId": "odb-97216",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
+     "gp": 10,
+     "w": 2,
+     "l": 4,
+     "t": 4,
+     "pts": 8,
+     "gf": 21,
+     "ga": 32,
+     "diff": -11,
+     "l10": "2-4-4",
+     "strk": "W1"
+    },
+    {
      "team": "North London Nationals",
      "teamId": "odb-97212",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
@@ -154,21 +169,6 @@
      "diff": -9,
      "l10": "3-6-1",
      "strk": "L1"
-    },
-    {
-     "team": "Burlington Raiders",
-     "teamId": "odb-97216",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100561.png",
-     "gp": 9,
-     "w": 2,
-     "l": 4,
-     "t": 3,
-     "pts": 7,
-     "gf": 19,
-     "ga": 30,
-     "diff": -11,
-     "l10": "2-4-3",
-     "strk": "W1"
     },
     {
      "team": "Brantford 99ers",

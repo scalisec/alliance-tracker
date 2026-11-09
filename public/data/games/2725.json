@@ -959,14 +959,17 @@
   "start": "2026-11-08T13:30:00-05:00",
   "away": "Brantford 99ers",
   "home": "Chatham-Kent Cyclones",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Blenheim (Blenheim)",
   "code": "U15P154",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4518/2026-11-08/13:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3148315
+  }
  },
  {
   "id": 2374944,
