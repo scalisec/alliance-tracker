@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-11-08T21:28:48.081Z",
+ "updatedAt": "2026-11-09T00:57:12.820Z",
  "regular": [
   {
    "name": "",
@@ -39,16 +39,16 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-96991",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 10,
-     "w": 7,
+     "gp": 11,
+     "w": 8,
      "l": 2,
      "t": 1,
-     "pts": 15,
-     "gf": 38,
-     "ga": 17,
-     "diff": 21,
+     "pts": 17,
+     "gf": 44,
+     "ga": 20,
+     "diff": 24,
      "l10": "7-2-1",
-     "strk": "L1"
+     "strk": "W1"
     },
     {
      "team": "Elgin-Middlesex Canucks",
@@ -84,16 +84,16 @@
      "team": "London Jr Knights",
      "teamId": "odb-96988",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 9,
+     "gp": 10,
      "w": 4,
-     "l": 3,
+     "l": 4,
      "t": 2,
      "pts": 10,
-     "gf": 30,
-     "ga": 27,
-     "diff": 3,
-     "l10": "4-3-2",
-     "strk": "W1"
+     "gf": 33,
+     "ga": 33,
+     "diff": 0,
+     "l10": "4-4-2",
+     "strk": "L1"
     },
     {
      "team": "Kitchener Jr Rangers",

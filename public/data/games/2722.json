@@ -1013,14 +1013,17 @@
   "start": "2026-11-08T18:15:00-05:00",
   "away": "Windsor Jr Spitfires",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Western Fair (Chik-fil-a)",
   "code": "U14P13",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4445/2026-11-08/18:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3149179
+  }
  },
  {
   "id": 2374760,
