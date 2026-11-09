@@ -1,6 +1,6 @@
 {
  "divisionId": 2732,
- "updatedAt": "2026-11-08T21:39:19.477Z",
+ "updatedAt": "2026-11-09T00:39:00.764Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "London Jr Knights Green",
      "teamId": "odb-97115",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 10,
-     "w": 8,
+     "gp": 11,
+     "w": 9,
      "l": 0,
      "t": 2,
-     "pts": 18,
-     "gf": 49,
-     "ga": 18,
-     "diff": 31,
-     "l10": "8-0-2",
-     "strk": "W4"
+     "pts": 20,
+     "gf": 55,
+     "ga": 20,
+     "diff": 35,
+     "l10": "9-0-1",
+     "strk": "W5"
     },
     {
      "team": "Kitchener Jr Rangers",
@@ -126,21 +126,6 @@
      "strk": "L1"
     },
     {
-     "team": "London Jr Knights White",
-     "teamId": "odb-97120",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 7,
-     "w": 2,
-     "l": 4,
-     "t": 1,
-     "pts": 5,
-     "gf": 17,
-     "ga": 27,
-     "diff": -10,
-     "l10": "2-4-1",
-     "strk": "L2"
-    },
-    {
      "team": "Cambridge Hawks",
      "teamId": "odb-97113",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
@@ -154,6 +139,21 @@
      "diff": -18,
      "l10": "2-7-1",
      "strk": "W1"
+    },
+    {
+     "team": "London Jr Knights White",
+     "teamId": "odb-97120",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
+     "gp": 8,
+     "w": 2,
+     "l": 5,
+     "t": 1,
+     "pts": 5,
+     "gf": 19,
+     "ga": 33,
+     "diff": -14,
+     "l10": "2-5-1",
+     "strk": "L3"
     },
     {
      "team": "Brantford 99ers",

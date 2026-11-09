@@ -2376,20 +2376,20 @@
   "logo": "logos/0f4ddfdee820.png"
  },
  {
-  "id": "2732:london-jr-knights-white",
-  "name": "London Jr Knights White",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
- },
- {
   "id": "2732:cambridge-hawks",
   "name": "Cambridge Hawks",
   "divisionId": 2732,
   "division": "U18 AA-A",
   "association": "Cambridge Minor Hockey",
   "logo": "logos/e0787358df89.png"
+ },
+ {
+  "id": "2732:london-jr-knights-white",
+  "name": "London Jr Knights White",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2732:brantford-99ers",

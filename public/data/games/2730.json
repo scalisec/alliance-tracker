@@ -1346,14 +1346,17 @@
   "start": "2026-11-08T17:00:00-05:00",
   "away": "Burlington Raiders",
   "home": "West London Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Bostwick (A)",
   "code": "U16BR42",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5025/2026-11-08/17:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3148304
+  }
  },
  {
   "id": 2378937,
@@ -1361,14 +1364,17 @@
   "start": "2026-11-08T18:00:00-05:00",
   "away": "Kitchener Jr Rangers Blue",
   "home": "Burlington Bulldogs Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Appleby (3)",
   "code": "U16BR2",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-11-08/18:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3150278
+  }
  },
  {
   "id": 2379039,

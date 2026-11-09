@@ -992,14 +992,17 @@
   "start": "2026-11-08T18:00:00-05:00",
   "away": "Windsor Jr Spitfires",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Western Fair (Major Appliances)",
   "code": "U15P3",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4442/2026-11-08/18:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3150499
+  }
  },
  {
   "id": 2374935,
