@@ -875,14 +875,17 @@
   "start": "2026-11-09T19:30:00-05:00",
   "away": "Sun County Panthers",
   "home": "Windsor Jr Spitfires",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 4,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Central Park (North)",
   "code": "U13P88",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4434/2026-11-09/19:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3154352
+  }
  },
  {
   "id": 2374593,

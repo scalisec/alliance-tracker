@@ -1,6 +1,6 @@
 {
  "divisionId": 2719,
- "updatedAt": "2026-11-08T21:13:12.945Z",
+ "updatedAt": "2026-11-10T03:43:34.037Z",
  "regular": [
   {
    "name": "",
@@ -36,6 +36,21 @@
      "strk": "W2"
     },
     {
+     "team": "Sun County Panthers",
+     "teamId": "odb-96977",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
+     "gp": 8,
+     "w": 5,
+     "l": 1,
+     "t": 2,
+     "pts": 12,
+     "gf": 40,
+     "ga": 18,
+     "diff": 22,
+     "l10": "5-1-2",
+     "strk": "T1"
+    },
+    {
      "team": "Sarnia-Lambton Jr Sting",
      "teamId": "odb-96975",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100004.png",
@@ -51,19 +66,19 @@
      "strk": "L2"
     },
     {
-     "team": "Sun County Panthers",
-     "teamId": "odb-96977",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
+     "team": "Windsor Jr Spitfires",
+     "teamId": "odb-96979",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
      "gp": 7,
-     "w": 5,
-     "l": 1,
+     "w": 4,
+     "l": 2,
      "t": 1,
-     "pts": 11,
-     "gf": 36,
-     "ga": 14,
-     "diff": 22,
-     "l10": "5-1-1",
-     "strk": "W3"
+     "pts": 9,
+     "gf": 31,
+     "ga": 23,
+     "diff": 8,
+     "l10": "4-2-1",
+     "strk": "T1"
     },
     {
      "team": "London Jr Knights",
@@ -79,21 +94,6 @@
      "diff": 8,
      "l10": "4-3-1",
      "strk": "L1"
-    },
-    {
-     "team": "Windsor Jr Spitfires",
-     "teamId": "odb-96979",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 6,
-     "w": 4,
-     "l": 2,
-     "t": 0,
-     "pts": 8,
-     "gf": 27,
-     "ga": 19,
-     "diff": 8,
-     "l10": "4-2",
-     "strk": "W4"
     },
     {
      "team": "Kitchener Jr Rangers",

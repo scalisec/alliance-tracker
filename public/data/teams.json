@@ -992,14 +992,6 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
-  "id": "2719:sarnia-lambton-jr-sting",
-  "name": "Sarnia-Lambton Jr Sting",
-  "divisionId": 2719,
-  "division": "U13 AAA",
-  "association": "Lambton Jr Sting",
-  "logo": "logos/bcc449715362.png"
- },
- {
   "id": "2719:sun-county-panthers",
   "name": "Sun County Panthers",
   "divisionId": 2719,
@@ -1008,12 +1000,12 @@
   "logo": "logos/8998f15cb7f8.png"
  },
  {
-  "id": "2719:london-jr-knights",
-  "name": "London Jr Knights",
+  "id": "2719:sarnia-lambton-jr-sting",
+  "name": "Sarnia-Lambton Jr Sting",
   "divisionId": 2719,
   "division": "U13 AAA",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
+  "association": "Lambton Jr Sting",
+  "logo": "logos/bcc449715362.png"
  },
  {
   "id": "2719:windsor-jr-spitfires",
@@ -1022,6 +1014,14 @@
   "division": "U13 AAA",
   "association": "Windsor AAA Zone",
   "logo": "logos/1d06ddd6cd32.png"
+ },
+ {
+  "id": "2719:london-jr-knights",
+  "name": "London Jr Knights",
+  "divisionId": 2719,
+  "division": "U13 AAA",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2719:kitchener-jr-rangers",
