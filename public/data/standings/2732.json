@@ -1,6 +1,6 @@
 {
  "divisionId": 2732,
- "updatedAt": "2026-11-09T00:39:00.764Z",
+ "updatedAt": "2026-11-10T16:33:54.823Z",
  "regular": [
   {
    "name": "",
@@ -21,6 +21,21 @@
      "strk": "W5"
     },
     {
+     "team": "Woodstock Jr Navy Vets",
+     "teamId": "odb-97118",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+     "gp": 9,
+     "w": 5,
+     "l": 3,
+     "t": 1,
+     "pts": 11,
+     "gf": 24,
+     "ga": 29,
+     "diff": -5,
+     "l10": "5-3-1",
+     "strk": "W1"
+    },
+    {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97114",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -34,21 +49,6 @@
      "diff": 20,
      "l10": "5-3",
      "strk": "W3"
-    },
-    {
-     "team": "Woodstock Jr Navy Vets",
-     "teamId": "odb-97118",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 8,
-     "w": 4,
-     "l": 3,
-     "t": 1,
-     "pts": 9,
-     "gf": 21,
-     "ga": 28,
-     "diff": -7,
-     "l10": "4-3-1",
-     "strk": "L1"
     },
     {
      "team": "Sarnia Jr. Sting",
@@ -126,21 +126,6 @@
      "strk": "L1"
     },
     {
-     "team": "Cambridge Hawks",
-     "teamId": "odb-97113",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 11,
-     "w": 2,
-     "l": 8,
-     "t": 1,
-     "pts": 5,
-     "gf": 26,
-     "ga": 44,
-     "diff": -18,
-     "l10": "2-7-1",
-     "strk": "W1"
-    },
-    {
      "team": "London Jr Knights White",
      "teamId": "odb-97120",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
@@ -154,6 +139,21 @@
      "diff": -14,
      "l10": "2-5-1",
      "strk": "L3"
+    },
+    {
+     "team": "Cambridge Hawks",
+     "teamId": "odb-97113",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
+     "gp": 12,
+     "w": 2,
+     "l": 9,
+     "t": 1,
+     "pts": 5,
+     "gf": 27,
+     "ga": 47,
+     "diff": -20,
+     "l10": "2-7-1",
+     "strk": "L1"
     },
     {
      "team": "Brantford 99ers",
