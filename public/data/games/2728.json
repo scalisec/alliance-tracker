@@ -851,14 +851,17 @@
   "start": "2026-11-09T20:00:00-05:00",
   "away": "Waterloo Wolves",
   "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Western Fair (Major Appliances)",
   "code": "U16P107",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4442/2026-11-09/20:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3154362
+  }
  },
  {
   "id": 2375196,

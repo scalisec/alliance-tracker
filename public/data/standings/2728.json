@@ -1,6 +1,6 @@
 {
  "divisionId": 2728,
- "updatedAt": "2026-11-08T23:29:22.551Z",
+ "updatedAt": "2026-11-10T03:33:38.629Z",
  "regular": [
   {
    "name": "East Division",
@@ -9,16 +9,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-97014",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 7,
-     "w": 7,
+     "gp": 8,
+     "w": 8,
      "l": 0,
      "t": 0,
-     "pts": 14,
-     "gf": 42,
-     "ga": 13,
-     "diff": 29,
-     "l10": "7-0",
-     "strk": "W7"
+     "pts": 16,
+     "gf": 47,
+     "ga": 14,
+     "diff": 33,
+     "l10": "8-0",
+     "strk": "W8"
     },
     {
      "team": "Huron-Perth Lakers",
@@ -104,16 +104,16 @@
      "team": "London Jr Knights",
      "teamId": "odb-97012",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 7,
+     "gp": 8,
      "w": 6,
-     "l": 0,
+     "l": 1,
      "t": 1,
      "pts": 13,
-     "gf": 27,
-     "ga": 12,
-     "diff": 15,
-     "l10": "6-0-1",
-     "strk": "W3"
+     "gf": 28,
+     "ga": 17,
+     "diff": 11,
+     "l10": "6-1-1",
+     "strk": "L1"
     },
     {
      "team": "Chatham-Kent Cyclones",
