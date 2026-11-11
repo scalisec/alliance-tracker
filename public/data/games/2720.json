@@ -878,14 +878,17 @@
   "start": "2026-11-10T19:15:00-05:00",
   "away": "Mt. Brydges Cougars",
   "home": "Sarnia Jr. Sting",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Clearwater (Red)",
   "code": "U13S23",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3157713
+  }
  },
  {
   "id": 2375510,
