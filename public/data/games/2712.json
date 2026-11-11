@@ -1256,14 +1256,17 @@
   "start": "2026-11-10T18:00:00-05:00",
   "away": "Oakridge Aeros",
   "home": "Mt. Brydges Cougars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Tri-Township (Tri-Township)",
   "code": "U10BRS-21",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15516,
+   "game": 3157302
+  }
  },
  {
   "id": 2408536,
