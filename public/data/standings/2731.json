@@ -1,6 +1,6 @@
 {
  "divisionId": 2731,
- "updatedAt": "2026-11-03T03:14:05.849Z",
+ "updatedAt": "2026-11-11T03:44:35.221Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97021",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 11,
-     "w": 10,
+     "gp": 12,
+     "w": 11,
      "l": 1,
      "t": 0,
-     "pts": 20,
-     "gf": 62,
-     "ga": 18,
-     "diff": 44,
-     "l10": "9-1-0",
-     "strk": "W9"
+     "pts": 22,
+     "gf": 65,
+     "ga": 19,
+     "diff": 46,
+     "l10": "10-0-0",
+     "strk": "W10"
     },
     {
      "team": "London Jr Knights",
@@ -99,16 +99,16 @@
      "team": "Brantford 99ers",
      "teamId": "odb-97018",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 10,
+     "gp": 11,
      "w": 3,
-     "l": 7,
+     "l": 8,
      "t": 0,
      "pts": 6,
-     "gf": 33,
-     "ga": 54,
-     "diff": -21,
-     "l10": "3-7-0",
-     "strk": "L5"
+     "gf": 34,
+     "ga": 57,
+     "diff": -23,
+     "l10": "2-8-0",
+     "strk": "L6"
     },
     {
      "team": "Huron-Perth Lakers",
