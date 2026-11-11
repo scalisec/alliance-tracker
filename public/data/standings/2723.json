@@ -1,6 +1,6 @@
 {
  "divisionId": 2723,
- "updatedAt": "2026-11-09T00:27:25.833Z",
+ "updatedAt": "2026-11-11T02:14:13.089Z",
  "regular": [
   {
    "name": "",
@@ -21,6 +21,21 @@
      "strk": "W8"
     },
     {
+     "team": "Kitchener Jr Rangers Red",
+     "teamId": "odb-97081",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
+     "gp": 9,
+     "w": 7,
+     "l": 2,
+     "t": 0,
+     "pts": 14,
+     "gf": 35,
+     "ga": 15,
+     "diff": 20,
+     "l10": "7-2",
+     "strk": "W4"
+    },
+    {
      "team": "Brantford 99ers",
      "teamId": "odb-97077",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
@@ -36,34 +51,19 @@
      "strk": "W1"
     },
     {
-     "team": "Kitchener Jr Rangers Red",
-     "teamId": "odb-97081",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 8,
-     "w": 6,
-     "l": 2,
-     "t": 0,
-     "pts": 12,
-     "gf": 31,
-     "ga": 13,
-     "diff": 18,
-     "l10": "6-2",
-     "strk": "W3"
-    },
-    {
      "team": "Woodstock Jr Navy Vets",
      "teamId": "odb-97087",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 7,
+     "gp": 8,
      "w": 5,
-     "l": 2,
+     "l": 3,
      "t": 0,
      "pts": 10,
-     "gf": 36,
-     "ga": 19,
-     "diff": 17,
-     "l10": "5-2",
-     "strk": "W1"
+     "gf": 38,
+     "ga": 23,
+     "diff": 15,
+     "l10": "5-3",
+     "strk": "L1"
     },
     {
      "team": "St. Thomas Jr Stars",

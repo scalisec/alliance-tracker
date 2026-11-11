@@ -1392,20 +1392,20 @@
   "logo": "logos/08d490425be3.png"
  },
  {
-  "id": "2723:brantford-99ers",
-  "name": "Brantford 99ers",
-  "divisionId": 2723,
-  "division": "U14 AA-A",
-  "association": "Brantford Minor Hockey",
-  "logo": "logos/d5124fd4f472.png"
- },
- {
   "id": "2723:kitchener-jr-rangers-red",
   "name": "Kitchener Jr Rangers Red",
   "divisionId": 2723,
   "division": "U14 AA-A",
   "association": "Kitchener Minor Hockey",
   "logo": "logos/27ddb8f454a5.png"
+ },
+ {
+  "id": "2723:brantford-99ers",
+  "name": "Brantford 99ers",
+  "divisionId": 2723,
+  "division": "U14 AA-A",
+  "association": "Brantford Minor Hockey",
+  "logo": "logos/d5124fd4f472.png"
  },
  {
   "id": "2723:woodstock-jr-navy-vets",
