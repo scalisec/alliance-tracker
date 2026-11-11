@@ -1503,6 +1503,21 @@
   "gamesheet": null
  },
  {
+  "id": 2374948,
+  "divisionId": 2725,
+  "start": "2026-12-12T19:00:00-05:00",
+  "away": "Waterloo Wolves",
+  "home": "Sun County Panthers",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Nature Fresh RC (Highbury Canco)",
+  "code": "U15P19",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
   "id": 2374969,
   "divisionId": 2725,
   "start": "2026-12-13T12:00:00-05:00",
@@ -1738,21 +1753,6 @@
   "status": "scheduled",
   "venue": "Sarnia PASA (Rink 1)",
   "code": "U15P79",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
-  "id": 2374948,
-  "divisionId": 2725,
-  "start": "2027-01-02T14:30:00-05:00",
-  "away": "Waterloo Wolves",
-  "home": "Sun County Panthers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Essex (Libro)",
-  "code": "U15P19",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null

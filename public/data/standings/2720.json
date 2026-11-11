@@ -1,6 +1,6 @@
 {
  "divisionId": 2720,
- "updatedAt": "2026-11-11T01:15:16.376Z",
+ "updatedAt": "2026-11-11T16:12:26.126Z",
  "regular": [
   {
    "name": "",
@@ -81,19 +81,34 @@
      "strk": "T1"
     },
     {
+     "team": "Mt. Brydges Cougars",
+     "teamId": "odb-97288",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
+     "gp": 7,
+     "w": 4,
+     "l": 3,
+     "t": 0,
+     "pts": 8,
+     "gf": 18,
+     "ga": 16,
+     "diff": 2,
+     "l10": "4-3",
+     "strk": "W1"
+    },
+    {
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97071",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 8,
+     "gp": 9,
      "w": 3,
-     "l": 3,
+     "l": 4,
      "t": 2,
      "pts": 8,
-     "gf": 26,
-     "ga": 20,
-     "diff": 6,
-     "l10": "3-3-2",
-     "strk": "W1"
+     "gf": 27,
+     "ga": 23,
+     "diff": 4,
+     "l10": "3-4-2",
+     "strk": "L1"
     },
     {
      "team": "St. Thomas Jr Stars",
@@ -124,21 +139,6 @@
      "diff": -10,
      "l10": "3-4-1",
      "strk": "W1"
-    },
-    {
-     "team": "Mt. Brydges Cougars",
-     "teamId": "odb-97288",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-     "gp": 6,
-     "w": 3,
-     "l": 3,
-     "t": 0,
-     "pts": 6,
-     "gf": 15,
-     "ga": 15,
-     "diff": 0,
-     "l10": "3-3",
-     "strk": "L1"
     },
     {
      "team": "Woodstock Jr Navy Vets",
