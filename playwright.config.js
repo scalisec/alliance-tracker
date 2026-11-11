@@ -9,6 +9,9 @@ export default defineConfig({
   reporter: process.env.CI ? 'github' : 'list',
   use: {
     ...devices['Pixel 7'],
+    // On GitHub the machine's preinstalled Chrome is used (PW_CHANNEL=chrome),
+    // so tests don't depend on downloading a browser and its system packages.
+    ...(process.env.PW_CHANNEL ? { channel: process.env.PW_CHANNEL } : {}),
     baseURL: 'http://localhost:4173',
     serviceWorkers: 'block', // test the app itself, not a cached copy
   },

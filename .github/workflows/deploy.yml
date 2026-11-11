@@ -30,7 +30,16 @@ jobs:
       - name: Parser checks
         run: npm test
       - name: Screen tests (click through the main screens)
-        run: npx playwright install --with-deps chromium && npx playwright test
+        timeout-minutes: 8
+        run: |
+          # Use the Chrome that comes with GitHub's machine; only download a browser
+          # (with retries, for network hiccups) if it's missing.
+          if command -v google-chrome >/dev/null; then
+            export PW_CHANNEL=chrome
+          else
+            for i in 1 2 3; do npx playwright install --with-deps chromium && break; echo "retry $i"; sleep 30; done
+          fi
+          npx playwright test
       - name: Keep the screen-test report if something failed
         if: failure()
         uses: actions/upload-artifact@v4
