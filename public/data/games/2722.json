@@ -2139,6 +2139,21 @@
   "gamesheet": null
  },
  {
+  "id": 2374751,
+  "divisionId": 2722,
+  "start": "2027-01-17T16:00:00-05:00",
+  "away": "Sun County Panthers",
+  "home": "London Jr Knights",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Nichols (A)",
+  "code": "U14P118",
+  "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
   "id": 2374702,
   "divisionId": 2722,
   "start": "2027-01-20T20:00:00-05:00",
@@ -2269,21 +2284,6 @@
   "status": "scheduled",
   "venue": "Rec Complex",
   "code": "U14P119",
-  "liveBarn": null,
-  "type": "regular",
-  "gamesheet": null
- },
- {
-  "id": 2374751,
-  "divisionId": 2722,
-  "start": "2027-01-24T18:15:00-05:00",
-  "away": "Sun County Panthers",
-  "home": "London Jr Knights",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Western Fair (Chik-fil-a)",
-  "code": "U14P118",
   "liveBarn": null,
   "type": "regular",
   "gamesheet": null

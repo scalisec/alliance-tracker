@@ -1203,21 +1203,6 @@
   "gamesheet": null
  },
  {
-  "id": 2374639,
-  "divisionId": 2719,
-  "start": "2026-11-26T19:00:00-05:00",
-  "away": "Chatham-Kent Cyclones",
-  "home": "Huron-Perth Lakers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "PERC (PERC)",
-  "code": "U13P9",
-  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4939/2026-11-26/19:00",
-  "type": "regular",
-  "gamesheet": null
- },
- {
   "id": 2374613,
   "divisionId": 2719,
   "start": "2026-11-27T19:00:00-05:00",
@@ -1634,6 +1619,21 @@
   "venue": "Galt Arena",
   "code": "U13P5",
   "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
+  "id": 2374639,
+  "divisionId": 2719,
+  "start": "2026-12-17T18:00:00-05:00",
+  "away": "Chatham-Kent Cyclones",
+  "home": "Huron-Perth Lakers",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Zurich",
+  "code": "U13P9",
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4939/2026-11-26/19:00",
   "type": "regular",
   "gamesheet": null
  },

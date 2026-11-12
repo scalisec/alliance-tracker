@@ -1968,20 +1968,20 @@
   "logo": "logos/e85b73e63ae2.png"
  },
  {
-  "id": "2728:windsor-jr-spitfires",
-  "name": "Windsor Jr Spitfires",
-  "divisionId": 2728,
-  "division": "U16 AAA",
-  "association": "Windsor AAA Zone",
-  "logo": "logos/1d06ddd6cd32.png"
- },
- {
   "id": "2728:brantford-99ers",
   "name": "Brantford 99ers",
   "divisionId": 2728,
   "division": "U16 AAA",
   "association": "Brantford Minor Hockey",
   "logo": "logos/d5124fd4f472.png"
+ },
+ {
+  "id": "2728:windsor-jr-spitfires",
+  "name": "Windsor Jr Spitfires",
+  "divisionId": 2728,
+  "division": "U16 AAA",
+  "association": "Windsor AAA Zone",
+  "logo": "logos/1d06ddd6cd32.png"
  },
  {
   "id": "2728:kitchener-jr-rangers",
@@ -2072,6 +2072,14 @@
   "logo": "logos/08d490425be3.png"
  },
  {
+  "id": "2729:st-thomas-jr-stars",
+  "name": "St. Thomas Jr Stars",
+  "divisionId": 2729,
+  "division": "U16 AA-A",
+  "association": null,
+  "logo": "logos/612db499a971.png"
+ },
+ {
   "id": "2729:cambridge-hawks",
   "name": "Cambridge Hawks",
   "divisionId": 2729,
@@ -2086,14 +2094,6 @@
   "division": "U16 AA-A",
   "association": "Sarnia Minor Hockey",
   "logo": "logos/704c833c6aca.png"
- },
- {
-  "id": "2729:st-thomas-jr-stars",
-  "name": "St. Thomas Jr Stars",
-  "divisionId": 2729,
-  "division": "U16 AA-A",
-  "association": null,
-  "logo": "logos/612db499a971.png"
  },
  {
   "id": "2729:kitchener-jr-rangers-blue",
@@ -2504,6 +2504,14 @@
   "logo": "logos/97ff93a72d6e.png"
  },
  {
+  "id": "2733:north-london-nationals",
+  "name": "North London Nationals",
+  "divisionId": 2733,
+  "division": "U18 BB",
+  "association": "Greater London Hockey Association",
+  "logo": "logos/41275c8a7241.png"
+ },
+ {
   "id": "2733:oakridge-aeros",
   "name": "Oakridge Aeros",
   "divisionId": 2733,
@@ -2518,14 +2526,6 @@
   "division": "U18 BB",
   "association": "Stratford Minor Hockey",
   "logo": "logos/51ff29ef905f.png"
- },
- {
-  "id": "2733:north-london-nationals",
-  "name": "North London Nationals",
-  "divisionId": 2733,
-  "division": "U18 BB",
-  "association": "Greater London Hockey Association",
-  "logo": "logos/41275c8a7241.png"
  },
  {
   "id": "2734:stratford-warriors",

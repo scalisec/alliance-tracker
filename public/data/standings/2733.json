@@ -1,6 +1,6 @@
 {
  "divisionId": 2733,
- "updatedAt": "2026-11-09T01:41:13.575Z",
+ "updatedAt": "2026-11-12T16:56:25.609Z",
  "regular": [
   {
    "name": "",
@@ -201,19 +201,34 @@
      "strk": "L1"
     },
     {
+     "team": "North London Nationals",
+     "teamId": "odb-98277",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
+     "gp": 9,
+     "w": 2,
+     "l": 7,
+     "t": 0,
+     "pts": 4,
+     "gf": 17,
+     "ga": 36,
+     "diff": -19,
+     "l10": "2-7",
+     "strk": "W1"
+    },
+    {
      "team": "Oakridge Aeros",
      "teamId": "odb-97125",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100067.png",
-     "gp": 7,
+     "gp": 8,
      "w": 1,
-     "l": 5,
+     "l": 6,
      "t": 1,
      "pts": 3,
-     "gf": 16,
-     "ga": 31,
-     "diff": -15,
-     "l10": "1-5-1",
-     "strk": "L2"
+     "gf": 20,
+     "ga": 36,
+     "diff": -16,
+     "l10": "1-6-1",
+     "strk": "L3"
     },
     {
      "team": "Stratford Warriors",
@@ -229,21 +244,6 @@
      "diff": -39,
      "l10": "1-8-1",
      "strk": "L7"
-    },
-    {
-     "team": "North London Nationals",
-     "teamId": "odb-98277",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100062.png",
-     "gp": 8,
-     "w": 1,
-     "l": 7,
-     "t": 0,
-     "pts": 2,
-     "gf": 12,
-     "ga": 32,
-     "diff": -20,
-     "l10": "1-7",
-     "strk": "L1"
     }
    ]
   }

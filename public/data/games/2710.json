@@ -990,21 +990,6 @@
   "gamesheet": null
  },
  {
-  "id": 2373944,
-  "divisionId": 2710,
-  "start": "2026-11-29T14:00:00-05:00",
-  "away": "Brantford 99ers",
-  "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
-  "venue": "Sportsworld (Spectator)",
-  "code": "U10P36",
-  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4167/2026-11-29/14:00",
-  "type": "regular",
-  "gamesheet": null
- },
- {
   "id": 2373997,
   "divisionId": 2710,
   "start": "2026-12-02T18:45:00-05:00",
@@ -1271,6 +1256,21 @@
   "venue": "Essex (Shaheen)",
   "code": "U10P71",
   "liveBarn": null,
+  "type": "regular",
+  "gamesheet": null
+ },
+ {
+  "id": 2373944,
+  "divisionId": 2710,
+  "start": "2026-12-15T19:00:00-05:00",
+  "away": "Brantford 99ers",
+  "home": "Kitchener Jr Rangers",
+  "awayScore": null,
+  "homeScore": null,
+  "status": "scheduled",
+  "venue": "Don McLaren",
+  "code": "U10P36",
+  "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4167/2026-11-29/14:00",
   "type": "regular",
   "gamesheet": null
  },
