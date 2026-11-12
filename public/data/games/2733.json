@@ -1202,14 +1202,17 @@
   "start": "2026-11-11T20:00:00-05:00",
   "away": "North London Nationals",
   "home": "Oakridge Aeros",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Oakridge (Oakridge)",
   "code": "U18BR34",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/5029/2026-11-11/20:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3160384
+  }
  },
  {
   "id": 2379068,

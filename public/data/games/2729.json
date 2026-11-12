@@ -908,14 +908,17 @@
   "start": "2026-11-11T20:00:00-05:00",
   "away": "Waterloo Wolves",
   "home": "Kitchener Jr Rangers Red",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U16S103",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-11-11/20:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3160481
+  }
  },
  {
   "id": 2375890,
@@ -923,14 +926,17 @@
   "start": "2026-11-11T20:00:00-05:00",
   "away": "Brantford 99ers",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Sports Park (1)",
   "code": "U16S56",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3160480
+  }
  },
  {
   "id": 2375931,
