@@ -2048,6 +2048,14 @@
   "logo": "logos/d5124fd4f472.png"
  },
  {
+  "id": "2729:kitchener-jr-rangers-red",
+  "name": "Kitchener Jr Rangers Red",
+  "divisionId": 2729,
+  "division": "U16 AA-A",
+  "association": "Kitchener Minor Hockey",
+  "logo": "logos/27ddb8f454a5.png"
+ },
+ {
   "id": "2729:stratford-warriors",
   "name": "Stratford Warriors",
   "divisionId": 2729,
@@ -2070,14 +2078,6 @@
   "division": "U16 AA-A",
   "association": "Cambridge Minor Hockey",
   "logo": "logos/e0787358df89.png"
- },
- {
-  "id": "2729:kitchener-jr-rangers-red",
-  "name": "Kitchener Jr Rangers Red",
-  "divisionId": 2729,
-  "division": "U16 AA-A",
-  "association": "Kitchener Minor Hockey",
-  "logo": "logos/27ddb8f454a5.png"
  },
  {
   "id": "2729:sarnia-jr-sting",
