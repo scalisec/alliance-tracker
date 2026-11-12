@@ -887,14 +887,17 @@
   "start": "2026-11-11T20:30:00-05:00",
   "away": "Kitchener Jr Rangers",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Gretzky Center (#1)",
   "code": "U16P10",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4550/2026-11-11/20:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3160448
+  }
  },
  {
   "id": 2375226,
