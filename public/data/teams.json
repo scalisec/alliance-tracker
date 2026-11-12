@@ -1928,6 +1928,14 @@
   "logo": "logos/97ff93a72d6e.png"
  },
  {
+  "id": "2728:elgin-middlesex-canucks",
+  "name": "Elgin-Middlesex Canucks",
+  "divisionId": 2728,
+  "division": "U16 AAA",
+  "association": "Elgin-Middlesex Canucks",
+  "logo": "logos/2573db2f4749.png"
+ },
+ {
   "id": "2728:waterloo-wolves",
   "name": "Waterloo Wolves",
   "divisionId": 2728,
@@ -1936,12 +1944,36 @@
   "logo": "logos/1953df906ca9.png"
  },
  {
+  "id": "2728:london-jr-knights",
+  "name": "London Jr Knights",
+  "divisionId": 2728,
+  "division": "U16 AAA",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
+ },
+ {
+  "id": "2728:chatham-kent-cyclones",
+  "name": "Chatham-Kent Cyclones",
+  "divisionId": 2728,
+  "division": "U16 AAA",
+  "association": "Chatham-Kent Cyclones",
+  "logo": "logos/b0bd0d065caa.png"
+ },
+ {
   "id": "2728:huron-perth-lakers",
   "name": "Huron-Perth Lakers",
   "divisionId": 2728,
   "division": "U16 AAA",
   "association": "Huron-Perth Lakers",
   "logo": "logos/e85b73e63ae2.png"
+ },
+ {
+  "id": "2728:windsor-jr-spitfires",
+  "name": "Windsor Jr Spitfires",
+  "divisionId": 2728,
+  "division": "U16 AAA",
+  "association": "Windsor AAA Zone",
+  "logo": "logos/1d06ddd6cd32.png"
  },
  {
   "id": "2728:brantford-99ers",
@@ -1966,38 +1998,6 @@
   "division": "U16 AAA",
   "association": "Cambridge Minor Hockey",
   "logo": "logos/e0787358df89.png"
- },
- {
-  "id": "2728:elgin-middlesex-canucks",
-  "name": "Elgin-Middlesex Canucks",
-  "divisionId": 2728,
-  "division": "U16 AAA",
-  "association": "Elgin-Middlesex Canucks",
-  "logo": "logos/2573db2f4749.png"
- },
- {
-  "id": "2728:london-jr-knights",
-  "name": "London Jr Knights",
-  "divisionId": 2728,
-  "division": "U16 AAA",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
- },
- {
-  "id": "2728:chatham-kent-cyclones",
-  "name": "Chatham-Kent Cyclones",
-  "divisionId": 2728,
-  "division": "U16 AAA",
-  "association": "Chatham-Kent Cyclones",
-  "logo": "logos/b0bd0d065caa.png"
- },
- {
-  "id": "2728:windsor-jr-spitfires",
-  "name": "Windsor Jr Spitfires",
-  "divisionId": 2728,
-  "division": "U16 AAA",
-  "association": "Windsor AAA Zone",
-  "logo": "logos/1d06ddd6cd32.png"
  },
  {
   "id": "2728:sarnia-lambton-jr-sting",
