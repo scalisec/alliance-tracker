@@ -809,14 +809,17 @@
   "start": "2026-11-12T20:15:00-05:00",
   "away": "Stratford Warriors",
   "home": "London Jr Knights White",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Western Fair (Chik-fil-a)",
   "code": "U18S161",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4445/2026-11-12/20:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3163907
+  }
  },
  {
   "id": 2376090,

@@ -2360,6 +2360,14 @@
   "logo": "logos/1953df906ca9.png"
  },
  {
+  "id": "2732:london-jr-knights-white",
+  "name": "London Jr Knights White",
+  "divisionId": 2732,
+  "division": "U18 AA-A",
+  "association": "London Jr Knights",
+  "logo": "logos/08d490425be3.png"
+ },
+ {
   "id": "2732:st-thomas-jr-stars",
   "name": "St. Thomas Jr Stars",
   "divisionId": 2732,
@@ -2374,14 +2382,6 @@
   "division": "U18 AA-A",
   "association": null,
   "logo": "logos/0f4ddfdee820.png"
- },
- {
-  "id": "2732:london-jr-knights-white",
-  "name": "London Jr Knights White",
-  "divisionId": 2732,
-  "division": "U18 AA-A",
-  "association": "London Jr Knights",
-  "logo": "logos/08d490425be3.png"
  },
  {
   "id": "2732:cambridge-hawks",
