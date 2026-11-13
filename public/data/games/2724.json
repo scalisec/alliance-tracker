@@ -1316,14 +1316,17 @@
   "start": "2026-11-12T18:30:00-05:00",
   "away": "St. Thomas Jr Stars",
   "home": "Lambeth Lancers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 9,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Lambeth (Lambeth)",
   "code": "U14BR1",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3163899
+  }
  },
  {
   "id": 2378121,

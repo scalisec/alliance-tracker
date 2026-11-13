@@ -1,6 +1,6 @@
 {
  "divisionId": 2722,
- "updatedAt": "2026-11-12T02:14:55.578Z",
+ "updatedAt": "2026-11-13T01:48:45.291Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "Waterloo Wolves",
      "teamId": "odb-96990",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 10,
-     "w": 9,
+     "gp": 11,
+     "w": 10,
      "l": 1,
      "t": 0,
-     "pts": 18,
-     "gf": 54,
+     "pts": 20,
+     "gf": 62,
      "ga": 5,
-     "diff": 49,
+     "diff": 57,
      "l10": "9-1",
-     "strk": "L1"
+     "strk": "W1"
     },
     {
      "team": "Windsor Jr Spitfires",
@@ -114,16 +114,16 @@
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-96986",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 12,
+     "gp": 13,
      "w": 5,
-     "l": 7,
+     "l": 8,
      "t": 0,
      "pts": 10,
      "gf": 25,
-     "ga": 42,
-     "diff": -17,
-     "l10": "5-5",
-     "strk": "L1"
+     "ga": 50,
+     "diff": -25,
+     "l10": "4-6",
+     "strk": "L2"
     },
     {
      "team": "Brantford 99ers",

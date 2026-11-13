@@ -1,6 +1,6 @@
 {
  "divisionId": 2723,
- "updatedAt": "2026-11-11T02:14:13.089Z",
+ "updatedAt": "2026-11-13T01:49:15.110Z",
  "regular": [
   {
    "name": "",
@@ -51,34 +51,34 @@
      "strk": "W1"
     },
     {
-     "team": "Woodstock Jr Navy Vets",
-     "teamId": "odb-97087",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
-     "gp": 8,
-     "w": 5,
-     "l": 3,
-     "t": 0,
-     "pts": 10,
-     "gf": 38,
-     "ga": 23,
-     "diff": 15,
-     "l10": "5-3",
-     "strk": "L1"
-    },
-    {
      "team": "St. Thomas Jr Stars",
      "teamId": "odb-97088",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 8,
-     "w": 3,
+     "gp": 9,
+     "w": 4,
      "l": 1,
      "t": 4,
-     "pts": 10,
-     "gf": 27,
+     "pts": 12,
+     "gf": 29,
      "ga": 19,
-     "diff": 8,
-     "l10": "3-1-4",
-     "strk": "L1"
+     "diff": 10,
+     "l10": "4-1-4",
+     "strk": "W1"
+    },
+    {
+     "team": "Woodstock Jr Navy Vets",
+     "teamId": "odb-97087",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100070.png",
+     "gp": 9,
+     "w": 5,
+     "l": 4,
+     "t": 0,
+     "pts": 10,
+     "gf": 38,
+     "ga": 25,
+     "diff": 13,
+     "l10": "5-4",
+     "strk": "L2"
     },
     {
      "team": "London Jr Knights White",
