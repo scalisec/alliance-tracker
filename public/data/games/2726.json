@@ -923,14 +923,17 @@
   "start": "2026-11-13T19:15:00-05:00",
   "away": "Burlington Raiders",
   "home": "St. Thomas Jr Stars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 4,
+  "status": "final",
   "venue": "Joe Thornton CC (Presstran)",
   "code": "U15S43",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4356/2026-11-13/19:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3165203
+  }
  },
  {
   "id": 2375732,
