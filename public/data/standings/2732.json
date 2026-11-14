@@ -1,6 +1,6 @@
 {
  "divisionId": 2732,
- "updatedAt": "2026-11-14T03:17:53.609Z",
+ "updatedAt": "2026-11-14T15:11:10.735Z",
  "regular": [
   {
    "name": "",
@@ -96,6 +96,21 @@
      "strk": "W2"
     },
     {
+     "team": "St. Thomas Jr Stars",
+     "teamId": "odb-97121",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
+     "gp": 7,
+     "w": 2,
+     "l": 2,
+     "t": 3,
+     "pts": 7,
+     "gf": 18,
+     "ga": 23,
+     "diff": -5,
+     "l10": "2-2-3",
+     "strk": "T2"
+    },
+    {
      "team": "London Jr Knights White",
      "teamId": "odb-97120",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
@@ -126,34 +141,19 @@
      "strk": "T1"
     },
     {
-     "team": "St. Thomas Jr Stars",
-     "teamId": "odb-97121",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100064.png",
-     "gp": 6,
-     "w": 2,
-     "l": 2,
-     "t": 2,
-     "pts": 6,
-     "gf": 15,
-     "ga": 20,
-     "diff": -5,
-     "l10": "2-2-2",
-     "strk": "T1"
-    },
-    {
      "team": "Brantford 99ers",
      "teamId": "odb-97112",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100007.png",
-     "gp": 7,
+     "gp": 8,
      "w": 2,
      "l": 4,
-     "t": 1,
-     "pts": 5,
-     "gf": 10,
-     "ga": 21,
+     "t": 2,
+     "pts": 6,
+     "gf": 13,
+     "ga": 24,
      "diff": -11,
-     "l10": "2-4-1",
-     "strk": "L2"
+     "l10": "2-4-2",
+     "strk": "T1"
     },
     {
      "team": "Cambridge Hawks",

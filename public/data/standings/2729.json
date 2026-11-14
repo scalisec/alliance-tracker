@@ -1,6 +1,6 @@
 {
  "divisionId": 2729,
- "updatedAt": "2026-11-12T16:54:42.888Z",
+ "updatedAt": "2026-11-14T15:09:53.139Z",
  "regular": [
   {
    "name": "",
@@ -24,16 +24,16 @@
      "team": "Mt. Brydges Cougars",
      "teamId": "odb-97291",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100091.png",
-     "gp": 8,
+     "gp": 9,
      "w": 7,
      "l": 0,
-     "t": 1,
-     "pts": 15,
-     "gf": 32,
-     "ga": 11,
+     "t": 2,
+     "pts": 16,
+     "gf": 35,
+     "ga": 14,
      "diff": 21,
-     "l10": "7-0-1",
-     "strk": "W3"
+     "l10": "7-0-2",
+     "strk": "T1"
     },
     {
      "team": "Brantford 99ers",
@@ -129,16 +129,16 @@
      "team": "Sarnia Jr. Sting",
      "teamId": "odb-97107",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100071.png",
-     "gp": 9,
+     "gp": 10,
      "w": 4,
      "l": 5,
-     "t": 0,
-     "pts": 8,
-     "gf": 36,
-     "ga": 39,
+     "t": 1,
+     "pts": 9,
+     "gf": 39,
+     "ga": 42,
      "diff": -3,
-     "l10": "4-5",
-     "strk": "W2"
+     "l10": "4-5-1",
+     "strk": "T1"
     },
     {
      "team": "Kitchener Jr Rangers Blue",

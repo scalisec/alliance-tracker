@@ -1,6 +1,6 @@
 {
  "divisionId": 2719,
- "updatedAt": "2026-11-10T03:43:34.037Z",
+ "updatedAt": "2026-11-14T15:05:35.134Z",
  "regular": [
   {
    "name": "",
@@ -39,16 +39,16 @@
      "team": "Sun County Panthers",
      "teamId": "odb-96977",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100008.png",
-     "gp": 8,
-     "w": 5,
+     "gp": 9,
+     "w": 6,
      "l": 1,
      "t": 2,
-     "pts": 12,
-     "gf": 40,
-     "ga": 18,
-     "diff": 22,
-     "l10": "5-1-2",
-     "strk": "T1"
+     "pts": 14,
+     "gf": 46,
+     "ga": 23,
+     "diff": 23,
+     "l10": "6-1-2",
+     "strk": "W1"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",
@@ -84,16 +84,16 @@
      "team": "London Jr Knights",
      "teamId": "odb-96976",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100005.png",
-     "gp": 8,
+     "gp": 9,
      "w": 4,
-     "l": 3,
+     "l": 4,
      "t": 1,
      "pts": 9,
-     "gf": 23,
-     "ga": 15,
-     "diff": 8,
-     "l10": "4-3-1",
-     "strk": "L1"
+     "gf": 28,
+     "ga": 21,
+     "diff": 7,
+     "l10": "4-4-1",
+     "strk": "L2"
     },
     {
      "team": "Kitchener Jr Rangers",
