@@ -893,14 +893,17 @@
   "start": "2026-11-13T19:00:00-05:00",
   "away": "London Jr Knights",
   "home": "Sun County Panthers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 6,
+  "status": "final",
   "venue": "Essex (Shaheen)",
   "code": "U13P133",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4371/2026-11-13/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3165190
+  }
  },
  {
   "id": 2374619,
