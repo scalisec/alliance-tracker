@@ -794,14 +794,17 @@
   "start": "2026-11-13T20:30:00-05:00",
   "away": "Kitchener Jr Rangers",
   "home": "Windsor Jr Spitfires",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Central Park (North)",
   "code": "U18P60",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4434/2026-11-13/20:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3165050
+  }
  },
  {
   "id": 2373384,

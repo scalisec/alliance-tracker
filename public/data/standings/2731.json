@@ -1,6 +1,6 @@
 {
  "divisionId": 2731,
- "updatedAt": "2026-11-14T03:27:30.913Z",
+ "updatedAt": "2026-11-14T03:56:57.030Z",
  "regular": [
   {
    "name": "",
@@ -9,16 +9,16 @@
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97021",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
-     "gp": 12,
-     "w": 11,
+     "gp": 13,
+     "w": 12,
      "l": 1,
      "t": 0,
-     "pts": 22,
-     "gf": 65,
+     "pts": 24,
+     "gf": 70,
      "ga": 19,
-     "diff": 46,
+     "diff": 51,
      "l10": "10-0-0",
-     "strk": "W10"
+     "strk": "W11"
     },
     {
      "team": "London Jr Knights",
@@ -84,16 +84,16 @@
      "team": "Windsor Jr Spitfires",
      "teamId": "odb-97025",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100010.png",
-     "gp": 8,
+     "gp": 9,
      "w": 3,
-     "l": 5,
+     "l": 6,
      "t": 0,
      "pts": 6,
      "gf": 27,
-     "ga": 40,
-     "diff": -13,
-     "l10": "3-5-0",
-     "strk": "W1"
+     "ga": 45,
+     "diff": -18,
+     "l10": "3-6-0",
+     "strk": "L1"
     },
     {
      "team": "Brantford 99ers",
