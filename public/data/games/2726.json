@@ -905,14 +905,17 @@
   "start": "2026-11-13T18:00:00-05:00",
   "away": "London Jr Knights White",
   "home": "London Jr Knights Green",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Nichols (A)",
   "code": "U15S37",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3165202
+  }
  },
  {
   "id": 2375728,

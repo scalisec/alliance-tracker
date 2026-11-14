@@ -1274,14 +1274,17 @@
   "start": "2026-11-13T18:15:00-05:00",
   "away": "West London Hawks",
   "home": "St. Thomas Jr Stars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Joe Thornton CC (Presstran)",
   "code": "U10BRS-38",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4356/2026-11-13/18:15",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15516,
+   "game": 3165220
+  }
  },
  {
   "id": 2408514,

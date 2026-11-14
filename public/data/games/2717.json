@@ -911,14 +911,17 @@
   "start": "2026-11-13T19:00:00-05:00",
   "away": "Cambridge Hawks",
   "home": "Kitchener Jr Rangers Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 2,
+  "homeScore": 5,
+  "status": "final",
   "venue": "Activa (PJD)",
   "code": "U12S2",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4199/2026-11-13/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3164918
+  }
  },
  {
   "id": 2375420,

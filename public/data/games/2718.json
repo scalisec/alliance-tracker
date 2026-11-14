@@ -1424,14 +1424,17 @@
   "start": "2026-11-13T18:45:00-05:00",
   "away": "Cambridge Hawks",
   "home": "Burlington Bulldogs Gold",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 0,
+  "homeScore": 7,
+  "status": "final",
   "venue": "Appleby (3)",
   "code": "U12BR49",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-11-13/18:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3164950
+  }
  },
  {
   "id": 2377980,

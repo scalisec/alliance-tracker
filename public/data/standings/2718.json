@@ -1,6 +1,6 @@
 {
  "divisionId": 2718,
- "updatedAt": "2026-11-11T01:14:46.390Z",
+ "updatedAt": "2026-11-14T01:27:55.369Z",
  "regular": [
   {
    "name": "",
@@ -51,6 +51,21 @@
      "strk": "L1"
     },
     {
+     "team": "Burlington Bulldogs Gold",
+     "teamId": "odb-97432",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
+     "gp": 9,
+     "w": 7,
+     "l": 0,
+     "t": 2,
+     "pts": 16,
+     "gf": 52,
+     "ga": 19,
+     "diff": 33,
+     "l10": "7-0-2",
+     "strk": "W2"
+    },
+    {
      "team": "Kitchener Jr Rangers",
      "teamId": "odb-97208",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100000.png",
@@ -79,21 +94,6 @@
      "diff": 25,
      "l10": "6-1-2",
      "strk": "L1"
-    },
-    {
-     "team": "Burlington Bulldogs Gold",
-     "teamId": "odb-97432",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100066.png",
-     "gp": 8,
-     "w": 6,
-     "l": 0,
-     "t": 2,
-     "pts": 14,
-     "gf": 45,
-     "ga": 19,
-     "diff": 26,
-     "l10": "6-0-2",
-     "strk": "W1"
     },
     {
      "team": "Burlington Bulldogs White",
@@ -219,16 +219,16 @@
      "team": "Cambridge Hawks",
      "teamId": "odb-97219",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100001.png",
-     "gp": 9,
+     "gp": 10,
      "w": 1,
-     "l": 8,
+     "l": 9,
      "t": 0,
      "pts": 2,
      "gf": 12,
-     "ga": 44,
-     "diff": -32,
-     "l10": "1-8",
-     "strk": "L4"
+     "ga": 51,
+     "diff": -39,
+     "l10": "1-9",
+     "strk": "L5"
     },
     {
      "team": "Stratford Warriors",
