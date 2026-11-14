@@ -845,14 +845,17 @@
   "start": "2026-11-13T20:30:00-05:00",
   "away": "St. Thomas Jr Stars",
   "home": "Brantford 99ers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Civic Centre (Civic Centre)",
   "code": "U18S163",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3165175
+  }
  },
  {
   "id": 2376099,

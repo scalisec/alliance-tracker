@@ -962,14 +962,17 @@
   "start": "2026-11-13T20:00:00-05:00",
   "away": "Sarnia Jr. Sting",
   "home": "Mt. Brydges Cougars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 3,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Komoka CW&RC (2 - Coors)",
   "code": "U16S3",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/2946/2026-11-13/20:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15448,
+   "game": 3165026
+  }
  },
  {
   "id": 2375837,

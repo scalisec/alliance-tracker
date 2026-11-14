@@ -1220,14 +1220,17 @@
   "start": "2026-11-13T20:00:00-05:00",
   "away": "Lambeth Lancers",
   "home": "Burlington Bulldogs Blue",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Appleby (3)",
   "code": "U18BR115",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4334/2026-11-13/20:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3165191
+  }
  },
  {
   "id": 2379142,
@@ -1235,14 +1238,17 @@
   "start": "2026-11-13T20:30:00-05:00",
   "away": "West London Hawks Gold",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 2,
+  "status": "final",
   "venue": "Sportsworld (Spectator)",
   "code": "U18BR176",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4167/2026-11-13/20:30",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3165192
+  }
  },
  {
   "id": 2379236,
@@ -1250,14 +1256,17 @@
   "start": "2026-11-13T20:45:00-05:00",
   "away": "Waterloo Wolves White",
   "home": "St. Thomas Jr Stars",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 5,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Joe Thornton CC (Presstran)",
   "code": "U18BR183",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4356/2026-11-13/20:45",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3165193
+  }
  },
  {
   "id": 2379292,
