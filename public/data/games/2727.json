@@ -1097,14 +1097,17 @@
   "start": "2026-11-13T20:00:00-05:00",
   "away": "North London Nationals",
   "home": "Lambeth Lancers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 6,
+  "homeScore": 1,
+  "status": "final",
   "venue": "Lambeth (Lambeth)",
   "code": "U15BR23",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15449,
+   "game": 3165166
+  }
  },
  {
   "id": 2378896,
