@@ -1,6 +1,6 @@
 {
  "divisionId": 2731,
- "updatedAt": "2026-11-11T03:44:35.221Z",
+ "updatedAt": "2026-11-14T03:27:30.913Z",
  "regular": [
   {
    "name": "",
@@ -36,34 +36,34 @@
      "strk": "OT1"
     },
     {
-     "team": "Waterloo Wolves",
-     "teamId": "odb-97024",
-     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
-     "gp": 10,
-     "w": 7,
-     "l": 3,
-     "t": 0,
-     "pts": 14,
-     "gf": 39,
-     "ga": 26,
-     "diff": 13,
-     "l10": "7-3-0",
-     "strk": "W1"
-    },
-    {
      "team": "Elgin-Middlesex Canucks",
      "teamId": "odb-97019",
      "logo": "https://mbswcdn.com/img/theonedb/associations/100006.png",
-     "gp": 12,
-     "w": 6,
+     "gp": 13,
+     "w": 7,
      "l": 5,
      "t": 0,
-     "pts": 13,
-     "gf": 50,
-     "ga": 45,
-     "diff": 5,
-     "l10": "4-5-1",
-     "strk": "L2"
+     "pts": 15,
+     "gf": 55,
+     "ga": 48,
+     "diff": 7,
+     "l10": "5-5-0",
+     "strk": "W1"
+    },
+    {
+     "team": "Waterloo Wolves",
+     "teamId": "odb-97024",
+     "logo": "https://mbswcdn.com/img/theonedb/associations/100002.png",
+     "gp": 11,
+     "w": 7,
+     "l": 4,
+     "t": 0,
+     "pts": 14,
+     "gf": 42,
+     "ga": 31,
+     "diff": 11,
+     "l10": "6-4-0",
+     "strk": "L1"
     },
     {
      "team": "Sarnia-Lambton Jr Sting",

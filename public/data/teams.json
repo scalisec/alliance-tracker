@@ -2264,20 +2264,20 @@
   "logo": "logos/08d490425be3.png"
  },
  {
-  "id": "2731:waterloo-wolves",
-  "name": "Waterloo Wolves",
-  "divisionId": 2731,
-  "division": "U18 AAA",
-  "association": "Waterloo Minor Hockey",
-  "logo": "logos/1953df906ca9.png"
- },
- {
   "id": "2731:elgin-middlesex-canucks",
   "name": "Elgin-Middlesex Canucks",
   "divisionId": 2731,
   "division": "U18 AAA",
   "association": "Elgin-Middlesex Canucks",
   "logo": "logos/2573db2f4749.png"
+ },
+ {
+  "id": "2731:waterloo-wolves",
+  "name": "Waterloo Wolves",
+  "divisionId": 2731,
+  "division": "U18 AAA",
+  "association": "Waterloo Minor Hockey",
+  "logo": "logos/1953df906ca9.png"
  },
  {
   "id": "2731:sarnia-lambton-jr-sting",
