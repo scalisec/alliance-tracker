@@ -650,14 +650,17 @@
   "start": "2026-11-13T19:00:00-05:00",
   "away": "Huron-Perth Lakers",
   "home": "Kitchener Jr Rangers",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 1,
+  "homeScore": 3,
+  "status": "final",
   "venue": "Sportsworld (Spectator)",
   "code": "U12P41",
   "liveBarn": "https://join.livebarn.com/mzxCcjP?rsLandingPage=https://livebarn.com/en/video/4167/2026-11-13/19:00",
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3165045
+  }
  },
  {
   "id": 2374252,
