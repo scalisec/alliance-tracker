@@ -1085,14 +1085,17 @@
   "start": "2026-11-13T20:00:00-05:00",
   "away": "Sun County Panthers",
   "home": "Cambridge Hawks",
-  "awayScore": null,
-  "homeScore": null,
-  "status": "scheduled",
+  "awayScore": 7,
+  "homeScore": 0,
+  "status": "final",
   "venue": "Sports Park (1)",
   "code": "U14P38",
   "liveBarn": null,
   "type": "regular",
-  "gamesheet": null
+  "gamesheet": {
+   "season": 15447,
+   "game": 3164949
+  }
  },
  {
   "id": 2374707,
