@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Alliance Tracker has moved</title>
+  <meta name="robots" content="noindex">
+  <style>
+    :root { color-scheme: dark light; }
+    body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: #0a0a0a; color: #f2f3f6;
+           font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; text-align: center; padding: 24px; box-sizing: border-box; }
+    a { color: #5aa2ff; font-weight: 700; }
+    @media (prefers-color-scheme: light) { body { background: #f2f3f6; color: #111; } a { color: #1f5fd1; } }
+  </style>
+</head>
+<body>
+  <main>
+    <h1 style="font-size:20px;margin:0 0 8px">Alliance Tracker has moved</h1>
+    <p style="margin:0 0 16px">Taking you to the new address&hellip;</p>
+    <p><a id="go" href="https://bench-boss-labs.github.io/alliance-tracker/">Open Alliance Tracker</a></p>
+    <p style="font-size:13px;opacity:.7">New address: bench-boss-labs.github.io/alliance-tracker</p>
+  </main>
+  <script>
+    // Old address -> new address. Brings this phone's saved teams and settings
+    // along in the part of the link after #, which never leaves the phone.
+    (function () {
+      var NEW = 'https://bench-boss-labs.github.io/alliance-tracker/';
+      var get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+      var d = {};
+      try { d.saved = JSON.parse(get('at.saved')) || []; } catch (e) { d.saved = []; }
+      if (get('at.theme')) d.theme = get('at.theme');
+      if (get('at.division')) d.division = get('at.division');
+      if (get('at.installed')) d.installed = 1;
+      var to = /^#\/[\w\/-]*$/.test(location.hash) ? location.hash : '#/';
+      var url = NEW + '#/import?d=' + encodeURIComponent(JSON.stringify(d)) + '&to=' + encodeURIComponent(to);
+      document.getElementById('go').href = url;
+      location.replace(url);
+    })();
+  </script>
+</body>
+</html>
